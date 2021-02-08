@@ -1,0 +1,25 @@
+name: API call latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 */5 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        curl 'https://clinicaltrials.gov/api/query/study_fields?expr=SEARCH%5BLocation%5D%28AREA%5BLocationCountry%5DUnited+States+AND+AREA%5BLocationStatus%5DRecruiting%29+AND+AREA%5BMaximumAge%5D18+Years&fields=NCTId%2COfficialTitle%2CCondition%2CEligibilityCriteria%2CMinimumAge%2C+MaximumAge%2CLocationCity%2CLocationFacility%2CLocationState%2CLocationZip%2CLocationContactEMail%2CLocationContactName%2CLocationContactPhone%2CBriefSummary%2CDetailedDescription&min_rnk=1&max_rnk=999&fmt=json' | jq . > pediatric_clinical_trials.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
