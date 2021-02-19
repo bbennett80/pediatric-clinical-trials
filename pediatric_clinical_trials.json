@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.02",
-    "DataVrs": "2021:02:16 22:15:34.144",
+    "DataVrs": "2021:02:18 08:55:00.203",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 367663,
+    "NStudiesAvail": 367846,
     "NStudiesFound": 385,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -10054,16 +10054,13 @@
           "10467"
         ],
         "LocationContactEMail": [
-          "botaylor@montefiore.org",
-          "grace.macdonald@einsteinmed.org"
+          "botaylor@montefiore.org"
         ],
         "LocationContactName": [
-          "Bonnie Taylor, PhD",
-          "Grace MacDonald, MS"
+          "Bonnie Taylor, PhD"
         ],
         "LocationContactPhone": [
-          "718-839-7530",
-          "718-839-7520"
+          "718-839-7530"
         ],
         "BriefSummary": [
           "This trial aims to study the efficacy and safety of cannabidivarin (CBDV) in children with ASD."
@@ -13572,7 +13569,7 @@
           "11004"
         ],
         "LocationContactEMail": [
-          "ccorrell@lij.edu"
+          "ccorrell@northwell.edu"
         ],
         "LocationContactName": [
           "Christoph U Correll, MD"
@@ -14881,56 +14878,6 @@
       {
         "Rank": 300,
         "NCTId": [
-          "NCT04602728"
-        ],
-        "OfficialTitle": [
-          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
-        ],
-        "Condition": [
-          "Sickle Cell Disease"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
-        ],
-        "MinimumAge": [
-          "10 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Atlanta",
-          "Atlanta",
-          "Atlanta"
-        ],
-        "LocationFacility": [
-          "Children's Healthcare of Atlanta at Hugh Spalding",
-          "Chilldren's Healthcare of Atlanta",
-          "Emory Children's Center"
-        ],
-        "LocationState": [
-          "Georgia",
-          "Georgia",
-          "Georgia"
-        ],
-        "LocationZip": [
-          "30303",
-          "30322",
-          "30322"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
-        ],
-        "DetailedDescription": [
-          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
-        ]
-      },
-      {
-        "Rank": 301,
-        "NCTId": [
           "NCT03418740"
         ],
         "OfficialTitle": [
@@ -14995,7 +14942,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 301,
         "NCTId": [
           "NCT03242473"
         ],
@@ -15054,7 +15001,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 302,
         "NCTId": [
           "NCT02505165"
         ],
@@ -15119,7 +15066,7 @@
         ]
       },
       {
-        "Rank": 304,
+        "Rank": 303,
         "NCTId": [
           "NCT01142882"
         ],
@@ -15180,6 +15127,56 @@
         ],
         "DetailedDescription": [
           "This trial will examine the comparative effectiveness and cost-effectiveness of a web-based HIV, hepatitis and STI prevention intervention when offered to youth in outpatient, community-based substance abuse treatment as directly compared to a traditional HIV (and infectious disease) prevention intervention. We will assess the comparative effectiveness and cost-effectiveness of these interventions by primarily examining changes from pre- to post-intervention in accurate HIV/disease prevention knowledge, intentions to engage in safer sex and HIV risk behavior. Additionally, we will examine the extent to which the interventions impact relevant skills acquisition (e.g., communication skills, negotiation skills and condom use skills), attitudes toward safer sex and self-reported substance use, as well as the acceptability of each intervention. We also plan to evaluate youth at both 1 and 3 month post-intervention to examine the durability of effects (including any differential durability of effects across intervention conditions). The web-delivered prevention intervention to be evaluated in this study has the potential to allow for a complex intervention to be delivered at a low cost, without increasing demands on staff time or training needs, and may thereby expand the reach of evidence-based prevention for youth in substance-abuse treatment.\n\nThis study will be conducted at three collaborating, community-based adolescent substance abuse treatment programs all of which are housed within the Daytop Village network of services and are located in New York City: (1) Daytop Village's Brooklyn Outreach Center; (2) Daytop Village's Bronx Outreach Center; and (3) Daytop Village's Queens Outreach Center. We expect to recruit approximately one third of the total number of participants from each site.\n\nA total of up to 160 (no fewer than 120) adolescent participants will be enrolled in this study. Participants will be randomly assigned to one of the two study conditions in an intent-to-treat design (n=60-80 per group): (1) computer-delivered intervention or (2) traditional (person-delivered intervention). Participants in the traditional prevention intervention condition will complete two sessions (of approx. one hour in duration) across the course of a week, conducted by a trained HIV (and infectious disease) prevention educator; these sessions will typically be conducted in small groups of 2-4 participants but may be offered individually. Participants in the computer-delivered intervention condition will complete an interactive, web-based HIV, hepatitis and STI prevention program instead of the traditional, person-delivered prevention intervention. Youth will be asked to complete a customized plan of approximately 2-4 hours in length using the web-based tool; participants will complete two 60-minute sessions per week until they complete their customized plan. Participants will access this intervention using dedicated computer stations set up at their substance abuse treatment program."
+        ]
+      },
+      {
+        "Rank": 304,
+        "NCTId": [
+          "NCT04602728"
+        ],
+        "OfficialTitle": [
+          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
+        ],
+        "Condition": [
+          "Sickle Cell Disease"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
+        ],
+        "MinimumAge": [
+          "10 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Atlanta",
+          "Atlanta",
+          "Atlanta"
+        ],
+        "LocationFacility": [
+          "Children's Healthcare of Atlanta at Hugh Spalding",
+          "Chilldren's Healthcare of Atlanta",
+          "Emory Children's Center"
+        ],
+        "LocationState": [
+          "Georgia",
+          "Georgia",
+          "Georgia"
+        ],
+        "LocationZip": [
+          "30303",
+          "30322",
+          "30322"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
+        ],
+        "DetailedDescription": [
+          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
         ]
       },
       {
@@ -18393,6 +18390,7 @@
           "Marathon",
           "North Miami",
           "Columbus",
+          "Columbus",
           "Grayson",
           "Smyrna",
           "Naperville",
@@ -18436,6 +18434,7 @@
           "South Florida Behavioral Health Network",
           "Scientific Clinical Research, Inc.",
           "IACT Health",
+          "Valley Healthcare System",
           "IACT Health",
           "Attalla Consultants, LLC dba Institute for Behavioral Medicine",
           "AMR-Baber Research, Inc.",
@@ -18481,6 +18480,7 @@
           "Georgia",
           "Georgia",
           "Georgia",
+          "Georgia",
           "Illinois",
           "Indiana",
           "Maryland",
@@ -18522,6 +18522,7 @@
           "33050",
           "33161",
           "31903",
+          "31903",
           "30017",
           "30082-2629",
           "60563",
@@ -18553,64 +18554,70 @@
         "LocationContactEMail": [
           "bbaldwin@harmonex.us",
           "abrackin@harmonex.us",
-          "SKiefer@autismcenter.org",
           "plakamsani@autismcenter.org",
+          "jkirwan@autismcenter.org",
           "howardle@archildrens.org",
           "nkumar@uams.edu",
           "mstafford@omclinicaltrials.com",
-          "rimani@omclinicaltrials.com",
+          "kjones@omclinicaltrials.com",
           "jcowen@mednet.ucla.edu",
+          "jmccracken@mednet.ucla.edu",
           "david.zakur@yale.edu",
           "jessica.levine@yale.edu",
+          "ccaraballo@thrivingmind.org",
           "jnewcomer@sfbhn.org",
           "mmorffipla@citrushealth.com",
           "jnewcomer@sfbhn.org",
           "cmendoza@ctsolutionscorp.com",
-          "mcarballosa@eliasresearch.com",
+          "cellorian@ctsolutionscorp.com",
           "denise.costa@westcare.com",
           "jnewcomer@sfbhn.org",
           "mirta.rojas@westcare.com",
           "jnewcomer@sfbhn.org",
           "lisa.marcinak@westcare.com",
           "jnewcomer@sfbhn.org",
-          "lcenci@segaltrials.com",
           "jrojas@segaltrials.com",
+          "bsegal@segaltrials.com",
+          "aconner@iacthealth.com",
+          "aclary@iacthealth.com",
           "jcutts@iacthealth.com",
           "kgullatt@iacthealth.com",
-          "nscallon@iacthealth.com",
-          "bpatel@iacthealth.com",
-          "skuespert@beaconhealthsystem.org",
+          "aclary@iacthealth.com",
+          "msahmed@lifehealingcenterpc.com",
+          "dborkowski@beaconhealthsystem.org",
           "triehm@beaconhealthsystem.org",
           "brownjes@kennedykrieger.org",
-          "dan.geller@mgh.harvard.edu",
-          "hsmilansky@mgh.harvard.edu",
+          "bodenstein@kennedykrieger.org",
+          "gjohnson@mgh.harvard.edu",
+          "dageller@partners.org",
           "jmullett@mgh.harvard.edu",
-          "LurieCenterResearch@partners.org",
-          "ChildResearch@umassmed.edu",
-          "Ann.Foley@umassmed.edu",
+          "cmcdougle@mgh.harvard.edu",
+          "ann.foley@umassmed.edu",
+          "jean.frazier@umassmed.edu",
           "heide.rollings@pinerest.org",
           "leann.smart@pinerest.org",
           "jyholmes@umc.edu",
           "rannett@umc.edu",
-          "steveportnoy@wustl.edu",
-          "nicolg@wustl.edu",
+          "avijklein@wustl.edu",
+          "karen.flavin@wustl.edu",
           "bvaughan@unmc.edu",
           "soonjo.hwang@unmc.edu",
+          "israel.orta@einsteinmed.org",
           "eshanaha@montefiore.org",
-          "botaylor@montefiore.org",
           "tara.chandrasekhar@duke.edu",
-          "marina.spanos@duke.edu",
-          "debra.millikan@conehealth.com",
+          "ashley.teoh@duke.edu",
           "shawn.taylor@conehealth.com",
-          "lee.guile@carolinapartners.com",
+          "nancy.barron2@conehealth.com",
+          "melissa.daeschner@mindpathcare.com",
           "meghan.fitzgerald@carolinapartners.com",
-          "pothuksa@ucmail.uc.edu",
-          "gayathri.kavikondala@uc.edu",
+          "bishopri@ucmail.uc.edu",
+          "cooleyra@uc.edu",
           "sarah.flynn@usd.edu",
           "samantha.rouzer@avera.org",
           "tridley@uthsc.edu",
           "varnold@uthsc.edu",
           "alexsandria@bbraustin.com",
+          "patel@bbraustin.com",
           "laurie.bailey@cookchildrens.org",
           "alice.hoeft@cookchildrens.org",
           "chadi.calarge@bcm.edu",
@@ -18625,64 +18632,70 @@
         "LocationContactName": [
           "Barbara Baldwin",
           "Amellia Brackin",
-          "Sarah Kiefer",
           "Padmaja Lakamsani",
+          "Janet Kirwan",
           "Lee Howard",
           "Nihit Kumar",
           "Mayisha Stafford",
-          "Robert Imani",
+          "Kamiko Jones",
           "Jennifer Cowen",
+          "James McCraken",
           "David Zakur",
           "Jessica Levine",
-          "Thresia Gambon",
+          "Carol Caraballo",
           "John Newcomer",
           "Maristrealla Moriffi-Pla",
           "John Newcomer",
           "Claudia Mendoza",
-          "Maria Carballosa",
+          "Claudia Llorian",
           "Denise Costa",
           "John Newcomer",
           "Annie Rojas",
           "John Newcomer",
           "Lisa Marcinak",
           "John Newcomer",
-          "Linda Cenci",
           "Jenny Rojas",
+          "Scott Segal",
+          "April Conner",
+          "Amanda Clary-Phillips",
           "James Cutts",
           "Kimberly Brown-Gullatt",
-          "Natalie Scallon",
-          "Bianca Patel",
-          "Stephanie Kuespert",
+          "Amanda Clary-Phillips",
+          "Muhammad Ahmed",
+          "Deborah Borkowski",
           "Toni Riehm",
           "Jessica Brown",
+          "Jen Bodensteiner",
+          "Gabrielle Johnson",
           "Daniel Geller",
-          "Hannah Smilansky",
           "Jennifer Mullett",
-          "Karyn Wagner",
+          "Christopher McDougle",
           "Ann Foley",
+          "Jean Frazier",
           "Heide Rollings",
           "LeAnn Smart",
           "Joy Holmes",
           "Robert Annett",
-          "Steve Portnoy",
-          "Ginger Nicol",
+          "Avi Klein",
+          "Karen Flavin",
           "Brigette Vaughan",
           "Soonjo Hwang",
+          "Israel Orta",
           "Erin Shanahan",
-          "Bonnie Taylor",
           "Tara Chandrasekhar",
-          "Marina Spanos",
-          "Debra Millikan",
+          "Ashley Teoh",
           "Shawn Taylor",
-          "Lee Guile",
+          "Nancy Barron",
+          "Melissa Daeschner",
           "Meghan Fitzgerald",
-          "Sireesha Pothukuchi",
-          "Gayathri Pulapaka",
+          "Robin Bishop",
+          "Raechel Cooley",
           "Sarah Flynn",
-          "Samantha rouzer",
+          "Samantha Rouzer",
           "Tracee Ridley",
           "Valerie Arnold",
           "Alexsandria DeLeon",
+          "Divayansu Patel",
           "Laurie Bailey",
           "Alice Hoeft",
           "Chadi Calarge",
@@ -18695,65 +18708,75 @@
           "Sarah Chagnon"
         ],
         "LocationContactPhone": [
-          "334-836-2000",
-          "334-836-2000",
-          "602-218-8183",
+          "334-836-0885",
           "602-218-8207",
+          "602-218-8212",
           "501-364-1056",
           "501-364-1992",
           "661-388-2239",
-          "1-661-388-2239",
+          "661-388-2239",
           "310-825-6170",
+          "310-825-0470",
           "203-785-6906",
           "203-785-6906",
+          "786-507-7468",
           "305-860-0653",
           "786-441-5368",
           "305-860-0653",
           "786-372-1836",
+          "786-359-4029",
           "305-434-7660",
           "305-860-0653",
           "305-434-7660",
           "305-860-0653",
           "305-860-0653",
           "305-722-8444",
-          "305-722-8444",
-          "706-320-8752",
+          "305-722-1983",
+          "678-281-6522",
+          "678-344-8268",
+          "706-341-3426",
           "706-321-0495",
-          "678-573-1721",
-          "678-938-0987",
+          "678-344-8268",
+          "678-344-8268",
           "574-647-6584",
           "574-647-7883",
-          "1-617-726-5527",
-          "781-860-1710",
+          "443-923-3837",
+          "443-923-3846",
+          "617-726-5527",
+          "617-726-5527",
           "781-860-1711",
-          "774-455-4100",
+          "781-860-1783",
           "774-455-4103",
+          "77445-4120",
           "616-281-6363",
           "616-222-4592",
           "601-815-4179",
           "601-815-4517",
-          "314-362-2423",
-          "314-362-5939",
-          "402-559-4949",
+          "314-362-3675",
+          "314-740-6021",
+          "402-552-6007",
           "402-552-6002",
+          "718-839-7525",
           "718-839-7520",
-          "(718) 839-7530",
           "919-385-3232",
-          "919-681-3834",
-          "336-832-9615",
+          "919-668-7565",
           "336-832-9800",
+          "336-202-8809",
           "919-792-3940",
-          "1-919-792-3940",
-          "513-558-0002",
-          "513-558-8621",
+          "919-792-3940",
+          "513-558-4112",
+          "513-558-6205",
           "605-322-5707",
           "901-287-5338",
           "901-843-1045",
           "512-382-6661",
+          "512-382-6661",
           "682-885-2488",
+          "682-885-8086",
           "832-824-4764",
-          "1-832-824-4764",
+          "832-824-5002",
           "802-457-4904",
+          "802-457-2338",
           "434-243-3678",
           "434-924-7046",
           "757-668-9356",
@@ -20640,6 +20663,154 @@
       {
         "Rank": 349,
         "NCTId": [
+          "NCT04608019"
+        ],
+        "OfficialTitle": [
+          "Streamlined Treatment of Pulmonary Exacerbations in Pediatrics (Pilot)"
+        ],
+        "Condition": [
+          "Cystic Fibrosis"
+        ],
+        "EligibilityCriteria": [
+          "Enrollment Inclusion Criteria:\n\nAge 6 to <19 years\n\nDocumentation of a CF diagnosis as evidenced by one or more clinical features consistent with the CF phenotype and one or more of the following criteria:\n\nsweat chloride ≥ 60 mEq/liter\ntwo disease-causing variants in the cystic fibrosis transmembrane conductive regulator (CFTR) gene\nWritten informed consent (and assent when applicable) obtained from participant or participant's legal representative and ability of participant to comply with the requirements of the study\nAble to perform acceptable and reproducible spirometry\nFEV1 ≥ 50% predicted at enrollment based on the Global lung Initiative (GLI) reference equations\nAt least 1 course of oral antibiotics for respiratory symptoms in the 12 months prior to enrollment\nAbility to receive text messages and access the internet\n\nEnrollment Exclusion Criteria:\n\nPresence of a condition or abnormality that in the opinion of the Investigator would compromise the safety of the patient or the quality of the data.\nPrevious randomization in the study\nReceiving antibiotics for a PEx at the time of enrollment or within the 21 days prior to enrollment. Individuals may be re-screened ≥21 days after completion of antibiotics if they are at their baseline state of health, per self-report.\nTreatment with systemic corticosteroids at enrollment. Individuals may be re- screened ≥21 days after completion of systemic corticosteroids if they are at their clinical baseline, per self-report.\nHistory of solid organ transplant\nHistory of positive culture for Mycobacterium abscessus in the 12 months prior to enrollment\nTreatment with antibiotics for any non-tuberculous mycobacteria (NTM) at enrollment\nThree or more IV antibiotic-treated PEx in the 12 months prior to enrollment\nTreatment with chronic oral antibiotics other than azithromycin at enrollment"
+        ],
+        "MinimumAge": [
+          "6 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Tucson",
+          "Aurora",
+          "Atlanta",
+          "Chicago",
+          "Indianapolis",
+          "Grand Rapids",
+          "Portland",
+          "Pittsburgh",
+          "Houston",
+          "Seattle"
+        ],
+        "LocationFacility": [
+          "Tucson Cystic Fibrosis Center",
+          "Children's Hospital of Colorado",
+          "Children's Healthcare of Atlanta",
+          "Lurie Children's Hospital of Chicago & Northwestern University",
+          "Riley Hospital for Children",
+          "Helen DeVos Children's Hospital",
+          "Oregon Health Sciences University",
+          "Children's Hospital of Pittsburgh of UPMC",
+          "Texas Children's Hospital and Baylor College of Medicine",
+          "Seattle Children's Hospital"
+        ],
+        "LocationState": [
+          "Arizona",
+          "Colorado",
+          "Georgia",
+          "Illinois",
+          "Indiana",
+          "Michigan",
+          "Oregon",
+          "Pennsylvania",
+          "Texas",
+          "Washington"
+        ],
+        "LocationZip": [
+          "85713",
+          "80045",
+          "30322",
+          "60611-2605",
+          "46202",
+          "49503",
+          "97239",
+          "15224",
+          "77030",
+          "98105"
+        ],
+        "LocationContactEMail": [
+          "elizabethryan@arizona.edu",
+          "monicavarela@arizona.edu",
+          "Mary.Cross@childrenscolorado.org",
+          "dana.coyle@childrenscolorado.org",
+          "Akele.carter@choa.org",
+          "ashleigh.streby@emory.edu",
+          "tdawkins@luriechildrens.org",
+          "lrugg@luriechildrens.org",
+          "misthomp@iupui.edu",
+          "lbendy@iu.edu",
+          "Cynthia.Gile@spectrumhealth.org",
+          "Melisa.Enos@spectrumhealth.org",
+          "hansoan@ohsu.edu",
+          "kleinb@ohsu.edu",
+          "Adrienne.Dericco2@upmc.edu",
+          "elizabeth.hartigan@chp.edu",
+          "rxherna2@texaschildrens.org",
+          "sharon.mcnamara@seattlechildrens.org",
+          "sabrina.gorry@seattlechildrens.org"
+        ],
+        "LocationContactName": [
+          "Elizabeth (Lisa) Ryan",
+          "Monica Teresa Varela",
+          "Cori Daines, MD",
+          "Mary Cross",
+          "Dana Coyle",
+          "Jordana Hoppe, MD",
+          "Akele Carter",
+          "Ashleigh Streby",
+          "Kevin Kirchner, MD",
+          "Trecia Dawkins",
+          "Larissa Rugg",
+          "Susanna McColley, MD",
+          "Misty Thompson, B.S.",
+          "Lisa Bendy",
+          "D. B. Sanders, MD",
+          "Cindy Gile",
+          "Melisa Enos",
+          "Susan Millard, MD",
+          "Annie Hanson",
+          "Brendan Klein",
+          "Kelvin MacDonald, MD",
+          "Adrienne DeRicco",
+          "Elizabeth Hartigan",
+          "Daniel Weiner, MD",
+          "Roger Hernandez",
+          "Fadel Ruiz, MD",
+          "Sharon McNamara",
+          "Sabrina Gorry",
+          "Margaret Rosenfeld, MD"
+        ],
+        "LocationContactPhone": [
+          "520-626-3125",
+          "520-626-0462",
+          "720-777-4645",
+          "720-777-6162",
+          "404-785-9011",
+          "404-727-0305",
+          "312-227-1258",
+          "312-227-6865",
+          "317-274-7768",
+          "317-948-7152",
+          "616-391-6148",
+          "616-486-6082",
+          "503-494-5487",
+          "503-418-8108",
+          "412-692-8069",
+          "412-692-7060",
+          "832-822-3389",
+          "206-987-3921",
+          "206-987-3921"
+        ],
+        "BriefSummary": [
+          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population."
+        ],
+        "DetailedDescription": [
+          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population. The primary endpoint is the proportion of participants in the tailored arm who did not take any oral antibiotics in the 28 days following randomization.\n\nUltimately, we want to learn:\n\nWhat is the best way to treat pulmonary exacerbations?\nShould everyone with a pulmonary exacerbation take antibiotics?\nDo the benefits of starting antibiotics at the first signs of illness outweigh the possible risks, like side effects and antibiotic resistance?\n\nThis pilot study is designed to determine if an interventional study to help answer these questions is feasible. Up to 120 participants will be enrolled and followed through their well state of health, then for 28 days following their first randomized exacerbation. Enrollment will stop after 80 pulmonary exacerbation events have been randomized, even if this does not require 120 participants. Due to the nature of the study, the identity of treatment assignment will be known to investigators, research staff, and patients (ie, not blinded).\n\nTotal duration of this pilot study is expected to be approximately 18 months: 6 months for participant recruitment and 12 months for follow up. Participants could be monitored for up to 18 months if they do not have an exacerbation. However, it is anticipated that the majority of participants will experience a randomizable PEx event and therefore have a shorter follow up period."
+        ]
+      },
+      {
+        "Rank": 350,
+        "NCTId": [
           "NCT03633708"
         ],
         "OfficialTitle": [
@@ -20807,154 +20978,6 @@
         ],
         "DetailedDescription": [
           "SHPT is a common and serious co-morbidity that develops relatively early in the course of CKD, worsens with declining kidney function, and is associated with serious complications in children on dialysis. Children on dialysis experience a wide spectrum of bone abnormalities and growth retardation, in addition to increased risk for cardiovascular morbidity and mortality that manifests early in their adulthood. Traditional therapies for SHPT (eg, vitamin D sterols) are widely used in the pediatric dialysis population, and have the potential to aggravate complications of the disease by increasing serum calcium (Ca), serum phosphorus, and serum Ca times serum phosphorus product.\n\nEtelcalcetide has been shown to be safe and efficacious in treating adult CKD patients with SHPT by simultaneously controlling intact parathyroid hormone (iPTH), Ca, and phosphorus and has recently been approved for use in adult patients with SHPT treated with hemodialysis in both the United States and Europe. Although no previous studies have been conducted in pediatric patients with etelcalcetide (one single dose pharmacokinetic [PK] study is currently ongoing), Amgen anticipates minimal to moderate risk with a possibility of direct benefit to the pediatric subject in this study. The burden of complications of SHPT in the pediatric dialysis population and the limitations of current standard therapy, underscore the need for studies of etelcalcetide in these patients to address this unmet medical need and inform the pediatric nephrology community of the potential use of etelcalcetide in children on hemodialysis with critical safety and efficacy data."
-        ]
-      },
-      {
-        "Rank": 350,
-        "NCTId": [
-          "NCT04608019"
-        ],
-        "OfficialTitle": [
-          "Streamlined Treatment of Pulmonary Exacerbations in Pediatrics (Pilot)"
-        ],
-        "Condition": [
-          "Cystic Fibrosis"
-        ],
-        "EligibilityCriteria": [
-          "Enrollment Inclusion Criteria:\n\nAge 6 to <19 years\n\nDocumentation of a CF diagnosis as evidenced by one or more clinical features consistent with the CF phenotype and one or more of the following criteria:\n\nsweat chloride ≥ 60 mEq/liter\ntwo disease-causing variants in the cystic fibrosis transmembrane conductive regulator (CFTR) gene\nWritten informed consent (and assent when applicable) obtained from participant or participant's legal representative and ability of participant to comply with the requirements of the study\nAble to perform acceptable and reproducible spirometry\nFEV1 ≥ 50% predicted at enrollment based on the Global lung Initiative (GLI) reference equations\nAt least 1 course of oral antibiotics for respiratory symptoms in the 12 months prior to enrollment\nAbility to receive text messages and access the internet\n\nEnrollment Exclusion Criteria:\n\nPresence of a condition or abnormality that in the opinion of the Investigator would compromise the safety of the patient or the quality of the data.\nPrevious randomization in the study\nReceiving antibiotics for a PEx at the time of enrollment or within the 21 days prior to enrollment. Individuals may be re-screened ≥21 days after completion of antibiotics if they are at their baseline state of health, per self-report.\nTreatment with systemic corticosteroids at enrollment. Individuals may be re- screened ≥21 days after completion of systemic corticosteroids if they are at their clinical baseline, per self-report.\nHistory of solid organ transplant\nHistory of positive culture for Mycobacterium abscessus in the 12 months prior to enrollment\nTreatment with antibiotics for any non-tuberculous mycobacteria (NTM) at enrollment\nThree or more IV antibiotic-treated PEx in the 12 months prior to enrollment\nTreatment with chronic oral antibiotics other than azithromycin at enrollment"
-        ],
-        "MinimumAge": [
-          "6 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Tucson",
-          "Aurora",
-          "Atlanta",
-          "Chicago",
-          "Indianapolis",
-          "Grand Rapids",
-          "Portland",
-          "Pittsburgh",
-          "Houston",
-          "Seattle"
-        ],
-        "LocationFacility": [
-          "Tucson Cystic Fibrosis Center",
-          "Children's Hospital of Colorado",
-          "Children's Healthcare of Atlanta",
-          "Lurie Children's Hospital of Chicago & Northwestern University",
-          "Riley Hospital for Children",
-          "Helen DeVos Children's Hospital",
-          "Oregon Health Sciences University",
-          "Children's Hospital of Pittsburgh of UPMC",
-          "Texas Children's Hospital and Baylor College of Medicine",
-          "Seattle Children's Hospital"
-        ],
-        "LocationState": [
-          "Arizona",
-          "Colorado",
-          "Georgia",
-          "Illinois",
-          "Indiana",
-          "Michigan",
-          "Oregon",
-          "Pennsylvania",
-          "Texas",
-          "Washington"
-        ],
-        "LocationZip": [
-          "85713",
-          "80045",
-          "30322",
-          "60611-2605",
-          "46202",
-          "49503",
-          "97239",
-          "15224",
-          "77030",
-          "98105"
-        ],
-        "LocationContactEMail": [
-          "elizabethryan@arizona.edu",
-          "monicavarela@arizona.edu",
-          "Mary.Cross@childrenscolorado.org",
-          "dana.coyle@childrenscolorado.org",
-          "Akele.carter@choa.org",
-          "ashleigh.streby@emory.edu",
-          "tdawkins@luriechildrens.org",
-          "lrugg@luriechildrens.org",
-          "misthomp@iupui.edu",
-          "lbendy@iu.edu",
-          "Cynthia.Gile@spectrumhealth.org",
-          "Melisa.Enos@spectrumhealth.org",
-          "hansoan@ohsu.edu",
-          "kleinb@ohsu.edu",
-          "Adrienne.Dericco2@upmc.edu",
-          "elizabeth.hartigan@chp.edu",
-          "rxherna2@texaschildrens.org",
-          "sharon.mcnamara@seattlechildrens.org",
-          "sabrina.gorry@seattlechildrens.org"
-        ],
-        "LocationContactName": [
-          "Elizabeth (Lisa) Ryan",
-          "Monica Teresa Varela",
-          "Cori Daines, MD",
-          "Mary Cross",
-          "Dana Coyle",
-          "Jordana Hoppe, MD",
-          "Akele Carter",
-          "Ashleigh Streby",
-          "Kevin Kirchner, MD",
-          "Trecia Dawkins",
-          "Larissa Rugg",
-          "Susanna McColley, MD",
-          "Misty Thompson, B.S.",
-          "Lisa Bendy",
-          "D. B. Sanders, MD",
-          "Cindy Gile",
-          "Melisa Enos",
-          "Susan Millard, MD",
-          "Annie Hanson",
-          "Brendan Klein",
-          "Kelvin MacDonald, MD",
-          "Adrienne DeRicco",
-          "Elizabeth Hartigan",
-          "Daniel Weiner, MD",
-          "Roger Hernandez",
-          "Fadel Ruiz, MD",
-          "Sharon McNamara",
-          "Sabrina Gorry",
-          "Margaret Rosenfeld, MD"
-        ],
-        "LocationContactPhone": [
-          "520-626-3125",
-          "520-626-0462",
-          "720-777-4645",
-          "720-777-6162",
-          "404-785-9011",
-          "404-727-0305",
-          "312-227-1258",
-          "312-227-6865",
-          "317-274-7768",
-          "317-948-7152",
-          "616-391-6148",
-          "616-486-6082",
-          "503-494-5487",
-          "503-418-8108",
-          "412-692-8069",
-          "412-692-7060",
-          "832-822-3389",
-          "206-987-3921",
-          "206-987-3921"
-        ],
-        "BriefSummary": [
-          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population."
-        ],
-        "DetailedDescription": [
-          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population. The primary endpoint is the proportion of participants in the tailored arm who did not take any oral antibiotics in the 28 days following randomization.\n\nUltimately, we want to learn:\n\nWhat is the best way to treat pulmonary exacerbations?\nShould everyone with a pulmonary exacerbation take antibiotics?\nDo the benefits of starting antibiotics at the first signs of illness outweigh the possible risks, like side effects and antibiotic resistance?\n\nThis pilot study is designed to determine if an interventional study to help answer these questions is feasible. Up to 120 participants will be enrolled and followed through their well state of health, then for 28 days following their first randomized exacerbation. Enrollment will stop after 80 pulmonary exacerbation events have been randomized, even if this does not require 120 participants. Due to the nature of the study, the identity of treatment assignment will be known to investigators, research staff, and patients (ie, not blinded).\n\nTotal duration of this pilot study is expected to be approximately 18 months: 6 months for participant recruitment and 12 months for follow up. Participants could be monitored for up to 18 months if they do not have an exacerbation. However, it is anticipated that the majority of participants will experience a randomizable PEx event and therefore have a shorter follow up period."
         ]
       },
       {
@@ -23400,33 +23423,33 @@
           "M5G 1X8"
         ],
         "LocationContactEMail": [
-          "BCarter@connecticutchildrens.org",
-          "mheskett@iu.edu",
-          "danielle.demaio@tufts.edu",
+          "acohen01@connecticutchildrens.org",
+          "stephac1@iu.edu",
+          "roshni.babel@childrens.harvard.edu",
           "nmcurran@cmh.edu",
-          "megan.pfeiffer@cchmc.org",
+          "brooke.gadd@cchmc.org",
           "Lauren.Volz@nationwidechildrens.org"
         ],
         "LocationContactName": [
-          "Bridgette Carter",
+          "Drew Cohen",
           "William Zempsky, MD",
-          "Mary Heskett",
+          "Stephanie Creamean",
           "Amy Williams, PhD",
-          "Danielle DeMaio",
+          "Roshni Babal",
           "Deirdre Logan, PhD",
           "Nichole Curran",
           "Mark Connelly, PhD",
-          "Megan Pfeiffer",
+          "Brooke Gadd",
           "Susmita Kashikar-Zuck, PhD",
           "Lauren Volz",
           "Stacy Ardoin, MD"
         ],
         "LocationContactPhone": [
-          "860-933-7216",
-          "317-944-4042",
-          "617-383-4745",
+          "860-837-6515",
+          "317-944-9738",
+          "267-884-4325",
           "816-701-1363",
-          "513-636-1846",
+          "513-803-7321",
           "614-722-4712"
         ],
         "BriefSummary": [
