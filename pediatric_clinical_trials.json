@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.02",
-    "DataVrs": "2021:03:01 22:14:08.548",
+    "DataVrs": "2021:03:02 22:19:02.771",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 369133,
-    "NStudiesFound": 387,
+    "NStudiesAvail": 369328,
+    "NStudiesFound": 388,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 387,
+    "NStudiesReturned": 388,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -16446,73 +16446,6 @@
       {
         "Rank": 324,
         "NCTId": [
-          "NCT04378075"
-        ],
-        "OfficialTitle": [
-          "Efficacy and Safety Study of Vatiquinone for the Treatment of Mitochondrial Disease Subjects With Refractory Epilepsy"
-        ],
-        "Condition": [
-          "Mitochondrial Diseases",
-          "Drug Resistant Epilepsy",
-          "Leigh Disease",
-          "Leigh Syndrome",
-          "Mitochondrial Encephalopathy (MELAS)",
-          "Pontocerebellar Hypoplasia Type 6 (PCH6)",
-          "Alpers Disease",
-          "Alpers Syndrome"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nSigned informed consent form.\nParticipant or parent/legal guardian is able and willing to complete seizure diaries for the duration of the study.\nGenetic confirmation of inherited mitochondrial disease with associated epilepsy phenotype (Alpers/polymerase subunit gamma [POLG], Leigh syndrome, mitochondrial encephalopathy, lactic acidosis, and stroke-like episodes [MELAS], or other genetically confirmed mitochondrial disease secondary to mitochondrial mutation).\n\nDespite ongoing treatment with at least 2 antiepileptic drugs:\n\nhave ≥6 observed motor seizures occurring during the 28 days prior to the baseline visit (Day 0).\nhave ≥2 observed motor seizures in the first 14 days and ≥2 in the second 14 days of the Run-in period (Day -14).\ndo not have a consecutive 20-day seizure free period.\nhave at least 80% of seizure diary data.\nDocumented medical history of epilepsy associated with mitochondrial disease for at least 6 months prior to screening.\nConsent to abstain from non-approved therapies for 30 days prior to the baseline visit (Day 0) and for the duration of the study.\nStable dose regimen of antiepileptic therapies 60 days prior to the baseline visit (Day 0).\nStable regimen of dietary supplements 30 days prior and, if on a ketogenic diet, stable ketogenic diet 90 days prior to the baseline visit (Day 0) and for duration of the study.\nElectroencephalogram (EEG) at screening or historical EEG for diagnostic confirmation of seizures.\n\nExclusion Criteria:\n\nAllergy to vatiquinone or sesame oil.\nAspartate transaminase (AST) or alanine transaminase (ALT) ≥2 × upper level of normal (ULN) at time of screening.\nInternational normalized ratio (INR) ≥1.5 × ULN at time of screening.\nSerum creatinine ≥1.5 × ULN at time of screening.\nParticipation in another interventional clinical trial 60 days prior to randomization or for the duration of this clinical trial\nPreviously received vatiquinone.\nConcomitant treatment with drug(s) that have not received regulatory agency approval for the treatment of mitochondrial diseases.\nConcomitant treatment with idebenone.\nOngoing treatment with cytochrome P450 (CYP) inhibitors such as itraconazole or CYP inducers such as rifampin. Treatment with these agents must be completed at least 4 weeks prior to enrollment.During the study, participants should not use grapefruit juice or St John's wort extract.\nPregnant or lactating participants or those sexually active participants who are unwilling to comply with proper birth control methods. Females of childbearing potential must have a negative pregnancy test at screening and during the baseline visit (Day 0)."
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Minneapolis",
-          "Akron",
-          "Houston",
-          "Houston",
-          "Seattle"
-        ],
-        "LocationFacility": [
-          "Children's of Minnesota",
-          "Akron Children's Hospital",
-          "Baylor College of Medicine",
-          "University of Texas Health Science",
-          "Seattle Children's hospital"
-        ],
-        "LocationState": [
-          "Minnesota",
-          "Ohio",
-          "Texas",
-          "Texas",
-          "Washington"
-        ],
-        "LocationZip": [
-          "55404",
-          "44308",
-          "77030",
-          "77030",
-          "98105"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Vikas Bhambhani, Dr.",
-          "Bruce Cohen, Dr.",
-          "Fernando Scaglia, Dr.",
-          "Niveditha Thakur, Dr.",
-          "Russel Saneto, Dr."
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "This is a parallel-arm, double-blind, placebo-controlled study with a screening phase that includes a 28-day run-in phase to establish baseline seizure frequency, followed by a 24-week, randomized, placebo-controlled phase. After completion of the randomized, placebo-controlled phase, participants may enter a 48-week, long-term, extension phase during which they will receive open-label treatment with vatiquinone."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 325,
-        "NCTId": [
           "NCT03962894"
         ],
         "OfficialTitle": [
@@ -16591,7 +16524,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 326,
+        "Rank": 325,
         "NCTId": [
           "NCT03606980"
         ],
@@ -16655,7 +16588,7 @@
         ]
       },
       {
-        "Rank": 327,
+        "Rank": 326,
         "NCTId": [
           "NCT03240809"
         ],
@@ -16713,7 +16646,7 @@
         ]
       },
       {
-        "Rank": 328,
+        "Rank": 327,
         "NCTId": [
           "NCT04060823"
         ],
@@ -16769,7 +16702,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 329,
+        "Rank": 328,
         "NCTId": [
           "NCT00005105"
         ],
@@ -16833,7 +16766,7 @@
         ]
       },
       {
-        "Rank": 330,
+        "Rank": 329,
         "NCTId": [
           "NCT03505658"
         ],
@@ -16894,7 +16827,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 331,
+        "Rank": 330,
         "NCTId": [
           "NCT03989986"
         ],
@@ -16954,7 +16887,7 @@
         ]
       },
       {
-        "Rank": 332,
+        "Rank": 331,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17028,7 +16961,7 @@
         ]
       },
       {
-        "Rank": 333,
+        "Rank": 332,
         "NCTId": [
           "NCT03117751"
         ],
@@ -17118,7 +17051,7 @@
         ]
       },
       {
-        "Rank": 334,
+        "Rank": 333,
         "NCTId": [
           "NCT03910933"
         ],
@@ -17201,126 +17134,7 @@
         ]
       },
       {
-        "Rank": 335,
-        "NCTId": [
-          "NCT04442295"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
-        ],
-        "Condition": [
-          "Dravet Syndrome"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
-        ],
-        "MinimumAge": [
-          "2 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "San Francisco",
-          "Aurora",
-          "Washington",
-          "Miami",
-          "Chicago",
-          "Iowa City",
-          "Boston",
-          "Ann Arbor",
-          "Rochester",
-          "New York",
-          "Portland",
-          "Memphis",
-          "Fort Worth",
-          "Salt Lake City",
-          "Seattle",
-          "Tacoma"
-        ],
-        "LocationFacility": [
-          "University of California San Francisco Medical Center",
-          "Children's Hospital Colorado",
-          "Children's National Medical Center",
-          "Nicklaus Children's Hospital",
-          "Ann & Robert H. Lurie Children's Hospital of Chicago",
-          "University of Iowa, Department of Pediatrics,",
-          "Massachusetts General Hospital",
-          "Mott Children's Hospital",
-          "Mayo Clinic",
-          "NYU Comprehensive Epilepsy Center",
-          "Oregon Health & Science University",
-          "Le Bonheur Children's Hospital",
-          "Cook Children's Medical Center",
-          "University of Utah Pediatrics Clinical Trials Office",
-          "Seattle Children's Hospital",
-          "Multicare Institute for Research and Innovation"
-        ],
-        "LocationState": [
-          "California",
-          "Colorado",
-          "District of Columbia",
-          "Florida",
-          "Illinois",
-          "Iowa",
-          "Massachusetts",
-          "Michigan",
-          "Minnesota",
-          "New York",
-          "Oregon",
-          "Tennessee",
-          "Texas",
-          "Utah",
-          "Washington",
-          "Washington"
-        ],
-        "LocationZip": [
-          "94158",
-          "80045",
-          "20010",
-          "33155",
-          "60611",
-          "52242",
-          "02114",
-          "48109",
-          "55905",
-          "10016",
-          "97239",
-          "38105",
-          "76104",
-          "84108",
-          "98105",
-          "98405"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
-        ],
-        "DetailedDescription": [
-          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
-        ]
-      },
-      {
-        "Rank": 336,
+        "Rank": 334,
         "NCTId": [
           "NCT04431453"
         ],
@@ -17484,7 +17298,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 335,
         "NCTId": [
           "NCT04258943"
         ],
@@ -17712,7 +17526,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 336,
         "NCTId": [
           "NCT04195399"
         ],
@@ -18147,7 +17961,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 337,
         "NCTId": [
           "NCT03896763"
         ],
@@ -18437,7 +18251,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 338,
         "NCTId": [
           "NCT03802799"
         ],
@@ -18606,7 +18420,7 @@
         ]
       },
       {
-        "Rank": 341,
+        "Rank": 339,
         "NCTId": [
           "NCT03522168"
         ],
@@ -19040,7 +18854,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 340,
         "NCTId": [
           "NCT02859896"
         ],
@@ -19209,7 +19023,7 @@
         ]
       },
       {
-        "Rank": 343,
+        "Rank": 341,
         "NCTId": [
           "NCT02205762"
         ],
@@ -19523,7 +19337,7 @@
         ]
       },
       {
-        "Rank": 344,
+        "Rank": 342,
         "NCTId": [
           "NCT02121132"
         ],
@@ -19701,7 +19515,126 @@
         ]
       },
       {
-        "Rank": 345,
+        "Rank": 343,
+        "NCTId": [
+          "NCT04442295"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
+        ],
+        "Condition": [
+          "Dravet Syndrome"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
+        ],
+        "MinimumAge": [
+          "2 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "San Francisco",
+          "Aurora",
+          "Washington",
+          "Miami",
+          "Chicago",
+          "Iowa City",
+          "Boston",
+          "Ann Arbor",
+          "Rochester",
+          "New York",
+          "Portland",
+          "Memphis",
+          "Fort Worth",
+          "Salt Lake City",
+          "Seattle",
+          "Tacoma"
+        ],
+        "LocationFacility": [
+          "University of California San Francisco Medical Center",
+          "Children's Hospital Colorado",
+          "Children's National Medical Center",
+          "Nicklaus Children's Hospital",
+          "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "University of Iowa, Department of Pediatrics,",
+          "Massachusetts General Hospital",
+          "Mott Children's Hospital",
+          "Mayo Clinic",
+          "NYU Comprehensive Epilepsy Center",
+          "Oregon Health & Science University",
+          "Le Bonheur Children's Hospital",
+          "Cook Children's Medical Center",
+          "University of Utah Pediatrics Clinical Trials Office",
+          "Seattle Children's Hospital",
+          "Multicare Institute for Research and Innovation"
+        ],
+        "LocationState": [
+          "California",
+          "Colorado",
+          "District of Columbia",
+          "Florida",
+          "Illinois",
+          "Iowa",
+          "Massachusetts",
+          "Michigan",
+          "Minnesota",
+          "New York",
+          "Oregon",
+          "Tennessee",
+          "Texas",
+          "Utah",
+          "Washington",
+          "Washington"
+        ],
+        "LocationZip": [
+          "94158",
+          "80045",
+          "20010",
+          "33155",
+          "60611",
+          "52242",
+          "02114",
+          "48109",
+          "55905",
+          "10016",
+          "97239",
+          "38105",
+          "76104",
+          "84108",
+          "98105",
+          "98405"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
+        ],
+        "DetailedDescription": [
+          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
+        ]
+      },
+      {
+        "Rank": 344,
         "NCTId": [
           "NCT04318548"
         ],
@@ -19907,7 +19840,7 @@
         ]
       },
       {
-        "Rank": 346,
+        "Rank": 345,
         "NCTId": [
           "NCT04203316"
         ],
@@ -20048,7 +19981,7 @@
         ]
       },
       {
-        "Rank": 347,
+        "Rank": 346,
         "NCTId": [
           "NCT03939637"
         ],
@@ -20231,7 +20164,7 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 347,
         "NCTId": [
           "NCT02610660"
         ],
@@ -20414,7 +20347,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 349,
+        "Rank": 348,
         "NCTId": [
           "NCT03719339"
         ],
@@ -20578,7 +20511,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 349,
         "NCTId": [
           "NCT03025698"
         ],
@@ -20797,7 +20730,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 351,
+        "Rank": 350,
         "NCTId": [
           "NCT03633708"
         ],
@@ -20965,7 +20898,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 351,
         "NCTId": [
           "NCT04608019"
         ],
@@ -21113,7 +21046,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 352,
         "NCTId": [
           "NCT03707158"
         ],
@@ -21224,7 +21157,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 353,
         "NCTId": [
           "NCT01987882"
         ],
@@ -21337,7 +21270,7 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 354,
         "NCTId": [
           "NCT03785405"
         ],
@@ -21604,7 +21537,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 356,
+        "Rank": 355,
         "NCTId": [
           "NCT00670735"
         ],
@@ -21759,7 +21692,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 357,
+        "Rank": 356,
         "NCTId": [
           "NCT04250415"
         ],
@@ -21852,7 +21785,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 358,
+        "Rank": 357,
         "NCTId": [
           "NCT03416530"
         ],
@@ -21955,7 +21888,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 359,
+        "Rank": 358,
         "NCTId": [
           "NCT04075266"
         ],
@@ -22078,7 +22011,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 360,
+        "Rank": 359,
         "NCTId": [
           "NCT04354155"
         ],
@@ -22224,6 +22157,83 @@
         "LocationContactPhone": [],
         "BriefSummary": [
           "The purpose of this study is to evaluate the safety, dose-requirements, and exploratory efficacy of twice-daily subcutaneous enoxaparin as venous thromboembolism prophylaxis in children (birth to 18 years) hospitalized with signs and/or symptoms of SARS-CoV-2 infection (i.e., COVID-19)."
+        ],
+        "DetailedDescription": []
+      },
+      {
+        "Rank": 360,
+        "NCTId": [
+          "NCT04378075"
+        ],
+        "OfficialTitle": [
+          "Efficacy and Safety Study of Vatiquinone for the Treatment of Mitochondrial Disease Subjects With Refractory Epilepsy"
+        ],
+        "Condition": [
+          "Mitochondrial Diseases",
+          "Drug Resistant Epilepsy",
+          "Leigh Disease",
+          "Leigh Syndrome",
+          "Mitochondrial Encephalopathy (MELAS)",
+          "Pontocerebellar Hypoplasia Type 6 (PCH6)",
+          "Alpers Disease",
+          "Alpers Syndrome"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nSigned informed consent form.\nParticipant or parent/legal guardian is able and willing to complete seizure diaries for the duration of the study.\nGenetic confirmation of inherited mitochondrial disease with associated epilepsy phenotype (Alpers/polymerase subunit gamma [POLG], Leigh syndrome, mitochondrial encephalopathy, lactic acidosis, and stroke-like episodes [MELAS], or other genetically confirmed mitochondrial disease secondary to mitochondrial mutation).\n\nDespite ongoing treatment with at least 2 antiepileptic drugs:\n\nhave ≥6 observed motor seizures occurring during the 28 days prior to the baseline visit (Day 0).\nhave ≥2 observed motor seizures in the first 14 days and ≥2 in the second 14 days of the Run-in period (Day -14).\ndo not have a consecutive 20-day seizure free period.\nhave at least 80% of seizure diary data.\nDocumented medical history of epilepsy associated with mitochondrial disease for at least 6 months prior to screening.\nConsent to abstain from non-approved therapies for 30 days prior to the baseline visit (Day 0) and for the duration of the study.\nStable dose regimen of antiepileptic therapies 60 days prior to the baseline visit (Day 0).\nStable regimen of dietary supplements 30 days prior and, if on a ketogenic diet, stable ketogenic diet 90 days prior to the baseline visit (Day 0) and for duration of the study.\nElectroencephalogram (EEG) at screening or historical EEG for diagnostic confirmation of seizures.\n\nExclusion Criteria:\n\nAllergy to vatiquinone or sesame oil.\nAspartate transaminase (AST) or alanine transaminase (ALT) ≥2 × upper level of normal (ULN) at time of screening.\nInternational normalized ratio (INR) ≥1.5 × ULN at time of screening.\nSerum creatinine ≥1.5 × ULN at time of screening.\nParticipation in another interventional clinical trial 60 days prior to randomization or for the duration of this clinical trial\nPreviously received vatiquinone.\nConcomitant treatment with drug(s) that have not received regulatory agency approval for the treatment of mitochondrial diseases.\nConcomitant treatment with idebenone.\nOngoing treatment with cytochrome P450 (CYP) inhibitors such as itraconazole or CYP inducers such as rifampin. Treatment with these agents must be completed at least 4 weeks prior to enrollment.During the study, participants should not use grapefruit juice or St John's wort extract.\nPregnant or lactating participants or those sexually active participants who are unwilling to comply with proper birth control methods. Females of childbearing potential must have a negative pregnancy test at screening and during the baseline visit (Day 0)."
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Stanford",
+          "Boston",
+          "Minneapolis",
+          "Akron",
+          "Houston",
+          "Houston",
+          "Seattle"
+        ],
+        "LocationFacility": [
+          "Stanford University",
+          "Pediatric Genetics Clinic (Main MGH Hospital)",
+          "Children's of Minnesota",
+          "Akron Children's Hospital",
+          "Baylor College of Medicine",
+          "University of Texas Health Science",
+          "Seattle Children's hospital"
+        ],
+        "LocationState": [
+          "California",
+          "Massachusetts",
+          "Minnesota",
+          "Ohio",
+          "Texas",
+          "Texas",
+          "Washington"
+        ],
+        "LocationZip": [
+          "94305",
+          "02114-2696",
+          "55404",
+          "44308",
+          "77030",
+          "77030",
+          "98105"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Gregory Enns, Dr.",
+          "Amel Karaa, Dr.",
+          "Vikas Bhambhani, Dr.",
+          "Bruce Cohen, Dr.",
+          "Fernando Scaglia, Dr.",
+          "Niveditha Thakur, Dr.",
+          "Russel Saneto, Dr."
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "This is a parallel-arm, double-blind, placebo-controlled study with a screening phase that includes a 28-day run-in phase to establish baseline seizure frequency, followed by a 24-week, randomized, placebo-controlled phase. After completion of the randomized, placebo-controlled phase, participants may enter a 48-week, long-term, extension phase during which they will receive open-label treatment with vatiquinone."
         ],
         "DetailedDescription": []
       },
@@ -23587,6 +23597,84 @@
       {
         "Rank": 368,
         "NCTId": [
+          "NCT04068012"
+        ],
+        "OfficialTitle": [
+          "A Computerized Decision Support Tool for Ventilator Management in Pediatric Acute Respiratory Distress Syndrome Pilot Study"
+        ],
+        "Condition": [
+          "Ventilation Therapy; Complications",
+          "Ventilator-Induced Lung Injury",
+          "Ards"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nChildren > 1 month of age and >44 weeks gestation and ≤ 18 years of age AND\nSupported on mechanical ventilation with pulmonary parenchymal disease (i.e. Pediatric Acute Respiratory Distress Syndrome (PARDS)) with Oxygen Saturation Index (OSI) ≥ 5) or Oxygenation Index (OI) ≥ 4 AND\nWho are within 72 hours of initiation of invasive mechanical ventilation AND\nWho are anticipated to require >72 hours mechanical ventilation.\n\nExclusion Criteria:\n\nConditions on enrollment that preclude conventional methods of weaning (i.e., status asthmaticus, severe lower airway obstruction, bronchiolitis, critical airway, Extra Corporeal Life Support (ECLS), intubation for Upper Airway Obstruction, Do Not Resuscitate orders, severe chronic respiratory failure, spinal cord injury above lumbar region, cyanotic heart disease (unrepaired or palliated)) OR\nConditions precluding the use of permissive hypercapnia or hypoxemia (i.e. intracranial hypertension, severe pulmonary hypertension)\nPrimary Attending physician refuses to enroll the patient"
+        ],
+        "MinimumAge": [
+          "1 Month"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Chicago",
+          "Indianapolis",
+          "Hershey",
+          "Salt Lake City",
+          "Madison",
+          "Milwaukee",
+          "Montréal",
+          "Roma"
+        ],
+        "LocationFacility": [
+          "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "Riley Hospital for Children",
+          "Penn State University",
+          "University of Utah",
+          "University of Wisconsin-Madison",
+          "Children's Hospital of Wisconsin",
+          "CHU Sainte-Justine",
+          "Ospedale Pediatrico Bambino Gesu"
+        ],
+        "LocationState": [
+          "Illinois",
+          "Indiana",
+          "Pennsylvania",
+          "Utah",
+          "Wisconsin",
+          "Wisconsin",
+          "Quebec"
+        ],
+        "LocationZip": [
+          "60611",
+          "46202",
+          "17033",
+          "84112",
+          "53715",
+          "53226"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Lazaro Sanchez-Pinto",
+          "Samer Abu-Sultaneh",
+          "Ben White",
+          "Anna Hubbard",
+          "Awni Al-Subu",
+          "Prakadeshwari Rajapreyar",
+          "Philippe Jouvet",
+          "Fabrizio Chiusolo"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Previous clinical trials in adults with acute respiratory distress syndrome (ARDS) have demonstrated that ventilator management choices can improve Intensive Care Unit (ICU) mortality and shorten time on mechanical ventilation. This study seeks to scale an established Clinical Decision Support (CDS) tool to facilitate dissemination and implementation of evidence-based research in mechanical ventilation of infants and children with pediatric ARDS (PARDS).\n\nThis will be accomplished by using CDS tools developed and deployed in Children's Hospital Los Angeles (CHLA) which are based on the best available pediatric evidence, and are currently being used in an NHLBI funded single center randomized controlled trial (NCT03266016, PI: Khemani). Without CDS, there is significant variability in ventilator management of PARDS patients both between and within Pediatric ICUs (PICUs), but clinicians are willing to accept CDS recommendations. The CDS tool will be deployed in multiple PICUs, targeting enrollment of up to 180 children with PARDS. Study hypotheses:\n\nThe CDS tool in will be implementable in nearly all participating sites\nThere will be > 80% compliance with CDS recommendations and\nThe investigators can implement automatic data capture and entry in many of the ICUs\n\nOnce feasibility of this CDS tool is demonstrated, a multi-center validation study will be designed, which seeks to determine whether the CDS can result in a significant reduction in length of mechanical ventilation (LMV)."
+        ],
+        "DetailedDescription": [
+          "The central hypothesis is that CDS will help standardize ventilator management consistent with evidence-based recommendations leading to shorter LMV by limiting VILI (Ventilator Induced Lung Injury), preventing VIDD (Ventilator Induced Diaphragm Dysfunction) and allowing earlier recognition that patients are ready for liberation from the ventilator. However, key questions must be addressed prior to wide dissemination of this CDS tool:\n\nSpecific Aim 1: To assess the feasibility of implementing a web-based, de-identified CDS tool for MV in pediatric ARDS in multiple PICUs. Hypothesis: this CDS tool will be implementable in all PICUs to function consistent with each hospital's specific Information Technology (IT) capabilities.\n\nSpecific Aim 2: To assess the acceptability and compliance with recommendations from the CDS tool related to oxygenation, ventilation, weaning and extubation readiness testing in PARDS patients at each of the participating PICUs (anticipated 20 patients enrolled per site). Hypothesis: over time, adherence with recommendations in each of these domains will exceed 80% in all PICUs.\n\nSpecific Aim 3: To implement methods for automated data capture within CDS to provide the right information, to the right person, using the right format, in the right channel and at the right time during workflow (\"CDS Five Rights\") framework, which can be adapted to the individual IT capabilities at each hospital. Hypothesis: Over 90% of necessary data can be pulled into the CDS in an automated fashion in sites which have access to electronic data capture of ventilator settings and blood gases.\n\nPatients will be managed on the eVentilator protocol (the CDS tool), through the acute, stable and weaning phases of mechanical ventilation, including Spontaneous Breathing tests (SBTs) and Extubation Readiness tests.\n\nData will be qualitatively assessed for implementation barriers. Acceptance and rejection and mode stratification will be examined. Data needed for the CDS protocol will be available electronically or can be interfaced through the bedside monitor.\n\nPatients will be on the CDS protocol, as intent to treat, while patient is on invasive mechanical ventilation, capped at 28 days, limitation of care, or death, whichever comes first."
+        ]
+      },
+      {
+        "Rank": 369,
+        "NCTId": [
           "NCT02840409"
         ],
         "OfficialTitle": [
@@ -23723,7 +23811,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 369,
+        "Rank": 370,
         "NCTId": [
           "NCT04114539"
         ],
@@ -24253,7 +24341,7 @@
         ]
       },
       {
-        "Rank": 370,
+        "Rank": 371,
         "NCTId": [
           "NCT03199053"
         ],
@@ -24912,7 +25000,7 @@
         ]
       },
       {
-        "Rank": 371,
+        "Rank": 372,
         "NCTId": [
           "NCT02650401"
         ],
@@ -25091,7 +25179,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 372,
+        "Rank": 373,
         "NCTId": [
           "NCT03275402"
         ],
@@ -25183,7 +25271,7 @@
         ]
       },
       {
-        "Rank": 373,
+        "Rank": 374,
         "NCTId": [
           "NCT03363763"
         ],
@@ -25286,7 +25374,7 @@
         ]
       },
       {
-        "Rank": 374,
+        "Rank": 375,
         "NCTId": [
           "NCT03312751"
         ],
@@ -25512,7 +25600,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 375,
+        "Rank": 376,
         "NCTId": [
           "NCT04351893"
         ],
@@ -25612,7 +25700,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 376,
+        "Rank": 377,
         "NCTId": [
           "NCT04218851"
         ],
@@ -25772,7 +25860,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 377,
+        "Rank": 378,
         "NCTId": [
           "NCT04015141"
         ],
@@ -25946,7 +26034,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 378,
+        "Rank": 379,
         "NCTId": [
           "NCT02134301"
         ],
@@ -26037,7 +26125,7 @@
         ]
       },
       {
-        "Rank": 379,
+        "Rank": 380,
         "NCTId": [
           "NCT01500551"
         ],
@@ -26537,7 +26625,7 @@
         ]
       },
       {
-        "Rank": 380,
+        "Rank": 381,
         "NCTId": [
           "NCT04578756"
         ],
@@ -26680,7 +26768,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 381,
+        "Rank": 382,
         "NCTId": [
           "NCT03958877"
         ],
@@ -26926,7 +27014,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 383,
         "NCTId": [
           "NCT03492177"
         ],
@@ -27108,7 +27196,7 @@
         ]
       },
       {
-        "Rank": 383,
+        "Rank": 384,
         "NCTId": [
           "NCT04238819"
         ],
@@ -27225,7 +27313,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 384,
+        "Rank": 385,
         "NCTId": [
           "NCT04200352"
         ],
@@ -27323,7 +27411,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 386,
         "NCTId": [
           "NCT03406507"
         ],
@@ -27379,7 +27467,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 386,
+        "Rank": 387,
         "NCTId": [
           "NCT02862132"
         ],
@@ -27496,7 +27584,7 @@
         ]
       },
       {
-        "Rank": 387,
+        "Rank": 388,
         "NCTId": [
           "NCT03206021"
         ],
