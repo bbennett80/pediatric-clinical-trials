@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.02",
-    "DataVrs": "2021:03:18 22:20:36.369",
+    "DataVrs": "2021:03:21 22:16:46.319",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 371426,
-    "NStudiesFound": 389,
+    "NStudiesAvail": 371599,
+    "NStudiesFound": 390,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 389,
+    "NStudiesReturned": 390,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -1483,6 +1483,59 @@
       {
         "Rank": 27,
         "NCTId": [
+          "NCT04810130"
+        ],
+        "OfficialTitle": [
+          "Effect of Repetitive Soccer Heading on Biomechanics and Physiological Measures"
+        ],
+        "Condition": [
+          "Repeated Head Impacts"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nMales or females ages 13 to 18.\nActively participating on a competitive soccer team.\nAt least 1 year of soccer heading experience.\nParental/guardian permission (informed consent) and child assent.\n\nExclusion Criteria:\n\nSubject sustained a concussion or spinal injury within the past 6 months or still has active symptoms from a previous injury.\nInability to exercise because of lower-extremity orthopedic injury or significant vestibular or visual dysfunction.\nCurrently taking medications that can affect autonomic function.\nPlays exclusively the goalkeeper position and does not regularly head the ball.\nParental/guardian permission (informed consent) not obtainable or not provided.\nParents/guardians or subjects who, in the opinion of the Investigator, may be non-compliant with study schedules or procedures.\nSubject has fixed orthodontia on upper teeth.\nCannot understand English."
+        ],
+        "MinimumAge": [
+          "13 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Philadelphia"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Philadelphia"
+        ],
+        "LocationState": [
+          "Pennsylvania"
+        ],
+        "LocationZip": [
+          "19104"
+        ],
+        "LocationContactEMail": [
+          "ARBOGAST@chop.edu",
+          "masterc@chop.edu"
+        ],
+        "LocationContactName": [
+          "Kristy B Arbogast, PhD",
+          "Christina L Master, MD",
+          "Kristy B Arbogast, PhD",
+          "Christina L Master, MD"
+        ],
+        "LocationContactPhone": [
+          "215-590-6075",
+          "215-590-1527"
+        ],
+        "BriefSummary": [
+          "There is growing concern for the resulting neurological and physiological outcomes from repeated head impacts in sports that do not manifest into traditional concussion symptoms. Specifically, there is evidence of immediate physiological deficits following controlled soccer heading. This study will compare the physiological changes of adolescents completing a set of soccer headers to those randomized to a set of soccer kicks to evaluate the effect of repetitive head impacts."
+        ],
+        "DetailedDescription": [
+          "There is limited data relating head impact biomechanics to neurological outcomes in humans. Concussion occurs from rotational loading of the head giving rise to diffuse stresses and strains in the brain tissue leading to autonomic and physiological dysfunction. Repeated head loading is common in contact sports and an integral part of soccer. It is unknown whether the same biomechanical forces from lower severity head impacts such as typical soccer heading cause temporary physiological deficits as well. Advancement of objective physiological function assessment devices allow measurement of neurological effects in the absence of diagnosed concussion. Recent soccer heading studies have evaluated neurophysiological changes pre- and post-repetitive heading. These studies have found conflicting results for the effect on neurocognitive performance immediately following a bout of heading, but consistent changes were observed in measures of vestibular balance, ocular function, and neurochemical biomarkers.\n\nSoccer heading biomechanics studies showed that females experienced higher severity head loading, and in equivalent sports such as soccer and basketball, females have higher concussion rates. This study will compare the physiological changes of male and female adolescents completing one of two soccer heading paradigms to those randomized to kicking to evaluate the effect of repetitive head impacts. This study will relate biomechanical measures of head loading with physiological function changes associated with repeated head impacts, and compare sex-differences in biomechanical measures and physiological changes."
+        ]
+      },
+      {
+        "Rank": 28,
+        "NCTId": [
           "NCT04784455"
         ],
         "OfficialTitle": [
@@ -1525,7 +1578,7 @@
         ]
       },
       {
-        "Rank": 28,
+        "Rank": 29,
         "NCTId": [
           "NCT04771338"
         ],
@@ -1578,7 +1631,7 @@
         ]
       },
       {
-        "Rank": 29,
+        "Rank": 30,
         "NCTId": [
           "NCT04752501"
         ],
@@ -1628,7 +1681,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 30,
+        "Rank": 31,
         "NCTId": [
           "NCT04738539"
         ],
@@ -1679,7 +1732,7 @@
         ]
       },
       {
-        "Rank": 31,
+        "Rank": 32,
         "NCTId": [
           "NCT04735874"
         ],
@@ -1728,7 +1781,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 32,
+        "Rank": 33,
         "NCTId": [
           "NCT04706364"
         ],
@@ -1780,7 +1833,7 @@
         ]
       },
       {
-        "Rank": 33,
+        "Rank": 34,
         "NCTId": [
           "NCT04685343"
         ],
@@ -1826,7 +1879,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 34,
+        "Rank": 35,
         "NCTId": [
           "NCT04675567"
         ],
@@ -1877,7 +1930,7 @@
         ]
       },
       {
-        "Rank": 35,
+        "Rank": 36,
         "NCTId": [
           "NCT04671186"
         ],
@@ -1928,7 +1981,7 @@
         ]
       },
       {
-        "Rank": 36,
+        "Rank": 37,
         "NCTId": [
           "NCT04654260"
         ],
@@ -1985,7 +2038,7 @@
         ]
       },
       {
-        "Rank": 37,
+        "Rank": 38,
         "NCTId": [
           "NCT04639336"
         ],
@@ -2035,7 +2088,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 38,
+        "Rank": 39,
         "NCTId": [
           "NCT04638595"
         ],
@@ -2084,7 +2137,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 39,
+        "Rank": 40,
         "NCTId": [
           "NCT04637802"
         ],
@@ -2135,7 +2188,56 @@
         ]
       },
       {
-        "Rank": 40,
+        "Rank": 41,
+        "NCTId": [
+          "NCT04582682"
+        ],
+        "OfficialTitle": [
+          "Poly-omic Predictors of Symptom Duration and Recovery for Adolescent Concussion"
+        ],
+        "Condition": [
+          "Concussion, Mild"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPresence of mTBI: defined by criteria from the Berlin Consensus Statement and WHO. Assessment for mTBI status be performed by a licensed clinician per the 2018 CDC guidelines.\nAge at enrollment: 13-18 years of age (inclusive).\n\nExclusion Criteria:\n\n> 48 hours after initial mTBI\nGlasgow Coma Scale score of 13 or less\nPrevious moderate-to-severe TBI requiring overnight hospitalization\nUnresolved symptoms from previous concussion, or any concussion within the last 3 months\nAbbreviated Injury Scale (AIS) score > 3 (to reduce confounding from poly-trauma)\nPsychiatric illness requiring previous hospitalization;\nNeurological condition (e.g. epilepsy, hydrocephalus) or abnormality on neuroimaging (if performed)\nIntellectual disability that prevents ability to provide informed assent\nPregnancy\nActive substance use/dependence\nPrevious neurosurgery\nNon-fluency in English\nUpper respiratory infection\nPeriodontal infection\nInjury to the oropharynx\nPreviously enrolled in the same study\nInability to complete follow-up assessments"
+        ],
+        "MinimumAge": [
+          "13 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Hershey"
+        ],
+        "LocationFacility": [
+          "Penn State Milton S. Hershey Medical Center"
+        ],
+        "LocationState": [
+          "Pennsylvania"
+        ],
+        "LocationZip": [
+          "17033"
+        ],
+        "LocationContactEMail": [
+          "bharding@pennstatehealth.psu.edu"
+        ],
+        "LocationContactName": [
+          "Brennen Harding, MS",
+          "Steven Hicks, MD, PhD"
+        ],
+        "LocationContactPhone": [
+          "717-531-0003"
+        ],
+        "BriefSummary": [
+          "The purpose of this study is to identify changes in salivary micro ribonucleic acid (miRNA) levels that are predictive of symptom duration and character following mild traumatic brain injury (mTBI) in children."
+        ],
+        "DetailedDescription": [
+          "The objective of this multi-center study is to refine and validate a saliva RNA assessment for adolescent concussion, yielding a non-invasive test that predicts duration and character of symptoms, and helps guide clinical decisions. To accomplish this goal, the study will enroll 750 adolescents with mTBI. Saliva RNA levels and symptoms will be assessed at <48 hours, 7 days, and 30 days post-injury. Aim 1 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 7) to predict PPCS 30 days after mTBI (defined by persistence of ≥3 symptoms on day 30, compared with pre-injury state on the Post-Concussion Symptom Inventory; PCSI). RNA accuracy will be compared to a validated clinical prediction tool (5p tool). Aim 2 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 30) to identify recovered participants on day 30. RNA accuracy will be compared to change in composite score on a standardized reaction time test (from <48hrs to day 30). Completion of these aims will yield an objective biologic test that can be used for prognosis at the time of mTBI, and to aid clinical decisions regarding return-to-learn or return-to-play."
+        ]
+      },
+      {
+        "Rank": 42,
         "NCTId": [
           "NCT04569708"
         ],
@@ -2191,7 +2293,7 @@
         ]
       },
       {
-        "Rank": 41,
+        "Rank": 43,
         "NCTId": [
           "NCT04551482"
         ],
@@ -2238,7 +2340,7 @@
         ]
       },
       {
-        "Rank": 42,
+        "Rank": 44,
         "NCTId": [
           "NCT04537390"
         ],
@@ -2285,7 +2387,7 @@
         ]
       },
       {
-        "Rank": 43,
+        "Rank": 45,
         "NCTId": [
           "NCT04529707"
         ],
@@ -2333,7 +2435,7 @@
         ]
       },
       {
-        "Rank": 44,
+        "Rank": 46,
         "NCTId": [
           "NCT04528173"
         ],
@@ -2388,7 +2490,7 @@
         ]
       },
       {
-        "Rank": 45,
+        "Rank": 47,
         "NCTId": [
           "NCT04522778"
         ],
@@ -2440,7 +2542,7 @@
         ]
       },
       {
-        "Rank": 46,
+        "Rank": 48,
         "NCTId": [
           "NCT04518397"
         ],
@@ -2489,7 +2591,7 @@
         ]
       },
       {
-        "Rank": 47,
+        "Rank": 49,
         "NCTId": [
           "NCT04516694"
         ],
@@ -2537,7 +2639,7 @@
         ]
       },
       {
-        "Rank": 48,
+        "Rank": 50,
         "NCTId": [
           "NCT04488523"
         ],
@@ -2586,7 +2688,7 @@
         ]
       },
       {
-        "Rank": 49,
+        "Rank": 51,
         "NCTId": [
           "NCT04482556"
         ],
@@ -2635,7 +2737,7 @@
         ]
       },
       {
-        "Rank": 50,
+        "Rank": 52,
         "NCTId": [
           "NCT04481243"
         ],
@@ -2681,7 +2783,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 51,
+        "Rank": 53,
         "NCTId": [
           "NCT04472286"
         ],
@@ -2744,7 +2846,7 @@
         ]
       },
       {
-        "Rank": 52,
+        "Rank": 54,
         "NCTId": [
           "NCT04462861"
         ],
@@ -2791,7 +2893,7 @@
         ]
       },
       {
-        "Rank": 53,
+        "Rank": 55,
         "NCTId": [
           "NCT04449042"
         ],
@@ -2836,7 +2938,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 54,
+        "Rank": 56,
         "NCTId": [
           "NCT04446910"
         ],
@@ -2884,7 +2986,7 @@
         ]
       },
       {
-        "Rank": 55,
+        "Rank": 57,
         "NCTId": [
           "NCT04403633"
         ],
@@ -2932,7 +3034,7 @@
         ]
       },
       {
-        "Rank": 56,
+        "Rank": 58,
         "NCTId": [
           "NCT04398862"
         ],
@@ -2982,7 +3084,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 57,
+        "Rank": 59,
         "NCTId": [
           "NCT04390035"
         ],
@@ -3030,7 +3132,7 @@
         ]
       },
       {
-        "Rank": 58,
+        "Rank": 60,
         "NCTId": [
           "NCT04377672"
         ],
@@ -3080,7 +3182,7 @@
         ]
       },
       {
-        "Rank": 59,
+        "Rank": 61,
         "NCTId": [
           "NCT04365556"
         ],
@@ -3132,7 +3234,56 @@
         ]
       },
       {
-        "Rank": 60,
+        "Rank": 62,
+        "NCTId": [
+          "NCT04360395"
+        ],
+        "OfficialTitle": [
+          "Igniting Mobility in Adolescents and Young Adults With Cerebral Palsy"
+        ],
+        "Condition": [
+          "Cerebral Palsy"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nFor Cerebral Palsy participants:\n\nCerebral Palsy diagnosis\n\nFor Non-Cerebral Palsy Controls:\n\nNo known atypical neurodevelopment (e.g autism, Down Syndrome, ADHD, etc.)\n\nExclusion Criteria:\n\nNo orthopedic surgery in the last 6 months or metal in their body that would preclude the use of an MRI."
+        ],
+        "MinimumAge": [
+          "13 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Boys Town"
+        ],
+        "LocationFacility": [
+          "Boys Town National Research Hospital"
+        ],
+        "LocationState": [
+          "Nebraska"
+        ],
+        "LocationZip": [
+          "68010"
+        ],
+        "LocationContactEMail": [
+          "max.kurz@boystown.org"
+        ],
+        "LocationContactName": [
+          "Max J Kurz, PhD",
+          "Max J Kurz, PhD"
+        ],
+        "LocationContactPhone": [
+          "402-559-6415"
+        ],
+        "BriefSummary": [
+          "The study design will consist of a cohort of adolescents and young adults with cerebral palsy (CP) that will undergo a gait training protocol. All participants will complete MEG or EEG baseline brain imaging measures of their sensorimotor cortical activity, MRI brain/spinal cord imaging (previous MRI or template brain may be substituted), neurophysiological tests of the spinal cord H-reflex, and a series of mobility clinical tests and cognitive tests. Participants with metal in their body that would interfere with the MEG (e.g., braces on teeth, permanent retainer) will not undergo the MEG tests but will undergo the EEG assessments. Those who complete the MEG assessments will not undergo the EEG assessments.\n\nAfter completing the baseline tests, the participants with CP will undergo the therapeutic gait training. After completing all of the therapeutic gait training sessions, the participants with CP will repeat the same assessments that were completed at baseline.\n\nSeparately, a cohort of neurotypical adolescents and young adults will also complete the baseline assessments. The neurotypical participants will not undergo the therapeutic gait training, but will be used as a normative group for interpreting if the changes seen in the participants with CP after therapy are in fact moving the system toward a normative state."
+        ],
+        "DetailedDescription": [
+          "Cerebral palsy (CP) results from a perinatal brain injury and is one of the most prevalent and costly pediatric neurologic conditions in the United States that often results in mobility deficits. The investigator's extensive experimental work has been focused on developing a therapeutic gait training protocol that will improve the long-term mobility of adolescents and young adults with CP. Despite the major breakthroughs, it is apparent across the investigations that some patients have vast improvements in their mobility after treatment, while others are clearly non-responders. This response variability represents one of the major Gordian knots in the treatment outcomes seen in adolescents and young adults with CP. The investigator will address this knowledge gap with a multimodal approach that blends the investigator's expertise in MEG/EEG brain imaging, MRI spinal cord imaging, and assessments of the spinal cord interneuronal circuitry to probe the neurophysiological differences in participants that are classified as responders and non-responders after therapeutic gait training. The Specific Aims of this study will: (1) identify if responders and non-responders have differences in the strength of the sensorimotor cortical oscillations involved in the planning and execution of a leg motor action, (2) determine if responders and non-responders have differences in the neural synchrony within the somatosensory cortices, following stimulation of the foot mechanoreceptors, and (3) decipher if responders and non-responders have differences in the spinal cord microstructure and circuitry dynamics. (4) Secondary aim: assess cognitive related changes induced via physical therapy. Briefly, the study design consists of a cohort of adolescents and young adults with CP that will initially undergo MEG/EEG brain imaging, MRI spinal cord imaging, neurophysiological tests of the spinal cord interneuronal circuitry, cognitive testing, and clinical mobility assessments. After completing the baseline tests, the participants will undergo the therapeutic gait training protocol. Upon completion of the treatment program, the participants will repeat the same assessments that were completed at baseline. Separation of the participants into responders and non-responders to treatment will be based on the criteria for a clinically relevant change in the 10-meter walking speed test. The new data derived from this project will provide unparalleled insight on the potential neurophysiological origins of the diverse mobility outcomes seen in adolescents and young adults with CP after treatment. Finally, an additional cohort of neurotypical adolescents and young adults of similar age and sex will also complete the mobility, MEG/EEG, spinal cord imaging, and Hoffmann reflex protocols for comparative purposes."
+        ]
+      },
+      {
+        "Rank": 63,
         "NCTId": [
           "NCT04357132"
         ],
@@ -3183,7 +3334,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 61,
+        "Rank": 64,
         "NCTId": [
           "NCT04351958"
         ],
@@ -3231,7 +3382,7 @@
         ]
       },
       {
-        "Rank": 62,
+        "Rank": 65,
         "NCTId": [
           "NCT04351776"
         ],
@@ -3282,7 +3433,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 63,
+        "Rank": 66,
         "NCTId": [
           "NCT04342000"
         ],
@@ -3333,7 +3484,7 @@
         ]
       },
       {
-        "Rank": 64,
+        "Rank": 67,
         "NCTId": [
           "NCT04338048"
         ],
@@ -3373,7 +3524,7 @@
         ]
       },
       {
-        "Rank": 65,
+        "Rank": 68,
         "NCTId": [
           "NCT04322734"
         ],
@@ -3427,7 +3578,7 @@
         ]
       },
       {
-        "Rank": 66,
+        "Rank": 69,
         "NCTId": [
           "NCT04314635"
         ],
@@ -3473,7 +3624,7 @@
         ]
       },
       {
-        "Rank": 67,
+        "Rank": 70,
         "NCTId": [
           "NCT04313192"
         ],
@@ -3525,7 +3676,7 @@
         ]
       },
       {
-        "Rank": 68,
+        "Rank": 71,
         "NCTId": [
           "NCT04312919"
         ],
@@ -3572,7 +3723,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 69,
+        "Rank": 72,
         "NCTId": [
           "NCT04309786"
         ],
@@ -3623,7 +3774,7 @@
         ]
       },
       {
-        "Rank": 70,
+        "Rank": 73,
         "NCTId": [
           "NCT04299191"
         ],
@@ -3671,7 +3822,7 @@
         ]
       },
       {
-        "Rank": 71,
+        "Rank": 74,
         "NCTId": [
           "NCT04298099"
         ],
@@ -3719,7 +3870,7 @@
         ]
       },
       {
-        "Rank": 72,
+        "Rank": 75,
         "NCTId": [
           "NCT04290754"
         ],
@@ -3770,7 +3921,7 @@
         ]
       },
       {
-        "Rank": 73,
+        "Rank": 76,
         "NCTId": [
           "NCT04288206"
         ],
@@ -3815,7 +3966,7 @@
         ]
       },
       {
-        "Rank": 74,
+        "Rank": 77,
         "NCTId": [
           "NCT04285879"
         ],
@@ -3865,7 +4016,7 @@
         ]
       },
       {
-        "Rank": 75,
+        "Rank": 78,
         "NCTId": [
           "NCT04285307"
         ],
@@ -3912,7 +4063,7 @@
         ]
       },
       {
-        "Rank": 76,
+        "Rank": 79,
         "NCTId": [
           "NCT04264143"
         ],
@@ -3966,7 +4117,7 @@
         ]
       },
       {
-        "Rank": 77,
+        "Rank": 80,
         "NCTId": [
           "NCT04254796"
         ],
@@ -4010,7 +4161,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 78,
+        "Rank": 81,
         "NCTId": [
           "NCT04250844"
         ],
@@ -4056,7 +4207,7 @@
         ]
       },
       {
-        "Rank": 79,
+        "Rank": 82,
         "NCTId": [
           "NCT04249219"
         ],
@@ -4098,7 +4249,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 80,
+        "Rank": 83,
         "NCTId": [
           "NCT04247100"
         ],
@@ -4148,7 +4299,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 81,
+        "Rank": 84,
         "NCTId": [
           "NCT04246112"
         ],
@@ -4198,7 +4349,7 @@
         ]
       },
       {
-        "Rank": 82,
+        "Rank": 85,
         "NCTId": [
           "NCT04242602"
         ],
@@ -4246,7 +4397,7 @@
         ]
       },
       {
-        "Rank": 83,
+        "Rank": 86,
         "NCTId": [
           "NCT04222101"
         ],
@@ -4299,7 +4450,7 @@
         ]
       },
       {
-        "Rank": 84,
+        "Rank": 87,
         "NCTId": [
           "NCT04219995"
         ],
@@ -4348,7 +4499,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 85,
+        "Rank": 88,
         "NCTId": [
           "NCT04217694"
         ],
@@ -4398,7 +4549,7 @@
         ]
       },
       {
-        "Rank": 86,
+        "Rank": 89,
         "NCTId": [
           "NCT04211935"
         ],
@@ -4447,7 +4598,7 @@
         ]
       },
       {
-        "Rank": 87,
+        "Rank": 90,
         "NCTId": [
           "NCT04208256"
         ],
@@ -4497,7 +4648,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 88,
+        "Rank": 91,
         "NCTId": [
           "NCT04208243"
         ],
@@ -4546,7 +4697,7 @@
         ]
       },
       {
-        "Rank": 89,
+        "Rank": 92,
         "NCTId": [
           "NCT04205604"
         ],
@@ -4590,7 +4741,7 @@
         ]
       },
       {
-        "Rank": 90,
+        "Rank": 93,
         "NCTId": [
           "NCT04201106"
         ],
@@ -4636,7 +4787,7 @@
         ]
       },
       {
-        "Rank": 91,
+        "Rank": 94,
         "NCTId": [
           "NCT04199247"
         ],
@@ -4689,7 +4840,7 @@
         ]
       },
       {
-        "Rank": 92,
+        "Rank": 95,
         "NCTId": [
           "NCT04190225"
         ],
@@ -4741,7 +4892,7 @@
         ]
       },
       {
-        "Rank": 93,
+        "Rank": 96,
         "NCTId": [
           "NCT04186429"
         ],
@@ -4791,7 +4942,7 @@
         ]
       },
       {
-        "Rank": 94,
+        "Rank": 97,
         "NCTId": [
           "NCT04180358"
         ],
@@ -4841,7 +4992,7 @@
         ]
       },
       {
-        "Rank": 95,
+        "Rank": 98,
         "NCTId": [
           "NCT04174001"
         ],
@@ -4887,7 +5038,7 @@
         ]
       },
       {
-        "Rank": 96,
+        "Rank": 99,
         "NCTId": [
           "NCT04170231"
         ],
@@ -4930,7 +5081,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 97,
+        "Rank": 100,
         "NCTId": [
           "NCT04166526"
         ],
@@ -4976,7 +5127,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 98,
+        "Rank": 101,
         "NCTId": [
           "NCT04164966"
         ],
@@ -5022,7 +5173,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 99,
+        "Rank": 102,
         "NCTId": [
           "NCT04158245"
         ],
@@ -5071,7 +5222,7 @@
         ]
       },
       {
-        "Rank": 100,
+        "Rank": 103,
         "NCTId": [
           "NCT04154865"
         ],
@@ -5119,7 +5270,7 @@
         ]
       },
       {
-        "Rank": 101,
+        "Rank": 104,
         "NCTId": [
           "NCT04153994"
         ],
@@ -5160,7 +5311,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 102,
+        "Rank": 105,
         "NCTId": [
           "NCT04148560"
         ],
@@ -5212,7 +5363,7 @@
         ]
       },
       {
-        "Rank": 103,
+        "Rank": 106,
         "NCTId": [
           "NCT04127331"
         ],
@@ -5258,58 +5409,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 104,
-        "NCTId": [
-          "NCT04125004"
-        ],
-        "OfficialTitle": [
-          "Evaluation of Technology-Based Distractions In Pediatric Patients During General Surgery Minor Procedures"
-        ],
-        "Condition": [
-          "Virtual Reality",
-          "General Anesthesia"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nless than 18 years of age\nparental consent/patient assent\nundergoing minor procedure(s)\n\nExclusion Criteria:\n\nparticipants and patients who do not consent\nhave significant cognitive impairment\nhave a history of severe motion sickness\ncurrently have nausea\nhistory of seizures or currently experiencing seizures\nhave visual or auditory impairment\nclinically unstable or require urgent/emergent intervention and/or American Society of Anesthesiologist class 4 or 5\nhistory of claustrophobia\nGlasgow Coma Scale <15\ncurrently taking anxiety medication\ncurrently taking narcotics\nfacial trauma"
-        ],
-        "MinimumAge": [
-          "7 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Palo Alto"
-        ],
-        "LocationFacility": [
-          "Lucile Packard Children's Hospital"
-        ],
-        "LocationState": [
-          "California"
-        ],
-        "LocationZip": [
-          "94305"
-        ],
-        "LocationContactEMail": [
-          "sdchao1@stanford.edu",
-          "sdchao1@stanford.edu"
-        ],
-        "LocationContactName": [
-          "Stephanie D Chao, MD",
-          "Stephanie D Chao, MD"
-        ],
-        "LocationContactPhone": [
-          "650-723-6439"
-        ],
-        "BriefSummary": [
-          "This project is looking to use virtual reality for minor general surgery procedures in addition to local anesthesia instead of general anesthesia."
-        ],
-        "DetailedDescription": [
-          "Study population. Patients ages 7-18 undergoing minor surgical procedures at Lucile Packard Children's Hospital will be recruited. Minor surgical procedures include hormone implant placement/removal/exchange, cecostomy tube exchange, incision and drainage of superficial soft tissue abscesses excluding the perineum and buttock, excision of benign masses <2cm on the extremity (e.g. sebaceous cyst, pilomatricoma, lipoma, etc), and foreign body removal from superficial wounds. Exclusion criteria include those with significant cognitive impairment, history of motion sickness, history of seizures, Glasgow Coma Scale (GCS) <15, currently taking anxiety medication or narcotics, facial trauma, clinically unstable or require urgent/emergent intubation, claustrophobia, and visual or auditory impairment. The investigators aim to enroll at least 200 patients into the study.\n\nIntervention. Research coordinators will recruit patients and their families prior to their schedule procedures. Informed consent and assent will be obtained from participants and their caregivers when a patient is a minor. Demographic information will be collected from all participants. Patients will complete pre-procedural survey for pain and anxiety. Parents will complete a survey that documents their perception of their child's anxiety level. Patients will be randomly assigned to a treatment arm.\n\nPatients assigned to the general anesthesia arm will have a child life specialist in the pre-procedural period per hospital routine. Anesthesia will be administered at the discretion of the anesthesiologist. Once the procedure is completed, the patient will recover and be monitored in the post-anesthesia care unit (PACU) per hospital guidelines.\n\nPatients assigned to the virtual reality arm will be instructed on how to use the handheld system. A trained research coordinator or child life specialist will be with the patient during the procedure to help with any issues that may arise. They will document any interfering behaviors during the procedure. After the procedure, the patient will be monitored in the PACU per hospital guidelines.\n\nAll patients will complete the post-procedural survey for pain and anxiety. Patients, parents and the surgeon will also complete satisfaction surveys."
-        ]
-      },
-      {
-        "Rank": 105,
+        "Rank": 107,
         "NCTId": [
           "NCT04118712"
         ],
@@ -5354,7 +5454,7 @@
         ]
       },
       {
-        "Rank": 106,
+        "Rank": 108,
         "NCTId": [
           "NCT04111991"
         ],
@@ -5400,7 +5500,7 @@
         ]
       },
       {
-        "Rank": 107,
+        "Rank": 109,
         "NCTId": [
           "NCT04111471"
         ],
@@ -5440,7 +5540,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 108,
+        "Rank": 110,
         "NCTId": [
           "NCT04110730"
         ],
@@ -5489,7 +5589,7 @@
         ]
       },
       {
-        "Rank": 109,
+        "Rank": 111,
         "NCTId": [
           "NCT04108988"
         ],
@@ -5538,7 +5638,7 @@
         ]
       },
       {
-        "Rank": 110,
+        "Rank": 112,
         "NCTId": [
           "NCT04104841"
         ],
@@ -5589,7 +5689,7 @@
         ]
       },
       {
-        "Rank": 111,
+        "Rank": 113,
         "NCTId": [
           "NCT04099810"
         ],
@@ -5635,7 +5735,7 @@
         ]
       },
       {
-        "Rank": 112,
+        "Rank": 114,
         "NCTId": [
           "NCT04099797"
         ],
@@ -5687,7 +5787,7 @@
         ]
       },
       {
-        "Rank": 113,
+        "Rank": 115,
         "NCTId": [
           "NCT04089332"
         ],
@@ -5735,7 +5835,7 @@
         ]
       },
       {
-        "Rank": 114,
+        "Rank": 116,
         "NCTId": [
           "NCT04072159"
         ],
@@ -5777,7 +5877,7 @@
         ]
       },
       {
-        "Rank": 115,
+        "Rank": 117,
         "NCTId": [
           "NCT04064684"
         ],
@@ -5824,7 +5924,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 116,
+        "Rank": 118,
         "NCTId": [
           "NCT04060303"
         ],
@@ -5870,7 +5970,7 @@
         ]
       },
       {
-        "Rank": 117,
+        "Rank": 119,
         "NCTId": [
           "NCT04046562"
         ],
@@ -5920,7 +6020,7 @@
         ]
       },
       {
-        "Rank": 118,
+        "Rank": 120,
         "NCTId": [
           "NCT04039750"
         ],
@@ -5966,7 +6066,7 @@
         ]
       },
       {
-        "Rank": 119,
+        "Rank": 121,
         "NCTId": [
           "NCT04032990"
         ],
@@ -6014,7 +6114,7 @@
         ]
       },
       {
-        "Rank": 120,
+        "Rank": 122,
         "NCTId": [
           "NCT04027075"
         ],
@@ -6063,7 +6163,7 @@
         ]
       },
       {
-        "Rank": 121,
+        "Rank": 123,
         "NCTId": [
           "NCT04017975"
         ],
@@ -6112,7 +6212,7 @@
         ]
       },
       {
-        "Rank": 122,
+        "Rank": 124,
         "NCTId": [
           "NCT04003012"
         ],
@@ -6158,7 +6258,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 123,
+        "Rank": 125,
         "NCTId": [
           "NCT03995394"
         ],
@@ -6206,7 +6306,7 @@
         ]
       },
       {
-        "Rank": 124,
+        "Rank": 126,
         "NCTId": [
           "NCT03992209"
         ],
@@ -6256,7 +6356,7 @@
         ]
       },
       {
-        "Rank": 125,
+        "Rank": 127,
         "NCTId": [
           "NCT03990870"
         ],
@@ -6304,7 +6404,7 @@
         ]
       },
       {
-        "Rank": 126,
+        "Rank": 128,
         "NCTId": [
           "NCT03985020"
         ],
@@ -6348,7 +6448,7 @@
         ]
       },
       {
-        "Rank": 127,
+        "Rank": 129,
         "NCTId": [
           "NCT03961854"
         ],
@@ -6388,7 +6488,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 128,
+        "Rank": 130,
         "NCTId": [
           "NCT03961061"
         ],
@@ -6439,7 +6539,7 @@
         ]
       },
       {
-        "Rank": 129,
+        "Rank": 131,
         "NCTId": [
           "NCT03954223"
         ],
@@ -6487,7 +6587,7 @@
         ]
       },
       {
-        "Rank": 130,
+        "Rank": 132,
         "NCTId": [
           "NCT03945747"
         ],
@@ -6545,7 +6645,7 @@
         ]
       },
       {
-        "Rank": 131,
+        "Rank": 133,
         "NCTId": [
           "NCT03942952"
         ],
@@ -6598,7 +6698,7 @@
         ]
       },
       {
-        "Rank": 132,
+        "Rank": 134,
         "NCTId": [
           "NCT03922451"
         ],
@@ -6640,7 +6740,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 133,
+        "Rank": 135,
         "NCTId": [
           "NCT03917290"
         ],
@@ -6694,7 +6794,7 @@
         ]
       },
       {
-        "Rank": 134,
+        "Rank": 136,
         "NCTId": [
           "NCT03911388"
         ],
@@ -6777,7 +6877,7 @@
         ]
       },
       {
-        "Rank": 135,
+        "Rank": 137,
         "NCTId": [
           "NCT03905031"
         ],
@@ -6838,7 +6938,7 @@
         ]
       },
       {
-        "Rank": 136,
+        "Rank": 138,
         "NCTId": [
           "NCT03896867"
         ],
@@ -6884,7 +6984,7 @@
         ]
       },
       {
-        "Rank": 137,
+        "Rank": 139,
         "NCTId": [
           "NCT03885154"
         ],
@@ -6926,7 +7026,7 @@
         ]
       },
       {
-        "Rank": 138,
+        "Rank": 140,
         "NCTId": [
           "NCT03882034"
         ],
@@ -6974,7 +7074,7 @@
         ]
       },
       {
-        "Rank": 139,
+        "Rank": 141,
         "NCTId": [
           "NCT03866707"
         ],
@@ -7025,7 +7125,7 @@
         ]
       },
       {
-        "Rank": 140,
+        "Rank": 142,
         "NCTId": [
           "NCT03866460"
         ],
@@ -7072,7 +7172,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 141,
+        "Rank": 143,
         "NCTId": [
           "NCT03861871"
         ],
@@ -7119,7 +7219,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 142,
+        "Rank": 144,
         "NCTId": [
           "NCT03860311"
         ],
@@ -7172,7 +7272,7 @@
         ]
       },
       {
-        "Rank": 143,
+        "Rank": 145,
         "NCTId": [
           "NCT03855553"
         ],
@@ -7226,7 +7326,7 @@
         ]
       },
       {
-        "Rank": 144,
+        "Rank": 146,
         "NCTId": [
           "NCT03831360"
         ],
@@ -7274,7 +7374,7 @@
         ]
       },
       {
-        "Rank": 145,
+        "Rank": 147,
         "NCTId": [
           "NCT03825341"
         ],
@@ -7324,7 +7424,7 @@
         ]
       },
       {
-        "Rank": 146,
+        "Rank": 148,
         "NCTId": [
           "NCT03812575"
         ],
@@ -7364,7 +7464,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 147,
+        "Rank": 149,
         "NCTId": [
           "NCT03812159"
         ],
@@ -7415,7 +7515,7 @@
         ]
       },
       {
-        "Rank": 148,
+        "Rank": 150,
         "NCTId": [
           "NCT03795818"
         ],
@@ -7466,7 +7566,7 @@
         ]
       },
       {
-        "Rank": 149,
+        "Rank": 151,
         "NCTId": [
           "NCT03781817"
         ],
@@ -7521,7 +7621,7 @@
         ]
       },
       {
-        "Rank": 150,
+        "Rank": 152,
         "NCTId": [
           "NCT03763591"
         ],
@@ -7564,7 +7664,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 151,
+        "Rank": 153,
         "NCTId": [
           "NCT03730194"
         ],
@@ -7617,7 +7717,7 @@
         ]
       },
       {
-        "Rank": 152,
+        "Rank": 154,
         "NCTId": [
           "NCT03729999"
         ],
@@ -7662,7 +7762,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 153,
+        "Rank": 155,
         "NCTId": [
           "NCT03721068"
         ],
@@ -7708,7 +7808,7 @@
         ]
       },
       {
-        "Rank": 154,
+        "Rank": 156,
         "NCTId": [
           "NCT03718234"
         ],
@@ -7760,7 +7860,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 155,
+        "Rank": 157,
         "NCTId": [
           "NCT03711318"
         ],
@@ -7806,7 +7906,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 156,
+        "Rank": 158,
         "NCTId": [
           "NCT03709472"
         ],
@@ -7860,7 +7960,7 @@
         ]
       },
       {
-        "Rank": 157,
+        "Rank": 159,
         "NCTId": [
           "NCT03709199"
         ],
@@ -7910,7 +8010,7 @@
         ]
       },
       {
-        "Rank": 158,
+        "Rank": 160,
         "NCTId": [
           "NCT03699007"
         ],
@@ -7964,7 +8064,7 @@
         ]
       },
       {
-        "Rank": 159,
+        "Rank": 161,
         "NCTId": [
           "NCT03675321"
         ],
@@ -8010,7 +8110,7 @@
         ]
       },
       {
-        "Rank": 160,
+        "Rank": 162,
         "NCTId": [
           "NCT03670849"
         ],
@@ -8058,7 +8158,7 @@
         ]
       },
       {
-        "Rank": 161,
+        "Rank": 163,
         "NCTId": [
           "NCT03665337"
         ],
@@ -8103,7 +8203,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 162,
+        "Rank": 164,
         "NCTId": [
           "NCT03653013"
         ],
@@ -8146,7 +8246,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 163,
+        "Rank": 165,
         "NCTId": [
           "NCT03648450"
         ],
@@ -8195,7 +8295,7 @@
         ]
       },
       {
-        "Rank": 164,
+        "Rank": 166,
         "NCTId": [
           "NCT03625011"
         ],
@@ -8247,7 +8347,7 @@
         ]
       },
       {
-        "Rank": 165,
+        "Rank": 167,
         "NCTId": [
           "NCT03584399"
         ],
@@ -8289,7 +8389,7 @@
         ]
       },
       {
-        "Rank": 166,
+        "Rank": 168,
         "NCTId": [
           "NCT03568708"
         ],
@@ -8340,7 +8440,7 @@
         ]
       },
       {
-        "Rank": 167,
+        "Rank": 169,
         "NCTId": [
           "NCT03559036"
         ],
@@ -8385,7 +8485,7 @@
         ]
       },
       {
-        "Rank": 168,
+        "Rank": 170,
         "NCTId": [
           "NCT03555708"
         ],
@@ -8438,7 +8538,7 @@
         ]
       },
       {
-        "Rank": 169,
+        "Rank": 171,
         "NCTId": [
           "NCT03553875"
         ],
@@ -8490,7 +8590,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 170,
+        "Rank": 172,
         "NCTId": [
           "NCT03550521"
         ],
@@ -8532,7 +8632,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 171,
+        "Rank": 173,
         "NCTId": [
           "NCT03539783"
         ],
@@ -8584,7 +8684,7 @@
         ]
       },
       {
-        "Rank": 172,
+        "Rank": 174,
         "NCTId": [
           "NCT03530852"
         ],
@@ -8633,7 +8733,7 @@
         ]
       },
       {
-        "Rank": 173,
+        "Rank": 175,
         "NCTId": [
           "NCT03528109"
         ],
@@ -8697,7 +8797,7 @@
         ]
       },
       {
-        "Rank": 174,
+        "Rank": 176,
         "NCTId": [
           "NCT03508622"
         ],
@@ -8750,7 +8850,7 @@
         ]
       },
       {
-        "Rank": 175,
+        "Rank": 177,
         "NCTId": [
           "NCT03500835"
         ],
@@ -8800,7 +8900,7 @@
         ]
       },
       {
-        "Rank": 176,
+        "Rank": 178,
         "NCTId": [
           "NCT03498495"
         ],
@@ -8846,7 +8946,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 177,
+        "Rank": 179,
         "NCTId": [
           "NCT03496259"
         ],
@@ -8895,7 +8995,7 @@
         ]
       },
       {
-        "Rank": 178,
+        "Rank": 180,
         "NCTId": [
           "NCT03495388"
         ],
@@ -8948,7 +9048,7 @@
         ]
       },
       {
-        "Rank": 179,
+        "Rank": 181,
         "NCTId": [
           "NCT03492944"
         ],
@@ -8992,7 +9092,7 @@
         ]
       },
       {
-        "Rank": 180,
+        "Rank": 182,
         "NCTId": [
           "NCT03480724"
         ],
@@ -9044,7 +9144,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 181,
+        "Rank": 183,
         "NCTId": [
           "NCT03472768"
         ],
@@ -9090,7 +9190,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 182,
+        "Rank": 184,
         "NCTId": [
           "NCT03467750"
         ],
@@ -9140,7 +9240,7 @@
         ]
       },
       {
-        "Rank": 183,
+        "Rank": 185,
         "NCTId": [
           "NCT03462979"
         ],
@@ -9192,7 +9292,7 @@
         ]
       },
       {
-        "Rank": 184,
+        "Rank": 186,
         "NCTId": [
           "NCT03453541"
         ],
@@ -9251,7 +9351,7 @@
         ]
       },
       {
-        "Rank": 185,
+        "Rank": 187,
         "NCTId": [
           "NCT03451435"
         ],
@@ -9299,7 +9399,7 @@
         ]
       },
       {
-        "Rank": 186,
+        "Rank": 188,
         "NCTId": [
           "NCT03451123"
         ],
@@ -9345,7 +9445,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 187,
+        "Rank": 189,
         "NCTId": [
           "NCT03438656"
         ],
@@ -9394,7 +9494,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 188,
+        "Rank": 190,
         "NCTId": [
           "NCT03429114"
         ],
@@ -9442,7 +9542,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 189,
+        "Rank": 191,
         "NCTId": [
           "NCT03423940"
         ],
@@ -9494,7 +9594,7 @@
         ]
       },
       {
-        "Rank": 190,
+        "Rank": 192,
         "NCTId": [
           "NCT03419260"
         ],
@@ -9540,7 +9640,7 @@
         ]
       },
       {
-        "Rank": 191,
+        "Rank": 193,
         "NCTId": [
           "NCT03412162"
         ],
@@ -9590,7 +9690,7 @@
         ]
       },
       {
-        "Rank": 192,
+        "Rank": 194,
         "NCTId": [
           "NCT03387176"
         ],
@@ -9637,7 +9737,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 193,
+        "Rank": 195,
         "NCTId": [
           "NCT03384134"
         ],
@@ -9688,7 +9788,7 @@
         ]
       },
       {
-        "Rank": 194,
+        "Rank": 196,
         "NCTId": [
           "NCT03363919"
         ],
@@ -9740,7 +9840,7 @@
         ]
       },
       {
-        "Rank": 195,
+        "Rank": 197,
         "NCTId": [
           "NCT03337594"
         ],
@@ -9792,7 +9892,7 @@
         ]
       },
       {
-        "Rank": 196,
+        "Rank": 198,
         "NCTId": [
           "NCT03334942"
         ],
@@ -9847,7 +9947,7 @@
         ]
       },
       {
-        "Rank": 197,
+        "Rank": 199,
         "NCTId": [
           "NCT03318393"
         ],
@@ -9891,7 +9991,7 @@
         ]
       },
       {
-        "Rank": 198,
+        "Rank": 200,
         "NCTId": [
           "NCT03304574"
         ],
@@ -9946,7 +10046,7 @@
         ]
       },
       {
-        "Rank": 199,
+        "Rank": 201,
         "NCTId": [
           "NCT03297658"
         ],
@@ -9992,7 +10092,7 @@
         ]
       },
       {
-        "Rank": 200,
+        "Rank": 202,
         "NCTId": [
           "NCT03283033"
         ],
@@ -10041,7 +10141,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 201,
+        "Rank": 203,
         "NCTId": [
           "NCT03280628"
         ],
@@ -10081,53 +10181,49 @@
         ]
       },
       {
-        "Rank": 202,
+        "Rank": 204,
         "NCTId": [
-          "NCT03239977"
+          "NCT03266016"
         ],
         "OfficialTitle": [
-          "Social Intelligence Training for Custodial Grandmothers and Their Adolescent Grandchildren"
+          "Identifying and Preventing Ventilator Induced Diaphragm Dysfunction in Children"
         ],
         "Condition": [
-          "Emotional Intelligence",
-          "Quality of Life",
-          "Social Competence"
+          "Ventilation Therapy; Complications",
+          "Diaphragm Disease",
+          "Pediatric Respiratory Diseases"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nGrandmothers of any age or race\nProviding full-time care to an adolescent grandchild between ages 12-18\nProviding care in their own residence\nProviding care in total absence of the grandchild's biological parents.\nThe target adolescent custodial grandchild will be of either gender\nBetween ages 12- 18\nThe custodial grandmother has provided full-time care for at least 6 months in total absence of the biological parents.\nUnderstanding of English well enough to comprehend all study materials.\n\nExclusion Criteria:\n\n* Cognitive or behavioral problems that limit the ability of grandmothers and grandchildren to comprehend the intervention and complete study measures"
+          "Inclusion Criteria:\n\nChildren > 1 month (>44 weeks CGA) and ≤ 18 years of age AND\nSupported on mechanical ventilation with pulmonary parenchymal disease (i.e., pneumonia, bronchiolitis, Pediatric Acute Respiratory Distress Syndrome (PARDS)) with Oxygen Saturation Index (OSI) ≥ 5 or Oxygenation Index (OI) ≥) AND\nWho are within 48 hours of initiation of invasive mechanical ventilation (allow for up to 72 hours for those transferred from another institution)\n\nExclusion Criteria:\n\nContraindications to use of an esophageal catheter (i.e. severe mucosal bleeding, nasal encephalocele, transphenoidal surgery) OR\nContraindications to use of RIP bands (i.e. omphalocele, chest immobilizer or cast) OR\nConditions precluding diaphragm ultrasound measurement (i.e. abdominal wall defects, pregnancy) OR\nConditions on enrollment that preclude conventional methods of weaning (i.e., status asthmaticus, severe lower airway obstruction, critical airway, intracranial hypertension, Extra Corporeal Life Support (ECLS), intubation for UAO, DNR, severe chronic respiratory failure, spinal cord injury above lumbar region, cyanotic heart disease (unrepaired or palliated)) OR\nPrimary Attending physician refuses (will be cleared with primary attending before approaching the patient)."
         ],
-        "MinimumAge": [
-          "12 Years"
-        ],
+        "MinimumAge": [],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "Kent"
+          "Los Angeles"
         ],
         "LocationFacility": [
-          "Kent State University"
+          "Children's Hospital Los Angeles"
         ],
         "LocationState": [
-          "Ohio"
+          "California"
         ],
         "LocationZip": [
-          "44242"
+          "90027"
         ],
         "LocationContactEMail": [],
-        "LocationContactName": [
-          "Gregory C Smith, EdD"
-        ],
+        "LocationContactName": [],
         "LocationContactPhone": [],
         "BriefSummary": [
-          "This study is a randomized clinical trial designed to compare an online social intelligence intervention with an active control condition at improving the emotional, physical, and social well-being of custodial grandmothers and their adolescent grandchildren,"
+          "This study is a Phase II controlled clinical trial that will obtain comprehensive, serial assessments of respiratory muscle strength and architecture to understand the evolution of ventilator-induced respiratory muscle weakness in critically ill children, and test whether a novel computer-based approach (Real-time Effort Driven ventilator management (REDvent)) can preserve respiratory muscle strength and reduce time on MV. REDvent offers systematic recommendations to reduce controlled ventilation during the acute phase of MV, and uses real-time measures from esophageal manometry to adjust supported ventilator pressures such that patient effort of breathing remains in a normal range during the ventilator weaning phase. This phase II clinical trial is expected to enroll 276 children with pulmonary parenchymal disease, anticipated to be ventilated > 48 hrs. Patients will be randomized to REDvent-acute vs. usual care for the acute phase of MV (interval from intubation to first spontaneous breathing trial (SBT)). Patients in either group who fail their first Spontaneous Breathing Trial (SBT), will also be randomized to REDvent-weaning vs. usual care for the weaning phase of MV (interval from first SBT to passing SBT). The primary clinical outcome is length of weaning (time from first SBT until successful passage of an SBT or extubation (whichever comes first)). Mechanistic outcomes surround multi-modal serial measures of respiratory muscle capacity (PiMax), load (resistance, compliance), effort (esophageal manometry), and architecture (ultrasound) throughout the course of MV. Upon completion, this study will provide important information on the pathogenesis and timing of respiratory muscle weakness during MV in children and whether this weakness can be mitigated by promoting more normal patient effort during MV via the use of REDvent. This will form the basis for a larger, Phase III multi-center study, powered for key clinical outcomes such as 28-day Ventilator Free Days."
         ],
         "DetailedDescription": [
-          "The investigators examine the efficacy of an online Social Intelligence Intervention (SII) at improving the health and well-being of custodial grandmothers (CGMs) and their adolescent custodial grandchildren (ACG) through mutual enhancement of their social competencies. This target population is of particular importance because both CGMs and ACG experience significant early life adversities that lead to hypervigilance of others, mistrust, social isolation, interpersonal conflict, and the inability to garner warmth and support from family and friends. Numerous studies have shown that these relational challenges within \"risky families\" often lead to life-long interpersonal difficulties that increase the probability of behavioral and physical health problems. Furthermore, adolescence is a key period for the development of social competence, which is influenced by supportive caregiving and positive modeling from female parent figures. However, because the ability of CGMs to carry out this intergenerational transmission of social skills is challenged, examining joint social intelligence training for CGM-ACG dyads is valuable for reversing this negative sequela. Yet, to date, no other investigators have done so. To address this gap, ant an online randomized clinical trial will be conducted with 340 nationally-recruited CGM-ACG (ages 12-18) dyads assigned to either the SII or an attention control condition. Data will be obtained at pre- and post-test, and at 3-, 6-, and 9-month follow-ups via questionnaires completed by phone. Daily dairies will be collected online from 170 randomly selected dyads, and qualitative interviews will be conducted with 60 dyads to probe how the SII affected their daily social competence and social ties. We will obtain quantitative and qualitative measures of key social cognitive processes, quality of close interpersonal ties, psychological well-being, and physical health. Administrative medical, criminal, and education records for all 340 dyads will also be obtained for cost-benefit analyses that examine changes in burden on public systems. These mixed-methods allow rigorous examination of four specific aims: (1) To investigate if the SII enhances social competencies that, in turn, produce long-term changes in relationship quality, well-being, and physical health; this includes determining if increased social competence in one dyad member leads to partner effects in the other; (2) To examine if cumulative risk, gender, and age moderate SII efficacy; (3) To study qualitatively how CGM-ACG dyads view the SII as having changed their social competencies and yielded positive outcomes; and (4) To assess the financial benefits of the SII to participants and their communities. These aims address a highly significant public health problem that will inform future efforts to support a wide range of high risk families, like custodial grandfamilies, who typically have insufficient access to formal support services. This SII is advantageous because it is inexpensive, delivered online, non-stigmatizing, and capable of reaching a target population that is geographically disperse and greatly in need of supportive programming."
+          "Study Aims:\n\nSA1: To determine if REDvent acute and/or weaning phase protocols can shorten the duration of weaning from MV (Primary outcome).\n\nSA2: To determine if changes to direct measures of respiratory muscle strength, load, effort, and architecture throughout the duration of MV are related to weaning outcomes.\n\nSA3: To determine if patient effort of breathing during both acute and weaning phases of MV is independently associated with the development of respiratory muscle weakness.\n\nStudy Design: Single-center randomized controlled trial (138 children per arm) using REDvent (intervention arm) as compared with usual care ventilator management including a standardized daily SBT (control arm). Acute phase randomization will occur upon study enrollment, and patients who fail the first SBT will undergo a weaning phase randomization. The investigators will obtain serial measurements of respiratory system capacity, load, effort of breathing, and diaphragm architecture throughout the course of MV.\n\nAcute Phase: The acute phase is defined as the time from intubation until the patient meets weaning criteria, passes the initial oxygenation test (decrease PEEP to 5 cmH2O and FiO2 to 0.5, maintains SpO2 > 90%), and undergoes a Spontaneous Breathing Trial (SBT).\n\nIntervention Arm (REDvent-acute): Patients will be managed with pressure control plus pressure support ventilation using a computerized decision support tool that will recommend changes to ventilator settings approximately every 4 hr (with or without a new blood gas). If the patient is spontaneously breathing, it will incorporate real-time measures of effort of breathing (esophageal manometry) to keep it in a target range.\nControl Arm (Control-acute): Ventilator management will be per usual care until the patient meets weaning criteria and passes the oxygenation test.\n\nWeaning Phase: The weaning phase is defined as the time from the first Spontaneous Breathing Trial (SBT) until the patient successfully passes an SBT or is extubated (whichever comes first). Patients who pass the initial SBT at the end of the acute phase will not undergo weaning phase randomization.\n\nIntervention Arm (REDvent-weaning): Patients will be managed in a pressure support/CPAP mode of ventilation with assessments or changes to the level of pressure support every 4 hours, targeting maintaining effort of breathing (esophageal manometry) in a normal range. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\nControl Arm (Control-weaning): Ventilator management will be per usual care. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\n\nAnalysis Plan and Sample Size Justification:\n\nAim 1: The primary outcome is weaning duration. Sample size has been determined to adequately power 3 separate comparative analyses: (a) REDvent-acute versus Acute Phase control (b) REDvent-weaning phase versus Weaning Phase control (c) REDvent both phases versus control both phases. Power is based on 2 planned methods for analysis: cox proportional hazard ratios for multivariable analysis and univariate analysis with an independent t-test using log transformation (as needed) to account for the expected distribution of weaning duration. For all three of the planned comparisons above, with the proposed sample size the investigators would be adequately powered (>0.8) to detect a difference in weaning duration of ≥ 1 day, or a hazard ratio of ≥ 1.4 between groups. The secondary outcomes are ventilator free days and extubation failure. Directly comparing control only patients to REDvent only patients, with an expected standard deviation for VFDs between 5 to 9 days, the investigators will be able to detect a 2-day change in VFDs between groups with a power between 0.35 and 0.82. Re-intubation rates are expected to be 10%, allowing the investigators to confirm that REDvent is not inferior to usual care in regards to re-intubation with a non-inferiority margin of 0.10 with a power of 0.8 and alpha of 0.05.\n\nAim 2: The primary outcome of this aim is weaning duration. For respiratory muscle strength the investigators will compare the first measured aPiMax (after resolution of the acute phase, before the first SBT), the trajectory and value of the daily aPiMax during the weaning phase prior to extubation, the lowest and highest measured aPiMax, and aPiMax on the day of extubation against weaning duration. For analysis, aPiMax will be dichotomized at 30 cmH2O, and weaning duration will be compared between patients with aPiMax > 30 versus ≤ 30 cmH2O using a t-test with or without log-transformation, or Mann-Whitney U test, depending on the distribution. From preliminary data, it is anticipated at least 35% of patients (n=84) will have aPiMax ≤ 30 cmH2O. Based on a similar power analysis as presented above, this would allow the investigators to determine whether low aPiMax is associated with a ≥ 1-day increase in weaning duration, with an alpha of 0.05 and power of 0.8. The investigators will perform identical analysis for ePiMax. Diaphragm Thickness analysis will compound daily ultrasound measures to detect the relative change in diaphragm thickness from study day 1 until passage of an SBT. The investigators will compare the change in thickness after resolution of the acute phase (on the day of the first SBT) against weaning duration, in a similar manner as proposed above for aPiMax. In addition to weaning duration, the investigators will also examine whether the respiratory measures taken just prior to or during each SBT are associated with the patient passing the SBT. For example with aPiMax and ePiMax, the investigators will examine if there is a dose response relationship between PiMax measured just before the SBT and the rate of passage of the subsequent SBT.\n\nAim 3: The primary outcome of this aim is aPiMax < 30 cmH2O.The analysis will focus on determining whether the degree of patient effort of breathing is independently associated with the development of respiratory muscle weakness. For the acute phase, the investigators will generate a time-weighted average PRP during the acute phase and graph it against aPiMax at the first SBT. They will subsequently dichotomize aPiMax at the first SBT and compare mean time weighted average PRP in the acute phase between aPiMax groups (> 30 vs. ≤ 30 cmH2O). For the weaning phase, the investigators will graph the changes in aPiMax throughout the weaning phase (from first failed SBT until successful SBT) against time-weighted average PRP, with the anticipation that low PRP will be associated with either further reductions in aPiMax, or no improvement, while PRP in the physiologic range of 150-400 will be associated with improvement in aPiMax. The investigators will subsequently dichotomize aPiMax (at 30 cm H2O) at the time of successful passage of an SBT and compare time-weighted average PRP in the weaning phase between aPiMax groups. Subsequently, the investigators will build a multivariable logistic regression model on the outcome of aPiMax ≤ 30 cmH2O to determine if time-weighted PRP in the acute phase, weaning phase or both have an independent association with preserving aPiMax, after controlling for confounding variables."
         ]
       },
       {
-        "Rank": 203,
+        "Rank": 205,
         "NCTId": [
           "NCT03234309"
         ],
@@ -10176,7 +10272,7 @@
         ]
       },
       {
-        "Rank": 204,
+        "Rank": 206,
         "NCTId": [
           "NCT03229837"
         ],
@@ -10226,7 +10322,7 @@
         ]
       },
       {
-        "Rank": 205,
+        "Rank": 207,
         "NCTId": [
           "NCT03225014"
         ],
@@ -10275,7 +10371,7 @@
         ]
       },
       {
-        "Rank": 206,
+        "Rank": 208,
         "NCTId": [
           "NCT03222570"
         ],
@@ -10321,7 +10417,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 207,
+        "Rank": 209,
         "NCTId": [
           "NCT03202303"
         ],
@@ -10369,7 +10465,7 @@
         ]
       },
       {
-        "Rank": 208,
+        "Rank": 210,
         "NCTId": [
           "NCT03192566"
         ],
@@ -10421,7 +10517,7 @@
         ]
       },
       {
-        "Rank": 209,
+        "Rank": 211,
         "NCTId": [
           "NCT03166358"
         ],
@@ -10469,7 +10565,7 @@
         ]
       },
       {
-        "Rank": 210,
+        "Rank": 212,
         "NCTId": [
           "NCT03154359"
         ],
@@ -10520,7 +10616,7 @@
         ]
       },
       {
-        "Rank": 211,
+        "Rank": 213,
         "NCTId": [
           "NCT03132948"
         ],
@@ -10569,7 +10665,7 @@
         ]
       },
       {
-        "Rank": 212,
+        "Rank": 214,
         "NCTId": [
           "NCT03107208"
         ],
@@ -10619,7 +10715,7 @@
         ]
       },
       {
-        "Rank": 213,
+        "Rank": 215,
         "NCTId": [
           "NCT03073070"
         ],
@@ -10671,7 +10767,7 @@
         ]
       },
       {
-        "Rank": 214,
+        "Rank": 216,
         "NCTId": [
           "NCT03072849"
         ],
@@ -10722,7 +10818,7 @@
         ]
       },
       {
-        "Rank": 215,
+        "Rank": 217,
         "NCTId": [
           "NCT03055455"
         ],
@@ -10768,7 +10864,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 216,
+        "Rank": 218,
         "NCTId": [
           "NCT03052738"
         ],
@@ -10818,7 +10914,7 @@
         ]
       },
       {
-        "Rank": 217,
+        "Rank": 219,
         "NCTId": [
           "NCT03032328"
         ],
@@ -10869,7 +10965,7 @@
         ]
       },
       {
-        "Rank": 218,
+        "Rank": 220,
         "NCTId": [
           "NCT03023566"
         ],
@@ -10918,7 +11014,7 @@
         ]
       },
       {
-        "Rank": 219,
+        "Rank": 221,
         "NCTId": [
           "NCT03005951"
         ],
@@ -10969,7 +11065,7 @@
         ]
       },
       {
-        "Rank": 220,
+        "Rank": 222,
         "NCTId": [
           "NCT02952222"
         ],
@@ -11015,7 +11111,7 @@
         ]
       },
       {
-        "Rank": 221,
+        "Rank": 223,
         "NCTId": [
           "NCT02914067"
         ],
@@ -11068,7 +11164,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 222,
+        "Rank": 224,
         "NCTId": [
           "NCT02895711"
         ],
@@ -11117,7 +11213,7 @@
         ]
       },
       {
-        "Rank": 223,
+        "Rank": 225,
         "NCTId": [
           "NCT02889016"
         ],
@@ -11164,7 +11260,7 @@
         ]
       },
       {
-        "Rank": 224,
+        "Rank": 226,
         "NCTId": [
           "NCT02872558"
         ],
@@ -11215,7 +11311,7 @@
         ]
       },
       {
-        "Rank": 225,
+        "Rank": 227,
         "NCTId": [
           "NCT02852213"
         ],
@@ -11267,7 +11363,7 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 228,
         "NCTId": [
           "NCT02846272"
         ],
@@ -11316,7 +11412,7 @@
         ]
       },
       {
-        "Rank": 227,
+        "Rank": 229,
         "NCTId": [
           "NCT02837497"
         ],
@@ -11364,7 +11460,7 @@
         ]
       },
       {
-        "Rank": 228,
+        "Rank": 230,
         "NCTId": [
           "NCT02824627"
         ],
@@ -11414,7 +11510,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 231,
         "NCTId": [
           "NCT02795455"
         ],
@@ -11464,7 +11560,7 @@
         ]
       },
       {
-        "Rank": 230,
+        "Rank": 232,
         "NCTId": [
           "NCT02775643"
         ],
@@ -11511,7 +11607,7 @@
         ]
       },
       {
-        "Rank": 231,
+        "Rank": 233,
         "NCTId": [
           "NCT02769975"
         ],
@@ -11561,7 +11657,7 @@
         ]
       },
       {
-        "Rank": 232,
+        "Rank": 234,
         "NCTId": [
           "NCT02747849"
         ],
@@ -11612,7 +11708,7 @@
         ]
       },
       {
-        "Rank": 233,
+        "Rank": 235,
         "NCTId": [
           "NCT02742272"
         ],
@@ -11665,7 +11761,7 @@
         ]
       },
       {
-        "Rank": 234,
+        "Rank": 236,
         "NCTId": [
           "NCT02722486"
         ],
@@ -11713,7 +11809,7 @@
         ]
       },
       {
-        "Rank": 235,
+        "Rank": 237,
         "NCTId": [
           "NCT02699190"
         ],
@@ -11761,7 +11857,7 @@
         ]
       },
       {
-        "Rank": 236,
+        "Rank": 238,
         "NCTId": [
           "NCT02651493"
         ],
@@ -11812,7 +11908,7 @@
         ]
       },
       {
-        "Rank": 237,
+        "Rank": 239,
         "NCTId": [
           "NCT02616796"
         ],
@@ -11860,7 +11956,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 238,
+        "Rank": 240,
         "NCTId": [
           "NCT02611206"
         ],
@@ -11912,7 +12008,7 @@
         ]
       },
       {
-        "Rank": 239,
+        "Rank": 241,
         "NCTId": [
           "NCT02610946"
         ],
@@ -11963,7 +12059,7 @@
         ]
       },
       {
-        "Rank": 240,
+        "Rank": 242,
         "NCTId": [
           "NCT02558010"
         ],
@@ -12017,7 +12113,7 @@
         ]
       },
       {
-        "Rank": 241,
+        "Rank": 243,
         "NCTId": [
           "NCT02535936"
         ],
@@ -12068,7 +12164,7 @@
         ]
       },
       {
-        "Rank": 242,
+        "Rank": 244,
         "NCTId": [
           "NCT02531893"
         ],
@@ -12109,14 +12205,14 @@
           "800-411-1222"
         ],
         "BriefSummary": [
-          "Background:\n\nWhen children have severe irritability and temper outbursts, they can be so cranky or angry that it leads to problems at home, in school, and with friends. This is called Disruptive Mood Dysregulation Disorder (DMDD) and there have been no psychological treatments developed specifically for children with this problem. Researchers think two forms of therapy, Cognitive Behavioral Therapy (CBT) and Interpretation Bias Training (IBT), might help children with DMDD.\n\nObjective:\n\nTo test two whether IBT and CBT can decrease severe irritability in children and youth.\n\nEligibility:\n\nChildren 8-17 years old with DMDD. Their symptoms must have started before age 10.\n\nDesign:\n\nParticipants will be screened with a review of their symptoms. Parents and participants will answer questions.\n\nParticipants can do only one or both of these treatments if they wish. Those who wish to do both will start with IBT.\n\nParticipants who do CBT will have 12-16 weekly meetings of research talk therapy. A parent will participate in part of the sessions.\n\nParticipants will talk about what makes them irritable and how it affects them. They may be put in situations that might make them annoyed or irritable.\n\nParticipants will rate how intense their irritability is. Parents and participants will complete rating scales, questionnaires, and interviews.\n\nParticipants will do practice activities at home.\n\nParticipants doing IBT will have up to 14 sessions over 10 weeks.\n\nParticipants will view 15 faces, one at a time, on a computer. They will choose if the face looks happy or angry on a computer. Sometimes the computer gives feedback. Participants will complete some sessions at the NIH and some at home.\n\nParticipants and parents answer questions about their progress."
+          "Background:\n\nWhen children have severe irritability and temper outbursts, they can be so cranky or angry that it leads to problems at home, in school, and with friends. This is called Disruptive Mood Dysregulation Disorder (DMDD) and there have been no psychological treatments developed specifically for children with this problem. Researchers think two forms of therapy, Cognitive Behavioral Therapy (CBT) and Interpretation Bias Training (IBT), might help children with DMDD.\n\nObjective:\n\nTo test two whether IBT and CBT can decrease severe irritability in children and youth.\n\nEligibility:\n\nChildren 8-17 years old with DMDD. Their symptoms must have started before age 10.\n\nDesign:\n\nParticipants will be screened with a review of their symptoms. Parents and participants will answer questions.\n\nParticipants can do only one or both of these treatments if they wish. Those who wish to do both will start with IBT.\n\nParticipants who do CBT will have 12-16 weekly meetings of research talk therapy. A parent will participate in part of the sessions.\n\nParticipants will talk about what makes them irritable and how it affects them. They may be put in situations that might make them annoyed or irritable.\n\nParticipants will rate how intense their irritability is. Parents and participants will complete rating scales, questionnaires, and interviews.\n\nParticipants will do practice activities at home.\n\nParticipants doing IBT will have up to 14 sessions over 10 weeks.\n\nParticipants will view 15 faces, one at a time, on a computer. They will choose if the face looks happy or angry on a computer. Sometimes the computer gives feedback. Participants will complete some sessions at the NIH and some at home.\n\nParticipants and parents answer questions about their progress.\n\n..."
         ],
         "DetailedDescription": [
           "OBJECTIVE:\n\nThis purpose of this protocol is to further the development of two potential non-pharmacologic treatments for youths with chronic, severe and impairing irritability. The first potential treatment is Interpretation Bias Training (IBT), a computer-based training designed to shift emotional judgments of ambiguous faces away from angry, and toward happy, judgments. The first component of this protocol includes a randomized, controlled trial of active IBT in youth with severe irritability. The second potential treatment is a cognitive behavioral therapy (CBT) targeting severe irritability. The goal of this protocol is to conduct a preliminary study using a randomized within-subjects multiple-baseline design to test the efficacy of a new manualized exposure-based CBT with parenting training in the treatment of severe irritability.\n\nObjective 1: Assess the efficacy of Interpretation Bias Training (IBT) in youths with severe irritability, operationalized as those meeting criteria for DSM-5 Disruptive Mood Dysregulation Disorder (DMDD). To accomplish this objective, we will conduct a randomized, controlled trial (RCT) of active IBT in 40 youths with DMDD. Subjects will be randomized to receive four IBT training sessions (active vs. placebo, in a double-blind design) over four days followed by weekly mood ratings for two weeks. Primary outcome measures in this trial will assess changes in irritability using the Affective Reactivity Index (ARI: clinician-rated, parent-rated, and child-rated) and Clinical Global Impressions-Improvement (CGI-I). After completing the RCT, all participants will be offered four open, active IBT sessions, delivered on the same schedule as in the RCT and using the same primary outcome measures.\n\nObjective 2: Test the efficacy of a new manualized CBT for severe, impairing irritability in youth. To accomplish this objective, we will utilize a within-subjects multiple baseline design (Onghena & Edgington, 2005; Gliner, Morgan, Harmon, & Harmon, 2000; Morgan & Morgan, 2001). The children will be randomized to their start times. Clinical ratings, as well as parent- and child- report ratings will be obtained every two weeks (plus or minus seven days) during both the baseline and active periods. This is not an RCT. All children will receive active CBT following variable (randomized) start times. Consistent with the manual we will continue to meet with children and their parents utilizing newly manualized exposure-based CBT procedures, such as eliciting hierarchies of irritability inducing events, exposure exercises (e.g., in-vivo, role-play, imaginal) and parent training. We will conduct the CBT on N=40 youth with severe, impairing irritability. Primary outcome measures for CBT will assess changes in irritability using the ARI (clinician-rated, parent-rated, and child-rated) and CGI-I.\n\nSecondary Objective 1a and 1b: Assess the effect of IBT on clinical measures of depression, anxiety, and functional impairment.\n\nSecondary Objective 2: Assess the effect of the CBT for irritability on clinical measures of depression, anxiety, and functional impairment.\n\nSubjects can participate in one or both of these potential treatments. If they opt to do both, there will be a four-week wash-out period between treatments.\n\nSTUDY POPULATION:\n\nThe study is taking place at the National Institutes of Health (NIH). All outpatients, ages 8-17, enrolled in NIMH-DIRP Protocol 02-M-0021, who are in stable treatment in the community will be invited to participate in this study.\n\nDESIGN:\n\nThe first part of the protocol will involve conducting a randomized controlled trial of IBT in 40 youths who meet criteria for DMDD. The goal of this novel, potential treatment is to decrease the severity of the child s irritability.\n\nThe second part of the protocol will involve conducting a randomized within-subjects multiple-baseline trial of CBT targeting severe irritability including N=40 youth.\n\nSubjects can elect to participate in the IBT randomized controlled trial only, CBT treatment or both. If subjects elect to participate in both IBT and CBT, there will be a one-month wash-out period in between.\n\nOUTCOME MEASURES:\n\nThe main outcome measures will assess changes in irritability using the ARI (clinician-rated, parent-rated, and child-rated, original and revised versions for IBT and CBT, respectively) and CGI-I. Secondary measures include parent and self-report measures of depression, anxiety, anger, social status, and aggression, as well as clinician ratings of depression, anxiety, and impairment. Data for ecological momentary assessments (EMA) will be collected using secure technology, with procedures approved by the NIMH ISSO; subjects and their caregivers will be asked a set of questions relating to recent experiences and emotions"
         ]
       },
       {
-        "Rank": 243,
+        "Rank": 245,
         "NCTId": [
           "NCT02512718"
         ],
@@ -12160,7 +12256,7 @@
         ]
       },
       {
-        "Rank": 244,
+        "Rank": 246,
         "NCTId": [
           "NCT02507791"
         ],
@@ -12211,7 +12307,7 @@
         ]
       },
       {
-        "Rank": 245,
+        "Rank": 247,
         "NCTId": [
           "NCT02498925"
         ],
@@ -12259,7 +12355,7 @@
         ]
       },
       {
-        "Rank": 246,
+        "Rank": 248,
         "NCTId": [
           "NCT02485418"
         ],
@@ -12306,7 +12402,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 247,
+        "Rank": 249,
         "NCTId": [
           "NCT02478788"
         ],
@@ -12356,7 +12452,7 @@
         ]
       },
       {
-        "Rank": 248,
+        "Rank": 250,
         "NCTId": [
           "NCT02453126"
         ],
@@ -12402,7 +12498,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 249,
+        "Rank": 251,
         "NCTId": [
           "NCT02398539"
         ],
@@ -12447,7 +12543,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 250,
+        "Rank": 252,
         "NCTId": [
           "NCT02354365"
         ],
@@ -12499,7 +12595,7 @@
         ]
       },
       {
-        "Rank": 251,
+        "Rank": 253,
         "NCTId": [
           "NCT02312635"
         ],
@@ -12551,7 +12647,7 @@
         ]
       },
       {
-        "Rank": 252,
+        "Rank": 254,
         "NCTId": [
           "NCT02305537"
         ],
@@ -12609,7 +12705,7 @@
         ]
       },
       {
-        "Rank": 253,
+        "Rank": 255,
         "NCTId": [
           "NCT02257229"
         ],
@@ -12656,7 +12752,7 @@
         ]
       },
       {
-        "Rank": 254,
+        "Rank": 256,
         "NCTId": [
           "NCT02245997"
         ],
@@ -12703,7 +12799,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 255,
+        "Rank": 257,
         "NCTId": [
           "NCT02202174"
         ],
@@ -12748,7 +12844,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 258,
         "NCTId": [
           "NCT02130180"
         ],
@@ -12796,7 +12892,7 @@
         ]
       },
       {
-        "Rank": 257,
+        "Rank": 259,
         "NCTId": [
           "NCT02127658"
         ],
@@ -12838,7 +12934,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 258,
+        "Rank": 260,
         "NCTId": [
           "NCT02117063"
         ],
@@ -12895,7 +12991,7 @@
         ]
       },
       {
-        "Rank": 259,
+        "Rank": 261,
         "NCTId": [
           "NCT02075853"
         ],
@@ -12945,7 +13041,7 @@
         ]
       },
       {
-        "Rank": 260,
+        "Rank": 262,
         "NCTId": [
           "NCT02055105"
         ],
@@ -12993,7 +13089,7 @@
         ]
       },
       {
-        "Rank": 261,
+        "Rank": 263,
         "NCTId": [
           "NCT02021604"
         ],
@@ -13036,7 +13132,7 @@
         ]
       },
       {
-        "Rank": 262,
+        "Rank": 264,
         "NCTId": [
           "NCT01960166"
         ],
@@ -13078,7 +13174,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 263,
+        "Rank": 265,
         "NCTId": [
           "NCT01857791"
         ],
@@ -13125,7 +13221,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 264,
+        "Rank": 266,
         "NCTId": [
           "NCT01839747"
         ],
@@ -13174,7 +13270,7 @@
         ]
       },
       {
-        "Rank": 265,
+        "Rank": 267,
         "NCTId": [
           "NCT01724463"
         ],
@@ -13229,7 +13325,7 @@
         ]
       },
       {
-        "Rank": 266,
+        "Rank": 268,
         "NCTId": [
           "NCT01665326"
         ],
@@ -13279,7 +13375,7 @@
         ]
       },
       {
-        "Rank": 267,
+        "Rank": 269,
         "NCTId": [
           "NCT01629017"
         ],
@@ -13331,7 +13427,7 @@
         ]
       },
       {
-        "Rank": 268,
+        "Rank": 270,
         "NCTId": [
           "NCT01598766"
         ],
@@ -13383,7 +13479,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 269,
+        "Rank": 271,
         "NCTId": [
           "NCT01577810"
         ],
@@ -13434,7 +13530,7 @@
         ]
       },
       {
-        "Rank": 270,
+        "Rank": 272,
         "NCTId": [
           "NCT01567579"
         ],
@@ -13485,7 +13581,7 @@
         ]
       },
       {
-        "Rank": 271,
+        "Rank": 273,
         "NCTId": [
           "NCT01543438"
         ],
@@ -13532,7 +13628,7 @@
         ]
       },
       {
-        "Rank": 272,
+        "Rank": 274,
         "NCTId": [
           "NCT01504373"
         ],
@@ -13578,7 +13674,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 273,
+        "Rank": 275,
         "NCTId": [
           "NCT01422759"
         ],
@@ -13630,7 +13726,7 @@
         ]
       },
       {
-        "Rank": 274,
+        "Rank": 276,
         "NCTId": [
           "NCT01422746"
         ],
@@ -13680,7 +13776,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 275,
+        "Rank": 277,
         "NCTId": [
           "NCT01421810"
         ],
@@ -13731,7 +13827,7 @@
         ]
       },
       {
-        "Rank": 276,
+        "Rank": 278,
         "NCTId": [
           "NCT01421797"
         ],
@@ -13783,7 +13879,7 @@
         ]
       },
       {
-        "Rank": 277,
+        "Rank": 279,
         "NCTId": [
           "NCT01386736"
         ],
@@ -13832,7 +13928,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 278,
+        "Rank": 280,
         "NCTId": [
           "NCT01383915"
         ],
@@ -13881,7 +13977,7 @@
         ]
       },
       {
-        "Rank": 279,
+        "Rank": 281,
         "NCTId": [
           "NCT01304875"
         ],
@@ -13925,7 +14021,7 @@
         ]
       },
       {
-        "Rank": 280,
+        "Rank": 282,
         "NCTId": [
           "NCT01285531"
         ],
@@ -13982,7 +14078,7 @@
         ]
       },
       {
-        "Rank": 281,
+        "Rank": 283,
         "NCTId": [
           "NCT01122095"
         ],
@@ -14035,7 +14131,7 @@
         ]
       },
       {
-        "Rank": 282,
+        "Rank": 284,
         "NCTId": [
           "NCT00906906"
         ],
@@ -14086,7 +14182,7 @@
         ]
       },
       {
-        "Rank": 283,
+        "Rank": 285,
         "NCTId": [
           "NCT00814853"
         ],
@@ -14133,7 +14229,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 286,
         "NCTId": [
           "NCT00792415"
         ],
@@ -14181,7 +14277,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 285,
+        "Rank": 287,
         "NCTId": [
           "NCT00745394"
         ],
@@ -14228,7 +14324,7 @@
         ]
       },
       {
-        "Rank": 286,
+        "Rank": 288,
         "NCTId": [
           "NCT00616317"
         ],
@@ -14266,7 +14362,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 287,
+        "Rank": 289,
         "NCTId": [
           "NCT00494572"
         ],
@@ -14316,7 +14412,7 @@
         ]
       },
       {
-        "Rank": 288,
+        "Rank": 290,
         "NCTId": [
           "NCT00491946"
         ],
@@ -14361,7 +14457,7 @@
         ]
       },
       {
-        "Rank": 289,
+        "Rank": 291,
         "NCTId": [
           "NCT00465699"
         ],
@@ -14405,7 +14501,7 @@
         ]
       },
       {
-        "Rank": 290,
+        "Rank": 292,
         "NCTId": [
           "NCT00320086"
         ],
@@ -14453,7 +14549,7 @@
         ]
       },
       {
-        "Rank": 291,
+        "Rank": 293,
         "NCTId": [
           "NCT00292513"
         ],
@@ -14498,7 +14594,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 292,
+        "Rank": 294,
         "NCTId": [
           "NCT00182572"
         ],
@@ -14542,7 +14638,7 @@
         ]
       },
       {
-        "Rank": 293,
+        "Rank": 295,
         "NCTId": [
           "NCT00167219"
         ],
@@ -14588,7 +14684,7 @@
         ]
       },
       {
-        "Rank": 294,
+        "Rank": 296,
         "NCTId": [
           "NCT00036712"
         ],
@@ -14645,7 +14741,7 @@
         ]
       },
       {
-        "Rank": 295,
+        "Rank": 297,
         "NCTId": [
           "NCT00012506"
         ],
@@ -14693,7 +14789,7 @@
         ]
       },
       {
-        "Rank": 296,
+        "Rank": 298,
         "NCTId": [
           "NCT00000112"
         ],
@@ -14734,7 +14830,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 297,
+        "Rank": 299,
         "NCTId": [
           "NCT04621734"
         ],
@@ -14784,7 +14880,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 300,
         "NCTId": [
           "NCT04621331"
         ],
@@ -14826,7 +14922,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 299,
+        "Rank": 301,
         "NCTId": [
           "NCT04602325"
         ],
@@ -14878,98 +14974,53 @@
         ]
       },
       {
-        "Rank": 300,
+        "Rank": 302,
         "NCTId": [
-          "NCT04582682"
+          "NCT03239977"
         ],
         "OfficialTitle": [
-          "Poly-omic Predictors of Symptom Duration and Recovery for Adolescent Concussion"
+          "Social Intelligence Training for Custodial Grandmothers and Their Adolescent Grandchildren"
         ],
         "Condition": [
-          "Concussion, Mild"
+          "Emotional Intelligence",
+          "Quality of Life",
+          "Social Competence"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPresence of mTBI: defined by criteria from the Berlin Consensus Statement and WHO. Assessment for mTBI status be performed by a licensed clinician per the 2018 CDC guidelines.\nAge at enrollment: 13-18 years of age (inclusive).\n\nExclusion Criteria:\n\n> 48 hours after initial mTBI\nGlasgow Coma Scale score of 13 or less\nPrevious moderate-to-severe TBI requiring overnight hospitalization\nUnresolved symptoms from previous concussion, or any concussion within the last 3 months\nAbbreviated Injury Scale (AIS) score > 3 (to reduce confounding from poly-trauma)\nPsychiatric illness requiring previous hospitalization;\nNeurological condition (e.g. epilepsy, hydrocephalus) or abnormality on neuroimaging (if performed)\nIntellectual disability that prevents ability to provide informed assent\nPregnancy\nActive substance use/dependence\nPrevious neurosurgery\nNon-fluency in English\nUpper respiratory infection\nPeriodontal infection\nInjury to the oropharynx\nPreviously enrolled in the same study\nInability to complete follow-up assessments"
+          "Inclusion Criteria:\n\nGrandmothers of any age or race\nProviding full-time care to an adolescent grandchild between ages 12-18\nProviding care in their own residence\nProviding care in total absence of the grandchild's biological parents.\nThe target adolescent custodial grandchild will be of either gender\nBetween ages 12- 18\nThe custodial grandmother has provided full-time care for at least 6 months in total absence of the biological parents.\nUnderstanding of English well enough to comprehend all study materials.\n\nExclusion Criteria:\n\n* Cognitive or behavioral problems that limit the ability of grandmothers and grandchildren to comprehend the intervention and complete study measures"
         ],
         "MinimumAge": [
-          "13 Years"
+          "12 Years"
         ],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "Hershey"
+          "Kent"
         ],
         "LocationFacility": [
-          "Penn State Milton S. Hershey Medical Center"
+          "Kent State University"
         ],
         "LocationState": [
-          "Pennsylvania"
+          "Ohio"
         ],
         "LocationZip": [
-          "17033"
-        ],
-        "LocationContactEMail": [
-          "bharding@pennstatehealth.psu.edu"
-        ],
-        "LocationContactName": [
-          "Brennen Harding, MS",
-          "Steven Hicks, MD, PhD"
-        ],
-        "LocationContactPhone": [
-          "717-531-0003"
-        ],
-        "BriefSummary": [
-          "The purpose of this study is to identify changes in salivary micro ribonucleic acid (miRNA) levels that are predictive of symptom duration and character following mild traumatic brain injury (mTBI) in children."
-        ],
-        "DetailedDescription": [
-          "The objective of this multi-center study is to refine and validate a saliva RNA assessment for adolescent concussion, yielding a non-invasive test that predicts duration and character of symptoms, and helps guide clinical decisions. To accomplish this goal, the study will enroll 750 adolescents with mTBI. Saliva RNA levels and symptoms will be assessed at <48 hours, 7 days, and 30 days post-injury. Aim 1 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 7) to predict PPCS 30 days after mTBI (defined by persistence of ≥3 symptoms on day 30, compared with pre-injury state on the Post-Concussion Symptom Inventory; PCSI). RNA accuracy will be compared to a validated clinical prediction tool (5p tool). Aim 2 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 30) to identify recovered participants on day 30. RNA accuracy will be compared to change in composite score on a standardized reaction time test (from <48hrs to day 30). Completion of these aims will yield an objective biologic test that can be used for prognosis at the time of mTBI, and to aid clinical decisions regarding return-to-learn or return-to-play."
-        ]
-      },
-      {
-        "Rank": 301,
-        "NCTId": [
-          "NCT03266016"
-        ],
-        "OfficialTitle": [
-          "Identifying and Preventing Ventilator Induced Diaphragm Dysfunction in Children"
-        ],
-        "Condition": [
-          "Ventilation Therapy; Complications",
-          "Diaphragm Disease",
-          "Pediatric Respiratory Diseases"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nChildren > 1 month (>44 weeks CGA) and ≤ 18 years of age AND\nSupported on mechanical ventilation with pulmonary parenchymal disease (i.e., pneumonia, bronchiolitis, Pediatric Acute Respiratory Distress Syndrome (PARDS)) with Oxygen Saturation Index (OSI) ≥ 5 or Oxygenation Index (OI) ≥) AND\nWho are within 48 hours of initiation of invasive mechanical ventilation (allow for up to 72 hours for those transferred from another institution)\n\nExclusion Criteria:\n\nContraindications to use of an esophageal catheter (i.e. severe mucosal bleeding, nasal encephalocele, transphenoidal surgery) OR\nContraindications to use of RIP bands (i.e. omphalocele, chest immobilizer or cast) OR\nConditions precluding diaphragm ultrasound measurement (i.e. abdominal wall defects, pregnancy) OR\nConditions on enrollment that preclude conventional methods of weaning (i.e., status asthmaticus, severe lower airway obstruction, critical airway, intracranial hypertension, Extra Corporeal Life Support (ECLS), intubation for UAO, DNR, severe chronic respiratory failure, spinal cord injury above lumbar region, cyanotic heart disease (unrepaired or palliated)) OR\nPrimary Attending physician refuses (will be cleared with primary attending before approaching the patient)."
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Los Angeles"
-        ],
-        "LocationFacility": [
-          "Children's Hospital Los Angeles"
-        ],
-        "LocationState": [
-          "California"
-        ],
-        "LocationZip": [
-          "90027"
+          "44242"
         ],
         "LocationContactEMail": [],
-        "LocationContactName": [],
+        "LocationContactName": [
+          "Gregory C Smith, EdD"
+        ],
         "LocationContactPhone": [],
         "BriefSummary": [
-          "This study is a Phase II controlled clinical trial that will obtain comprehensive, serial assessments of respiratory muscle strength and architecture to understand the evolution of ventilator-induced respiratory muscle weakness in critically ill children, and test whether a novel computer-based approach (Real-time Effort Driven ventilator management (REDvent)) can preserve respiratory muscle strength and reduce time on MV. REDvent offers systematic recommendations to reduce controlled ventilation during the acute phase of MV, and uses real-time measures from esophageal manometry to adjust supported ventilator pressures such that patient effort of breathing remains in a normal range during the ventilator weaning phase. This phase II clinical trial is expected to enroll 276 children with pulmonary parenchymal disease, anticipated to be ventilated > 48 hrs. Patients will be randomized to REDvent-acute vs. usual care for the acute phase of MV (interval from intubation to first spontaneous breathing trial (SBT)). Patients in either group who fail their first Spontaneous Breathing Trial (SBT), will also be randomized to REDvent-weaning vs. usual care for the weaning phase of MV (interval from first SBT to passing SBT). The primary clinical outcome is length of weaning (time from first SBT until successful passage of an SBT or extubation (whichever comes first)). Mechanistic outcomes surround multi-modal serial measures of respiratory muscle capacity (PiMax), load (resistance, compliance), effort (esophageal manometry), and architecture (ultrasound) throughout the course of MV. Upon completion, this study will provide important information on the pathogenesis and timing of respiratory muscle weakness during MV in children and whether this weakness can be mitigated by promoting more normal patient effort during MV via the use of REDvent. This will form the basis for a larger, Phase III multi-center study, powered for key clinical outcomes such as 28-day Ventilator Free Days."
+          "This study is a randomized clinical trial designed to compare an online social intelligence intervention with an active control condition at improving the emotional, physical, and social well-being of custodial grandmothers and their adolescent grandchildren,"
         ],
         "DetailedDescription": [
-          "Study Aims:\n\nSA1: To determine if REDvent acute and/or weaning phase protocols can shorten the duration of weaning from MV (Primary outcome).\n\nSA2: To determine if changes to direct measures of respiratory muscle strength, load, effort, and architecture throughout the duration of MV are related to weaning outcomes.\n\nSA3: To determine if patient effort of breathing during both acute and weaning phases of MV is independently associated with the development of respiratory muscle weakness.\n\nStudy Design: Single-center randomized controlled trial (138 children per arm) using REDvent (intervention arm) as compared with usual care ventilator management including a standardized daily SBT (control arm). Acute phase randomization will occur upon study enrollment, and patients who fail the first SBT will undergo a weaning phase randomization. The investigators will obtain serial measurements of respiratory system capacity, load, effort of breathing, and diaphragm architecture throughout the course of MV.\n\nAcute Phase: The acute phase is defined as the time from intubation until the patient meets weaning criteria, passes the initial oxygenation test (decrease PEEP to 5 cmH2O and FiO2 to 0.5, maintains SpO2 > 90%), and undergoes a Spontaneous Breathing Trial (SBT).\n\nIntervention Arm (REDvent-acute): Patients will be managed with pressure control plus pressure support ventilation using a computerized decision support tool that will recommend changes to ventilator settings approximately every 4 hr (with or without a new blood gas). If the patient is spontaneously breathing, it will incorporate real-time measures of effort of breathing (esophageal manometry) to keep it in a target range.\nControl Arm (Control-acute): Ventilator management will be per usual care until the patient meets weaning criteria and passes the oxygenation test.\n\nWeaning Phase: The weaning phase is defined as the time from the first Spontaneous Breathing Trial (SBT) until the patient successfully passes an SBT or is extubated (whichever comes first). Patients who pass the initial SBT at the end of the acute phase will not undergo weaning phase randomization.\n\nIntervention Arm (REDvent-weaning): Patients will be managed in a pressure support/CPAP mode of ventilation with assessments or changes to the level of pressure support every 4 hours, targeting maintaining effort of breathing (esophageal manometry) in a normal range. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\nControl Arm (Control-weaning): Ventilator management will be per usual care. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\n\nAnalysis Plan and Sample Size Justification:\n\nAim 1: The primary outcome is weaning duration. Sample size has been determined to adequately power 3 separate comparative analyses: (a) REDvent-acute versus Acute Phase control (b) REDvent-weaning phase versus Weaning Phase control (c) REDvent both phases versus control both phases. Power is based on 2 planned methods for analysis: cox proportional hazard ratios for multivariable analysis and univariate analysis with an independent t-test using log transformation (as needed) to account for the expected distribution of weaning duration. For all three of the planned comparisons above, with the proposed sample size the investigators would be adequately powered (>0.8) to detect a difference in weaning duration of ≥ 1 day, or a hazard ratio of ≥ 1.4 between groups. The secondary outcomes are ventilator free days and extubation failure. Directly comparing control only patients to REDvent only patients, with an expected standard deviation for VFDs between 5 to 9 days, the investigators will be able to detect a 2-day change in VFDs between groups with a power between 0.35 and 0.82. Re-intubation rates are expected to be 10%, allowing the investigators to confirm that REDvent is not inferior to usual care in regards to re-intubation with a non-inferiority margin of 0.10 with a power of 0.8 and alpha of 0.05.\n\nAim 2: The primary outcome of this aim is weaning duration. For respiratory muscle strength the investigators will compare the first measured aPiMax (after resolution of the acute phase, before the first SBT), the trajectory and value of the daily aPiMax during the weaning phase prior to extubation, the lowest and highest measured aPiMax, and aPiMax on the day of extubation against weaning duration. For analysis, aPiMax will be dichotomized at 30 cmH2O, and weaning duration will be compared between patients with aPiMax > 30 versus ≤ 30 cmH2O using a t-test with or without log-transformation, or Mann-Whitney U test, depending on the distribution. From preliminary data, it is anticipated at least 35% of patients (n=84) will have aPiMax ≤ 30 cmH2O. Based on a similar power analysis as presented above, this would allow the investigators to determine whether low aPiMax is associated with a ≥ 1-day increase in weaning duration, with an alpha of 0.05 and power of 0.8. The investigators will perform identical analysis for ePiMax. Diaphragm Thickness analysis will compound daily ultrasound measures to detect the relative change in diaphragm thickness from study day 1 until passage of an SBT. The investigators will compare the change in thickness after resolution of the acute phase (on the day of the first SBT) against weaning duration, in a similar manner as proposed above for aPiMax. In addition to weaning duration, the investigators will also examine whether the respiratory measures taken just prior to or during each SBT are associated with the patient passing the SBT. For example with aPiMax and ePiMax, the investigators will examine if there is a dose response relationship between PiMax measured just before the SBT and the rate of passage of the subsequent SBT.\n\nAim 3: The primary outcome of this aim is aPiMax < 30 cmH2O.The analysis will focus on determining whether the degree of patient effort of breathing is independently associated with the development of respiratory muscle weakness. For the acute phase, the investigators will generate a time-weighted average PRP during the acute phase and graph it against aPiMax at the first SBT. They will subsequently dichotomize aPiMax at the first SBT and compare mean time weighted average PRP in the acute phase between aPiMax groups (> 30 vs. ≤ 30 cmH2O). For the weaning phase, the investigators will graph the changes in aPiMax throughout the weaning phase (from first failed SBT until successful SBT) against time-weighted average PRP, with the anticipation that low PRP will be associated with either further reductions in aPiMax, or no improvement, while PRP in the physiologic range of 150-400 will be associated with improvement in aPiMax. The investigators will subsequently dichotomize aPiMax (at 30 cm H2O) at the time of successful passage of an SBT and compare time-weighted average PRP in the weaning phase between aPiMax groups. Subsequently, the investigators will build a multivariable logistic regression model on the outcome of aPiMax ≤ 30 cmH2O to determine if time-weighted PRP in the acute phase, weaning phase or both have an independent association with preserving aPiMax, after controlling for confounding variables."
+          "The investigators examine the efficacy of an online Social Intelligence Intervention (SII) at improving the health and well-being of custodial grandmothers (CGMs) and their adolescent custodial grandchildren (ACG) through mutual enhancement of their social competencies. This target population is of particular importance because both CGMs and ACG experience significant early life adversities that lead to hypervigilance of others, mistrust, social isolation, interpersonal conflict, and the inability to garner warmth and support from family and friends. Numerous studies have shown that these relational challenges within \"risky families\" often lead to life-long interpersonal difficulties that increase the probability of behavioral and physical health problems. Furthermore, adolescence is a key period for the development of social competence, which is influenced by supportive caregiving and positive modeling from female parent figures. However, because the ability of CGMs to carry out this intergenerational transmission of social skills is challenged, examining joint social intelligence training for CGM-ACG dyads is valuable for reversing this negative sequela. Yet, to date, no other investigators have done so. To address this gap, ant an online randomized clinical trial will be conducted with 340 nationally-recruited CGM-ACG (ages 12-18) dyads assigned to either the SII or an attention control condition. Data will be obtained at pre- and post-test, and at 3-, 6-, and 9-month follow-ups via questionnaires completed by phone. Daily dairies will be collected online from 170 randomly selected dyads, and qualitative interviews will be conducted with 60 dyads to probe how the SII affected their daily social competence and social ties. We will obtain quantitative and qualitative measures of key social cognitive processes, quality of close interpersonal ties, psychological well-being, and physical health. Administrative medical, criminal, and education records for all 340 dyads will also be obtained for cost-benefit analyses that examine changes in burden on public systems. These mixed-methods allow rigorous examination of four specific aims: (1) To investigate if the SII enhances social competencies that, in turn, produce long-term changes in relationship quality, well-being, and physical health; this includes determining if increased social competence in one dyad member leads to partner effects in the other; (2) To examine if cumulative risk, gender, and age moderate SII efficacy; (3) To study qualitatively how CGM-ACG dyads view the SII as having changed their social competencies and yielded positive outcomes; and (4) To assess the financial benefits of the SII to participants and their communities. These aims address a highly significant public health problem that will inform future efforts to support a wide range of high risk families, like custodial grandfamilies, who typically have insufficient access to formal support services. This SII is advantageous because it is inexpensive, delivered online, non-stigmatizing, and capable of reaching a target population that is geographically disperse and greatly in need of supportive programming."
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 303,
         "NCTId": [
           "NCT02420990"
         ],
@@ -15017,7 +15068,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 303,
+        "Rank": 304,
         "NCTId": [
           "NCT03418740"
         ],
@@ -15080,65 +15131,6 @@
         ],
         "DetailedDescription": [
           "Investigators seek to identify biological and clinical tests to be used in future clinical trials. The purpose of this research study is to learn more about Friedreich's Ataxia (FA) progression in children. There will be biannual visits which will include a core set of tests and procedures. These include: a collection of medical history, detailed neurological exam, ataxia scales, and health questionnaires. At each visit, blood and cheek swab samples will be obtained to monitor frataxin levels.\n\nA select number of Children's Hospital of Philadelphia (CHOP) participants will have the opportunity to participate in further procedures to better understand how FA affects different tissues. These include a Magnetic Resonance Imaging (MRI) scan and a Motor Evoked Potentials (MEP) procedure.\n\nThe MRI scan analyzes how muscle activity is affected in FA. The magnet will be used to capture images of the calf muscle before and after exercising on an ergonomic foot pedal.\n\nThe MEP procedure measures how strong the connection is between the brain's motor cortex and a selected body part, specifically the participant's dominant hand."
-        ]
-      },
-      {
-        "Rank": 304,
-        "NCTId": [
-          "NCT03242473"
-        ],
-        "OfficialTitle": [
-          "Mitigating the Inflammatory Response in Acute Pancreatitis With Appropriate Fluid Management; A Randomized Clinical Control Trial Comparing the Effects of Lactated Ringers and Normal Saline"
-        ],
-        "Condition": [
-          "Pancreatitis"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPatients aged 0-18 years diagnosed with acute pancreatitis in the emergency department or inpatient ward at Children's Hospital of The King's Daughters or one of the affiliated institutions participating in the study.\n\nExclusion Criteria:\n\nPatients greater than 18 years of age\nPatients who are not diagnosed with acute pancreatitis\nPatients who have any previous history of acute pancreatitis, past medical history of underlying illness including congenital heart disease, chronic lung disease, or renal failure\nPatients who have any of the following: hyperkalemia, systemic acidosis, acute dehydration, extensive tissue breakdown, adrenal insufficiency, concomitant use of potassium-sparing diuretics, use of extended-release preparations in patients with esophageal compression caused by an enlarged left atrium, hypersensitivity to sodium chloride, hypernatremia, or fluid retention\nPatients who are pregnant females\nPatients who have additional comorbidities at time of admission that would prevent adequate treatment with the methods described above will be excluded"
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Washington",
-          "Cincinnati",
-          "Norfolk"
-        ],
-        "LocationFacility": [
-          "Children's National Health System",
-          "Cincinnati Children's Hospital Medical Center",
-          "Children's Hospital of The King's Daughters"
-        ],
-        "LocationState": [
-          "District of Columbia",
-          "Ohio",
-          "Virginia"
-        ],
-        "LocationZip": [
-          "20010",
-          "45229",
-          "23507"
-        ],
-        "LocationContactEMail": [
-          "SSehgal@childrensnational.org",
-          "Peter.Farmer@CHKD.ORG"
-        ],
-        "LocationContactName": [
-          "Sona Sehgal, MD",
-          "Peter R Farrell, MD",
-          "Maisam Abu-El-Haija, MD",
-          "Leslie M Farrell, MD",
-          "Peter Farmer, MD"
-        ],
-        "LocationContactPhone": [
-          "888-884-2327"
-        ],
-        "BriefSummary": [
-          "Acute pancreatitis is increasingly common diagnosis in children. Most of the guidelines related to the details of management of acute pancreatitis are extrapolated from the adult literature. There is only limited data regarding management of acute pancreatitis in children. The mainstay of management is bowel and pancreatic rest with significant fluid support to minimize the effect of the cytokines on the pancreas and other organs. The standard fluid choices are Lactated Ringer's solution (LR) and normal saline (NS). Currently, both LR and NS are used at the discretion of the treating physician as the standard of care for acute pancreatitis. The investigators hope to examine the question of ideal fluid choice for fluid resuscitation in children with acute pancreatitis by assessing recovery time in the context of measured inflammatory markers and SIRS status at 24 and 48 hours after admission. The ideal fluid choice in the initial resuscitation of acute pancreatitis has not been effectively evaluated before in the pediatric population. Even if there is no statistically significant difference between the two fluid options, this trial will still provide clinically significant information."
-        ],
-        "DetailedDescription": [
-          "Acute pancreatitis represents inflammation of the pancreas that has been well identified in the literature for several centuries. However, the phenomenon has only relatively recently gained prominence in the pediatric literature. The incidence can be as high as 13 per 100,000 per year, a level which approaches that seen in adults, and the diagnosis has been increasingly common over the last two decades. It affects all ages of children (including infants) evidenced by well-established age appropriate diagnostic criteria. The precise pathophysiological basis of the inflammation is not always as clear. Currently, the prevailing theory is that there is an insult to the acinar cells of the pancreas likely via an atypical calcium signal that releases a cascade of cellular activity and that ultimately results in a disseminated cytokine storm. While there is certainly debate as to the inciting event to this cascade, one thing that is clear is that extensive end-organ damage can occur if this cytokine storm reaches systemic circulation. Therefore, the mainstay of management is bowel (and specifically pancreatic) rest with significant fluid support to minimize or mitigate the effect of the cytokines on the pancreas and other systemic organs such as the lungs, heart, and kidneys. The remainder of therapy consists of appropriate analgesia and antiemetics.\n\nUnfortunately, most of the guidelines related to the details of management of acute pancreatitis are extrapolated from the adult literature. There is only limited data regarding management of acute pancreatitis in children. Recently, Wu et al. have shown compelling data that suggest the choice of fluid for management of acute pancreatitis in adults should be Lactated Ringers (LR). Their group demonstrated in a small randomized controlled trial involving 40 adult patients with acute pancreatitis, that the patients randomized to the LR arm of the study had significantly lower levels of C-reactive protein and Systemic Inflammatory Response Syndrome (SIRS) markers compared with controls in the normal saline (NS) group. They proposed that the mechanism for this difference may be related to the more balanced pH of LR which might prevent, or at least further buffer, the systemic inflammation that is triggered by the release of the offending cytokines from the pancreas. Currently, both LR and NS are used at both Children's Hospital of The King's Daughters (CHKD) and Children's National Health System (CNHS) at the discretion of the attending physician as the standard of care for acute pancreatitis. The investigators hope to examine the question of ideal fluid choice for fluid resuscitation in children with acute pancreatitis by assessing recovery time in the context of measured inflammatory markers and SIRS status at 24 and 48 hours after admission.\n\nThis is a prospective randomized trial of pediatric patients in the emergency department (ED) or inpatient ward diagnosed with acute pancreatitis. Patients meeting the study inclusion criteria will be identified by an ED or inpatient physician. The ED or inpatient physician will ask the eligible patient/parent if they are interested in hearing about the study. If the eligible patient/parent is interested in hearing information about the study, the ED or inpatient ward will notify the PI via telephone or page. The PI will come to the eligible patient's room to explain the study and answer any questions, or the PI will page a research team member to do so. If the patient/parent agrees to participate in the study, the research team member will consent the parents of the patients aged 0-17 years or consent patients aged 18 years. Assent will be obtained from patients aged 8-17 years. Non-English speaking patients/parents will be consented using an in-person translator or the blue phone translating service. These consent and assent forms will be signed by a witness. At the time of enrollment, the subject identification (ID) number and medical record number will be entered into the electronic Subject ID Key. Once the patient is enrolled in the study, their treatment will be randomized to either the LR or the NS group. Both treatments are current standard of care for acute pancreatitis. Patients who choose not to participate in the study will receive the standard of care treatment at the discretion of the attending physician, which may involve either fluid, and will likely include most (if not all) of the lab studies as outlined in this protocol.\n\nThe goal is to screen and enroll the subjects in either the ED or inpatient ward within 6 hours of diagnosis, as this is within the theoretical window prior to the development of systemic inflammation. At the discretion of the attending physician, however, treatment can begin in the ED or inpatient ward before enrollment in the study; patients will not have to wait for necessary treatments. Patients will still be eligible to participate in the study if treatment was begun in the ED or inpatient ward. The randomized treatment may end up being the same or different than what was originally ordered by the attending physician. If any such changes in treatment plan are noted, this will be considered for the data analysis.\n\nThe randomization plan will include constrained randomization using the permuted blocks method. The research team member will open the envelope that contains the randomized treatment and the Admission Order Sheet that details the orders that need to be placed on admission. The research team member will communicate this information to the ED or inpatient attending physician or staff member overseeing the patient's care at the time of enrollment. All clinical treatments described in this protocol, including labs orders, are the current standard of care for acute pancreatitis diagnosis. The purpose of the Admission Order Sheet is to standardize the timeline of the lab work at admission, at 24 hours and 48 hours after admission, not to request any additional lab work for the purposes of the study.\n\nThe subject will be placed on 1.5x maintenance IVF with the fluids to which they are randomized. The patient will remain nil per os (NPO) for at least the first 24 hours, and the time of initiating feeds after 24 hours will be at the discretion of the admitting team. As the standard of care, the following studies will be obtained at the time of admission if not previously obtained in the ED: Complete Metabolic Panel (CMP), gamma-glutamyltransferase (GGT), Amylase, Lipase, Triglycerides, Complete Blood Count (CBC), and CRP, along with an abdominal ultrasound. CBC, CRP, amylase and lipase levels will be obtained at 24 and 48 hours (+/- 2 hours) as listed in the Admission Order Sheet. Similarly, a Basic Metabolic Panel (BMP) will be collected at 24 and 48 hours (+/- 2 hours), with the addition of liver function tests if liver enzyme levels are elevated at admission (as defined by transaminases greater than 2 times the age appropriate upper limit of normal). SIRS status will be evaluated with vital sign checks every 4 hours and the leukocyte counts every 24 hours.\n\nThe patients will be observed for additional known signs and complications of acute pancreatitis such as persistent inflammation, shock, sepsis, electrolyte abnormalities, renal failure or other end organ damage. Any adverse reactions during the trial will be treated independent of the trial, and the attending physician will continue to manage the care of the patient at their discretion. Any serious adverse reactions will be documented clinically and reported to the CHKD or CNHS incident reporter systems, Eastern Virginia Medical School (EVMS) Institutional Review Board (IRB), CNHS IRB and CHKD Human Research Coordination (HRC) Committee .\n\nThe de-identified information will be collected from the patient's electronic medical record by a research team member and entered directly into an Excel database. Patients transferred from an outside ED should already have charts scanned into the Electronic Health Record (EHR) as standard of care. If only a paper chart is available for any transferred patient, a research team member will enter information directly from the paper chart into the Excel database."
         ]
       },
       {
@@ -15323,6 +15315,65 @@
       {
         "Rank": 308,
         "NCTId": [
+          "NCT03242473"
+        ],
+        "OfficialTitle": [
+          "Mitigating the Inflammatory Response in Acute Pancreatitis With Appropriate Fluid Management; A Randomized Clinical Control Trial Comparing the Effects of Lactated Ringers and Normal Saline"
+        ],
+        "Condition": [
+          "Pancreatitis"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPatients aged 0-18 years diagnosed with acute pancreatitis in the emergency department or inpatient ward at Children's Hospital of The King's Daughters or one of the affiliated institutions participating in the study.\n\nExclusion Criteria:\n\nPatients greater than 18 years of age\nPatients who are not diagnosed with acute pancreatitis\nPatients who have any previous history of acute pancreatitis, past medical history of underlying illness including congenital heart disease, chronic lung disease, or renal failure\nPatients who have any of the following: hyperkalemia, systemic acidosis, acute dehydration, extensive tissue breakdown, adrenal insufficiency, concomitant use of potassium-sparing diuretics, use of extended-release preparations in patients with esophageal compression caused by an enlarged left atrium, hypersensitivity to sodium chloride, hypernatremia, or fluid retention\nPatients who are pregnant females\nPatients who have additional comorbidities at time of admission that would prevent adequate treatment with the methods described above will be excluded"
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Washington",
+          "Cincinnati",
+          "Norfolk"
+        ],
+        "LocationFacility": [
+          "Children's National Health System",
+          "Cincinnati Children's Hospital Medical Center",
+          "Children's Hospital of The King's Daughters"
+        ],
+        "LocationState": [
+          "District of Columbia",
+          "Ohio",
+          "Virginia"
+        ],
+        "LocationZip": [
+          "20010",
+          "45229",
+          "23507"
+        ],
+        "LocationContactEMail": [
+          "SSehgal@childrensnational.org",
+          "Peter.Farmer@CHKD.ORG"
+        ],
+        "LocationContactName": [
+          "Sona Sehgal, MD",
+          "Peter R Farrell, MD",
+          "Maisam Abu-El-Haija, MD",
+          "Leslie M Farrell, MD",
+          "Peter Farmer, MD"
+        ],
+        "LocationContactPhone": [
+          "888-884-2327"
+        ],
+        "BriefSummary": [
+          "Acute pancreatitis is increasingly common diagnosis in children. Most of the guidelines related to the details of management of acute pancreatitis are extrapolated from the adult literature. There is only limited data regarding management of acute pancreatitis in children. The mainstay of management is bowel and pancreatic rest with significant fluid support to minimize the effect of the cytokines on the pancreas and other organs. The standard fluid choices are Lactated Ringer's solution (LR) and normal saline (NS). Currently, both LR and NS are used at the discretion of the treating physician as the standard of care for acute pancreatitis. The investigators hope to examine the question of ideal fluid choice for fluid resuscitation in children with acute pancreatitis by assessing recovery time in the context of measured inflammatory markers and SIRS status at 24 and 48 hours after admission. The ideal fluid choice in the initial resuscitation of acute pancreatitis has not been effectively evaluated before in the pediatric population. Even if there is no statistically significant difference between the two fluid options, this trial will still provide clinically significant information."
+        ],
+        "DetailedDescription": [
+          "Acute pancreatitis represents inflammation of the pancreas that has been well identified in the literature for several centuries. However, the phenomenon has only relatively recently gained prominence in the pediatric literature. The incidence can be as high as 13 per 100,000 per year, a level which approaches that seen in adults, and the diagnosis has been increasingly common over the last two decades. It affects all ages of children (including infants) evidenced by well-established age appropriate diagnostic criteria. The precise pathophysiological basis of the inflammation is not always as clear. Currently, the prevailing theory is that there is an insult to the acinar cells of the pancreas likely via an atypical calcium signal that releases a cascade of cellular activity and that ultimately results in a disseminated cytokine storm. While there is certainly debate as to the inciting event to this cascade, one thing that is clear is that extensive end-organ damage can occur if this cytokine storm reaches systemic circulation. Therefore, the mainstay of management is bowel (and specifically pancreatic) rest with significant fluid support to minimize or mitigate the effect of the cytokines on the pancreas and other systemic organs such as the lungs, heart, and kidneys. The remainder of therapy consists of appropriate analgesia and antiemetics.\n\nUnfortunately, most of the guidelines related to the details of management of acute pancreatitis are extrapolated from the adult literature. There is only limited data regarding management of acute pancreatitis in children. Recently, Wu et al. have shown compelling data that suggest the choice of fluid for management of acute pancreatitis in adults should be Lactated Ringers (LR). Their group demonstrated in a small randomized controlled trial involving 40 adult patients with acute pancreatitis, that the patients randomized to the LR arm of the study had significantly lower levels of C-reactive protein and Systemic Inflammatory Response Syndrome (SIRS) markers compared with controls in the normal saline (NS) group. They proposed that the mechanism for this difference may be related to the more balanced pH of LR which might prevent, or at least further buffer, the systemic inflammation that is triggered by the release of the offending cytokines from the pancreas. Currently, both LR and NS are used at both Children's Hospital of The King's Daughters (CHKD) and Children's National Health System (CNHS) at the discretion of the attending physician as the standard of care for acute pancreatitis. The investigators hope to examine the question of ideal fluid choice for fluid resuscitation in children with acute pancreatitis by assessing recovery time in the context of measured inflammatory markers and SIRS status at 24 and 48 hours after admission.\n\nThis is a prospective randomized trial of pediatric patients in the emergency department (ED) or inpatient ward diagnosed with acute pancreatitis. Patients meeting the study inclusion criteria will be identified by an ED or inpatient physician. The ED or inpatient physician will ask the eligible patient/parent if they are interested in hearing about the study. If the eligible patient/parent is interested in hearing information about the study, the ED or inpatient ward will notify the PI via telephone or page. The PI will come to the eligible patient's room to explain the study and answer any questions, or the PI will page a research team member to do so. If the patient/parent agrees to participate in the study, the research team member will consent the parents of the patients aged 0-17 years or consent patients aged 18 years. Assent will be obtained from patients aged 8-17 years. Non-English speaking patients/parents will be consented using an in-person translator or the blue phone translating service. These consent and assent forms will be signed by a witness. At the time of enrollment, the subject identification (ID) number and medical record number will be entered into the electronic Subject ID Key. Once the patient is enrolled in the study, their treatment will be randomized to either the LR or the NS group. Both treatments are current standard of care for acute pancreatitis. Patients who choose not to participate in the study will receive the standard of care treatment at the discretion of the attending physician, which may involve either fluid, and will likely include most (if not all) of the lab studies as outlined in this protocol.\n\nThe goal is to screen and enroll the subjects in either the ED or inpatient ward within 6 hours of diagnosis, as this is within the theoretical window prior to the development of systemic inflammation. At the discretion of the attending physician, however, treatment can begin in the ED or inpatient ward before enrollment in the study; patients will not have to wait for necessary treatments. Patients will still be eligible to participate in the study if treatment was begun in the ED or inpatient ward. The randomized treatment may end up being the same or different than what was originally ordered by the attending physician. If any such changes in treatment plan are noted, this will be considered for the data analysis.\n\nThe randomization plan will include constrained randomization using the permuted blocks method. The research team member will open the envelope that contains the randomized treatment and the Admission Order Sheet that details the orders that need to be placed on admission. The research team member will communicate this information to the ED or inpatient attending physician or staff member overseeing the patient's care at the time of enrollment. All clinical treatments described in this protocol, including labs orders, are the current standard of care for acute pancreatitis diagnosis. The purpose of the Admission Order Sheet is to standardize the timeline of the lab work at admission, at 24 hours and 48 hours after admission, not to request any additional lab work for the purposes of the study.\n\nThe subject will be placed on 1.5x maintenance IVF with the fluids to which they are randomized. The patient will remain nil per os (NPO) for at least the first 24 hours, and the time of initiating feeds after 24 hours will be at the discretion of the admitting team. As the standard of care, the following studies will be obtained at the time of admission if not previously obtained in the ED: Complete Metabolic Panel (CMP), gamma-glutamyltransferase (GGT), Amylase, Lipase, Triglycerides, Complete Blood Count (CBC), and CRP, along with an abdominal ultrasound. CBC, CRP, amylase and lipase levels will be obtained at 24 and 48 hours (+/- 2 hours) as listed in the Admission Order Sheet. Similarly, a Basic Metabolic Panel (BMP) will be collected at 24 and 48 hours (+/- 2 hours), with the addition of liver function tests if liver enzyme levels are elevated at admission (as defined by transaminases greater than 2 times the age appropriate upper limit of normal). SIRS status will be evaluated with vital sign checks every 4 hours and the leukocyte counts every 24 hours.\n\nThe patients will be observed for additional known signs and complications of acute pancreatitis such as persistent inflammation, shock, sepsis, electrolyte abnormalities, renal failure or other end organ damage. Any adverse reactions during the trial will be treated independent of the trial, and the attending physician will continue to manage the care of the patient at their discretion. Any serious adverse reactions will be documented clinically and reported to the CHKD or CNHS incident reporter systems, Eastern Virginia Medical School (EVMS) Institutional Review Board (IRB), CNHS IRB and CHKD Human Research Coordination (HRC) Committee .\n\nThe de-identified information will be collected from the patient's electronic medical record by a research team member and entered directly into an Excel database. Patients transferred from an outside ED should already have charts scanned into the Electronic Health Record (EHR) as standard of care. If only a paper chart is available for any transferred patient, a research team member will enter information directly from the paper chart into the Excel database."
+        ]
+      },
+      {
+        "Rank": 309,
+        "NCTId": [
           "NCT03657771"
         ],
         "OfficialTitle": [
@@ -15392,7 +15443,7 @@
         ]
       },
       {
-        "Rank": 309,
+        "Rank": 310,
         "NCTId": [
           "NCT03849456"
         ],
@@ -15442,7 +15493,7 @@
         ]
       },
       {
-        "Rank": 310,
+        "Rank": 311,
         "NCTId": [
           "NCT04344899"
         ],
@@ -15503,7 +15554,7 @@
         ]
       },
       {
-        "Rank": 311,
+        "Rank": 312,
         "NCTId": [
           "NCT02260856"
         ],
@@ -15586,7 +15637,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 313,
         "NCTId": [
           "NCT04251026"
         ],
@@ -15660,7 +15711,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 313,
+        "Rank": 314,
         "NCTId": [
           "NCT03525431"
         ],
@@ -15726,7 +15777,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 315,
         "NCTId": [
           "NCT02044744"
         ],
@@ -15794,7 +15845,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 315,
+        "Rank": 316,
         "NCTId": [
           "NCT04625686"
         ],
@@ -15864,7 +15915,7 @@
         ]
       },
       {
-        "Rank": 316,
+        "Rank": 317,
         "NCTId": [
           "NCT04074265"
         ],
@@ -15948,7 +15999,7 @@
         ]
       },
       {
-        "Rank": 317,
+        "Rank": 318,
         "NCTId": [
           "NCT03201874"
         ],
@@ -16015,7 +16066,7 @@
         ]
       },
       {
-        "Rank": 318,
+        "Rank": 319,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16084,7 +16135,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 320,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16154,7 +16205,7 @@
         ]
       },
       {
-        "Rank": 320,
+        "Rank": 321,
         "NCTId": [
           "NCT02914405"
         ],
@@ -16225,7 +16276,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 321,
+        "Rank": 322,
         "NCTId": [
           "NCT02391324"
         ],
@@ -16287,7 +16338,7 @@
         ]
       },
       {
-        "Rank": 322,
+        "Rank": 323,
         "NCTId": [
           "NCT02134782"
         ],
@@ -16351,7 +16402,7 @@
         ]
       },
       {
-        "Rank": 323,
+        "Rank": 324,
         "NCTId": [
           "NCT04333823"
         ],
@@ -16420,7 +16471,7 @@
         ]
       },
       {
-        "Rank": 324,
+        "Rank": 325,
         "NCTId": [
           "NCT04551742"
         ],
@@ -16498,7 +16549,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 325,
+        "Rank": 326,
         "NCTId": [
           "NCT03962894"
         ],
@@ -16578,7 +16629,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 326,
+        "Rank": 327,
         "NCTId": [
           "NCT03606980"
         ],
@@ -16642,7 +16693,7 @@
         ]
       },
       {
-        "Rank": 327,
+        "Rank": 328,
         "NCTId": [
           "NCT03240809"
         ],
@@ -16700,7 +16751,7 @@
         ]
       },
       {
-        "Rank": 328,
+        "Rank": 329,
         "NCTId": [
           "NCT04060823"
         ],
@@ -16756,7 +16807,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 329,
+        "Rank": 330,
         "NCTId": [
           "NCT00005105"
         ],
@@ -16820,7 +16871,7 @@
         ]
       },
       {
-        "Rank": 330,
+        "Rank": 331,
         "NCTId": [
           "NCT03505658"
         ],
@@ -16881,7 +16932,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 331,
+        "Rank": 332,
         "NCTId": [
           "NCT03989986"
         ],
@@ -16941,7 +16992,7 @@
         ]
       },
       {
-        "Rank": 332,
+        "Rank": 333,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17015,7 +17066,7 @@
         ]
       },
       {
-        "Rank": 333,
+        "Rank": 334,
         "NCTId": [
           "NCT03117751"
         ],
@@ -17105,7 +17156,7 @@
         ]
       },
       {
-        "Rank": 334,
+        "Rank": 335,
         "NCTId": [
           "NCT03910933"
         ],
@@ -17188,171 +17239,126 @@
         ]
       },
       {
-        "Rank": 335,
+        "Rank": 336,
         "NCTId": [
-          "NCT04431453"
+          "NCT04442295"
         ],
         "OfficialTitle": [
-          "A Phase 2/3 Single-Arm, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of Remdesivir (GS-5734™) in Participants From Birth to < 18 Years of Age With COVID-19"
+          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
         ],
         "Condition": [
-          "COVID-19"
+          "Dravet Syndrome"
         ],
         "EligibilityCriteria": [
-          "Key Inclusion Criteria:\n\nAged < 18 years of age who meet one of the following weight criteria (where permitted according to local law and approved nationally and by relevant institutional review board (IRB) or independent ethics committee (IEC)).\n\na) Cohort 1: ≥ 12 years to < 18 years of age and weight at screening ≥ 40 kg\nb) Cohorts 2-4: ≥ 28 days to < 18 years of age and weight at screening ≥ 3 kg and < 40 kg\nc) Cohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nd) Cohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight of ≥ 2.5 kg\ne) Cohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight of ≥ 1.5 kg\nf) Cohort 8: < 12 years of age and weight at screening ≥ 40 kg\nSevere acute respiratory syndrome coronavirus (SARS-CoV-2) infection confirmed by polymerase chain reaction (PCR)\nHospitalized and requiring medical care for coronavirus disease 2019 (COVID-19)\n\nKey Exclusion Criteria:\n\nConcurrent treatment with other agents with actual or possible direct antiviral activity against SARS-CoV-2 < 24 hours prior to study drug dosing\nAlanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit of normal (ULN)\nEstimated glomerular filtration rate (eGFR) < 30 mL/min/1.73m^2 using Schwartz formula for individuals ≥ 1 year of age\nCreatinine above protocol specified thresholds for < 1 year of age\nPositive pregnancy test at Screening only for female of child bearing potential. Note: If female participants who become pregnant during the study or are discovered to be pregnant after receiving at least one dose may continue study drug, after discussion with the investigator\nOn renal replacement therapies (intermittent hemodialysis (iHD), peritoneal dialysis (PD), continuous renal replacement therapy (CRRT))\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply"
+          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
         ],
-        "MinimumAge": [],
+        "MinimumAge": [
+          "2 Years"
+        ],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "Birmingham",
-          "Los Angeles",
-          "Madera",
-          "San Diego",
-          "Tampa",
+          "San Francisco",
+          "Aurora",
+          "Washington",
+          "Miami",
           "Chicago",
-          "Louisville",
-          "New Orleans",
-          "Baltimore",
+          "Iowa City",
           "Boston",
-          "Worcester",
-          "Detroit",
-          "Grand Rapids",
-          "Minneapolis",
-          "Omaha",
-          "Bronx",
-          "Bronx",
-          "New Hyde Park",
-          "Charlotte",
-          "Allentown",
-          "Philadelphia",
-          "Dallas",
-          "Houston",
-          "Florence",
-          "Padova",
-          "Parma",
-          "Barcelona",
-          "Esplugues de llobregat",
-          "Madrid",
-          "Madrid",
-          "Santiago de Compostela",
-          "Birmingham",
-          "Liverpool",
-          "London",
-          "London"
+          "Ann Arbor",
+          "Rochester",
+          "New York",
+          "Portland",
+          "Memphis",
+          "Fort Worth",
+          "Salt Lake City",
+          "Seattle",
+          "Tacoma"
         ],
         "LocationFacility": [
-          "Children's Hospital of Alabama",
-          "Ronald Reagan University of California, Los Angeles Medical Center",
-          "Valley Children's Hospital",
-          "Rady Children's Hospital San Diego",
-          "Tampa General Hospital (Inpatient Visits)",
-          "Ann & Robert H. Lurie Children's Hospital",
-          "Norton Children's Hospital",
-          "Tulane University School of Medicine",
-          "Johns Hopkins Children's Center",
-          "Boston Children's Hospital",
-          "UMass Memorial Medical Center - University Campus",
-          "Children's Hospital of Michigan",
-          "Spectrum Health/Helen De Vos Children's Hospital",
-          "Children's Minnesota",
-          "Children's Hospital and Medical Center",
-          "NYC Health + Hospitals/Jacobi Medical Center",
-          "Montefiore Medical Center",
-          "Northwell Health-Cohen Children's Medical Center",
-          "Carolinas Medical Center-Levine Children's Hospital",
-          "Lehigh Valley Hospital/Lehigh Valley Health Network (LVH/LVHN)",
-          "St. Christopher's Hospital for Children",
-          "Children's Medical Center",
-          "Texas Children's Hospital",
-          "Azienda Ospedaliero Universitaria Meyer",
-          "University Hospital of Padova, Clinic of Pediatric Hematology-Oncology",
-          "University Hospital of Parma",
-          "Hospital Universitari Vall D'Hebron",
-          "Hospital Sant Joan de Déu",
-          "Hospital Universitario 12 de Octubre",
-          "Hospital Universitario La Paz",
-          "Hospital Clínico Universitario de Santiago",
-          "University Hospitals Birmingham NHS Foundation Trust",
-          "Alder Hey Children's NHS Foundation Trust",
-          "Guy's and St Thomas' NHS Foundation Trust",
-          "King's College NHS Foundation Trust"
+          "University of California San Francisco Medical Center",
+          "Children's Hospital Colorado",
+          "Children's National Medical Center",
+          "Nicklaus Children's Hospital",
+          "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "University of Iowa, Department of Pediatrics,",
+          "Massachusetts General Hospital",
+          "Mott Children's Hospital",
+          "Mayo Clinic",
+          "NYU Comprehensive Epilepsy Center",
+          "Oregon Health & Science University",
+          "Le Bonheur Children's Hospital",
+          "Cook Children's Medical Center",
+          "University of Utah Pediatrics Clinical Trials Office",
+          "Seattle Children's Hospital",
+          "Multicare Institute for Research and Innovation"
         ],
         "LocationState": [
-          "Alabama",
           "California",
-          "California",
-          "California",
+          "Colorado",
+          "District of Columbia",
           "Florida",
           "Illinois",
-          "Kentucky",
-          "Louisiana",
-          "Maryland",
+          "Iowa",
           "Massachusetts",
-          "Massachusetts",
-          "Michigan",
           "Michigan",
           "Minnesota",
-          "Nebraska",
           "New York",
-          "New York",
-          "New York",
-          "North Carolina",
-          "Pennsylvania",
-          "Pennsylvania",
+          "Oregon",
+          "Tennessee",
           "Texas",
-          "Texas"
+          "Utah",
+          "Washington",
+          "Washington"
         ],
         "LocationZip": [
-          "35233",
-          "90095",
-          "93636",
-          "92123",
-          "33606",
+          "94158",
+          "80045",
+          "20010",
+          "33155",
           "60611",
-          "40202",
-          "70112",
-          "21287",
-          "02115",
-          "01605",
-          "48201",
-          "49503",
-          "55404",
-          "68114",
-          "10461",
-          "10467",
-          "11040",
-          "28203",
-          "18103",
-          "19134",
-          "75235",
-          "77030",
-          "50139",
-          "35128",
-          "43126",
-          "8035",
-          "8950",
-          "28041",
-          "28041",
-          "15706",
-          "B95SS",
-          "L12 2AP",
-          "SE1 7EU",
-          "SE5 9RS"
+          "52242",
+          "02114",
+          "48109",
+          "55905",
+          "10016",
+          "97239",
+          "38105",
+          "76104",
+          "84108",
+          "98105",
+          "98405"
         ],
         "LocationContactEMail": [],
-        "LocationContactName": [],
+        "LocationContactName": [
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant"
+        ],
         "LocationContactPhone": [],
         "BriefSummary": [
-          "The primary objectives of this study are to evaluate the safety, tolerability, and pharmacokinetics (PK) of remdesivir (RDV) in participants with laboratory-confirmed coronavirus disease 2019 (COVID-19) aged 0 days to < 18 years."
+          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
         ],
         "DetailedDescription": [
-          "Pediatric participants will be enrolled as follows:\n\nPediatric participants ≥ 28 days to < 18 years old:\n\nCohort 1: ≥ 12 years to < 18 years and weight ≥ 40 kg\nCohort 2: ≥ 28 days to < 18 years and weight ≥ 20 kg to < 40 kg\nCohort 3: ≥ 28 days to < 18 years and weight ≥ 12 kg to < 20 kg\nCohort 4: ≥ 28 days to < 18 years and weight ≥ 3 kg to < 12 kg\nCohort 8: < 12 years and weight ≥ 40 kg\n\nTerm neonatal participants 0 days to < 28 days old:\n\nCohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nCohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight ≥ 2.5 kg\n\nPreterm neonates and infants 0 days to < 56 days old:\n\nCohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight ≥ 1.5 kg"
+          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
         ]
       },
       {
-        "Rank": 336,
+        "Rank": 337,
         "NCTId": [
           "NCT04258943"
         ],
@@ -17392,6 +17398,7 @@
           "New Hyde Park",
           "Charlotte",
           "Cincinnati",
+          "Bethlehem",
           "Pittsburgh",
           "Knoxville",
           "Nashville",
@@ -17417,6 +17424,7 @@
           "The Steven and Alexandra Cohen Children's Medical Center of New York",
           "Carolinas Medical Center/Levine Cancer Institute",
           "Cincinnati Children's Hospital Medical Center",
+          "Lehigh Valley Hospital-Cedar Crest",
           "Children's Hospital of Pittsburgh of UPMC",
           "East Tennessee Childrens Hospital",
           "Vanderbilt University/Ingram Cancer Center",
@@ -17443,6 +17451,7 @@
           "North Carolina",
           "Ohio",
           "Pennsylvania",
+          "Pennsylvania",
           "Tennessee",
           "Tennessee",
           "Texas",
@@ -17467,6 +17476,7 @@
           "11040",
           "28203",
           "45229",
+          "18017",
           "15224",
           "37916",
           "37232",
@@ -17492,6 +17502,7 @@
           "Aredner@northwell.edu",
           "joel.kaplan@carolinashealthcare.org",
           "robin.norris@cchmc.org",
+          "jacob.troutman@lvhn.org",
           "andrew.bukowinski2@chp.edu",
           "sspiller@etch.com",
           "scott.c.borinstein@vumc.org",
@@ -17534,6 +17545,8 @@
           "Joel Kaplan, DO MPH",
           "Robin Norris, MD MPH",
           "Robin Norris, MD MPH",
+          "Jacob Troutman, DO",
+          "Jacob Troutman, DO",
           "Andrew Bukowinski, MD",
           "Andrew Bukowinski, MD",
           "Susan Spiller, MS",
@@ -17565,6 +17578,7 @@
           "718-470-3460",
           "704-355-2000",
           "513-636-4266",
+          "484-884-3347",
           "412-692-5945",
           "865-541-8266",
           "615-936-1762",
@@ -17580,7 +17594,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 338,
         "NCTId": [
           "NCT04195399"
         ],
@@ -17605,12 +17619,17 @@
           "Birmingham",
           "Little Rock",
           "Los Angeles",
+          "Los Angeles",
           "Oakland",
+          "Sacramento",
           "San Francisco",
           "Aurora",
           "Denver",
+          "Hartford",
           "Wilmington",
           "Washington",
+          "Washington",
+          "Gainesville",
           "Jacksonville",
           "Orlando",
           "Saint Petersburg",
@@ -17622,6 +17641,7 @@
           "New Orleans",
           "New Orleans",
           "Baltimore",
+          "Bethesda",
           "Boston",
           "Ann Arbor",
           "Grand Rapids",
@@ -17630,6 +17650,11 @@
           "Kansas City",
           "Saint Louis",
           "Saint Louis",
+          "Las Vegas",
+          "Las Vegas",
+          "Las Vegas",
+          "Las Vegas",
+          "Reno",
           "Hackensack",
           "Albany",
           "Buffalo",
@@ -17639,6 +17664,7 @@
           "Akron",
           "Cincinnati",
           "Cleveland",
+          "Columbus",
           "Oklahoma City",
           "Portland",
           "Philadelphia",
@@ -17659,12 +17685,17 @@
           "Children's Hospital of Alabama",
           "Arkansas Children's Hospital",
           "Children's Hospital Los Angeles",
+          "Mattel Children's Hospital UCLA",
           "Kaiser Permanente-Oakland",
+          "University of California Davis Comprehensive Cancer Center",
           "UCSF Medical Center-Mission Bay",
           "Children's Hospital Colorado",
           "Rocky Mountain Hospital for Children-Presbyterian Saint Luke's Medical Center",
+          "Connecticut Children's Medical Center",
           "Alfred I duPont Hospital for Children",
+          "MedStar Georgetown University Hospital",
           "Children's National Medical Center",
+          "University of Florida Health Science Center - Gainesville",
           "Nemours Children's Clinic-Jacksonville",
           "Nemours Children's Hospital",
           "Johns Hopkins All Children's Hospital",
@@ -17676,6 +17707,7 @@
           "Children's Hospital New Orleans",
           "Ochsner Medical Center Jefferson",
           "Johns Hopkins University/Sidney Kimmel Cancer Center",
+          "Walter Reed National Military Medical Center",
           "Dana-Farber Cancer Institute",
           "C S Mott Children's Hospital",
           "Helen DeVos Children's Hospital at Spectrum Health",
@@ -17684,6 +17716,11 @@
           "Children's Mercy Hospitals and Clinics",
           "Washington University School of Medicine",
           "Mercy Hospital Saint Louis",
+          "University Medical Center of Southern Nevada",
+          "Sunrise Hospital and Medical Center",
+          "Alliance for Childhood Diseases/Cure 4 the Kids Foundation",
+          "Summerlin Hospital Medical Center",
+          "Renown Regional Medical Center",
           "Hackensack University Medical Center",
           "Albany Medical Center",
           "Roswell Park Cancer Institute",
@@ -17693,6 +17730,7 @@
           "Children's Hospital Medical Center of Akron",
           "Cincinnati Children's Hospital Medical Center",
           "Cleveland Clinic Foundation",
+          "Nationwide Children's Hospital",
           "University of Oklahoma Health Sciences Center",
           "Oregon Health and Science University",
           "Children's Hospital of Philadelphia",
@@ -17715,10 +17753,15 @@
           "California",
           "California",
           "California",
+          "California",
+          "California",
           "Colorado",
           "Colorado",
+          "Connecticut",
           "Delaware",
           "District of Columbia",
+          "District of Columbia",
+          "Florida",
           "Florida",
           "Florida",
           "Florida",
@@ -17730,6 +17773,7 @@
           "Louisiana",
           "Louisiana",
           "Maryland",
+          "Maryland",
           "Massachusetts",
           "Michigan",
           "Michigan",
@@ -17738,12 +17782,18 @@
           "Missouri",
           "Missouri",
           "Missouri",
+          "Nevada",
+          "Nevada",
+          "Nevada",
+          "Nevada",
+          "Nevada",
           "New Jersey",
           "New York",
           "New York",
           "New York",
           "New York",
           "North Carolina",
+          "Ohio",
           "Ohio",
           "Ohio",
           "Ohio",
@@ -17767,12 +17817,17 @@
           "35233",
           "72202-3591",
           "90027",
+          "90095",
           "94611",
+          "95817",
           "94158",
           "80045",
           "80218",
+          "06106",
           "19803",
+          "20007",
           "20010",
+          "32610",
           "32207",
           "32827",
           "33701",
@@ -17784,6 +17839,7 @@
           "70118",
           "70121",
           "21287",
+          "20889-5600",
           "02215",
           "48109",
           "49503",
@@ -17792,6 +17848,11 @@
           "64108",
           "63110",
           "63141",
+          "89102",
+          "89109",
+          "89135",
+          "89144",
+          "89502",
           "07601",
           "12208",
           "14263",
@@ -17801,6 +17862,7 @@
           "44308",
           "45229",
           "44195",
+          "43205",
           "73104",
           "97239",
           "19104",
@@ -17822,6 +17884,7 @@
           "Kpoct@kp.org",
           "josh.b.gordon@nsmtp.kp.org",
           "dperry@nemours.org",
+          "cancer-center@ufl.edu",
           "Ashley.Repp@jhmi.edu",
           "Leann.Schilling@choa.org",
           "eslinget@slhs.org",
@@ -17832,10 +17895,16 @@
           "crcwm-regulatory@crcwm.org",
           "rryan@cmh.edu",
           "info@siteman.wustl.edu",
+          "research@sncrf.org",
+          "research@sncrf.org",
+          "research@sncrf.org",
+          "research@sncrf.org",
+          "research@sncrf.org",
           "askroswell@roswellpark.org",
           "nr2616@cumc.columbia.edu",
           "cancer@cchmc.org",
           "TaussigResearch@ccf.org",
+          "amy.yekisa@nationwidechildrens.org",
           "ou-clinical-trials@ouhsc.edu",
           "trials@ohsu.edu",
           "CancerTrials@email.chop.edu",
@@ -17857,7 +17926,11 @@
           "Site Public Contact",
           "Leo Mascarenhas",
           "Site Public Contact",
+          "Noah C. Federman",
+          "Site Public Contact",
           "Laura A. Campbell",
+          "Site Public Contact",
+          "Marcio H. Malogolowkin",
           "Site Public Contact",
           "Arun A. Rangaswami",
           "Site Public Contact",
@@ -17865,9 +17938,15 @@
           "Site Public Contact",
           "Jennifer J. Clark",
           "Site Public Contact",
+          "Michael S. Isakoff",
+          "Site Public Contact",
           "Scott M. Bradfield",
           "Site Public Contact",
+          "Jeffrey A. Toretsky",
+          "Site Public Contact",
           "Jeffrey S. Dome",
+          "Site Public Contact",
+          "William B. Slayton",
           "Site Public Contact",
           "Scott M. Bradfield",
           "Site Public Contact",
@@ -17891,6 +17970,8 @@
           "Site Public Contact",
           "Brian H. Ladle",
           "Site Public Contact",
+          "Kenneth Lieuw",
+          "Site Public Contact",
           "Katherine A. Janeway",
           "Site Public Contact",
           "Rama Jasty",
@@ -17906,6 +17987,16 @@
           "Frederick S. Huang",
           "Site Public Contact",
           "Robin D. Hanson",
+          "Site Public Contact",
+          "Alan K. Ikeda",
+          "Site Public Contact",
+          "Alan K. Ikeda",
+          "Site Public Contact",
+          "Alan K. Ikeda",
+          "Site Public Contact",
+          "Alan K. Ikeda",
+          "Site Public Contact",
+          "Alan K. Ikeda",
           "Site Public Contact",
           "Katharine Offer",
           "Site Public Contact",
@@ -17925,6 +18016,8 @@
           "Site Public Contact",
           "Rabi Hanna",
           "Site Public Contact",
+          "Mark A. Ranalli",
+          "Site Public Contact",
           "Rene Y. McNall-Knapp",
           "Site Public Contact",
           "Katrina Winsnes",
@@ -17941,7 +18034,7 @@
           "Site Public Contact",
           "Patrick J. Leavey",
           "Site Public Contact",
-          "Lisa L. Hartman",
+          "Ranjan Bista",
           "Site Public Contact",
           "Kelly L. Vallance",
           "Site Public Contact",
@@ -17959,12 +18052,17 @@
           "205-638-9285",
           "501-364-7373",
           "323-361-4110",
+          "310-825-6708",
           "877-642-4691",
+          "916-734-3089",
           "877-827-3222",
           "303-764-5056",
           "303-839-6000",
+          "860-545-9981",
           "302-651-6884",
+          "202-444-2223",
           "202-884-2549",
+          "352-273-8010",
           "904-697-3529",
           "407-650-7715",
           "727-767-4784",
@@ -17975,6 +18073,7 @@
           "800-248-1199",
           "504-703-8712",
           "410-955-8804",
+          "301-319-2100",
           "877-442-3324",
           "800-865-1125",
           "616-391-1230",
@@ -17983,6 +18082,11 @@
           "816-302-6808",
           "800-600-3606",
           "314-251-7066",
+          "702-384-0013",
+          "702-384-0013",
+          "702-384-0013",
+          "702-384-0013",
+          "702-384-0013",
           "201-996-2879",
           "518-262-5513",
           "800-767-9355",
@@ -17992,6 +18096,7 @@
           "330-543-3193",
           "513-636-2799",
           "866-223-8100",
+          "614-072-2657",
           "405-271-8777",
           "503-494-1080",
           "267-425-5544",
@@ -18015,7 +18120,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 339,
         "NCTId": [
           "NCT03896763"
         ],
@@ -18305,7 +18410,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 340,
         "NCTId": [
           "NCT03802799"
         ],
@@ -18474,7 +18579,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 341,
         "NCTId": [
           "NCT03522168"
         ],
@@ -18908,7 +19013,7 @@
         ]
       },
       {
-        "Rank": 341,
+        "Rank": 342,
         "NCTId": [
           "NCT03199053"
         ],
@@ -19455,7 +19560,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 343,
         "NCTId": [
           "NCT02859896"
         ],
@@ -19624,7 +19729,7 @@
         ]
       },
       {
-        "Rank": 343,
+        "Rank": 344,
         "NCTId": [
           "NCT02205762"
         ],
@@ -19938,7 +20043,7 @@
         ]
       },
       {
-        "Rank": 344,
+        "Rank": 345,
         "NCTId": [
           "NCT02121132"
         ],
@@ -20113,125 +20218,6 @@
         ],
         "DetailedDescription": [
           "All patients 18 years of age or younger who have completed an initial medical assessment between March 1, 2014 through April 30, 2020 will be approached for this study.\n\nData from individual follow up visits or group intervention sessions, depending on the program design of each institution, will be collected through October 31, 2020. The data included in this study will be collected during routine medical care. Information that could identify a participant will be removed from the data. Data will be entered into a secure database called Medidata Rave® CDMS. This database will be managed by the Data Coordinating Center (DCC) at Cincinnati Children's Hospital Medical Center (CCHMC).\n\nThe DCC will combine all the data from each site. Additional data cleaning and data quality monitoring will be performed. Combined datasets for analysis will be provided by the DCC in a format agreed upon by the POWER Governance Board. Data will be stored in a secure and protected format and will not include any written or electronic protected health information (PHI/EPHI). The DCC will store the data on a secure server."
-        ]
-      },
-      {
-        "Rank": 345,
-        "NCTId": [
-          "NCT04442295"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
-        ],
-        "Condition": [
-          "Dravet Syndrome"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
-        ],
-        "MinimumAge": [
-          "2 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "San Francisco",
-          "Aurora",
-          "Washington",
-          "Miami",
-          "Chicago",
-          "Iowa City",
-          "Boston",
-          "Ann Arbor",
-          "Rochester",
-          "New York",
-          "Portland",
-          "Memphis",
-          "Fort Worth",
-          "Salt Lake City",
-          "Seattle",
-          "Tacoma"
-        ],
-        "LocationFacility": [
-          "University of California San Francisco Medical Center",
-          "Children's Hospital Colorado",
-          "Children's National Medical Center",
-          "Nicklaus Children's Hospital",
-          "Ann & Robert H. Lurie Children's Hospital of Chicago",
-          "University of Iowa, Department of Pediatrics,",
-          "Massachusetts General Hospital",
-          "Mott Children's Hospital",
-          "Mayo Clinic",
-          "NYU Comprehensive Epilepsy Center",
-          "Oregon Health & Science University",
-          "Le Bonheur Children's Hospital",
-          "Cook Children's Medical Center",
-          "University of Utah Pediatrics Clinical Trials Office",
-          "Seattle Children's Hospital",
-          "Multicare Institute for Research and Innovation"
-        ],
-        "LocationState": [
-          "California",
-          "Colorado",
-          "District of Columbia",
-          "Florida",
-          "Illinois",
-          "Iowa",
-          "Massachusetts",
-          "Michigan",
-          "Minnesota",
-          "New York",
-          "Oregon",
-          "Tennessee",
-          "Texas",
-          "Utah",
-          "Washington",
-          "Washington"
-        ],
-        "LocationZip": [
-          "94158",
-          "80045",
-          "20010",
-          "33155",
-          "60611",
-          "52242",
-          "02114",
-          "48109",
-          "55905",
-          "10016",
-          "97239",
-          "38105",
-          "76104",
-          "84108",
-          "98105",
-          "98405"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
-        ],
-        "DetailedDescription": [
-          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
         ]
       },
       {
@@ -23500,6 +23486,177 @@
       {
         "Rank": 367,
         "NCTId": [
+          "NCT04431453"
+        ],
+        "OfficialTitle": [
+          "A Phase 2/3 Single-Arm, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of Remdesivir (GS-5734™) in Participants From Birth to < 18 Years of Age With COVID-19"
+        ],
+        "Condition": [
+          "COVID-19"
+        ],
+        "EligibilityCriteria": [
+          "Key Inclusion Criteria:\n\nAged < 18 years of age who meet one of the following weight criteria (where permitted according to local law and approved nationally and by relevant institutional review board (IRB) or independent ethics committee (IEC)).\n\na) Cohort 1: ≥ 12 years to < 18 years of age and weight at screening ≥ 40 kg\nb) Cohorts 2-4: ≥ 28 days to < 18 years of age and weight at screening ≥ 3 kg and < 40 kg\nc) Cohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nd) Cohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight of ≥ 2.5 kg\ne) Cohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight of ≥ 1.5 kg\nf) Cohort 8: < 12 years of age and weight at screening ≥ 40 kg\nSevere acute respiratory syndrome coronavirus (SARS-CoV-2) infection confirmed by polymerase chain reaction (PCR)\nHospitalized and requiring medical care for coronavirus disease 2019 (COVID-19)\n\nKey Exclusion Criteria:\n\nConcurrent treatment with other agents with actual or possible direct antiviral activity against SARS-CoV-2 < 24 hours prior to study drug dosing\nAlanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit of normal (ULN)\nEstimated glomerular filtration rate (eGFR) < 30 mL/min/1.73m^2 using Schwartz formula for individuals ≥ 1 year of age\nCreatinine above protocol specified thresholds for < 1 year of age\nPositive pregnancy test at Screening only for female of child bearing potential. Note: If female participants who become pregnant during the study or are discovered to be pregnant after receiving at least one dose may continue study drug, after discussion with the investigator\nOn renal replacement therapies (intermittent hemodialysis (iHD), peritoneal dialysis (PD), continuous renal replacement therapy (CRRT))\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply"
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Los Angeles",
+          "Los Angeles",
+          "Madera",
+          "San Diego",
+          "Tampa",
+          "Chicago",
+          "Louisville",
+          "New Orleans",
+          "Baltimore",
+          "Boston",
+          "Worcester",
+          "Detroit",
+          "Grand Rapids",
+          "Minneapolis",
+          "Omaha",
+          "Bronx",
+          "Bronx",
+          "New Hyde Park",
+          "Charlotte",
+          "Allentown",
+          "Philadelphia",
+          "Dallas",
+          "Houston",
+          "Florence",
+          "Padova",
+          "Parma",
+          "Barcelona",
+          "Esplugues de llobregat",
+          "Madrid",
+          "Madrid",
+          "Madrid",
+          "Santiago de Compostela",
+          "Birmingham",
+          "Liverpool",
+          "London",
+          "London"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Alabama",
+          "Children's Hospital Los Angeles",
+          "Ronald Reagan University of California, Los Angeles Medical Center",
+          "Valley Children's Hospital",
+          "Rady Children's Hospital San Diego",
+          "Tampa General Hospital (Inpatient Visits)",
+          "Ann & Robert H. Lurie Children's Hospital",
+          "Norton Children's Hospital",
+          "Tulane University School of Medicine",
+          "Johns Hopkins Children's Center",
+          "Boston Children's Hospital",
+          "UMass Memorial Medical Center - University Campus",
+          "Children's Hospital of Michigan",
+          "Spectrum Health/Helen De Vos Children's Hospital",
+          "Children's Minnesota",
+          "Children's Hospital and Medical Center",
+          "NYC Health + Hospitals/Jacobi Medical Center",
+          "Montefiore Medical Center",
+          "Northwell Health-Cohen Children's Medical Center",
+          "Carolinas Medical Center-Levine Children's Hospital",
+          "Lehigh Valley Hospital/Lehigh Valley Health Network (LVH/LVHN)",
+          "St. Christopher's Hospital for Children",
+          "Children's Medical Center",
+          "Texas Children's Hospital",
+          "Azienda Ospedaliero Universitaria Meyer",
+          "University Hospital of Padova, Clinic of Pediatric Hematology-Oncology",
+          "University Hospital of Parma",
+          "Hospital Universitari Vall D'Hebron",
+          "Hospital Sant Joan de Déu",
+          "Hospital General Universitario Gregorio Maranon",
+          "Hospital Universitario 12 de Octubre",
+          "Hospital Universitario La Paz",
+          "Hospital Clínico Universitario de Santiago",
+          "University Hospitals Birmingham NHS Foundation Trust",
+          "Alder Hey Children's NHS Foundation Trust",
+          "Guy's and St Thomas' NHS Foundation Trust",
+          "King's College NHS Foundation Trust"
+        ],
+        "LocationState": [
+          "Alabama",
+          "California",
+          "California",
+          "California",
+          "California",
+          "Florida",
+          "Illinois",
+          "Kentucky",
+          "Louisiana",
+          "Maryland",
+          "Massachusetts",
+          "Massachusetts",
+          "Michigan",
+          "Michigan",
+          "Minnesota",
+          "Nebraska",
+          "New York",
+          "New York",
+          "New York",
+          "North Carolina",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Texas",
+          "Texas"
+        ],
+        "LocationZip": [
+          "35233",
+          "90027",
+          "90095",
+          "93636",
+          "92123",
+          "33606",
+          "60611",
+          "40202",
+          "70112",
+          "21287",
+          "02115",
+          "01605",
+          "48201",
+          "49503",
+          "55404",
+          "68114",
+          "10461",
+          "10467",
+          "11040",
+          "28203",
+          "18103",
+          "19134",
+          "75235",
+          "77030",
+          "50139",
+          "35128",
+          "43126",
+          "8035",
+          "8950",
+          "28009",
+          "28041",
+          "28041",
+          "15706",
+          "B95SS",
+          "L12 2AP",
+          "SE1 7EU",
+          "SE5 9RS"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The primary objectives of this study are to evaluate the safety, tolerability, and pharmacokinetics (PK) of remdesivir (RDV) in participants with laboratory-confirmed coronavirus disease 2019 (COVID-19) aged 0 days to < 18 years."
+        ],
+        "DetailedDescription": [
+          "Pediatric participants will be enrolled as follows:\n\nPediatric participants ≥ 28 days to < 18 years old:\n\nCohort 1: ≥ 12 years to < 18 years and weight ≥ 40 kg\nCohort 2: ≥ 28 days to < 18 years and weight ≥ 20 kg to < 40 kg\nCohort 3: ≥ 28 days to < 18 years and weight ≥ 12 kg to < 20 kg\nCohort 4: ≥ 28 days to < 18 years and weight ≥ 3 kg to < 12 kg\nCohort 8: < 12 years and weight ≥ 40 kg\n\nTerm neonatal participants 0 days to < 28 days old:\n\nCohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nCohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight ≥ 2.5 kg\n\nPreterm neonates and infants 0 days to < 56 days old:\n\nCohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight ≥ 1.5 kg"
+        ]
+      },
+      {
+        "Rank": 368,
+        "NCTId": [
           "NCT03441360"
         ],
         "OfficialTitle": [
@@ -23700,7 +23857,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 368,
+        "Rank": 369,
         "NCTId": [
           "NCT02040714"
         ],
@@ -24116,7 +24273,7 @@
         ]
       },
       {
-        "Rank": 369,
+        "Rank": 370,
         "NCTId": [
           "NCT03268421"
         ],
@@ -24217,7 +24374,7 @@
         ]
       },
       {
-        "Rank": 370,
+        "Rank": 371,
         "NCTId": [
           "NCT04114539"
         ],
@@ -24778,7 +24935,7 @@
         ]
       },
       {
-        "Rank": 371,
+        "Rank": 372,
         "NCTId": [
           "NCT04068012"
         ],
@@ -24856,7 +25013,7 @@
         ]
       },
       {
-        "Rank": 372,
+        "Rank": 373,
         "NCTId": [
           "NCT02840409"
         ],
@@ -24994,7 +25151,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 373,
+        "Rank": 374,
         "NCTId": [
           "NCT02650401"
         ],
@@ -25035,12 +25192,13 @@
           "Houston",
           "Salt Lake City",
           "Toronto",
-          "Beijing",
+          "Beijing City",
           "Shanghai",
           "Lyon",
           "Marseille",
           "Toulouse",
           "Villejuif",
+          "Heidelberg",
           "Hong Kong",
           "Milano",
           "Torino",
@@ -25083,6 +25241,7 @@
           "Hôpital de la Timone, Oncologie Pédiatrique",
           "Hopital Purpan; Pédiatrie - Hématologie - Oncologie pédiatrique",
           "Institut Gustave Roussy; Service de Pathologie Morphologique",
+          "Universitätsklinikum Heidelberg",
           "Hong Kong Children's Hospital",
           "Fondazione IRCCS Istituto Nazionale dei Tumori; Struttura Complessa di Pediatria Oncologica",
           "A. O. Città della Salute e della Scienza di Torino; SC Oncoematologia e Centro Trapianti AOOIRM",
@@ -25147,11 +25306,13 @@
           "77030",
           "84113",
           "M5G 1X8",
+          "100032",
           "200092",
           "69373",
           "13385",
           "31500",
           "94805",
+          "69120",
           "20133",
           "10126",
           "35128",
@@ -25173,7 +25334,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 374,
+        "Rank": 375,
         "NCTId": [
           "NCT03275402"
         ],
@@ -25265,7 +25426,7 @@
         ]
       },
       {
-        "Rank": 375,
+        "Rank": 376,
         "NCTId": [
           "NCT03363763"
         ],
@@ -25368,7 +25529,7 @@
         ]
       },
       {
-        "Rank": 376,
+        "Rank": 377,
         "NCTId": [
           "NCT03312751"
         ],
@@ -25594,7 +25755,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 377,
+        "Rank": 378,
         "NCTId": [
           "NCT04351893"
         ],
@@ -25694,7 +25855,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 378,
+        "Rank": 379,
         "NCTId": [
           "NCT04218851"
         ],
@@ -25854,7 +26015,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 379,
+        "Rank": 380,
         "NCTId": [
           "NCT04015141"
         ],
@@ -26028,7 +26189,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 380,
+        "Rank": 381,
         "NCTId": [
           "NCT02134301"
         ],
@@ -26119,7 +26280,7 @@
         ]
       },
       {
-        "Rank": 381,
+        "Rank": 382,
         "NCTId": [
           "NCT01500551"
         ],
@@ -26623,7 +26784,7 @@
         ]
       },
       {
-        "Rank": 382,
+        "Rank": 383,
         "NCTId": [
           "NCT04578756"
         ],
@@ -26766,7 +26927,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 383,
+        "Rank": 384,
         "NCTId": [
           "NCT04200352"
         ],
@@ -26871,7 +27032,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 384,
+        "Rank": 385,
         "NCTId": [
           "NCT03958877"
         ],
@@ -27114,7 +27275,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 386,
         "NCTId": [
           "NCT03492177"
         ],
@@ -27299,7 +27460,7 @@
         ]
       },
       {
-        "Rank": 386,
+        "Rank": 387,
         "NCTId": [
           "NCT04238819"
         ],
@@ -27416,7 +27577,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 387,
+        "Rank": 388,
         "NCTId": [
           "NCT03406507"
         ],
@@ -27472,7 +27633,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 388,
+        "Rank": 389,
         "NCTId": [
           "NCT03206021"
         ],
@@ -27588,7 +27749,7 @@
         ]
       },
       {
-        "Rank": 389,
+        "Rank": 390,
         "NCTId": [
           "NCT02862132"
         ],
