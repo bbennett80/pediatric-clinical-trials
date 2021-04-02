@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:03:29 22:17:11.260",
+    "DataVrs": "2021:03:31 22:16:34.098",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 372612,
+    "NStudiesAvail": 372968,
     "NStudiesFound": 389,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -5940,10 +5940,12 @@
         ],
         "Condition": [
           "Diffuse Intrinsic Pontine Glioma",
-          "High Grade Glioma"
+          "High Grade Glioma",
+          "Embryonal Tumor",
+          "Ependymal Tumor"
         ],
         "EligibilityCriteria": [
-          "Procurement Inclusion Criteria:\n\nPatients with histologically confirmed, GD2-expressing newly diagnosed DIPG or HGG or confirmation of positive H3K27M mutation status if sufficient tissue for GD2 staining by IHC is not available.\n\nTumors less than 5 cm in maximum dimension at enrollment\n\nTumors with ≤25% increase in size (on any dimension) on MRI 4-8 weeks post-radiotherapy remain eligible for study\nTumors with >25% increase in size on post-radiation imaging may be reassessed with repeat MRI in 4-6 weeks, and are eligible if tumor size is subsequently ≤ 25% increased compared with time of diagnosis\nMeasurable disease on at least 2 dimensions on MRI\nAge 12 months to 18 years\nFunctional score (Karnofsky/Lansky) ≥ 50 expected at infusion\n\nOrgan function:\n\nANC > 1000 cells/ul\nPlatelet count > 100,000 cells/ul\nTotal bilirubin < 1.5x ULN\nALT and AST < 5x ULN\nSerum creatinine or kidney within 2x ULN for age\n\nProcurement Exclusion Criteria:\n\nPatients who are pregnant or breast feeding\nAny patient with other risk factors for whom administration of investigational agent is deemed not in the patient's best interest, in the opinion of the investigator.\n\nTreatment Inclusion Criteria\n\nPatients with histologically confirmed, GD2-expressing newly diagnosed DIPG or HGG or confirmation of positive H3K27M mutation status if sufficient tissue for GD2 staining by IHC is not available.\n\nTumors less than 5 cm in maximum dimension at enrollment\n\nTumors with ≤25% increase in size (on any dimension) on MRI 4-8 weeks post-radiotherapy remain eligible for study\nTumors with >25% increase in size on post-radiation imaging may be reassessed with repeat MRI in 4-6 weeks, and are eligible if tumor size is subsequently ≤ 25% increased compared with time of diagnosis\nMeasurable disease on at least 2 dimensions on MRI\nCentral line (PICC or other) in place or planned to be placed\nAge 12 months to 18 years\nFunctional score (Karnofsky/Lansky) ≥ 50\nPatients must have completed radiation therapy. Radiation therapy must be completed at least 4 weeks prior to administration of investigational agent\nStable neurologic exam for 7 days prior to enrollment\nStable or decreasing dose of steroids (max. allowable dose of dexamethasone is 0.1 mg/kg/day over the past 7 days prior to infusion of investigational therapy)\n\nOrgan function:\n\nANC > 1000 cells/ul\nPlatelet count > 100,000 cells/ul\nTotal bilirubin < 1.5x ULN\nALT and AST < 5x ULN\nSerum creatinine or kidney within 2x ULN for age\n\nTreatment Exclusion Criteria\n\nPatients who received any other forms of immunotherapy ≤ 42 days before administration of investigational agent\nPatients who received colony-stimulating factors within 14 days prior to administration of lymphodepletion\nPatients receiving any concurrent anti-cancer therapy\nPatients who are pregnant or breast feeding\nAny patient with other risk factors for whom administration of investigational agent is deemed not in the patient's best interest, in the opinion of the investigator."
+          "Procurement Inclusion Criteria:\n\nPatients with histologically confirmed, GD2-expressing newly diagnosed DIPG or HGG or confirmation of positive H3K27M mutation status if sufficient tissue for GD2 staining by IHC is not available. Newly diagnosed is defined as prior to radiographic progression or recurrence OR Recurrent or refractory intracranial embryonal tumor, HGG or ependymal tumor with confirmed GD2-expression (or H3K27M+ for HGG) Examples of embryonal tumors include: medulloblastoma, \"PNET\", AT/RT\n\nTumors less than 5 cm in maximum dimension at enrollment\n\nTumors with ≤25% increase in size (on any dimension) on MRI 4-8 weeks post-radiotherapy remain eligible for study\nTumors with >25% increase in size on post-radiation imaging may be reassessed with repeat MRI in 4-6 weeks, and are eligible if tumor size is subsequently ≤ 25% increased compared with time of diagnosis\nMeasurable disease on at least 2 dimensions on MRI\nAge 12 months to 18 years\nFunctional score (Karnofsky/Lansky) ≥ 50 expected at infusion\n\nOrgan function:\n\nANC > 1000 cells/ul\nPlatelet count > 100,000 cells/ul\nTotal bilirubin < 1.5x ULN\nALT and AST < 5x ULN\nSerum creatinine or kidney within 2x ULN for age\n\nProcurement Exclusion Criteria:\n\nPatients who are pregnant or breast feeding\nAny patient with other risk factors for whom administration of investigational agent is deemed not in the patient's best interest, in the opinion of the investigator.\n\nTreatment Inclusion Criteria\n\nPatients with histologically confirmed, GD2-expressing newly diagnosed DIPG or HGG or confirmation of positive H3K27M mutation status if sufficient tissue for GD2 staining by IHC is not available. Newly diagnosed is defined as prior to radiographic progression or recurrence OR Recurrent or refractory intracranial embryonal tumor, HGG or ependymal tumor with confirmed GD2-expression (or H3K27M+ for HGG) Examples of embryonal tumors include: medulloblastoma, \"PNET\", AT/RT\n\nTumors less than 5 cm in maximum dimension at enrollment\n\nTumors with ≤25% increase in size (on any dimension) on MRI 4-8 weeks post-radiotherapy remain eligible for study\nTumors with >25% increase in size on post-radiation imaging may be reassessed with repeat MRI in 4-6 weeks, and are eligible if tumor size is subsequently ≤ 25% increased compared with time of diagnosis\nMeasurable disease on at least 2 dimensions on MRI\nCentral line (PICC or other) and Ommaya reservoir in place or planned to be placed\nAge 12 months to 18 years\nFunctional score (Karnofsky/Lansky) ≥ 50\nCompleted standard of care radiation therapy. If bevacizumab was administered for management of radiation necrosis, therapy must be completed at least 4 weeks prior to administration of investigational agent.\nStable neurologic exam for 7 days prior to enrollment\nStable or decreasing dose of steroids (max. allowable dose of dexamethasone is 0.1 mg/kg/day over the past 7 days prior to infusion of investigational therapy)\n\nOrgan function:\n\nANC > 1000 cells/ul\nPlatelet count > 100,000 cells/ul\nTotal bilirubin < 1.5x ULN\nALT and AST < 5x ULN\nSerum creatinine or kidney within 2x ULN for age\n\nTreatment Exclusion Criteria\n\nPatients who received any other forms of immunotherapy ≤ 42 days before administration of investigational agent\nPatients who received colony-stimulating factors within 14 days prior to administration of lymphodepletion\nPatients receiving any concurrent anti-cancer therapy\nPatients who are pregnant or breast feeding\nAny patient with other risk factors for whom administration of investigational agent is deemed not in the patient's best interest, in the opinion of the investigator."
         ],
         "MinimumAge": [
           "12 Months"
@@ -5976,10 +5978,10 @@
           "832-824-4391"
         ],
         "BriefSummary": [
-          "This study is for patients with high grade glioma (HGG) or diffuse intrinsic pontine glioma (DIPG). Because there is no standard treatment for this cancer at this time, patients are being asked to volunteer in a gene transfer research study using special immune cells called T cells. T cells are a type of white blood cell that helps the body fight infection.\n\nThe body has different ways of fighting infection and disease. No single way seems perfect for fighting cancers. This research study combines two different ways of fighting cancer: antibodies and T cells. Both antibodies and T cells have been used to treat patients with cancers. They have shown promise, but have not been strong enough to cure most patients.\n\nWe have found from previous research that we can put a new antibody gene into T cells that will make them recognize cancer cells and kill them. GD2 is a protein found on several different cancers. When we and other researchers tested DIPG/HGG cancer cells we found that many of these cancers also have GD2 on their surface.\n\nIn a clinical trial for a different cancer in children (neuroblastoma), we made a gene called a chimeric antigen receptor (CAR) from an antibody that recognizes GD2. We put this gene into the patients' own T cells and gave them back to 11 neuroblastoma patients. We saw that the cells did grow for a while, but started to disappear from the blood after 2 weeks. We think that if T cells are able to last longer, they may have a better chance of killing tumor cells.\n\nIn this study we will add a new gene to the GD2 T cells that can cause the cells to live longer. We know that T cells need substances called cytokines to survive. We have added the gene C7R that gives the cells a constant supply of cytokine and helps them to survive for a longer period of time.\n\nIn other clinical studies using T cells, some investigators found that giving chemotherapy before the T cell infusion can improve the amount of time the T cells stay in the body and therefore the effect the T cells can have. This is called lymphodepletion and we think that it will allow the T cells to expand and stay longer in the body, and potentially kill cancer cells more effectively.\n\nThe GD2.C7R T cells are an investigational product not approved by the Food and Drug Administration.\n\nThe purpose of this study is to find the largest safe dose of GD2-C7R T cells, and also to evaluate how long they can be detected in the blood and what affect they have on DIPG/HGG."
+          "This study is for patients with high grade glioma (HGG) or diffuse intrinsic pontine glioma (DIPG) or medulloblastoma or another rare brain cancer that expresses GD2. Because there is no standard treatment at this time, patients are being asked to volunteer in a gene transfer research study using special immune cells called T cells. T cells are a type of white blood cell that help the body fight infection.\n\nThe body has different ways of fighting infection and disease. No single way seems perfect for fighting cancers. This research study combines two different ways of fighting cancer: antibodies and T cells. Both antibodies and T cells have been used to treat cancer patients. They have shown promise but have not been strong enough to cure most patients.\n\nWe have found from previous research that we can put a new antibody gene into T cells that will make them recognize cancer cells and kill them. GD2 is a protein found on several different cancers. When we and other researchers tested DIPG/HGG cancer cells we found that many of these cancers also have GD2 on their surface.\n\nIn a study for neuroblastoma in children, we made a gene called a chimeric antigen receptor (CAR) from an antibody that recognizes GD2. We put this gene into the patients' own T cells and gave them back to 11 patients. We saw that the cells did grow for a while but started to disappear from the blood after 2 weeks. We think that if T cells are able to last longer they may have a better chance of killing tumor cells.\n\nIn this study, we will add a new gene to the GD2 T cells that can cause the cells to live longer. We know that T cells need substances called cytokines to survive. We have added the gene C7R that gives the cells a constant supply of cytokine and helps them to survive for a longer period of time.\n\nIn other studies using T cells some researchers found that giving chemotherapy before the T cell infusion can improve the amount of time the T cells stay in the body and therefore the effect the T cells can have. This is called lymphodepletion and we think that it will allow the T cells to expand and stay longer in the body and potentially kill cancer cells more effectively.\n\nThe GD2.C7R T cells are an investigational product not approved by the Food and Drug Administration.\n\nThe purpose of this study is to find the largest safe dose of GD2-C7R T cells, and also to evaluate how long they can be detected in the blood and what affect they have on brain cancer."
         ],
         "DetailedDescription": [
-          "To prepare the DIPG/HGG specific T cells (GD2-C7R T cells), research staff will take some blood from the patient. We will grow the GD2.C7R T cells by infecting the T cells with a retroviral vector (a special virus that can carry a new gene into cells) containing one gene that can recognize and kill DIPG/HGG cells (GD2.CAR) and the new gene called C7R that will help these cells survive longer. After the new genes have been put into the T cells, the cells will be tested to make sure that they kill GD2-positive DIPG/HGG cells.\n\nBecause we are growing the cells in the laboratory, we will also need to take blood to test for infectious viruses such as hepatitis and HIV (the virus that causes AIDS), and we will also ask patients to complete a questionnaire that is given to blood donors.\n\nThe cells generated will be frozen and stored to give back to the patient. Because patients will have received cells with a new gene in them patients will be followed for a total of 15 years to see if there are any long term side effects of gene transfer.\n\nPatients will be assigned a dose of GD2-C7R T cells. There is one dose where patients will only receive GD2 T cells without the C7R. The assigned dose of cells is adjusted based on body weight and height.\n\nIn this study, patients will receive the GD2-(C7R) cells and also receive cyclophosphamide and fludarabine. These two drugs are standard chemotherapy medicines and may be given before the T cells to make space in the blood for the T cells to grow after receiving them.\n\nCyclophosphamide and fludarabine will be given intravenously (through an i.v. needle inserted in a vein or your central line) for 2 days and then fludarabine alone on the third day.\n\nThe patient will be given an injection of GD2-(C7R) T cells into the vein through an IV line at the assigned dose. Before receiving the T cell infusion, the patient may be given a dose of Benadryl (diphenhydramine) and Tylenol (acetaminophen). The infusion will take between 1 and 10 minutes. We will then monitor the patient in the hospital for at least 3 days. The treatment will be given by the Center for Cell and Gene Therapy at Texas Children's Hospital. The patient will need to stay in Houston for up to 4 weeks after the infusion so we can monitor for side effects.\n\nThe patient will have follow-up visits at weeks 1, 2, 3, 4, 6, and 8, then at months 3, 6, 9, and 12, and then twice a year for the next 4 years and annually for the next 10 years for a total of 15 years. The patient will also have scheduled disease evaluations after the T-cell injection at week 6 and then as clinically needed.\n\nAfter disease re-evaluation, the patient may be eligible to receive one additional dose of T cells if the following criteria are met: (1) The disease has not gotten worse and/or it seems the patient may benefit in the future from an additional dose. (2) The patient has not had a severe side effect caused by the infusion of GD2-C7R T cells. The dose will be at the same dose level as the first infusion and separated by at least 3 months such that we can make sure there are no severe side effects between infusions. If the patient receives an additional dose of GD2-(C7R) T-cells, then they will need to stay in Houston for up to 4 weeks after the infusion as well so we can monitor for side effects.\n\nMedical tests before treatment--\n\nBefore being treated, the patient will receive a series of standard medical tests:\n\nPhysical exam\nBlood tests to measure blood cells, kidney and liver function\nMeasurements of the tumor by routine MRI (Magnetic Resonance Imaging)\n\nMedical tests during and after treatment--\n\nThe patient will receive standard medical tests when they are getting the infusions and afterwards:\n\nPhysical exams\nBlood tests to measure blood cells, kidney and liver function\nMeasurements of the tumor by MRI imaging studies and spinal fluid analysis 6 weeks after the infusion and repeat MRI imaging at 3 months.\n\nSpinal Fluid Tests: One spinal tap will be performed as part of the study. This procedure is usually done under general anesthesia in children. After the skin is numbed, a long needle is placed into the lower back to remove 1-2 ml of spinal fluid (less than half a teaspoon).\n\nTo learn more about the way the GD2-(C7R) T cells are working and how long they last in the body, an extra amount of blood will be obtained on the day that chemotherapy starts, the day of the T-cell infusion(s) and at the end of the T-cell infusion(s), 1, 2, 4, 6 and 8 weeks after the T-cell infusion(s) and every 3 months for the 1st year, every 6 months for the next 4 years and annually for the next 10 years. The amount of blood taken will be based on weight with up to a maximum of 60 mL (12 teaspoons) of blood to be obtained at any one time. For children, the total amount of blood drawn will not be more than 3 mL (less than 1 teaspoon) per 1 kg of body weight on any one day. This volume is considered safe, but may be decreased if the patient is anemic (has a low red blood cell count).\n\nDuring the time points listed above, if the GD2-(C7R) T cells are found in the patient's blood at a certain amount, an extra 5 mL (about 1 teaspoon) of blood may need to be collected for additional testing.\n\nIf the patient has a procedure where tumor samples are obtained, like a spinal tap evaluation or tumor biopsy, we will request a sample to be used for research purposes.\n\nThe patient will receive supportive care for any acute or chronic toxicities, including blood components or antibiotics, and other intervention as appropriate."
+          "To prepare the brain cancer specific T cells (GD2-C7R T cells), research staff will take some blood from the patient. We will grow the GD2.C7R T cells by infecting the T cells with a retroviral vector (a special virus that can carry a new gene into cells) containing one gene that can recognize and kill brain cancer cells (GD2.CAR) and the new gene called C7R that will help these cells survive longer. After the new genes have been put into the T cells, the cells will be tested to make sure that they kill GD2-positive brain cancer cells.\n\nAll patients on this study are required to have an Ommaya catheter in place prior to treatment as a precaution. This is a special catheter that leads to the tumor, the cavity left in the brain after surgical removal of the tumor, or into the fluid-filled space in the brain. If a patient does not have such a catheter already, one will need to be placed to allow for his/her treatment on this study. Catheter placement is done by a surgeon\n\nBecause we are growing the cells in the laboratory, we will also need to take blood to test for infectious viruses such as hepatitis and HIV (the virus that causes AIDS), and we will also ask patients to complete a questionnaire that is given to blood donors.\n\nThe cells generated will be frozen and stored to give back to the patient. Because patients will have received cells with a new gene in them patients will be followed for a total of 15 years to see if there are any long term side effects of gene transfer.\n\nPatients will be assigned a dose of GD2-C7R T cells. There is one dose where patients will only receive GD2 T cells without the C7R. The assigned dose of cells is adjusted based on body weight and height.\n\nIn this study, patients will receive the GD2-(C7R) cells and also receive cyclophosphamide and fludarabine. These two drugs are standard chemotherapy medicines and may be given before the T cells to make space in the blood for the T cells to grow after receiving them.\n\nCyclophosphamide and fludarabine will be given intravenously (through an i.v. needle inserted in a vein or your central line) for 2 days and then fludarabine alone on the third day.\n\nThe patient will be given an injection of GD2-(C7R) T cells into the vein through an IV line at the assigned dose. Before receiving the T cell infusion, the patient may be given a dose of Benadryl (diphenhydramine) and Tylenol (acetaminophen). The infusion will take between 1 and 10 minutes. We will then monitor the patient in the hospital for at least 5 days. The treatment will be given by the Center for Cell and Gene Therapy at Texas Children's Hospital. The patient will need to stay in Houston for up to 4 weeks after the infusion so we can monitor for side effects.\n\nThe patient will have follow-up visits at weeks 1, 2, 3, 4, 6, and 8, then at months 3, 6, 9, and 12, and then twice a year for the next 4 years and annually for the next 10 years for a total of 15 years. The patient will also have scheduled disease evaluations after the T-cell injection at week 6 and then as clinically needed.\n\nAfter disease re-evaluation, the patient may be eligible to receive one additional dose of T cells if the following criteria are met: (1) The disease has not gotten worse and/or it seems the patient may benefit in the future from an additional dose. (2) The patient has not had a severe side effect caused by the infusion of GD2-C7R T cells. The dose will be at the same dose level as the first infusion and separated by at least 3 months such that we can make sure there are no severe side effects between infusions. If the patient receives an additional dose of GD2-(C7R) T-cells, then they will need to stay in Houston for up to 4 weeks after the infusion as well so we can monitor for side effects.\n\nMedical tests before treatment--\n\nBefore being treated, the patient will receive a series of standard medical tests:\n\nPhysical exam\nBlood tests to measure blood cells, kidney and liver function\nMeasurements of the tumor by routine MRI (Magnetic Resonance Imaging)\n\nMedical tests during and after treatment--\n\nThe patient will receive standard medical tests when they are getting the infusions and afterwards:\n\nPhysical exams\nBlood tests to measure blood cells, kidney and liver function\nMeasurements of the tumor by MRI imaging studies and spinal fluid analysis 6 weeks after the infusion and repeat MRI imaging at 3 months.\n\nSpinal Fluid Tests (optional): Spinal fluid may be drawn from the patient's existing Ommaya reservoir at week 2 and between week 6 and week 8 and possibly other timepoints if helpful for clinical care. This procedure can be done at the bedside under local anesthesia and 1-2 ml of spinal fluid (less than half a teaspoon) will be removed. Additional spinal fluid may be removed if the pressure inside the brain is elevated.\n\nTo learn more about the way the GD2-(C7R) T cells are working and how long they last in the body, an extra amount of blood will be obtained on the day that chemotherapy starts, the day of the T-cell infusion(s) and at the end of the T-cell infusion(s), 1, 2, 4, 6 and 8 weeks after the T-cell infusion(s) and every 3 months for the 1st year, every 6 months for the next 4 years and annually for the next 10 years. The amount of blood taken will be based on weight with up to a maximum of 60 mL (12 teaspoons) of blood to be obtained at any one time. For children, the total amount of blood drawn will not be more than 3 mL (less than 1 teaspoon) per 1 kg of body weight on any one day. This volume is considered safe, but may be decreased if the patient is anemic (has a low red blood cell count).\n\nDuring the time points listed above, if the GD2-(C7R) T cells are found in the patient's blood at a certain amount, an extra 5 mL (about 1 teaspoon) of blood may need to be collected for additional testing.\n\nIf the patient has a procedure where tumor samples are obtained, like a blood is collected or tumor biopsy, we will request a sample to be used for research purposes.\n\nThe patient will receive supportive care for any acute or chronic toxicities, including blood components or antibiotics, and other intervention as appropriate."
         ]
       },
       {
@@ -7963,10 +7965,11 @@
           "NCT03721068"
         ],
         "OfficialTitle": [
-          "Phase I Study of Autologous Activated T-cells Transduced With a 2nd Generation GD2 Chimeric Antigen Receptor, Co-expression of IL-15, and iCaspase9 Safety Switch Administered To Patients With Relapsed or Refractory Neuroblastoma"
+          "A Phase I Study of Autologous Activated T-Cells Expressing a 2nd Generation GD2 Chimeric Antigen Receptor, IL-15, and iCaspase9 Safety Switch Administered To Patients With Relapsed/Refractory Neuroblastoma or Relapsed/Refractory Osteosarcoma"
         ],
         "Condition": [
-          "Neuroblastoma"
+          "Neuroblastoma",
+          "Osteosarcoma"
         ],
         "EligibilityCriteria": [
           "Inclusion Criteria:\n\nAge greater than 18 months and less than 18 years at the time of consent.\nAdequate performance status as defined by Lansky or Karnofsky performance status of ≥ 60 (Lansky for <16 years of age).\nLife expectancy >12 weeks.\nHistological confirmation of neuroblastoma or ganglioneuroblastoma at initial diagnosis. Bone marrow samples are acceptable as confirmation of neuroblastoma.\n\nHigh risk neuroblastoma with persistent/refractory or relapsed disease, defined as:\n\n• First or greater relapse of neuroblastoma following completion of aggressive multi-drug frontline therapy.\n\n• First episode of progressive neuroblastoma during aggressive multi-drug frontline therapy.\n\nPersistent/refractory neuroblastoma as defined by less than a complete response (by the revised INRC) at the conclusion of at least 4 cycles of aggressive multidrug induction chemotherapy on or according to a high-risk neuroblastoma protocol (such as A3973 or ANBL0532).\nPatients must be diagnosed with high risk neuroblastoma at initial diagnosis or if non-high risk at time of initial diagnosis must have had evidence of metastatic progression when >18 months of age. (See Section 12.9 for COG and INRG definitions if needed)\nSubjects must have measurable or evaluable disease per Revised International Neuroblastoma Response Criteria (See Section 12.6)\n\nAdequate central nervous system function as defined by:\n\nNo known CNS disease\nNo seizure disorder requiring antiepileptic drug therapy\n\nAdequate cardiac function as defined by:\n\n• Shortening fraction of ≥27% by echocardiogram\n\nAdequate pulmonary function as defined by:\n\n• No chronic oxygen requirement and room air pulse oximetry >94%.\n\nFemales of childbearing potential must have a negative serum pregnancy test within 72 hours prior to cell procurement. NOTE: Premenarchal females do not require pregnancy testing.\nFemales of childbearing potential must be willing to abstain from heterosexual activity or to use 2 forms of effective methods of contraception from the time of informed consent until 3 months after treatment discontinuation. The two contraception methods can be comprised of two barrier methods, or a barrier method plus a hormonal method or an intrauterine device that meets <1% failure rate for protection from pregnancy in the product label.\nMale subjects with female partners must have had a prior vasectomy or agree to use an adequate method of contraception (i.e., double barrier method: condom plus spermicidal agent) starting with the first dose of study therapy through 3 months after the last dose of study therapy.\nAs determined by the enrolling physician, subject is willing and able to comply with study procedures.\n\nExclusion Criteria:\n\nSubjects meeting any of the following exclusion criteria will not be able to participate in this study (procurement, lymphodepletion and cell infusion).\n\nPregnant or breastfeeding (NOTE: breast milk cannot be stored for future use while the mother is being treated on study).\nHas a known additional malignancy that is active and/or progressive requiring treatment.\nHistory of hypersensitivity reactions to murine protein-containing products.\nHistory of hypersensitivity to cyclophosphamide or fludarabine.\n\nSystemic steroid use except as below:\n\nPhysiologic replacement for adrenal insufficiency is allowed at doses of hydrocortisone 6-12 mg/m2/day or equivalent.\nInhaled steroids are allowed.\nOther than the above, systemic steroids must be stopped >14 days prior to procurement, but may be resumed after procurement if needed as per treating physician. Systemic steroids must be stopped 48 hours prior to lymphodepletion and not used after infusion unless clinically required.\nUncontrolled infection requiring systemic therapy.\n\nSubjects are required to be negative for HIV antibody or HIV viral load, negative for HTLV1 and 2 antibody or PCR negative for HTLV1 and 2, negative for Hepatitis B surface antigen, or negative for HCV antibody or HCV viral load. Tests can be pending at the time of cell procurement; only those samples confirming lack of active infection will be used to generate transduced cells.\n\nA. Eligibility criteria to be met prior to procurement A.1 Written informed consent to undergo cell procurement signed by legal guardian must be obtained prior to procurement. Written assent required as applicable for age <15 years old.\n\nA.2 Age greater than 18 months and less than 18 years at the time of consent. A.3 Imaging and bone marrow study results from within 90 days prior to procurement to assess presence of active disease.\n\nA.4 Subjects who have received murine antibodies must have documentation of absence of human anti-mouse antibodies (HAMA). Test can be pending at the time of cell procurement; only those patients with confirmed absence of HAMA will have cells generated.\n\nA.5 Adequate organ function as defined in the table below; all labs to be obtained within 7 days of procurement System Laboratory Value Hematological* Hemoglobin ≥ 9.0 g/dL, Absolute Neutrophil Count (ANC) ≥ 0.8 x 109/L, Platelets (transfusion independent) ≥ 50 x 109/L Renal Age: Maximum Serum Creatinine (mg/dL) (Male, Female) 1 to <2 years: (≤0.6, ≤0.6); 2 to <6 years:(≤0.8, ≤0.8); 6 to <10 years: (≤1, ≤1); 10 to <13 years: (≤1.2, ≤1.2); 13 to <16 years: (≤1.5, ≤1.4); ≥16 years: (≤1.7, ≤1.4) Hepatic Total Bilirubin ≤ 1.5 × upper limit of normal (ULN) for age Alanine aminotransferase (ALT) ≤ 500 U/L Coagulation International Normalized Ratio (INR) ≤ 2 × ULN\n\n*Subjects with known bone marrow involvement are eligible even if they have not met the above Hematological eligibility criteria. However, those subjects must be able to be supported with transfusions to prevent life-threatening bleeding as per investigator discretion.\n\nB. Eligibility criteria to be met prior to lymphodepletion B.1 Written informed consent to enroll in the iC9.GD2.CAR.IL-15 cell therapy trial signed by legal guardian must be obtained prior to starting lymphodepletion. Written assent required as applicable for age <15 years old.\n\nB.2 Subjects must have imaging and bone marrow study results within 14 days prior to lymphodepletion (used as baseline measure for documentation of progression before the lymphodepletion). Subjects who have received bridging chemotherapy must have imaging and bone marrow study results at least 3 weeks after most recent therapy. Required is anatomic imaging (MRI or CT) and functional imaging with MIBG (or PET if mass is MIBG-nonavid). A mass which is neither MIBG-avid nor PET-avid will require biopsy to confirm neuroblastoma or ganglioneuroblastoma.\n\nB.3 Adequate organ function as defined in the table below; all labs to be obtained within 7 days of procurement System Laboratory Value Hematological* Hemoglobin ≥ 9.0 g/dL, Absolute Neutrophil Count (ANC) ≥ 0.8 x 109/L, Platelets (transfusion independent) ≥ 50 x 109/L Renal Age: Maximum Serum Creatinine (mg/dL) (Male, Female) 1 to <2 years: (≤0.6, ≤0.6); 2 to <6 years:(≤0.8, ≤0.8); 6 to <10 years: (≤1, ≤1); 10 to <13 years: (≤1.2, ≤1.2); 13 to <16 years: (≤1.5, ≤1.4); ≥16 years: (≤1.7, ≤1.4) Hepatic Total Bilirubin ≤ 1.5 × upper limit of normal (ULN) for age Alanine aminotransferase (ALT) ≤ 500 U/L\n\n*Subjects with known bone marrow involvement are eligible even if they have not met the above Hematological eligibility criteria. However, those subjects must be able to be supported with transfusions to prevent life-threatening bleeding as per investigator discretion.\n\n**Patients with moderate impairment of renal function (normalized creatinine clearance 30-70 mL/min/1.73m2) should have their fludarabine dose reduced by 20% and be monitored closely for excessive toxicity.\n\nB.4 Treatment with any investigational drug within 21 days of lymphodepletion or any tumor vaccines within the previous six weeks prior to lymphodepletion.\n\nB.5 Adequate performance status as defined by Lansky or Karnofsky performance status of ≥ 60 (Lansky for <16 years of age).\n\nB.6 Females of childbearing potential must have a negative serum pregnancy test within 72 hours prior to lymphodepletion. NOTE: Premenarchal females do not require pregnancy testing.\n\nB.7 Available autologous transduced activated T cells product meets the certificate of analysis.\n\nB.8 Subject has not received aldesleukin (IL-2) within 28 days of starting lymphodepletion.\n\nB.9 Subject has not received:\n\n• filgrastim (G-CSF) (or biosimilar) within 7 days of starting lymphodepletion;\n\n• sargramostim (GM-CSF) within 14 days of starting lymphodepletion;\n\n• pegfilgrastim within 21 days of starting lymphodepletion.\n\nB.10 Systemic steroid use is prohibited, except as below:\n\n• Physiologic replacement for adrenal insufficiency is allowed at doses of hydrocortisone 6-12 mg/m2/day or equivalent.\n\n• Inhaled steroids are allowed.\n\nOther than the above, systemic steroids must be stopped 48 hours prior to lymphodepletion and not used after infusion unless clinically required.\n\nB.11 Prior autologous stem cell transplant is allowed as long as it occurred ≥4 weeks prior to lymphodepletion.\n\nB.12 Prior therapeutic 131I-MIBG is allowed as long as it is completed ≥4 weeks prior to lymphodepletion.\n\nB.13 Prior anti-GD2 therapy (such as dinutuximab) is allowed as long as it is completed ≥4 weeks prior to lymphodepletion.\n\nB.14 Subject did not have major surgery within 14 days of starting lymphodepletion.\n\nB.15 Subjects that have received bridging therapy with murine antibodies must have documentation of absence of human anti-mouse antibodies (HAMA) prior to lymphodepletion.\n\nB.16 Subject is not taking a prohibited or contraindicated medication listed in Section 4.2.11 prior to lymphodepletion. Contraindicated medications should be discontinued at least two weeks prior to the scheduled lymphodepletion or by at least 5 half-lives of the contraindicated medication, whichever is shorter.\n\nB.17 Subject does not have disease progression that would, in the opinion of the treating physician, place the subject at significant potential risk, such as location of lesion that would have high risk with tumor swelling (examples include airway or spinal canal).\n\nB.18 No evidence of uncontrolled infection or sepsis.\n\nC. Eligibility criteria to be met prior to cell infusion after lymphodepletion C.1 Subject is a good candidate for treatment per investigator's discretion. C.2 No evidence of uncontrolled infection or sepsis.\n\nD. Eligibility Criteria Prior to Lymphodepltion for Second Infusion (Optional) D.1 Subjects must not have received bridging therapy after their initial iC9.GD2.CAR.IL-15 cell infusion.\n\nD.2 Adequate organ function as defined in the table below:\n\nSystem Laboratory Value Hematological* Absolute Neutrophil Count (ANC) ≥ 0.8 x 109/L, Platelets (transfusion independent) ≥ 50 x 109/L Renal** Age: Maximum Serum Creatinine (mg/dL) (Male, Female) 1 to <2 years: (≤0.6, ≤0.6); 2 to <6 years:(≤0.8, ≤0.8); 6 to <10 years: (≤1, ≤1); 10 to <13 years: (≤1.2, ≤1.2); 13 to <16 years: (≤1.5, ≤1.4); ≥16 years: (≤1.7, ≤1.4) Hepatic Total Bilirubin ≤ 1.5 × upper limit of normal (ULN) for age Alanine aminotransferase (ALT) ≤ 500 U/L\n\n*Subjects with known bone marrow involvement are eligible even if they have not met the above Hematological eligibility criteria. However, those subjects must be able to be supported with transfusions to prevent life-threatening bleeding as per investigator discretion.\n\n**Patients with moderate impairment of renal function (normalized creatinine clearance 30-70 mL/min/1.73m2) should have their fludarabine dose reduced by 20% and be monitored closely for excessive toxicity.\n\nD.3 Adequate performance status as defined by Lansky or Karnofsky performance status of ≥ 60 (Lansky for <16 years of age).\n\nD.4 Females of childbearing potential must have a negative serum pregnancy test within 72 hours prior to lymphodepletion. NOTE: Premenarchal females do not require pregnancy testing.\n\nD.5 Subject has not received:\n\n• filgrastim (G-CSF) (or biosimilar) within 7 days of starting lymphodepletion;\n\n• sargramostim (GM-CSF) within 14 days of starting lymphodepletion;\n\n• pegfilgrastim within 21 days of starting lymphodepletion.\n\nD.6 Systemic steroid use is prohibited, except as below:\n\nPhysiologic replacement for adrenal insufficiency is allowed at doses of hydrocortisone 6-12 mg/m2/day or equivalent.\nInhaled steroids are allowed.\nOther than the above, systemic steroids must be stopped 48 hours prior to lymphodepletion and not used after infusion unless clinically required.\n\nD.7 Subject did not have major surgery within 14 days of starting lymphodepletion.\n\nD.8 Subject is not taking a prohibited or contraindicated medication listed in Section 4.2.12 prior to lymphodepletion. Contraindicated medications should be discontinued at least two weeks prior to the scheduled lymphodepletion or by at least 5 half-lives of the contraindicated medication, whichever is shorter.\n\nD.9 No evidence of uncontrolled infection or sepsis. D.10 Subject has completed the initial safety evaluation period without DLTs. D.11 Subject has not experienced additional toxicity(ies) directly attributable to the initial T-cell infusion that would place them at excessive risk with re-infusion.\n\nD.12 Subject has derived clinical benefit from the initial infusion as assessed by the investigator (stable disease or better to the initial infusion).\n\nD.13 Subject has sufficient stored iC9.GD2.CAR.IL-15 T-cells for re-infusion.\n\nE. Eligibility Criteria Prior to Second Infusion (Optional) E.1 Subject is a good candidate for treatment per investigator's discretion. E.2 No evidence of uncontrolled infection or sepsis."
@@ -17177,6 +17180,296 @@
       {
         "Rank": 335,
         "NCTId": [
+          "NCT04442295"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
+        ],
+        "Condition": [
+          "Dravet Syndrome"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
+        ],
+        "MinimumAge": [
+          "2 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "San Francisco",
+          "Aurora",
+          "Washington",
+          "Miami",
+          "Chicago",
+          "Iowa City",
+          "Boston",
+          "Ann Arbor",
+          "Rochester",
+          "New York",
+          "Portland",
+          "Memphis",
+          "Fort Worth",
+          "Salt Lake City",
+          "Seattle",
+          "Tacoma"
+        ],
+        "LocationFacility": [
+          "University of California San Francisco Medical Center",
+          "Children's Hospital Colorado",
+          "Children's National Medical Center",
+          "Nicklaus Children's Hospital",
+          "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "University of Iowa, Department of Pediatrics,",
+          "Massachusetts General Hospital",
+          "Mott Children's Hospital",
+          "Mayo Clinic",
+          "NYU Comprehensive Epilepsy Center",
+          "Oregon Health & Science University",
+          "Le Bonheur Children's Hospital",
+          "Cook Children's Medical Center",
+          "University of Utah Pediatrics Clinical Trials Office",
+          "Seattle Children's Hospital",
+          "Multicare Institute for Research and Innovation"
+        ],
+        "LocationState": [
+          "California",
+          "Colorado",
+          "District of Columbia",
+          "Florida",
+          "Illinois",
+          "Iowa",
+          "Massachusetts",
+          "Michigan",
+          "Minnesota",
+          "New York",
+          "Oregon",
+          "Tennessee",
+          "Texas",
+          "Utah",
+          "Washington",
+          "Washington"
+        ],
+        "LocationZip": [
+          "94158",
+          "80045",
+          "20010",
+          "33155",
+          "60611",
+          "52242",
+          "02114",
+          "48109",
+          "55905",
+          "10016",
+          "97239",
+          "38105",
+          "76104",
+          "84108",
+          "98105",
+          "98405"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
+        ],
+        "DetailedDescription": [
+          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
+        ]
+      },
+      {
+        "Rank": 336,
+        "NCTId": [
+          "NCT04431453"
+        ],
+        "OfficialTitle": [
+          "A Phase 2/3 Single-Arm, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of Remdesivir (GS-5734™) in Participants From Birth to < 18 Years of Age With COVID-19"
+        ],
+        "Condition": [
+          "COVID-19"
+        ],
+        "EligibilityCriteria": [
+          "Key Inclusion Criteria:\n\nAged < 18 years of age who meet one of the following weight criteria (where permitted according to local law and approved nationally and by relevant institutional review board (IRB) or independent ethics committee (IEC)).\n\na) Cohort 1: ≥ 12 years to < 18 years of age and weight at screening ≥ 40 kg\nb) Cohorts 2-4: ≥ 28 days to < 18 years of age and weight at screening ≥ 3 kg and < 40 kg\nc) Cohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nd) Cohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight of ≥ 2.5 kg\ne) Cohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight of ≥ 1.5 kg\nf) Cohort 8: < 12 years of age and weight at screening ≥ 40 kg\nSevere acute respiratory syndrome coronavirus (SARS-CoV-2) infection confirmed by polymerase chain reaction (PCR)\nHospitalized and requiring medical care for coronavirus disease 2019 (COVID-19)\n\nKey Exclusion Criteria:\n\nConcurrent treatment with other agents with actual or possible direct antiviral activity against SARS-CoV-2 < 24 hours prior to study drug dosing\nAlanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit of normal (ULN)\nEstimated glomerular filtration rate (eGFR) < 30 mL/min/1.73m^2 using Schwartz formula for individuals ≥ 1 year of age\nCreatinine above protocol specified thresholds for < 1 year of age\nPositive pregnancy test at Screening only for female of child bearing potential. Note: If female participants who become pregnant during the study or are discovered to be pregnant after receiving at least one dose may continue study drug, after discussion with the investigator\nOn renal replacement therapies (intermittent hemodialysis (iHD), peritoneal dialysis (PD), continuous renal replacement therapy (CRRT))\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply"
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Los Angeles",
+          "Los Angeles",
+          "Madera",
+          "San Diego",
+          "Tampa",
+          "Chicago",
+          "Louisville",
+          "New Orleans",
+          "Baltimore",
+          "Boston",
+          "Worcester",
+          "Detroit",
+          "Grand Rapids",
+          "Minneapolis",
+          "Omaha",
+          "Bronx",
+          "Bronx",
+          "New Hyde Park",
+          "Charlotte",
+          "Allentown",
+          "Philadelphia",
+          "Dallas",
+          "Houston",
+          "Florence",
+          "Padova",
+          "Parma",
+          "Barcelona",
+          "Esplugues de llobregat",
+          "Madrid",
+          "Madrid",
+          "Madrid",
+          "Santiago de Compostela",
+          "Birmingham",
+          "Liverpool",
+          "London",
+          "London"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Alabama",
+          "Children's Hospital Los Angeles",
+          "Ronald Reagan University of California, Los Angeles Medical Center",
+          "Valley Children's Hospital",
+          "Rady Children's Hospital San Diego",
+          "Tampa General Hospital (Inpatient Visits)",
+          "Ann & Robert H. Lurie Children's Hospital",
+          "Norton Children's Hospital",
+          "Tulane University School of Medicine",
+          "Johns Hopkins Children's Center",
+          "Boston Children's Hospital",
+          "UMass Memorial Medical Center - University Campus",
+          "Children's Hospital of Michigan",
+          "Spectrum Health/Helen De Vos Children's Hospital",
+          "Children's Minnesota",
+          "Children's Hospital and Medical Center",
+          "NYC Health + Hospitals/Jacobi Medical Center",
+          "Montefiore Medical Center",
+          "Northwell Health-Cohen Children's Medical Center",
+          "Carolinas Medical Center-Levine Children's Hospital",
+          "Lehigh Valley Hospital/Lehigh Valley Health Network (LVH/LVHN)",
+          "St. Christopher's Hospital for Children",
+          "Children's Medical Center",
+          "Texas Children's Hospital",
+          "Azienda Ospedaliero Universitaria Meyer",
+          "University Hospital of Padova, Clinic of Pediatric Hematology-Oncology",
+          "University Hospital of Parma",
+          "Hospital Universitari Vall D'Hebron",
+          "Hospital Sant Joan de Déu",
+          "Hospital General Universitario Gregorio Maranon",
+          "Hospital Universitario 12 de Octubre",
+          "Hospital Universitario La Paz",
+          "Hospital Clínico Universitario de Santiago",
+          "University Hospitals Birmingham NHS Foundation Trust",
+          "Alder Hey Children's NHS Foundation Trust",
+          "Guy's and St Thomas' NHS Foundation Trust",
+          "King's College NHS Foundation Trust"
+        ],
+        "LocationState": [
+          "Alabama",
+          "California",
+          "California",
+          "California",
+          "California",
+          "Florida",
+          "Illinois",
+          "Kentucky",
+          "Louisiana",
+          "Maryland",
+          "Massachusetts",
+          "Massachusetts",
+          "Michigan",
+          "Michigan",
+          "Minnesota",
+          "Nebraska",
+          "New York",
+          "New York",
+          "New York",
+          "North Carolina",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Texas",
+          "Texas"
+        ],
+        "LocationZip": [
+          "35233",
+          "90027",
+          "90095",
+          "93636",
+          "92123",
+          "33606",
+          "60611",
+          "40202",
+          "70112",
+          "21287",
+          "02115",
+          "01605",
+          "48201",
+          "49503",
+          "55404",
+          "68114",
+          "10461",
+          "10467",
+          "11040",
+          "28203",
+          "18103",
+          "19134",
+          "75235",
+          "77030",
+          "50139",
+          "35128",
+          "43126",
+          "8035",
+          "8950",
+          "28009",
+          "28041",
+          "28041",
+          "15706",
+          "B95SS",
+          "L12 2AP",
+          "SE1 7EU",
+          "SE5 9RS"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The primary objectives of this study are to evaluate the safety, tolerability, and pharmacokinetics (PK) of remdesivir (RDV) in participants with laboratory-confirmed coronavirus disease 2019 (COVID-19) aged 0 days to < 18 years."
+        ],
+        "DetailedDescription": [
+          "Pediatric participants will be enrolled as follows:\n\nPediatric participants ≥ 28 days to < 18 years old:\n\nCohort 1: ≥ 12 years to < 18 years and weight ≥ 40 kg\nCohort 2: ≥ 28 days to < 18 years and weight ≥ 20 kg to < 40 kg\nCohort 3: ≥ 28 days to < 18 years and weight ≥ 12 kg to < 20 kg\nCohort 4: ≥ 28 days to < 18 years and weight ≥ 3 kg to < 12 kg\nCohort 8: < 12 years and weight ≥ 40 kg\n\nTerm neonatal participants 0 days to < 28 days old:\n\nCohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nCohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight ≥ 2.5 kg\n\nPreterm neonates and infants 0 days to < 56 days old:\n\nCohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight ≥ 1.5 kg"
+        ]
+      },
+      {
+        "Rank": 337,
+        "NCTId": [
           "NCT04258943"
         ],
         "OfficialTitle": [
@@ -17411,7 +17704,7 @@
         ]
       },
       {
-        "Rank": 336,
+        "Rank": 338,
         "NCTId": [
           "NCT04195399"
         ],
@@ -17937,7 +18230,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 339,
         "NCTId": [
           "NCT03896763"
         ],
@@ -18227,7 +18520,176 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 340,
+        "NCTId": [
+          "NCT03802799"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of ZYN002 Administered as a Transdermal Gel to Children and Adolescents With Fragile X Syndrome - CONNECT-FX Open Label Extension (OLE)"
+        ],
+        "Condition": [
+          "Fragile X Syndrome"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nParticipated in the ZYN2-CL-016 study.\nPatients and parents/caregivers agree to abide by all study restrictions and comply with all study procedures.\nPatients and parents/caregivers must be adequately informed of the nature, risks of the study, and give written informed consent prior to enrollment in ZYN2-CL-017.\nIn the Investigator's opinion, the patients and parents/caregivers are reliable and are willing and able to comply with all protocol requirements and procedures.\nFemales of childbearing potential must have a negative pregnancy test at all designated visits\n\nExclusion Criteria:\n\nPatient is receiving any investigational drugs (not ZYN002) or using any experimental devices.\nPatient has an ongoing serious adverse event (SAE) or has experienced a SAE in ZYN2-CL-016, which in the opinion of the Investigator, should exclude them from participation.\nFemales who are pregnant, nursing, or planning a pregnancy; females of childbearing potential and male patients with a partner of childbearing potential who are unwilling or unable to use an acceptable method of contraception for the duration of therapy and for three months after the last dose of trial drug.\nPatients who have alanine aminotransferase (ALT), aspartate aminotransferase (AST), or total bilirubin levels >= 2 times the upper limit of normal (ULN) or has alkaline phosphatase levels >= 3 times the ULN as determined from patient safety laboratories."
+        ],
+        "MinimumAge": [
+          "3 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Phoenix",
+          "Phoenix",
+          "Sacramento",
+          "Denver",
+          "Atlanta",
+          "Chicago",
+          "Baltimore",
+          "Boston",
+          "Morristown",
+          "New York",
+          "Chapel Hill",
+          "Cincinnati",
+          "Cleveland",
+          "Tulsa",
+          "Media",
+          "Greenville",
+          "Seattle",
+          "Sydney",
+          "Brisbane",
+          "Melbourne",
+          "Wellington"
+        ],
+        "LocationFacility": [
+          "Southwest Autism Research and Resource Center",
+          "Phoenix Children's Hospital",
+          "UC Davis Health System, MIND Institute",
+          "Children's Hospital of Colorado",
+          "Emory University School of Medicine",
+          "Rush University Medical Center",
+          "Kennedy Krieger Institute",
+          "Boston Children's Hospital",
+          "Fragile X Center of Atlantic Health System",
+          "The Fragile X Spectrum Disorder Clinic at Icahn School of Medicine at Mount Sinai, Division of Medical Genetics",
+          "University of North Carolina",
+          "Cincinnati Children's Hospital Medical Center",
+          "University Hospitals Cleveland Medical Center",
+          "Central States Research",
+          "Suburban Research Associates",
+          "Greenwood Genetic Center",
+          "University of Washington Center for Human Development and Disability",
+          "Westmead Children's Hospital",
+          "Lady Cilento Children's Hospital - South Brisbane",
+          "Genetics Clinics Australia",
+          "Wellington Hospital"
+        ],
+        "LocationState": [
+          "Arizona",
+          "Arizona",
+          "California",
+          "Colorado",
+          "Georgia",
+          "Illinois",
+          "Maryland",
+          "Massachusetts",
+          "New Jersey",
+          "New York",
+          "North Carolina",
+          "Ohio",
+          "Ohio",
+          "Oklahoma",
+          "Pennsylvania",
+          "South Carolina",
+          "Washington",
+          "New South Wales",
+          "Queensland",
+          "Victoria"
+        ],
+        "LocationZip": [
+          "85006",
+          "85016",
+          "95817",
+          "80045",
+          "30322",
+          "60612",
+          "21205",
+          "02115",
+          "07960",
+          "10029",
+          "27510",
+          "45229",
+          "44106",
+          "74136",
+          "19063",
+          "29605",
+          "98198",
+          "2145",
+          "4101",
+          "3161",
+          "6021"
+        ],
+        "LocationContactEMail": [
+          "soberreynolds@autismcenter.org",
+          "gkaur@phoenixchildrens.com",
+          "lapotter@ucdavis.edu",
+          "Nanastasia.Welnick@childrenscolorado.org",
+          "jean.luan@emory.edu",
+          "Melissa_R_Baer@rush.edu",
+          "Liew@kennedykrieger.org",
+          "katherine.pawlowski@childrens.harvard.edu",
+          "christina.flora@atlantichealth.org",
+          "Katherine.Graham-Oregan@mssm.edu",
+          "elizabeth_dubose@med.unc.edu",
+          "Kaela.OBrien@cchmc.org",
+          "orion.biesan@uhhospitals.org",
+          "kcolleluori@suburbanresearch.com",
+          "atierney@ggc.org",
+          "peppem@uw.edu",
+          "Regienald.Gayaman@health.nsw.gov.au",
+          "emily.milburn@health.qld.gov.au",
+          "travel@travelclinic.com.au",
+          "Marina.Dzhelali@ccdhb.org.nz"
+        ],
+        "LocationContactName": [
+          "Raun Melmed, MD",
+          "Richard Frye, MD",
+          "Randi Hagerman, MD",
+          "Nicole Tartaglia, MD",
+          "Amy Talboy, MD",
+          "Elizabeth Berry-Kravis, MD",
+          "Dejan Budimirovic, MD",
+          "Lisa Prock, MD",
+          "Darius Adams, MD",
+          "Reymundo Lozano, MD",
+          "Katherine Graham-Oregan",
+          "Laura Politte, MD",
+          "Craig Erickson, MD",
+          "Nora McNamara, MD",
+          "Whitney Deneen",
+          "Sarah Land, MD",
+          "Shivkumar Hatti, MD",
+          "Carrie Buchanan, MD",
+          "Raphael Bernier, PhD",
+          "Natalie Silove, MD",
+          "Honey Heussler, MD",
+          "Jonathan Cohen, MD",
+          "Andrew Marshall, MD"
+        ],
+        "LocationContactPhone": [
+          "212-659-8645",
+          "918-645-5400"
+        ],
+        "BriefSummary": [
+          "ZYN002 is a pharmaceutically manufactured Cannabidiol (CBD) that is developed as a clear gel that can be applied to the skin (called transdermal delivery).\n\nThe gel will be applied to clean, dry, intact skin of the shoulders and/or upper arms.\n\nOnly participants from the ZYN2-CL-016 study who meet the inclusion criteria and none of the exclusion criteria for study ZYN2-CL-017 are eligible.\n\nParents/caregivers will apply the study gel twice daily for the 52-week treatment period."
+        ],
+        "DetailedDescription": [
+          "This is an open-label extension, multiple-center study, to assess the long-term safety and tolerability of CBD administered as ZYN002, a transdermal gel, for the treatment of child and adolescent patients with Fragile X Syndrome (FXS). Male and female patients with FXS will be treated for up to 12 months. Up to 300 male and female patients, ages 3 to 18 years will be enrolled.\n\nParents/caregivers will apply the study gel twice daily for the 52-week treatment period.\n\nParticipants who weigh less than or equal to 35 kg, will receive 1 sachet of ZYN002, applied every 12 hours (± 2 hours).\n\nParticipants who weigh more than 35 kg will receive 2 sachets of ZYN002, applied every 12 hours (± 2 hours).\n\nAt the Investigator's discretion, the dose may be increased to a total of 4 sachets a day or decreased to a total of 2 sachets a day any time after the first month of treatment.\n\nParticipants whose weight changes during the course of the study may have their doses changed at the investigator's discretion on or after the Month 1 visit, or reduced due to tolerability issues at investigator's discretion.\n\nParticipants who are taking anti-epileptic drugs may have an additional one or two weeks of treatment after the 52 week treatment period to taper off study treatment.\n\nBlood samples will be collected for safety analysis of ZYN002. Additionally, the parents/caregivers will be asked to complete some questionnaires. There will be other questionnaires and scales that will be completed at the site by the study doctor and/or with the participant and their parents/caregivers."
+        ]
+      },
+      {
+        "Rank": 341,
         "NCTId": [
           "NCT03522168"
         ],
@@ -18661,7 +19123,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 342,
         "NCTId": [
           "NCT03199053"
         ],
@@ -19208,7 +19670,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 343,
         "NCTId": [
           "NCT02859896"
         ],
@@ -19377,7 +19839,7 @@
         ]
       },
       {
-        "Rank": 341,
+        "Rank": 344,
         "NCTId": [
           "NCT02121132"
         ],
@@ -19555,295 +20017,7 @@
         ]
       },
       {
-        "Rank": 342,
-        "NCTId": [
-          "NCT04442295"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
-        ],
-        "Condition": [
-          "Dravet Syndrome"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
-        ],
-        "MinimumAge": [
-          "2 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "San Francisco",
-          "Aurora",
-          "Washington",
-          "Miami",
-          "Chicago",
-          "Iowa City",
-          "Boston",
-          "Ann Arbor",
-          "Rochester",
-          "New York",
-          "Portland",
-          "Memphis",
-          "Fort Worth",
-          "Salt Lake City",
-          "Seattle",
-          "Tacoma"
-        ],
-        "LocationFacility": [
-          "University of California San Francisco Medical Center",
-          "Children's Hospital Colorado",
-          "Children's National Medical Center",
-          "Nicklaus Children's Hospital",
-          "Ann & Robert H. Lurie Children's Hospital of Chicago",
-          "University of Iowa, Department of Pediatrics,",
-          "Massachusetts General Hospital",
-          "Mott Children's Hospital",
-          "Mayo Clinic",
-          "NYU Comprehensive Epilepsy Center",
-          "Oregon Health & Science University",
-          "Le Bonheur Children's Hospital",
-          "Cook Children's Medical Center",
-          "University of Utah Pediatrics Clinical Trials Office",
-          "Seattle Children's Hospital",
-          "Multicare Institute for Research and Innovation"
-        ],
-        "LocationState": [
-          "California",
-          "Colorado",
-          "District of Columbia",
-          "Florida",
-          "Illinois",
-          "Iowa",
-          "Massachusetts",
-          "Michigan",
-          "Minnesota",
-          "New York",
-          "Oregon",
-          "Tennessee",
-          "Texas",
-          "Utah",
-          "Washington",
-          "Washington"
-        ],
-        "LocationZip": [
-          "94158",
-          "80045",
-          "20010",
-          "33155",
-          "60611",
-          "52242",
-          "02114",
-          "48109",
-          "55905",
-          "10016",
-          "97239",
-          "38105",
-          "76104",
-          "84108",
-          "98105",
-          "98405"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
-        ],
-        "DetailedDescription": [
-          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
-        ]
-      },
-      {
-        "Rank": 343,
-        "NCTId": [
-          "NCT03802799"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of ZYN002 Administered as a Transdermal Gel to Children and Adolescents With Fragile X Syndrome - CONNECT-FX Open Label Extension (OLE)"
-        ],
-        "Condition": [
-          "Fragile X Syndrome"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nParticipated in the ZYN2-CL-016 study.\nPatients and parents/caregivers agree to abide by all study restrictions and comply with all study procedures.\nPatients and parents/caregivers must be adequately informed of the nature, risks of the study, and give written informed consent prior to enrollment in ZYN2-CL-017.\nIn the Investigator's opinion, the patients and parents/caregivers are reliable and are willing and able to comply with all protocol requirements and procedures.\nFemales of childbearing potential must have a negative pregnancy test at all designated visits\n\nExclusion Criteria:\n\nPatient is receiving any investigational drugs (not ZYN002) or using any experimental devices.\nPatient has an ongoing serious adverse event (SAE) or has experienced a SAE in ZYN2-CL-016, which in the opinion of the Investigator, should exclude them from participation.\nFemales who are pregnant, nursing, or planning a pregnancy; females of childbearing potential and male patients with a partner of childbearing potential who are unwilling or unable to use an acceptable method of contraception for the duration of therapy and for three months after the last dose of trial drug.\nPatients who have alanine aminotransferase (ALT), aspartate aminotransferase (AST), or total bilirubin levels >= 2 times the upper limit of normal (ULN) or has alkaline phosphatase levels >= 3 times the ULN as determined from patient safety laboratories."
-        ],
-        "MinimumAge": [
-          "3 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Phoenix",
-          "Phoenix",
-          "Sacramento",
-          "Denver",
-          "Atlanta",
-          "Chicago",
-          "Baltimore",
-          "Boston",
-          "Morristown",
-          "New York",
-          "Chapel Hill",
-          "Cincinnati",
-          "Cleveland",
-          "Tulsa",
-          "Media",
-          "Greenville",
-          "Seattle",
-          "Sydney",
-          "Brisbane",
-          "Melbourne",
-          "Wellington"
-        ],
-        "LocationFacility": [
-          "Southwest Autism Research and Resource Center",
-          "Phoenix Children's Hospital",
-          "UC Davis Health System, MIND Institute",
-          "Children's Hospital of Colorado",
-          "Emory University School of Medicine",
-          "Rush University Medical Center",
-          "Kennedy Krieger Institute",
-          "Boston Children's Hospital",
-          "Fragile X Center of Atlantic Health System",
-          "The Fragile X Spectrum Disorder Clinic at Icahn School of Medicine at Mount Sinai, Division of Medical Genetics",
-          "University of North Carolina",
-          "Cincinnati Children's Hospital Medical Center",
-          "University Hospitals Cleveland Medical Center",
-          "Central States Research",
-          "Suburban Research Associates",
-          "Greenwood Genetic Center",
-          "University of Washington Center for Human Development and Disability",
-          "Westmead Children's Hospital",
-          "Lady Cilento Children's Hospital - South Brisbane",
-          "Genetics Clinics Australia",
-          "Wellington Hospital"
-        ],
-        "LocationState": [
-          "Arizona",
-          "Arizona",
-          "California",
-          "Colorado",
-          "Georgia",
-          "Illinois",
-          "Maryland",
-          "Massachusetts",
-          "New Jersey",
-          "New York",
-          "North Carolina",
-          "Ohio",
-          "Ohio",
-          "Oklahoma",
-          "Pennsylvania",
-          "South Carolina",
-          "Washington",
-          "New South Wales",
-          "Queensland",
-          "Victoria"
-        ],
-        "LocationZip": [
-          "85006",
-          "85016",
-          "95817",
-          "80045",
-          "30322",
-          "60612",
-          "21205",
-          "02115",
-          "07960",
-          "10029",
-          "27510",
-          "45229",
-          "44106",
-          "74136",
-          "19063",
-          "29605",
-          "98198",
-          "2145",
-          "4101",
-          "3161",
-          "6021"
-        ],
-        "LocationContactEMail": [
-          "soberreynolds@autismcenter.org",
-          "gkaur@phoenixchildrens.com",
-          "lapotter@ucdavis.edu",
-          "Nanastasia.Welnick@childrenscolorado.org",
-          "jean.luan@emory.edu",
-          "Melissa_R_Baer@rush.edu",
-          "Liew@kennedykrieger.org",
-          "katherine.pawlowski@childrens.harvard.edu",
-          "christina.flora@atlantichealth.org",
-          "Katherine.Graham-Oregan@mssm.edu",
-          "elizabeth_dubose@med.unc.edu",
-          "Kaela.OBrien@cchmc.org",
-          "orion.biesan@uhhospitals.org",
-          "kcolleluori@suburbanresearch.com",
-          "atierney@ggc.org",
-          "peppem@uw.edu",
-          "Regienald.Gayaman@health.nsw.gov.au",
-          "emily.milburn@health.qld.gov.au",
-          "travel@travelclinic.com.au",
-          "Marina.Dzhelali@ccdhb.org.nz"
-        ],
-        "LocationContactName": [
-          "Raun Melmed, MD",
-          "Richard Frye, MD",
-          "Randi Hagerman, MD",
-          "Nicole Tartaglia, MD",
-          "Amy Talboy, MD",
-          "Elizabeth Berry-Kravis, MD",
-          "Dejan Budimirovic, MD",
-          "Lisa Prock, MD",
-          "Darius Adams, MD",
-          "Reymundo Lozano, MD",
-          "Katherine Graham-Oregan",
-          "Laura Politte, MD",
-          "Craig Erickson, MD",
-          "Nora McNamara, MD",
-          "Whitney Deneen",
-          "Sarah Land, MD",
-          "Shivkumar Hatti, MD",
-          "Carrie Buchanan, MD",
-          "Raphael Bernier, PhD",
-          "Natalie Silove, MD",
-          "Honey Heussler, MD",
-          "Jonathan Cohen, MD",
-          "Andrew Marshall, MD"
-        ],
-        "LocationContactPhone": [
-          "212-659-8645",
-          "918-645-5400"
-        ],
-        "BriefSummary": [
-          "ZYN002 is a pharmaceutically manufactured Cannabidiol (CBD) that is developed as a clear gel that can be applied to the skin (called transdermal delivery).\n\nThe gel will be applied to clean, dry, intact skin of the shoulders and/or upper arms.\n\nOnly participants from the ZYN2-CL-016 study who meet the inclusion criteria and none of the exclusion criteria for study ZYN2-CL-017 are eligible.\n\nParents/caregivers will apply the study gel twice daily for the 52-week treatment period."
-        ],
-        "DetailedDescription": [
-          "This is an open-label extension, multiple-center study, to assess the long-term safety and tolerability of CBD administered as ZYN002, a transdermal gel, for the treatment of child and adolescent patients with Fragile X Syndrome (FXS). Male and female patients with FXS will be treated for up to 12 months. Up to 300 male and female patients, ages 3 to 18 years will be enrolled.\n\nParents/caregivers will apply the study gel twice daily for the 52-week treatment period.\n\nParticipants who weigh less than or equal to 35 kg, will receive 1 sachet of ZYN002, applied every 12 hours (± 2 hours).\n\nParticipants who weigh more than 35 kg will receive 2 sachets of ZYN002, applied every 12 hours (± 2 hours).\n\nAt the Investigator's discretion, the dose may be increased to a total of 4 sachets a day or decreased to a total of 2 sachets a day any time after the first month of treatment.\n\nParticipants whose weight changes during the course of the study may have their doses changed at the investigator's discretion on or after the Month 1 visit, or reduced due to tolerability issues at investigator's discretion.\n\nParticipants who are taking anti-epileptic drugs may have an additional one or two weeks of treatment after the 52 week treatment period to taper off study treatment.\n\nBlood samples will be collected for safety analysis of ZYN002. Additionally, the parents/caregivers will be asked to complete some questionnaires. There will be other questionnaires and scales that will be completed at the site by the study doctor and/or with the participant and their parents/caregivers."
-        ]
-      },
-      {
-        "Rank": 344,
+        "Rank": 345,
         "NCTId": [
           "NCT04318548"
         ],
@@ -19868,19 +20042,17 @@
           "El Dorado",
           "Bardstown",
           "Louisville",
-          "Binghamton",
-          "Endwell",
           "Dayton",
           "Corvallis",
           "Erie",
           "Hermitage",
           "Austin",
+          "Austin",
           "Salt Lake City",
           "Syracuse",
-          "Taylorsville"
+          "Milano"
         ],
         "LocationFacility": [
-          "GSK Investigational Site",
           "GSK Investigational Site",
           "GSK Investigational Site",
           "GSK Investigational Site",
@@ -19902,16 +20074,15 @@
           "Kansas",
           "Kentucky",
           "Kentucky",
-          "New York",
-          "New York",
           "Ohio",
           "Oregon",
           "Pennsylvania",
           "Pennsylvania",
           "Texas",
+          "Texas",
           "Utah",
           "Utah",
-          "Utah"
+          "Lombardia"
         ],
         "LocationZip": [
           "32720",
@@ -19919,20 +20090,17 @@
           "67042",
           "40004",
           "40291",
-          "13901",
-          "13760",
           "45419",
           "97330",
           "16508",
           "16148",
           "78705",
+          "78726",
           "84107",
           "84075",
-          "84123"
+          "20122"
         ],
         "LocationContactEMail": [
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
           "GSKClinicalSupportHD@gsk.com",
           "GSKClinicalSupportHD@gsk.com",
           "GSKClinicalSupportHD@gsk.com",
@@ -19980,12 +20148,6 @@
           "Wendy C. Daly",
           "US GSK Clinical Trials Call Center",
           "EU GSK Clinical Trials Call Centre",
-          "Frank S Eder",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Eric Joseph Lorraine",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
           "Rogelio Amisola",
           "US GSK Clinical Trials Call Center",
           "EU GSK Clinical Trials Call Centre",
@@ -20001,17 +20163,18 @@
           "Laurence Chu",
           "US GSK Clinical Trials Call Center",
           "EU GSK Clinical Trials Call Centre",
+          "Jacques Benun",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
           "Todd Bertoch",
           "US GSK Clinical Trials Call Center",
           "EU GSK Clinical Trials Call Centre",
           "Peter E Silas",
           "US GSK Clinical Trials Call Center",
           "EU GSK Clinical Trials Call Centre",
-          "Mark David Johnson"
+          "Samantha Bosis"
         ],
         "LocationContactPhone": [
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
           "877-379-3718",
           "+44 (0) 20 8990 4466",
           "877-379-3718",
@@ -20049,7 +20212,7 @@
         ]
       },
       {
-        "Rank": 345,
+        "Rank": 346,
         "NCTId": [
           "NCT04203316"
         ],
@@ -20198,7 +20361,7 @@
         ]
       },
       {
-        "Rank": 346,
+        "Rank": 347,
         "NCTId": [
           "NCT03939637"
         ],
@@ -20381,7 +20544,7 @@
         ]
       },
       {
-        "Rank": 347,
+        "Rank": 348,
         "NCTId": [
           "NCT02610660"
         ],
@@ -20564,7 +20727,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 348,
+        "Rank": 349,
         "NCTId": [
           "NCT02205762"
         ],
@@ -20918,7 +21081,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 350,
         "NCTId": [
           "NCT03719339"
         ],
@@ -21082,7 +21245,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 351,
         "NCTId": [
           "NCT04608019"
         ],
@@ -21227,7 +21390,7 @@
         ]
       },
       {
-        "Rank": 351,
+        "Rank": 352,
         "NCTId": [
           "NCT03633708"
         ],
@@ -21258,6 +21421,7 @@
           "Salt Lake City",
           "Ciudad Autonoma de Buenos Aires",
           "Escobar",
+          "San Miguel de Tucuman",
           "New Delhi",
           "New Delhi",
           "Bangalore",
@@ -21321,6 +21485,7 @@
           "Research Site",
           "Research Site",
           "Research Site",
+          "Research Site",
           "Research Site"
         ],
         "LocationState": [
@@ -21336,6 +21501,7 @@
           "Utah",
           "Buenos Aires",
           "Buenos Aires",
+          "Tucuman",
           "Delhi",
           "Delhi",
           "Karnataka",
@@ -21358,6 +21524,7 @@
           "84113",
           "C1199ABB",
           "B1625DUG",
+          "4000",
           "110 070",
           "110060",
           "560 017",
@@ -21395,7 +21562,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 353,
         "NCTId": [
           "NCT03707158"
         ],
@@ -21506,7 +21673,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 354,
         "NCTId": [
           "NCT01987882"
         ],
@@ -21619,7 +21786,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 355,
         "NCTId": [
           "NCT03785405"
         ],
@@ -21907,7 +22074,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 355,
+        "Rank": 356,
         "NCTId": [
           "NCT00670735"
         ],
@@ -22062,7 +22229,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 356,
+        "Rank": 357,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22155,7 +22322,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 357,
+        "Rank": 358,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22258,7 +22425,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 358,
+        "Rank": 359,
         "NCTId": [
           "NCT03813238"
         ],
@@ -22540,7 +22707,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 359,
+        "Rank": 360,
         "NCTId": [
           "NCT04075266"
         ],
@@ -22663,7 +22830,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 360,
+        "Rank": 361,
         "NCTId": [
           "NCT04354155"
         ],
@@ -22813,7 +22980,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 361,
+        "Rank": 362,
         "NCTId": [
           "NCT04378075"
         ],
@@ -22890,7 +23057,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 362,
+        "Rank": 363,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22954,7 +23121,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 363,
+        "Rank": 364,
         "NCTId": [
           "NCT03025698"
         ],
@@ -23153,7 +23320,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 364,
+        "Rank": 365,
         "NCTId": [
           "NCT03837899"
         ],
@@ -23260,177 +23427,6 @@
         ],
         "DetailedDescription": [
           "This is a first time in pediatrics study primarily designed to evaluate the safety and tolerability of durvalumab and durvalumab in combination with tremelimumab at increasing doses in pediatric patients with advanced solid malignancies and hematological malignancies (including lymphomas) and for whom no standard of care treatments exist. Although treatment efficacy is not a primary objective of this study given its early phase nature, the patients screened for this study have no curative options and this study offers the potential of some benefit.\n\nThe study will also characterize the PK of durvalumab and durvalumab in combination with tremelimumab in children and adolescents and explore potential biological activity and immunogenicity by assessing pharmacodynamics, anti drug antibody (ADA) levels, and anti-tumor activity. The results from this trial will form the basis for decisions for potential future pediatric studies."
-        ]
-      },
-      {
-        "Rank": 365,
-        "NCTId": [
-          "NCT04431453"
-        ],
-        "OfficialTitle": [
-          "A Phase 2/3 Single-Arm, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of Remdesivir (GS-5734™) in Participants From Birth to < 18 Years of Age With COVID-19"
-        ],
-        "Condition": [
-          "COVID-19"
-        ],
-        "EligibilityCriteria": [
-          "Key Inclusion Criteria:\n\nAged < 18 years of age who meet one of the following weight criteria (where permitted according to local law and approved nationally and by relevant institutional review board (IRB) or independent ethics committee (IEC)).\n\na) Cohort 1: ≥ 12 years to < 18 years of age and weight at screening ≥ 40 kg\nb) Cohorts 2-4: ≥ 28 days to < 18 years of age and weight at screening ≥ 3 kg and < 40 kg\nc) Cohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nd) Cohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight of ≥ 2.5 kg\ne) Cohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight of ≥ 1.5 kg\nf) Cohort 8: < 12 years of age and weight at screening ≥ 40 kg\nSevere acute respiratory syndrome coronavirus (SARS-CoV-2) infection confirmed by polymerase chain reaction (PCR)\nHospitalized and requiring medical care for coronavirus disease 2019 (COVID-19)\n\nKey Exclusion Criteria:\n\nConcurrent treatment with other agents with actual or possible direct antiviral activity against SARS-CoV-2 < 24 hours prior to study drug dosing\nAlanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit of normal (ULN)\nEstimated glomerular filtration rate (eGFR) < 30 mL/min/1.73m^2 using Schwartz formula for individuals ≥ 1 year of age\nCreatinine above protocol specified thresholds for < 1 year of age\nPositive pregnancy test at Screening only for female of child bearing potential. Note: If female participants who become pregnant during the study or are discovered to be pregnant after receiving at least one dose may continue study drug, after discussion with the investigator\nOn renal replacement therapies (intermittent hemodialysis (iHD), peritoneal dialysis (PD), continuous renal replacement therapy (CRRT))\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply"
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Birmingham",
-          "Los Angeles",
-          "Los Angeles",
-          "Madera",
-          "San Diego",
-          "Tampa",
-          "Chicago",
-          "Louisville",
-          "New Orleans",
-          "Baltimore",
-          "Boston",
-          "Worcester",
-          "Detroit",
-          "Grand Rapids",
-          "Minneapolis",
-          "Omaha",
-          "Bronx",
-          "Bronx",
-          "New Hyde Park",
-          "Charlotte",
-          "Allentown",
-          "Philadelphia",
-          "Dallas",
-          "Houston",
-          "Florence",
-          "Padova",
-          "Parma",
-          "Barcelona",
-          "Esplugues de llobregat",
-          "Madrid",
-          "Madrid",
-          "Madrid",
-          "Santiago de Compostela",
-          "Birmingham",
-          "Liverpool",
-          "London",
-          "London"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Alabama",
-          "Children's Hospital Los Angeles",
-          "Ronald Reagan University of California, Los Angeles Medical Center",
-          "Valley Children's Hospital",
-          "Rady Children's Hospital San Diego",
-          "Tampa General Hospital (Inpatient Visits)",
-          "Ann & Robert H. Lurie Children's Hospital",
-          "Norton Children's Hospital",
-          "Tulane University School of Medicine",
-          "Johns Hopkins Children's Center",
-          "Boston Children's Hospital",
-          "UMass Memorial Medical Center - University Campus",
-          "Children's Hospital of Michigan",
-          "Spectrum Health/Helen De Vos Children's Hospital",
-          "Children's Minnesota",
-          "Children's Hospital and Medical Center",
-          "NYC Health + Hospitals/Jacobi Medical Center",
-          "Montefiore Medical Center",
-          "Northwell Health-Cohen Children's Medical Center",
-          "Carolinas Medical Center-Levine Children's Hospital",
-          "Lehigh Valley Hospital/Lehigh Valley Health Network (LVH/LVHN)",
-          "St. Christopher's Hospital for Children",
-          "Children's Medical Center",
-          "Texas Children's Hospital",
-          "Azienda Ospedaliero Universitaria Meyer",
-          "University Hospital of Padova, Clinic of Pediatric Hematology-Oncology",
-          "University Hospital of Parma",
-          "Hospital Universitari Vall D'Hebron",
-          "Hospital Sant Joan de Déu",
-          "Hospital General Universitario Gregorio Maranon",
-          "Hospital Universitario 12 de Octubre",
-          "Hospital Universitario La Paz",
-          "Hospital Clínico Universitario de Santiago",
-          "University Hospitals Birmingham NHS Foundation Trust",
-          "Alder Hey Children's NHS Foundation Trust",
-          "Guy's and St Thomas' NHS Foundation Trust",
-          "King's College NHS Foundation Trust"
-        ],
-        "LocationState": [
-          "Alabama",
-          "California",
-          "California",
-          "California",
-          "California",
-          "Florida",
-          "Illinois",
-          "Kentucky",
-          "Louisiana",
-          "Maryland",
-          "Massachusetts",
-          "Massachusetts",
-          "Michigan",
-          "Michigan",
-          "Minnesota",
-          "Nebraska",
-          "New York",
-          "New York",
-          "New York",
-          "North Carolina",
-          "Pennsylvania",
-          "Pennsylvania",
-          "Texas",
-          "Texas"
-        ],
-        "LocationZip": [
-          "35233",
-          "90027",
-          "90095",
-          "93636",
-          "92123",
-          "33606",
-          "60611",
-          "40202",
-          "70112",
-          "21287",
-          "02115",
-          "01605",
-          "48201",
-          "49503",
-          "55404",
-          "68114",
-          "10461",
-          "10467",
-          "11040",
-          "28203",
-          "18103",
-          "19134",
-          "75235",
-          "77030",
-          "50139",
-          "35128",
-          "43126",
-          "8035",
-          "8950",
-          "28009",
-          "28041",
-          "28041",
-          "15706",
-          "B95SS",
-          "L12 2AP",
-          "SE1 7EU",
-          "SE5 9RS"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The primary objectives of this study are to evaluate the safety, tolerability, and pharmacokinetics (PK) of remdesivir (RDV) in participants with laboratory-confirmed coronavirus disease 2019 (COVID-19) aged 0 days to < 18 years."
-        ],
-        "DetailedDescription": [
-          "Pediatric participants will be enrolled as follows:\n\nPediatric participants ≥ 28 days to < 18 years old:\n\nCohort 1: ≥ 12 years to < 18 years and weight ≥ 40 kg\nCohort 2: ≥ 28 days to < 18 years and weight ≥ 20 kg to < 40 kg\nCohort 3: ≥ 28 days to < 18 years and weight ≥ 12 kg to < 20 kg\nCohort 4: ≥ 28 days to < 18 years and weight ≥ 3 kg to < 12 kg\nCohort 8: < 12 years and weight ≥ 40 kg\n\nTerm neonatal participants 0 days to < 28 days old:\n\nCohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nCohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight ≥ 2.5 kg\n\nPreterm neonates and infants 0 days to < 56 days old:\n\nCohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight ≥ 1.5 kg"
         ]
       },
       {
