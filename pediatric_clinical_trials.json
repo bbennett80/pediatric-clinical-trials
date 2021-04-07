@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:04:04 22:17:27.062",
+    "DataVrs": "2021:04:05 22:19:14.888",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 373298,
+    "NStudiesAvail": 373420,
     "NStudiesFound": 389,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -10818,7 +10818,7 @@
           "19104"
         ],
         "LocationContactEMail": [
-          "wintersm@email.chop.edu"
+          "wintersm@chop.edu"
         ],
         "LocationContactName": [
           "Madeline Winters, BSN, RN"
@@ -17187,125 +17187,6 @@
       {
         "Rank": 335,
         "NCTId": [
-          "NCT04442295"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
-        ],
-        "Condition": [
-          "Dravet Syndrome"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
-        ],
-        "MinimumAge": [
-          "2 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "San Francisco",
-          "Aurora",
-          "Washington",
-          "Miami",
-          "Chicago",
-          "Iowa City",
-          "Boston",
-          "Ann Arbor",
-          "Rochester",
-          "New York",
-          "Portland",
-          "Memphis",
-          "Fort Worth",
-          "Salt Lake City",
-          "Seattle",
-          "Tacoma"
-        ],
-        "LocationFacility": [
-          "University of California San Francisco Medical Center",
-          "Children's Hospital Colorado",
-          "Children's National Medical Center",
-          "Nicklaus Children's Hospital",
-          "Ann & Robert H. Lurie Children's Hospital of Chicago",
-          "University of Iowa, Department of Pediatrics,",
-          "Massachusetts General Hospital",
-          "Mott Children's Hospital",
-          "Mayo Clinic",
-          "NYU Comprehensive Epilepsy Center",
-          "Oregon Health & Science University",
-          "Le Bonheur Children's Hospital",
-          "Cook Children's Medical Center",
-          "University of Utah Pediatrics Clinical Trials Office",
-          "Seattle Children's Hospital",
-          "Multicare Institute for Research and Innovation"
-        ],
-        "LocationState": [
-          "California",
-          "Colorado",
-          "District of Columbia",
-          "Florida",
-          "Illinois",
-          "Iowa",
-          "Massachusetts",
-          "Michigan",
-          "Minnesota",
-          "New York",
-          "Oregon",
-          "Tennessee",
-          "Texas",
-          "Utah",
-          "Washington",
-          "Washington"
-        ],
-        "LocationZip": [
-          "94158",
-          "80045",
-          "20010",
-          "33155",
-          "60611",
-          "52242",
-          "02114",
-          "48109",
-          "55905",
-          "10016",
-          "97239",
-          "38105",
-          "76104",
-          "84108",
-          "98105",
-          "98405"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
-        ],
-        "DetailedDescription": [
-          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
-        ]
-      },
-      {
-        "Rank": 336,
-        "NCTId": [
           "NCT04431453"
         ],
         "OfficialTitle": [
@@ -17475,7 +17356,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 336,
         "NCTId": [
           "NCT04258943"
         ],
@@ -17517,6 +17398,7 @@
           "Cincinnati",
           "Bethlehem",
           "Pittsburgh",
+          "Providence",
           "Knoxville",
           "Nashville",
           "Austin",
@@ -17543,6 +17425,7 @@
           "Cincinnati Children's Hospital Medical Center",
           "Lehigh Valley Hospital-Cedar Crest",
           "Children's Hospital of Pittsburgh of UPMC",
+          "Rhode Island Hospital",
           "East Tennessee Childrens Hospital",
           "Vanderbilt University/Ingram Cancer Center",
           "Dell Children's Medical Center of Central Texas",
@@ -17569,6 +17452,7 @@
           "Ohio",
           "Pennsylvania",
           "Pennsylvania",
+          "Rhode Island",
           "Tennessee",
           "Tennessee",
           "Texas",
@@ -17595,6 +17479,7 @@
           "45229",
           "18017",
           "15224",
+          "02903",
           "37916",
           "37232",
           "78723",
@@ -17621,6 +17506,7 @@
           "robin.norris@cchmc.org",
           "jacob.troutman@lvhn.org",
           "andrew.bukowinski2@chp.edu",
+          "jwelch@lifespan.org",
           "sspiller@etch.com",
           "scott.c.borinstein@vumc.org",
           "smcohn@ascension.org",
@@ -17666,6 +17552,8 @@
           "Jacob Troutman, DO",
           "Andrew Bukowinski, MD",
           "Andrew Bukowinski, MD",
+          "Jennifer Greene Welch, MD",
+          "Jennifer Greene Welch, MD",
           "Susan Spiller, MS",
           "Susan Spiller, MD",
           "Scott Borinstein, MD PhD",
@@ -17697,6 +17585,7 @@
           "513-636-4266",
           "484-884-3347",
           "412-692-5945",
+          "401-444-5171",
           "865-541-8266",
           "615-936-1762",
           "513-324-0000",
@@ -17711,7 +17600,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 337,
         "NCTId": [
           "NCT04195399"
         ],
@@ -18237,7 +18126,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 338,
         "NCTId": [
           "NCT03896763"
         ],
@@ -18527,176 +18416,7 @@
         ]
       },
       {
-        "Rank": 340,
-        "NCTId": [
-          "NCT03802799"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of ZYN002 Administered as a Transdermal Gel to Children and Adolescents With Fragile X Syndrome - CONNECT-FX Open Label Extension (OLE)"
-        ],
-        "Condition": [
-          "Fragile X Syndrome"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nParticipated in the ZYN2-CL-016 study.\nPatients and parents/caregivers agree to abide by all study restrictions and comply with all study procedures.\nPatients and parents/caregivers must be adequately informed of the nature, risks of the study, and give written informed consent prior to enrollment in ZYN2-CL-017.\nIn the Investigator's opinion, the patients and parents/caregivers are reliable and are willing and able to comply with all protocol requirements and procedures.\nFemales of childbearing potential must have a negative pregnancy test at all designated visits\n\nExclusion Criteria:\n\nPatient is receiving any investigational drugs (not ZYN002) or using any experimental devices.\nPatient has an ongoing serious adverse event (SAE) or has experienced a SAE in ZYN2-CL-016, which in the opinion of the Investigator, should exclude them from participation.\nFemales who are pregnant, nursing, or planning a pregnancy; females of childbearing potential and male patients with a partner of childbearing potential who are unwilling or unable to use an acceptable method of contraception for the duration of therapy and for three months after the last dose of trial drug.\nPatients who have alanine aminotransferase (ALT), aspartate aminotransferase (AST), or total bilirubin levels >= 2 times the upper limit of normal (ULN) or has alkaline phosphatase levels >= 3 times the ULN as determined from patient safety laboratories."
-        ],
-        "MinimumAge": [
-          "3 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Phoenix",
-          "Phoenix",
-          "Sacramento",
-          "Denver",
-          "Atlanta",
-          "Chicago",
-          "Baltimore",
-          "Boston",
-          "Morristown",
-          "New York",
-          "Chapel Hill",
-          "Cincinnati",
-          "Cleveland",
-          "Tulsa",
-          "Media",
-          "Greenville",
-          "Seattle",
-          "Sydney",
-          "Brisbane",
-          "Melbourne",
-          "Wellington"
-        ],
-        "LocationFacility": [
-          "Southwest Autism Research and Resource Center",
-          "Phoenix Children's Hospital",
-          "UC Davis Health System, MIND Institute",
-          "Children's Hospital of Colorado",
-          "Emory University School of Medicine",
-          "Rush University Medical Center",
-          "Kennedy Krieger Institute",
-          "Boston Children's Hospital",
-          "Fragile X Center of Atlantic Health System",
-          "The Fragile X Spectrum Disorder Clinic at Icahn School of Medicine at Mount Sinai, Division of Medical Genetics",
-          "University of North Carolina",
-          "Cincinnati Children's Hospital Medical Center",
-          "University Hospitals Cleveland Medical Center",
-          "Central States Research",
-          "Suburban Research Associates",
-          "Greenwood Genetic Center",
-          "University of Washington Center for Human Development and Disability",
-          "Westmead Children's Hospital",
-          "Lady Cilento Children's Hospital - South Brisbane",
-          "Genetics Clinics Australia",
-          "Wellington Hospital"
-        ],
-        "LocationState": [
-          "Arizona",
-          "Arizona",
-          "California",
-          "Colorado",
-          "Georgia",
-          "Illinois",
-          "Maryland",
-          "Massachusetts",
-          "New Jersey",
-          "New York",
-          "North Carolina",
-          "Ohio",
-          "Ohio",
-          "Oklahoma",
-          "Pennsylvania",
-          "South Carolina",
-          "Washington",
-          "New South Wales",
-          "Queensland",
-          "Victoria"
-        ],
-        "LocationZip": [
-          "85006",
-          "85016",
-          "95817",
-          "80045",
-          "30322",
-          "60612",
-          "21205",
-          "02115",
-          "07960",
-          "10029",
-          "27510",
-          "45229",
-          "44106",
-          "74136",
-          "19063",
-          "29605",
-          "98198",
-          "2145",
-          "4101",
-          "3161",
-          "6021"
-        ],
-        "LocationContactEMail": [
-          "soberreynolds@autismcenter.org",
-          "gkaur@phoenixchildrens.com",
-          "lapotter@ucdavis.edu",
-          "Nanastasia.Welnick@childrenscolorado.org",
-          "jean.luan@emory.edu",
-          "Melissa_R_Baer@rush.edu",
-          "Liew@kennedykrieger.org",
-          "katherine.pawlowski@childrens.harvard.edu",
-          "christina.flora@atlantichealth.org",
-          "Katherine.Graham-Oregan@mssm.edu",
-          "elizabeth_dubose@med.unc.edu",
-          "Kaela.OBrien@cchmc.org",
-          "orion.biesan@uhhospitals.org",
-          "kcolleluori@suburbanresearch.com",
-          "atierney@ggc.org",
-          "peppem@uw.edu",
-          "Regienald.Gayaman@health.nsw.gov.au",
-          "emily.milburn@health.qld.gov.au",
-          "travel@travelclinic.com.au",
-          "Marina.Dzhelali@ccdhb.org.nz"
-        ],
-        "LocationContactName": [
-          "Raun Melmed, MD",
-          "Richard Frye, MD",
-          "Randi Hagerman, MD",
-          "Nicole Tartaglia, MD",
-          "Amy Talboy, MD",
-          "Elizabeth Berry-Kravis, MD",
-          "Dejan Budimirovic, MD",
-          "Lisa Prock, MD",
-          "Darius Adams, MD",
-          "Reymundo Lozano, MD",
-          "Katherine Graham-Oregan",
-          "Laura Politte, MD",
-          "Craig Erickson, MD",
-          "Nora McNamara, MD",
-          "Whitney Deneen",
-          "Sarah Land, MD",
-          "Shivkumar Hatti, MD",
-          "Carrie Buchanan, MD",
-          "Raphael Bernier, PhD",
-          "Natalie Silove, MD",
-          "Honey Heussler, MD",
-          "Jonathan Cohen, MD",
-          "Andrew Marshall, MD"
-        ],
-        "LocationContactPhone": [
-          "212-659-8645",
-          "918-645-5400"
-        ],
-        "BriefSummary": [
-          "ZYN002 is a pharmaceutically manufactured Cannabidiol (CBD) that is developed as a clear gel that can be applied to the skin (called transdermal delivery).\n\nThe gel will be applied to clean, dry, intact skin of the shoulders and/or upper arms.\n\nOnly participants from the ZYN2-CL-016 study who meet the inclusion criteria and none of the exclusion criteria for study ZYN2-CL-017 are eligible.\n\nParents/caregivers will apply the study gel twice daily for the 52-week treatment period."
-        ],
-        "DetailedDescription": [
-          "This is an open-label extension, multiple-center study, to assess the long-term safety and tolerability of CBD administered as ZYN002, a transdermal gel, for the treatment of child and adolescent patients with Fragile X Syndrome (FXS). Male and female patients with FXS will be treated for up to 12 months. Up to 300 male and female patients, ages 3 to 18 years will be enrolled.\n\nParents/caregivers will apply the study gel twice daily for the 52-week treatment period.\n\nParticipants who weigh less than or equal to 35 kg, will receive 1 sachet of ZYN002, applied every 12 hours (± 2 hours).\n\nParticipants who weigh more than 35 kg will receive 2 sachets of ZYN002, applied every 12 hours (± 2 hours).\n\nAt the Investigator's discretion, the dose may be increased to a total of 4 sachets a day or decreased to a total of 2 sachets a day any time after the first month of treatment.\n\nParticipants whose weight changes during the course of the study may have their doses changed at the investigator's discretion on or after the Month 1 visit, or reduced due to tolerability issues at investigator's discretion.\n\nParticipants who are taking anti-epileptic drugs may have an additional one or two weeks of treatment after the 52 week treatment period to taper off study treatment.\n\nBlood samples will be collected for safety analysis of ZYN002. Additionally, the parents/caregivers will be asked to complete some questionnaires. There will be other questionnaires and scales that will be completed at the site by the study doctor and/or with the participant and their parents/caregivers."
-        ]
-      },
-      {
-        "Rank": 341,
+        "Rank": 339,
         "NCTId": [
           "NCT03522168"
         ],
@@ -19130,7 +18850,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 340,
         "NCTId": [
           "NCT03199053"
         ],
@@ -19677,7 +19397,7 @@
         ]
       },
       {
-        "Rank": 343,
+        "Rank": 341,
         "NCTId": [
           "NCT02859896"
         ],
@@ -19846,7 +19566,7 @@
         ]
       },
       {
-        "Rank": 344,
+        "Rank": 342,
         "NCTId": [
           "NCT02121132"
         ],
@@ -20021,6 +19741,299 @@
         ],
         "DetailedDescription": [
           "All patients 18 years of age or younger who have completed an initial medical assessment between March 1, 2014 through April 30, 2020 will be approached for this study.\n\nData from individual follow up visits or group intervention sessions, depending on the program design of each institution, will be collected through October 31, 2020. The data included in this study will be collected during routine medical care. Information that could identify a participant will be removed from the data. Data will be entered into a secure database called Medidata Rave® CDMS. This database will be managed by the Data Coordinating Center (DCC) at Cincinnati Children's Hospital Medical Center (CCHMC).\n\nThe DCC will combine all the data from each site. Additional data cleaning and data quality monitoring will be performed. Combined datasets for analysis will be provided by the DCC in a format agreed upon by the POWER Governance Board. Data will be stored in a secure and protected format and will not include any written or electronic protected health information (PHI/EPHI). The DCC will store the data on a secure server."
+        ]
+      },
+      {
+        "Rank": 343,
+        "NCTId": [
+          "NCT04442295"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
+        ],
+        "Condition": [
+          "Dravet Syndrome"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
+        ],
+        "MinimumAge": [
+          "2 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "San Francisco",
+          "Aurora",
+          "Washington",
+          "Miami",
+          "Orlando",
+          "Chicago",
+          "Iowa City",
+          "Boston",
+          "Ann Arbor",
+          "Rochester",
+          "New York",
+          "Portland",
+          "Memphis",
+          "Fort Worth",
+          "Salt Lake City",
+          "Seattle",
+          "Tacoma"
+        ],
+        "LocationFacility": [
+          "University of California San Francisco Medical Center",
+          "Children's Hospital Colorado",
+          "Children's National Medical Center",
+          "Nicklaus Children's Hospital",
+          "AdventHealth Orlando",
+          "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "University of Iowa, Department of Pediatrics,",
+          "Massachusetts General Hospital",
+          "Mott Children's Hospital",
+          "Mayo Clinic",
+          "NYU Comprehensive Epilepsy Center",
+          "Oregon Health & Science University",
+          "Le Bonheur Children's Hospital",
+          "Cook Children's Medical Center",
+          "University of Utah Pediatrics Clinical Trials Office",
+          "Seattle Children's Hospital",
+          "Multicare Institute for Research and Innovation"
+        ],
+        "LocationState": [
+          "California",
+          "Colorado",
+          "District of Columbia",
+          "Florida",
+          "Florida",
+          "Illinois",
+          "Iowa",
+          "Massachusetts",
+          "Michigan",
+          "Minnesota",
+          "New York",
+          "Oregon",
+          "Tennessee",
+          "Texas",
+          "Utah",
+          "Washington",
+          "Washington"
+        ],
+        "LocationZip": [
+          "94158",
+          "80045",
+          "20010",
+          "33155",
+          "32803",
+          "60611",
+          "52242",
+          "02114",
+          "48109",
+          "55905",
+          "10016",
+          "97239",
+          "38105",
+          "76104",
+          "84108",
+          "98105",
+          "98405"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
+        ],
+        "DetailedDescription": [
+          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
+        ]
+      },
+      {
+        "Rank": 344,
+        "NCTId": [
+          "NCT03802799"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of ZYN002 Administered as a Transdermal Gel to Children and Adolescents With Fragile X Syndrome - CONNECT-FX Open Label Extension (OLE)"
+        ],
+        "Condition": [
+          "Fragile X Syndrome"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nParticipated in the ZYN2-CL-016 study.\nPatients and parents/caregivers agree to abide by all study restrictions and comply with all study procedures.\nPatients and parents/caregivers must be adequately informed of the nature, risks of the study, and give written informed consent prior to enrollment in ZYN2-CL-017.\nIn the Investigator's opinion, the patients and parents/caregivers are reliable and are willing and able to comply with all protocol requirements and procedures.\nFemales of childbearing potential must have a negative pregnancy test at all designated visits\n\nExclusion Criteria:\n\nPatient is receiving any investigational drugs (not ZYN002) or using any experimental devices.\nPatient has an ongoing serious adverse event (SAE) or has experienced a SAE in ZYN2-CL-016, which in the opinion of the Investigator, should exclude them from participation.\nFemales who are pregnant, nursing, or planning a pregnancy; females of childbearing potential and male patients with a partner of childbearing potential who are unwilling or unable to use an acceptable method of contraception for the duration of therapy and for three months after the last dose of trial drug.\nPatients who have alanine aminotransferase (ALT), aspartate aminotransferase (AST), or total bilirubin levels >= 2 times the upper limit of normal (ULN) or has alkaline phosphatase levels >= 3 times the ULN as determined from patient safety laboratories."
+        ],
+        "MinimumAge": [
+          "3 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Phoenix",
+          "Phoenix",
+          "Sacramento",
+          "Denver",
+          "Atlanta",
+          "Chicago",
+          "Baltimore",
+          "Boston",
+          "Morristown",
+          "New York",
+          "Chapel Hill",
+          "Cincinnati",
+          "Cleveland",
+          "Tulsa",
+          "Media",
+          "Greenville",
+          "Seattle",
+          "Sydney",
+          "Brisbane",
+          "Melbourne",
+          "Wellington"
+        ],
+        "LocationFacility": [
+          "Southwest Autism Research and Resource Center",
+          "Phoenix Children's Hospital",
+          "UC Davis Health System, MIND Institute",
+          "Children's Hospital of Colorado",
+          "Emory University School of Medicine",
+          "Rush University Medical Center",
+          "Kennedy Krieger Institute",
+          "Boston Children's Hospital",
+          "Fragile X Center of Atlantic Health System",
+          "The Fragile X Spectrum Disorder Clinic at Icahn School of Medicine at Mount Sinai, Division of Medical Genetics",
+          "University of North Carolina",
+          "Cincinnati Children's Hospital Medical Center",
+          "University Hospitals Cleveland Medical Center",
+          "Central States Research",
+          "Suburban Research Associates",
+          "Greenwood Genetic Center",
+          "University of Washington Center for Human Development and Disability",
+          "Westmead Children's Hospital",
+          "Lady Cilento Children's Hospital - South Brisbane",
+          "Genetics Clinics Australia",
+          "Wellington Hospital"
+        ],
+        "LocationState": [
+          "Arizona",
+          "Arizona",
+          "California",
+          "Colorado",
+          "Georgia",
+          "Illinois",
+          "Maryland",
+          "Massachusetts",
+          "New Jersey",
+          "New York",
+          "North Carolina",
+          "Ohio",
+          "Ohio",
+          "Oklahoma",
+          "Pennsylvania",
+          "South Carolina",
+          "Washington",
+          "New South Wales",
+          "Queensland",
+          "Victoria"
+        ],
+        "LocationZip": [
+          "85006",
+          "85016",
+          "95817",
+          "80045",
+          "30322",
+          "60612",
+          "21205",
+          "02115",
+          "07960",
+          "10029",
+          "27510",
+          "45229",
+          "44106",
+          "74136",
+          "19063",
+          "29605",
+          "98198",
+          "2145",
+          "4101",
+          "3161",
+          "6021"
+        ],
+        "LocationContactEMail": [
+          "soberreynolds@autismcenter.org",
+          "gkaur@phoenixchildrens.com",
+          "lapotter@ucdavis.edu",
+          "Nanastasia.Welnick@childrenscolorado.org",
+          "jean.luan@emory.edu",
+          "Melissa_R_Baer@rush.edu",
+          "Liew@kennedykrieger.org",
+          "katherine.pawlowski@childrens.harvard.edu",
+          "christina.flora@atlantichealth.org",
+          "Katherine.Graham-Oregan@mssm.edu",
+          "elizabeth_dubose@med.unc.edu",
+          "Kaela.OBrien@cchmc.org",
+          "orion.biesan@uhhospitals.org",
+          "kcolleluori@suburbanresearch.com",
+          "atierney@ggc.org",
+          "peppem@uw.edu",
+          "Regienald.Gayaman@health.nsw.gov.au",
+          "emily.milburn@health.qld.gov.au",
+          "travel@travelclinic.com.au",
+          "Marina.Dzhelali@ccdhb.org.nz"
+        ],
+        "LocationContactName": [
+          "Raun Melmed, MD",
+          "Richard Frye, MD",
+          "Randi Hagerman, MD",
+          "Nicole Tartaglia, MD",
+          "Amy Talboy, MD",
+          "Elizabeth Berry-Kravis, MD",
+          "Dejan Budimirovic, MD",
+          "Lisa Prock, MD",
+          "Darius Adams, MD",
+          "Reymundo Lozano, MD",
+          "Katherine Graham-Oregan",
+          "Laura Politte, MD",
+          "Craig Erickson, MD",
+          "Nora McNamara, MD",
+          "Whitney Deneen",
+          "Sarah Land, MD",
+          "Shivkumar Hatti, MD",
+          "Carrie Buchanan, MD",
+          "Raphael Bernier, PhD",
+          "Natalie Silove, MD",
+          "Honey Heussler, MD",
+          "Jonathan Cohen, MD",
+          "Andrew Marshall, MD"
+        ],
+        "LocationContactPhone": [
+          "212-659-8645",
+          "918-645-5400"
+        ],
+        "BriefSummary": [
+          "ZYN002 is a pharmaceutically manufactured Cannabidiol (CBD) that is developed as a clear gel that can be applied to the skin (called transdermal delivery).\n\nThe gel will be applied to clean, dry, intact skin of the shoulders and/or upper arms.\n\nOnly participants from the ZYN2-CL-016 study who meet the inclusion criteria and none of the exclusion criteria for study ZYN2-CL-017 are eligible.\n\nParents/caregivers will apply the study gel twice daily for the 52-week treatment period."
+        ],
+        "DetailedDescription": [
+          "This is an open-label extension, multiple-center study, to assess the long-term safety and tolerability of CBD administered as ZYN002, a transdermal gel, for the treatment of child and adolescent patients with Fragile X Syndrome (FXS). Male and female patients with FXS will be treated for up to 12 months. Up to 300 male and female patients, ages 3 to 18 years will be enrolled.\n\nParents/caregivers will apply the study gel twice daily for the 52-week treatment period.\n\nParticipants who weigh less than or equal to 35 kg, will receive 1 sachet of ZYN002, applied every 12 hours (± 2 hours).\n\nParticipants who weigh more than 35 kg will receive 2 sachets of ZYN002, applied every 12 hours (± 2 hours).\n\nAt the Investigator's discretion, the dose may be increased to a total of 4 sachets a day or decreased to a total of 2 sachets a day any time after the first month of treatment.\n\nParticipants whose weight changes during the course of the study may have their doses changed at the investigator's discretion on or after the Month 1 visit, or reduced due to tolerability issues at investigator's discretion.\n\nParticipants who are taking anti-epileptic drugs may have an additional one or two weeks of treatment after the 52 week treatment period to taper off study treatment.\n\nBlood samples will be collected for safety analysis of ZYN002. Additionally, the parents/caregivers will be asked to complete some questionnaires. There will be other questionnaires and scales that will be completed at the site by the study doctor and/or with the participant and their parents/caregivers."
         ]
       },
       {
