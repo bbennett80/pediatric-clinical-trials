@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:04:12 22:16:45.007",
+    "DataVrs": "2021:04:13 22:19:20.722",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 374155,
+    "NStudiesAvail": 374278,
     "NStudiesFound": 390,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -1929,7 +1929,12 @@
           "Randomized Controlled Trial Using Telehealth-delivered Rehabilitative Exercise to Treat Youth With Prolonged Concussion Recovery (Mobile Subthreshold Exercise Program, MSTEP-R01)"
         ],
         "Condition": [
-          "Concussion, Brain"
+          "Concussion, Brain",
+          "Concussion, Mild",
+          "Brain Injuries, Traumatic",
+          "Persistent Post Traumatic Headache",
+          "Post-Concussion Syndrome",
+          "Post-Concussive Syndrome, Chronic"
         ],
         "EligibilityCriteria": [
           "Inclusion Criteria:\n\nYouth 11-18 years\nConcussion occurring 1 to 12 months prior to the start of the study and diagnosed by a clinician trained in concussion management consistent with the 2017 Berlin consensus definition of concussion (\"A traumatic brain injury, induced by biomechanical forces\")\nPersistent post-concussive symptoms as defined by the presence of at least 3 concussive symptoms rated at least 2 or greater on the Health and Behavior Inventory (HBI) and a total score of at least 10\n\nExclusion Criteria:\n\nYouth not fluent in English or at least one Parent not fluent in English or Spanish\nOther injuries or medical conditions in addition to concussion that have prompted a clinician to recommend against MVPA, such as concerning abnormalities on routine brain imaging\nYouth who indicate that they are completing an average of 30 minutes per day or greater of physical activity that increases their heart rate (indicative of a minimal need for a physical activity intervention)\nYouth who have previously engaged with a Physical Therapist to increase aerobic activity\nYouth who have been fully cleared for sport"
