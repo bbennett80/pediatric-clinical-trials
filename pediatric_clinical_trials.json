@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:04:25 22:23:41.195",
+    "DataVrs": "2021:04:26 22:20:29.034",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 375434,
-    "NStudiesFound": 394,
+    "NStudiesAvail": 375580,
+    "NStudiesFound": 395,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 394,
+    "NStudiesReturned": 395,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -17655,6 +17655,7 @@
           "18 Years"
         ],
         "LocationCity": [
+          "Phoenix",
           "Little Rock",
           "Downey",
           "Loma Linda",
@@ -17679,9 +17680,11 @@
           "Nashville",
           "Austin",
           "Dallas",
-          "Norfolk"
+          "Norfolk",
+          "Seattle"
         ],
         "LocationFacility": [
+          "Phoenix Childrens Hospital",
           "Arkansas Children's Hospital",
           "Kaiser Permanente Downey Medical Center",
           "Loma Linda University Medical Center",
@@ -17706,9 +17709,11 @@
           "Vanderbilt University/Ingram Cancer Center",
           "Dell Children's Medical Center of Central Texas",
           "UT Southwestern/Simmons Cancer Center-Dallas",
-          "Children's Hospital of The King's Daughters"
+          "Children's Hospital of The King's Daughters",
+          "Seattle Children's Hospital"
         ],
         "LocationState": [
+          "Arizona",
           "Arkansas",
           "California",
           "California",
@@ -17733,9 +17738,11 @@
           "Tennessee",
           "Texas",
           "Texas",
-          "Virginia"
+          "Virginia",
+          "Washington"
         ],
         "LocationZip": [
+          "85016",
           "72202-3591",
           "90242",
           "92354",
@@ -17760,9 +17767,11 @@
           "37232",
           "78723",
           "75390",
-          "23507"
+          "23507",
+          "98105"
         ],
         "LocationContactEMail": [
+          "jboklan@phoenixchildrens.com",
           "bectondavidl@uams.edu",
           "Robert.M.Cooper@kp.org",
           "AKheradp@llu.edu",
@@ -17787,9 +17796,12 @@
           "scott.c.borinstein@vumc.org",
           "smcohn@ascension.org",
           "patrick.leavey@utsouthwestern.edu",
-          "Eric.Lowe@CHKD.org"
+          "Eric.Lowe@CHKD.org",
+          "sarah.leary@seattlechildrens.org"
         ],
         "LocationContactName": [
+          "Jessica Boklan, MD",
+          "Jessica Boklan, MD",
           "David Becton, MD",
           "David Becton, MD",
           "Robert Cooper, MD",
@@ -17839,9 +17851,12 @@
           "Patrick Leavey, MD",
           "Patrick Leavey, MD",
           "Eric Lowe, MD",
-          "Eric Lowe, MD"
+          "Eric Lowe, MD",
+          "Sarah Leary, MD",
+          "Sarah Leary, MD"
         ],
         "LocationContactPhone": [
+          "602-933-0920",
           "501-320-1494",
           "323-783-3373",
           "909-558-4076",
@@ -17866,7 +17881,8 @@
           "615-936-1762",
           "513-324-0000",
           "214-456-2382",
-          "757-668-7243"
+          "757-668-7243",
+          "206-987-2106"
         ],
         "BriefSummary": [
           "This is a Phase 1-2, multicenter, international, single-arm, open-label study designed to identify a recommended dose of bosutinib administered orally once daily in pediatric patients with newly diagnosed chronic phase Ph+ CML (ND CML) and pediatric patients with Ph+CML who have received at least one prior TKI therapy (R/I CML), to preliminary estimate the safety and tolerability and efficacy, and to evaluate the PK of bosutinib in this patient population."
@@ -25473,11 +25489,17 @@
           "SM2 5PT"
         ],
         "LocationContactEMail": [
-          "djharrison@mdanderson.org"
+          "AMarachelian@chla.usc.edu",
+          "djharrison@mdanderson.org",
+          "karsten.nysom@regionh.dk"
         ],
         "LocationContactName": [
+          "Araz Marachelian, MD",
+          "Araz Marachelian, MD",
           "Douglas Harrison, MD",
           "Daniel Morgenstern, MB BChir PhD",
+          "Karsten Nysom, MD",
+          "Karsten Nysom, MD",
           "Wolfgang Weber, M.D., Ph.D.",
           "Hideki Sano, MD., Ph.D.",
           "Sucheta Vaidya, MD"
@@ -27556,6 +27578,166 @@
       {
         "Rank": 390,
         "NCTId": [
+          "NCT03813407"
+        ],
+        "OfficialTitle": [
+          "A Phase 3, Dose-Escalating Study in Children With Hyperkalaemia Between Birth and <18 Years of Age to Evaluate Increasing Doses of Sodium Zirconium Cyclosilicate (SZC) Given Three Times Daily for the Correction of Hyperkalaemia and the Effectiveness of the Same Dose of SZC Given Once Daily to Maintain Normokalaemia Among Those Requiring Continuous Treatment."
+        ],
+        "Condition": [
+          "Hyperkalaemia"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nProvision of written informed consent of the participant or legal representative, and informed assent from the participant (as appropriate).\nFemale or male from birth to <18 years of age.\nParticipants (including those receiving peritoneal dialysis) requiring long term treatment of hyperkalaemia (chronic hyperkalaemia) in the age cohort ≥2 years, and participants requiring either short- or long-term treatment for hyperkalaemia (acute and chronic hyperkalaemia) in the age cohort <2 years.\n\nParticipants must meet 1 of the following criteria for hyperkalaemia:\n\nFor participants ≥2 years of age, mean i STAT K+ level >5.0 mmol/L at Screening. Two consecutive i STAT K+ values, measured 60 (±15) minutes apart, both >5.0 mmol/L and measured within 1 day before the first dose of SZC on CP Study Day 1.\nFor participants <2 years of age, i STAT K+ level >6.0 mmol/L at Screening, measured within 1 day before the first dose of SZC on CP Study Day 1.\n\nNote that if Day 1 is the same as the Screening day, the 60 (±15) minute K+ value is the same as the Day 1 time 0 K+ value. However, if Day 1 is not the same day as Screening, then the participant will actually have 3 i STAT-K+ values measured before starting treatment in the CP and the third value which is taken on Day 1 time 0 must also be hyperkalaemic.\n\nUsing digital ECG, QT interval corrected by Bazett's method (QTcB) must meet the age-appropriate parameters at Screening:\n\nFor participants aged 0 to ≤3 days after birth: <450 ms\nFor participants aged >3 days to <12 years: <440 ms\nFor participants ≥12 to <18 years: <450 ms (male), <460 ms (female) All QTcB values outside the reference values specified in the protocol should be manually re-measured and re-calculated, and if there is a difference in measurement between the automatic and manual ECG, the manual measurement should always be considered correct.\nAbility to have repeated blood draws or effective venous catheterization.\nFemales of childbearing potential must have a negative pregnancy test within 1 day prior to the first dose of SZC on CP Study Day 1 and sexually active females of childbearing potential must be using 2 forms of medically acceptable contraception with at least 1 being a barrier method\n\nExclusion Criteria:\n\nNeonates with a gestational age <37 weeks at birth or a birth weight <2500 g.\nTerm and preterm neonates with suspected conditions predisposing them to intestinal ischemia (eg, perinatal hypoxia or sepsis).\nParticipants with pseudohyperkalaemia caused by excessive fist clenching to enable venepuncture, by haemolysed blood specimens, or by severe leukocytosis or thrombocytosis.\nParticipants with hyperkalaemia due to soft-tissue damage from crush injury or burns.\nParticipants with hyperkalaemia due to a secondary cause, such as dehydration, excessive use of K+ supplements, or drug use (eg, beta-adrenergic antagonists) and that would be more appropriately treated with other interventions (eg, fluid resuscitation, dose adjustments of medications).\nParticipants treated with lactulose, rifaximin (XIFAXAN™), or other nonabsorbed antibiotics for hyperammonaemia within the last 7 days.\nParticipants treated with CPS, sodium polystyrene sulfonate (eg, KAYEXALATE™), or patiromer within the last 4 days.\nParticipants with a life expectancy of less than 3 months.\nParticipants who are known to have tested Human Immunodeficiency Virus (HIV) positive.\nPresence of any condition which, in the opinion of the Investigator, places the participant at undue risk or potentially jeopardises the quality of the data to be generated.\nKnown hypersensitivity or previous anaphylaxis to SZC or to components thereof.\nParticipants with cardiac arrhythmias that require immediate treatment.\nParticipants with a family history of long QT syndrome.\nParticipants on haemodialysis.\nParticipants with a history of bowel obstruction.\nParticipants with severe gastrointestinal disorder or major gastrointestinal surgery (eg, large bowel resection).\nInvolvement in the planning and/or conduct of the study (applies to both AstraZeneca staff and/or staff at the study site).\nPrevious treatment with SZC.\nTreatment with a drug or device within the last 30 days that has not received regulatory approval at the time of study entry.\nPrevious enrolment in the present study.\nFemales who are pregnant, breastfeeding, or planning to become pregnant.\nJudgment by the Investigator that the participant should not participate in the study if the participant is unlikely to comply with study procedures, restrictions and requirements.\nFor the LTMP only: participants who are normokalaemic at Visit 8b and are receiving placebo at Visit 8a of the MP unless they received rescue treatment.\nIf the participant has evidence of Coronavirus disease 2019 (COVID-19) within 2 weeks prior to enrolment (a positive COVID-19 test or suspicion of COVID-19 infection) the participant cannot be enrolled in the study."
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Los Angeles",
+          "Atlanta",
+          "Louisville",
+          "Baltimore",
+          "Saint Louis",
+          "Hackensack",
+          "Stony Brook",
+          "Charlotte",
+          "Winston-Salem",
+          "Akron",
+          "Dallas",
+          "Salt Lake City",
+          "Morgantown",
+          "Calgary",
+          "Edmonton",
+          "Milano",
+          "Bialystok",
+          "Krakow",
+          "Warszawa",
+          "Łódź",
+          "Bucuresti",
+          "Bucuresti",
+          "Cluj-Napoca",
+          "Targu Mures",
+          "Moscow",
+          "Samara",
+          "Dnipropetrovsk",
+          "Kharkiv Region",
+          "Kiev",
+          "Odesa",
+          "Sumy",
+          "Zaporizhzhia",
+          "Glasgow",
+          "Manchester",
+          "Nottingham"
+        ],
+        "LocationFacility": [
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site",
+          "Research Site"
+        ],
+        "LocationState": [
+          "Alabama",
+          "California",
+          "Georgia",
+          "Kentucky",
+          "Maryland",
+          "Missouri",
+          "New Jersey",
+          "New York",
+          "North Carolina",
+          "North Carolina",
+          "Ohio",
+          "Texas",
+          "Utah",
+          "West Virginia",
+          "Alberta",
+          "Alberta"
+        ],
+        "LocationZip": [
+          "35233",
+          "90095",
+          "30322",
+          "40202",
+          "21287",
+          "63104",
+          "07601",
+          "11794",
+          "28207",
+          "27157",
+          "44308",
+          "75235",
+          "84113",
+          "26506-7900",
+          "T3B 6A8",
+          "T6G 1C9",
+          "20122",
+          "15-089",
+          "30-663",
+          "02-091",
+          "93-338",
+          "077120",
+          "22328",
+          "400177",
+          "540136",
+          "107014",
+          "443095",
+          "49100",
+          "61075",
+          "1103",
+          "65038",
+          "40031",
+          "69063",
+          "G51 4TF",
+          "M13 9WL",
+          "NG7 2UH"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Sodium zirconium cyclosilicate has been shown to be effective and safe in adults for the treatment of hyperkalaemia, and therefore it is expected to be beneficial in children. This study will evaluate the efficacy, safety and tolerability of sodium zirconium cyclosilicate for the treatment of hyperkalaemia in children <18 years of age.\n\nPrimary Objective:28-day maintenance phase (MP) primary objective:\n\nTo compare the effect of SZC vs placebo on maintaining normokalaemia during the MP.\n\nCorrection phase (CP) primary objective:\n\nTo evaluate SZC efficacy of different dose levels on achieving normokalaemia during the CP.\n\nOverall design:\n\nApproximately 140 participants will be enrolled at approximately 40 sites in locations including but not limited to Europe and North America for this study.\n\nTreatment will include 3 phases: the CP, MP, and LTMP. Participants from 2 to <18 years are eligible to participate in all phases of the study. Participants <2 years of age will be included in the first 2 phases, namely the CP and the MP.\n\nDuring the study, participants are recommended to be fasting prior to any visit pre-dose laboratory testing. All laboratory tests are taken pre-dose except select post dose K+ values during the CP. Electrocardiograms are to be taken prior to dosing. On visit days, the study treatment is to be taken at the site (during the CP this pertains only to the morning dose). For participants with diabetes, K+ measurements should be performed prior to insulin administration where possible.\n\nFor inclusion into the study and for determining the ≥0.5 mmol/L decrease in K+, i-STAT is used. For subsequent decisions on eligibility and determination of hyper and normokalaemia for entry into the MP and LTMP phases, local laboratory K+ is the determinant value.\n\nTolerability and safety will be assessed using AE reporting, results from laboratory testing, vital signs, physical examinations and ECG findings during the study. Care will be taken not to introduce bias when detecting AEs and/or SAEs. Open ended non leading verbal questioning of the participant or participant's legal representative, as appropriate, is the preferred method to inquire about AE occurrences.\n\nParticipants are allowed to discontinue the study treatment and assessments at any time or at the discretion of the Investigator(s). The independent Data Monitoring Committee (iDMC) will monitor data during all phases of the study including DL evaluations."
+        ],
+        "DetailedDescription": [
+          "Protocol title:\n\nA Phase 3, Dose-Escalating Study in Children With Hyperkalaemia Between Birth and <18 Years of Age to Evaluate Increasing Doses of Sodium Zirconium Cyclosilicate (SZC) Given Three Times Daily for the Correction of Hyperkalaemia and the Effectiveness of the Same Dose of SZC Given Once Daily to Maintain Normokalaemia Among Those Requiring Continuous Treatment.\n\nRationale:\n\nSodium zirconium cyclosilicate has been shown to be effective and safe in adults for the treatment of hyperkalaemia, and therefore it is expected to be beneficial in children. This study will evaluate the efficacy, safety and tolerability of sodium zirconium cyclosilicate for the treatment of hyperkalaemia in children <18 years of age.\n\nPrimary Objective: Endpoint/Variable:28-day maintenance phase (MP) primary objective:\n\nTo compare the effect of SZC vs placebo on maintaining normokalaemia during the MP 28-day MP primary endpoint (primary analysis endpoint): The proportion of participants in whom normokalaemia can be maintained throughout the MP.\n\nCorrection phase (CP) primary objective: To evaluate SZC efficacy of different dose levels (DLs) on achieving normokalaemia during the CP Correction phase primary endpoint: The proportion of participants in whom serum K+ (S-K+) decreases by ≥0.5 mmol/L and who achieve normokalaemia at (by or before) 24, 48 and 72 hours during CP.\n\nSecondary Objectives: Endpoint/Variable:\n\nCP secondary objectives:\n\nTo evaluate SZC DLs on achieving normokalaemia within the first 72 hours\n\nCP secondary endpoints:\n\nThe proportion of participats in whom S-K+ decreases by ≥0.5 mmol/L and who achieve normokalaemia during the first 72 hours.\n\nTo evaluate SZC DLs on time to achieving normokalaemia during the CP Time to first day achievement of normokalaemia To evaluate SZC DLs on the reduction of S-K+ levels during the CP Absolute and percent change from baseline in S-K+ levels at all intervals of follow-up after dosing has been initiated To evaluate SZC DLs on time to reduction of S-K+ levels during the CP Time to decrease of ≥0.5 mmol/L in S-K+ level To evaluate the acceptability and palatability of SZC Proportion of participats per response category in Study Medication Palatability Assessment questionnaires (self reported or observer assessment)\n\nMP secondary objectives:\n\nTo evaluate the effect of SZC vs placebo on time from randomisation to relapse of hyperkalaemia.\n\nMP secondary endpoints:\n\nTime from randomisation to relapse of hyperkalaemia in each treatment group To evaluate the effect of SZC vs placebo on the proportion of paticipants with normokalaemia per visit over the MP Proportion of participants within each treatment group who maintain normokalaemia per visit over the MP To evaluate the effect of SZC vs placebo on the change in S-K+ levels over the MP Both absolute and percent change from baseline in S-K+ levels post dose during the MP and at any time point thereafter in each treatment group To evaluate the effect of SZC vs placebo on time to increase in S-K+ during the MP Time to an increase in S-K+ concentration of ≥0.5 mmol/L in each treatment group To evaluate the effect of SZC vs placebo on proportion of days of normokalaemia during the MP Number and percentage of days of normokalaemia To evaluate the effect of SZC vs placebo on mean S-K+ during the MP The difference in mean of all S-K+ values obtained during the MP in participants receiving either SZC or placebo To evaluate the effect of SZC vs placebo on the proportion of participants experiencing hypo or hyperkalaemia during the MP The number and percentage of participants with hypo- or hyperkalaemia in participats receiving either SZC or placebo To evaluate the effect of SZC vs placebo on S-Aldo at the end of the MP Change from baseline in S-Aldo) to end of the MP To evaluate the effect of SZC vs placebo on plasma electrolytes (including bicarbonate) and spot urinary pH and electrolytes Change from baseline in plasma electrolytes (including bicarbonate) and spot urinary pH and electrolytes to end of the MP To evaluate the acceptability and palatability of SZC Proportion of participants per response category in Study Medication Palatability Assessment\n\nLTMP objective:\n\nTo evaluate long-term maintenance of normokalaemia during treatment with SZC\n\nLTMP secondary endpoints:\n\nProportion of paticipants in whom normokalaemia can be maintained over the Long-Term MP (LTMP) To evaluate long term maintenance of normokalaemia during treatment with SZC Proportion of participants who needed dose escalation/de escalation to higher DLs during the LTMP To evaluate long term maintenance of normokalaemia during treatment with SCZ Proportion of participants who needed dose de-escalation to lower DLs during the LTMP To evaluate long-term maintenance of normokalaemia during treatment with SCZ The number and percentage of participants with hypo- or hyperkalaemia during the LTMP To evaluate the acceptability and palatability of SZC Proportion of participants per response category in Study Medication Palatability Assessment questionnaires (self reported or observer assessment)\n\nSafety Objective: Endpoint/Variable:\n\nTo evaluate the safety and tolerability of SZC in the 3 phases (CP, MP and the LTMP), and of SZC in relation to placebo in the MP.\n\nAdverse events/serious adverse events\nVital signs\nElectrocardiogram\nClinical laboratory evaluations (urinalysis, serum clinical chemistry,and haematology parameters)\nCentral laboratory K+\nPhysical examinations\n\nOverall design:\n\nApproximately 140 participants will be enroled at approximately 40 sites in locations including but not limited to Europe and North America for this study.\n\nTreatment will include 3 phases: the CP, MP, and LTMP. Participants from 2 to <18 years are eligible to participate in all phases of the study. Participants <2 years of age will be included in the first 2 phases, namely the CP and the MP.\n\nDuring the study, participants are recommended to be fasting prior to any visit pre-dose laboratory testing. All laboratory tests are taken pre-dose except select post dose K+ values during the CP. Electrocardiograms are to be taken prior to dosing. On visit days, the study treatment is to be taken at the site (during the CP this pertains only to the morning dose). For participants with diabetes, K+ measurements should be performed prior to insulin administration where possible.\n\nFor inclusion into the study and for determining the ≥0.5 mmol/L decrease in K+, i-STAT is used. For subsequent decisions on eligibility and determination of hyper and normokalaemia for entry into the MP and LTMP phases, local laboratory K+ is the determinant value.\n\nTolerability and safety will be assessed using AE reporting, results from laboratory testing, vital signs, physical examinations and ECG findings during the study. Care will be taken not to introduce bias when detecting AEs and/or SAEs. Open ended non leading verbal questioning of the participant or participant's legal representative, as appropriate, is the preferred method to inquire about AE occurrences.\n\nParticipants are allowed to discontinue the study treatment and assessments at any time or at the discretion of the Investigator(s). Participants and their legal representatives are also free to withdraw from the study at any time, without prejudice to further treatment. Participants who discontinue study treatment for any reason during MP or LTMP will be followed up and are encouraged to continue to be monitored according to the protocol schedule.\n\nThe independent Data Monitoring Committee (iDMC) will monitor data during all phases of the study including DL evaluations.\n\nStudy period:\n\nEstimated date of first participant enrolled Q4 2018 Estimated date of last participant completed Q4 2023\n\nNumber of participants:\n\nThe study will enrol approximately 140 participants into the CP in order to achieve randomisation of at least 90 participants into the MP. Of the 140 participants enrolled, ≥5 participants should be in the birth to <2 years cohort. Additionally, the 90 (or greater) participants randomised into the MP should include ≥30 participants in the 12 to <18 years cohort, ≥30 participants in the 6 to <12 years cohort, and ≥10 participants in the 2 to <6 years cohort. At least 45 participants randomised in the MP should have a Screening i-STAT-K+ level (using the mean of the 2 consecutive i-STAT-K+ measurements at Screening) of >5.5 mmol/L. A minimum number of 75 participants must continue study treatment throughout the MP (≥25 participants in the 12 to <18 years cohort, ≥25 participants in the 6 to <12 years cohort, and ≥8 participants in the 2 to <6 years cohort). Hence, randomisation in the MP will continue until it can be predicted that at least 75 participants fulfilling the specific age cohort requirements will complete the MP without premature discontinuation of study treatment.\n\nBased on data from adult study SZC-004, the proportion of responders (participant with maintained normokalaemia throughout the MP) can be assumed to be 37% and 12% in the SZC and placebo treatment groups, respectively. Forty-five participants per group will then provide 79% power using a chi-square test at 5% significance level.\n\nTreatments and treatment duration:\n\nTreatment will include 3 phases: the CP, MP, and LTMP. Participants from 2 to <18 years requiring chronic treatment for hyperkalaemia are eligible to participate in all phases of the study if entry criteria are met. Participants <2 years of age requiring acute or chronic treatment for hyperkalaemia will be included in the first 2 phases, namely the CP and the MP. The 3 treatment phases are specified below:\n\nAn open-label CP during which SZC is administered orally 3 times daily (TID) prior to breakfast, midday, and evening for 1 to 3 days to achieve normokalaemia in participants from birth to <18 years.\nA 28-day MP during which SZC or placebo is administered in a randomised, double-blind manner orally once daily (QD) to maintain normokalaemia in participants from 2 to <18 years. Participants aged <2 years will continue treatment in the MP with open-label QD oral SZC active treatment if medically indicated by the treating physician. In cohorts 2 to <18 years, at the end of the MP (Visit 8a), the Investigator will unblind the MP treatment to determine eligibility for the LTMP.\nAn open-label LTMP during which SZC is administered QD for up to 22 weeks for participants aged 2 to <18 years who either maintain normokalaemia on active drug during the MP or are hyperkalaemic on active drug or placebo during the MP. Continuation into this phase is optional and will be determined by the Investigator based on the participant's need for long term treatment. Dose titration for individual participants will only be an option in this phase after data is evaluated by the iDMC and the next DL is opened.\n\nDose levels are derived from doses of SZC previously used in the adult population, by adjusting for paediatric body weight.\n\nData Monitoring Committee:\n\nAn iDMC will be utilised for this study to evaluate emerging safety data during all phases of the study in addition to DL evaluations.\n\nStatistical methods All efficacy analyses will be based on the intent-to-treat (ITT) principle using the Full analysis set.\n\nSafety analyses will similarly be primarily based on the ITT principle of including data after premature discontinuation of study treatment using the Safety analysis set.\n\nIn general, CP data will be presented by dose. Maintenance phase data will be presented by treatment, denoted by SZC or placebo.\n\nIn the LTMP, the open-label SZC dose can be titrated. Summaries by dose will however be done based on the dose the participant was initially on when starting the LTMP.\n\nNo interim analyses are planned for this study."
+        ]
+      },
+      {
+        "Rank": 391,
+        "NCTId": [
           "NCT03492177"
         ],
         "OfficialTitle": [
@@ -27739,7 +27921,7 @@
         ]
       },
       {
-        "Rank": 391,
+        "Rank": 392,
         "NCTId": [
           "NCT04238819"
         ],
@@ -27856,7 +28038,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 392,
+        "Rank": 393,
         "NCTId": [
           "NCT03406507"
         ],
@@ -27912,7 +28094,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 393,
+        "Rank": 394,
         "NCTId": [
           "NCT03206021"
         ],
@@ -28028,7 +28210,7 @@
         ]
       },
       {
-        "Rank": 394,
+        "Rank": 395,
         "NCTId": [
           "NCT02862132"
         ],
