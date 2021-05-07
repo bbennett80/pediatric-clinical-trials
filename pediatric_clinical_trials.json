@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:05:04 22:27:59.768",
+    "DataVrs": "2021:05:05 22:21:39.027",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 376522,
-    "NStudiesFound": 392,
+    "NStudiesAvail": 376690,
+    "NStudiesFound": 391,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 392,
+    "NStudiesReturned": 391,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -4012,11 +4012,11 @@
           "92123"
         ],
         "LocationContactEMail": [
-          "ekhoshhe@ucsd.edu",
+          "kchaiboonma@health.ucsd.edu",
           "saceves@ucsd.edu"
         ],
         "LocationContactName": [
-          "Emad K Khosh hemmat, BS",
+          "Kira Chaiboonma, BS",
           "Seema Aceves, MD,PhD"
         ],
         "LocationContactPhone": [
@@ -12310,10 +12310,10 @@
           "Hematopoietic Stem Cell Transplantation"
         ],
         "EligibilityCriteria": [
-          "Inclusion:\n\nPlanned myeloablative allogeneic bone marrow, cord, or peripheral blood stem cell (from any donor, including haploidentical donor) HCT conditioning regimen using either TBI (planned cumulative dose >1100 cGy) or busulfan in addition to other chemotherapeutic agents\nPlanned related or unrelated bone marrow donor matched at a minimum of out of 10 human leukocyte antigen (HLA) loci (HLA-A, -B, -C, -DRB1, and -DQ), or planned related or unrelated cord blood donor matched at a minimum of 4 out of 6 HLA loci (HLA-A, -B, and -DRB1), or a haplo- identical related donor; typing must be at the allele level for unrelated donors, antigen level typing is acceptable for related donors\nDiagnosis of a hematological malignancy including myelodysplasia.\n\nExclusion:\n\nUnable or unwilling to return for day +30 or day +100 testing\nGVHD prophylaxis that includes rapamycin\nAllergy to egg, fish, or soy/legume products\nOther contraindication to PN or intravenous lipids\nUnstable diabetes mellitus\nRecent stroke, cardiac infarction or embolism\nUndefined coma status\nLipid nephrosis\nPathological hyperlipidemia (2 consecutive fasting triglyceride levels > 500 mg/dL)\nActive/acute pancreatitis with hyperlipidemia\nHistory of parenteral nutrition use with SOLE prior to HCT\nCo-enrollment in other interventional clinical studies"
+          "Inclusion:\n\nPlanned myeloablative allogeneic bone marrow, cord, or peripheral blood stem cell (from any donor, including haploidentical donor) HCT conditioning regimen using either TBI (planned cumulative dose >1100cGy) or busulfan in addition to other chemotherapeutic agents\nPlanned related or unrelated bone marrow donor matched at a minimum of out of 10 human leukocyte antigen (HLA) loci (HLA-A, -B, -C, -DRB1, and -DQ), or planned related or unrelated cord blood donor matched at a minimum of 4 out of 6 HLA loci (HLA-A, -B, and -DRB1), or a haplo- identical related donor; typing must be at the allele level for unrelated donors, antigen level typing is acceptable for related donors\nDiagnosis of a hematological malignancy including myelodysplasia.\n\nExclusion:\n\nUnable or unwilling to return for day +30 or day +100 testing\nGVHD prophylaxis that includes rapamycin\n\nAllergy to egg, fish (including seafood and/or shellfish), or soy/legume products\n\na. Patients with egg, fish (including seafood and/or shellfish), or soy/legume intolerance without a documented allergy may still be included at the discretion of the PI and patient/family\n\nOther contraindication to PN or intravenous lipids\nUnstable diabetes mellitus\nStroke, cardiac infarction or embolism within 6 months prior to HCT OR current, ongoing treatment for stroke, infarction, and/or embolism\nUndefined coma status,\nLipid nephrosis,\nPathological hyperlipidemia (2 consecutive fasting triglyceride levels > 500 mg/dL),\nActive/acute pancreatitis with hyperlipidemia (fasting triglyceride levels > 500 mg/dL) (see section 3.5 for specific diagnostic criteria),\nHistory of parenteral nutrition (PN) use with any intravenous lipid product or use of any intravenous lipid product without PN within 6 months prior to HCT\nCo-enrollment in other interventional clinical studies.\n\nClinically significant pleural or pericardial effusion\n\na) If a pleural or pericardial effusion is noted on the pre-transplant testing echocardiogram, the PI will contact the cardiologist to ask if it is clinically significant. If clinically insignificant pleural or pericardial effusion exists at baseline AND the patient is randomized to FOLE, the PI will seek approval for inclusion with the primary attending and decide upon appropriate monitoring to include close clinical observation, cardiology consultation and/or serial echocardiograms where appropriate.\n\nAluminum toxicity, especially in patients with renal impairment\nRisk of infection\nRefeeding syndrome"
         ],
         "MinimumAge": [
-          "6 Years"
+          "2 Years"
         ],
         "MaximumAge": [
           "18 Years"
@@ -12587,54 +12587,6 @@
       {
         "Rank": 252,
         "NCTId": [
-          "NCT02420990"
-        ],
-        "OfficialTitle": [
-          "Randomized Comparison of Evidence-Based Protocols for Adolescents With ADHD in Specialty Care: Behavioral Only Versus Integrated Behavioral and Medication Interventions"
-        ],
-        "Condition": [
-          "ADHD",
-          "Substance Use Disorders"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPrimary caregiver able to participate in treatment\nAdolescent meets DSM-5 diagnostic criteria for ADHD\nAdolescents who are substance users (50% of sample) meet ASAM criteria for non-intensive outpatient services\nAdolescent not enrolled in any other behavioral treatment\nCaregiver expresses desire, and adolescent expresses willingness, to participate in outpatient treatment\nFamily has health benefits that meet the requirements of study treatment sites, all of which accept a broad range of insurance plans including Medicaid.\n\nExclusion Criteria:\n\nIntellectual Disability or Autism-Spectrum Disorder\nMedical/psychiatric illness requiring hospitalization\nCurrent psychotic symptoms; active suicidal ideation\nSevere substance use problems that require immediate relief (detox or residential placement)"
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "New York"
-        ],
-        "LocationFacility": [
-          "The National Center on Addiction and Substance Abuse at Columbia University"
-        ],
-        "LocationState": [
-          "New York"
-        ],
-        "LocationZip": [
-          "10017"
-        ],
-        "LocationContactEMail": [
-          "leap@casacolumbia.org"
-        ],
-        "LocationContactName": [
-          "Jacqueline Fisher, Ph.D.",
-          "Aaron T Hogue, Ph.D."
-        ],
-        "LocationContactPhone": [
-          "212-841-5242"
-        ],
-        "BriefSummary": [
-          "Attention-Deficit/Hyperactivity Disorder (ADHD) exists in 20-50% of the 3 million adolescents annually enrolled in outpatient mental health and substance use treatment. Adolescents with ADHD present deficits in attention, self-regulation, and social competence that significantly impede achievement of developmental and educational milestones. Currently there are only two evidence-based treatment options for this age group: academic training and stimulant medications. Both options remain vastly underutilized. Academic training is not available in most school settings and rarely implemented in clinical care. Similarly, ADHD medications are rarely utilized with adolescents in primary or specialty care for a host of reasons related to stigma, misinformation about effects and side effects, and adolescent autonomy issues. Moreover, the widespread fragmentation of pharmacological versus behavioral services prevents families from making informed treatment selections.\n\nThe primary objective of this randomized parametric trial is to compare the effectiveness of behavioral only versus integrated (behavioral plus medication decision-making) interventions for adolescents with ADHD in outpatient behavioral services. The behavioral intervention, Changing Academic Support in the Home for Adolescents with ADHD (CASH-AA), contains three components: ADHD psychoeducation, family-based motivational interventions, and academic training. The medication decision-making intervention, Medication Integration Protocol (MIP), contain three components: psychoeducation about ADHD medication, family decision-making, and medication management. The study will compare the effects of two legitimate treatment options for adolescents with ADHD on service utilization, behavioral symptoms, and quality of life. It will generate new evidence on patient-centered treatment selection that aligns with family-specific principles and treatment goals.\n\nThis parametric comparative trial will randomly assign 140 inner-city adolescents with ADHD to (1) CASH-AA Only or (2) CASH-AA + MIP. Treatment will occur in community behavioral health clinics. All participants will receive behavioral interventions (CASH-AA): family psychoeducation in ADHD symptoms, executive functioning, and developmental impacts; family-based motivation and ADHD accommodation interventions; and academic training focused on home environment support and organizational skills. Half of the participants will also receive medication decision-making interventions (MIP): ADHD medication psychoeducation, family decision-making interventions, and (for those who elect to start medication) coordinated medication management. Half of the sample will have comorbid substance use problems. Treatment will occur in three community clinics; therapists will be randomly assigned to study condition. Caregivers and adolescents will complete assessments at baseline, 3, 6, and 12-month follow-up. Multilevel modeling will compare the effectiveness of each condition on key patient and service use outcomes. Patient-centered analyses will explore differential treatment effects based on (a) Medication decision (yes/no); (b) Substance use comorbidity (yes/no); (c) Race/Ethnicity (Hispanic, African American).\n\nQuantitative outcome analyses will test for service use effects, symptom reduction, and quality of life improvements that are primary reasons for seeking clinical services. Qualitative interviews will document family-specific rationale for decisions about medication, compliance with behavioral and medication interventions, and suggestions for improving services and service integration. Note that families assigned to CASH-AA Only will retain the option of pursuing ADHD medication through treatment-as-usual procedures at their respective clinic. Similarly, families assigned to CASH-AA + MIP will not be required to start ADHD medication. Instead, they will receive informed-choice interventions and can choose when and if to start medication; the study will assess the impact of these decisions on clinical outcomes.\n\nIf proven efficacious, the CASH-AA and MIP protocols could be rapidly disseminated individually or as an integrated protocol into routine behavioral healthcare settings. The protocols can also be readily combined with other behavioral treatments to form a multicomponent treatment package for adolescents with co-occurring behavior problems. In addition, the family-based, patient-centered CASH-AA and MIP protocols could be delivered in conjunction with other family-based treatments or with individual approaches that flexibly include caregivers in multiple treatment sessions. This makes CASH-AA and MIP highly efficient clinical resources for addressing ADHD-related problems in any outpatient setting that serves adolescents and their families."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 253,
-        "NCTId": [
           "NCT02395003"
         ],
         "OfficialTitle": [
@@ -12677,7 +12629,7 @@
         ]
       },
       {
-        "Rank": 254,
+        "Rank": 253,
         "NCTId": [
           "NCT02354365"
         ],
@@ -12729,7 +12681,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 254,
         "NCTId": [
           "NCT02312635"
         ],
@@ -12781,7 +12733,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 255,
         "NCTId": [
           "NCT02305537"
         ],
@@ -12839,7 +12791,7 @@
         ]
       },
       {
-        "Rank": 257,
+        "Rank": 256,
         "NCTId": [
           "NCT02257229"
         ],
@@ -12886,7 +12838,7 @@
         ]
       },
       {
-        "Rank": 258,
+        "Rank": 257,
         "NCTId": [
           "NCT02245997"
         ],
@@ -12933,7 +12885,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 259,
+        "Rank": 258,
         "NCTId": [
           "NCT02202174"
         ],
@@ -12978,7 +12930,7 @@
         ]
       },
       {
-        "Rank": 260,
+        "Rank": 259,
         "NCTId": [
           "NCT02130180"
         ],
@@ -13026,7 +12978,7 @@
         ]
       },
       {
-        "Rank": 261,
+        "Rank": 260,
         "NCTId": [
           "NCT02127658"
         ],
@@ -13068,7 +13020,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 262,
+        "Rank": 261,
         "NCTId": [
           "NCT02117063"
         ],
@@ -13125,7 +13077,7 @@
         ]
       },
       {
-        "Rank": 263,
+        "Rank": 262,
         "NCTId": [
           "NCT02055105"
         ],
@@ -13173,7 +13125,7 @@
         ]
       },
       {
-        "Rank": 264,
+        "Rank": 263,
         "NCTId": [
           "NCT02021604"
         ],
@@ -13216,7 +13168,7 @@
         ]
       },
       {
-        "Rank": 265,
+        "Rank": 264,
         "NCTId": [
           "NCT01960166"
         ],
@@ -13258,7 +13210,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 266,
+        "Rank": 265,
         "NCTId": [
           "NCT01857791"
         ],
@@ -13305,7 +13257,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 267,
+        "Rank": 266,
         "NCTId": [
           "NCT01839747"
         ],
@@ -13354,7 +13306,7 @@
         ]
       },
       {
-        "Rank": 268,
+        "Rank": 267,
         "NCTId": [
           "NCT01724463"
         ],
@@ -13409,7 +13361,7 @@
         ]
       },
       {
-        "Rank": 269,
+        "Rank": 268,
         "NCTId": [
           "NCT01665326"
         ],
@@ -13459,7 +13411,7 @@
         ]
       },
       {
-        "Rank": 270,
+        "Rank": 269,
         "NCTId": [
           "NCT01629017"
         ],
@@ -13511,7 +13463,7 @@
         ]
       },
       {
-        "Rank": 271,
+        "Rank": 270,
         "NCTId": [
           "NCT01598766"
         ],
@@ -13563,7 +13515,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 272,
+        "Rank": 271,
         "NCTId": [
           "NCT01577810"
         ],
@@ -13614,7 +13566,7 @@
         ]
       },
       {
-        "Rank": 273,
+        "Rank": 272,
         "NCTId": [
           "NCT01567579"
         ],
@@ -13665,7 +13617,7 @@
         ]
       },
       {
-        "Rank": 274,
+        "Rank": 273,
         "NCTId": [
           "NCT01543438"
         ],
@@ -13712,7 +13664,7 @@
         ]
       },
       {
-        "Rank": 275,
+        "Rank": 274,
         "NCTId": [
           "NCT01504373"
         ],
@@ -13758,7 +13710,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 276,
+        "Rank": 275,
         "NCTId": [
           "NCT01422759"
         ],
@@ -13810,7 +13762,7 @@
         ]
       },
       {
-        "Rank": 277,
+        "Rank": 276,
         "NCTId": [
           "NCT01422746"
         ],
@@ -13860,7 +13812,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 278,
+        "Rank": 277,
         "NCTId": [
           "NCT01421810"
         ],
@@ -13911,7 +13863,7 @@
         ]
       },
       {
-        "Rank": 279,
+        "Rank": 278,
         "NCTId": [
           "NCT01421797"
         ],
@@ -13963,7 +13915,7 @@
         ]
       },
       {
-        "Rank": 280,
+        "Rank": 279,
         "NCTId": [
           "NCT01386736"
         ],
@@ -14012,7 +13964,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 281,
+        "Rank": 280,
         "NCTId": [
           "NCT01383915"
         ],
@@ -14061,7 +14013,7 @@
         ]
       },
       {
-        "Rank": 282,
+        "Rank": 281,
         "NCTId": [
           "NCT01304875"
         ],
@@ -14105,7 +14057,7 @@
         ]
       },
       {
-        "Rank": 283,
+        "Rank": 282,
         "NCTId": [
           "NCT01285531"
         ],
@@ -14162,7 +14114,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 283,
         "NCTId": [
           "NCT01122095"
         ],
@@ -14215,7 +14167,7 @@
         ]
       },
       {
-        "Rank": 285,
+        "Rank": 284,
         "NCTId": [
           "NCT00906906"
         ],
@@ -14266,7 +14218,7 @@
         ]
       },
       {
-        "Rank": 286,
+        "Rank": 285,
         "NCTId": [
           "NCT00814853"
         ],
@@ -14313,7 +14265,7 @@
         ]
       },
       {
-        "Rank": 287,
+        "Rank": 286,
         "NCTId": [
           "NCT00792415"
         ],
@@ -14361,7 +14313,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 288,
+        "Rank": 287,
         "NCTId": [
           "NCT00745394"
         ],
@@ -14408,7 +14360,7 @@
         ]
       },
       {
-        "Rank": 289,
+        "Rank": 288,
         "NCTId": [
           "NCT00616317"
         ],
@@ -14446,7 +14398,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 290,
+        "Rank": 289,
         "NCTId": [
           "NCT00494572"
         ],
@@ -14496,7 +14448,7 @@
         ]
       },
       {
-        "Rank": 291,
+        "Rank": 290,
         "NCTId": [
           "NCT00491946"
         ],
@@ -14541,7 +14493,7 @@
         ]
       },
       {
-        "Rank": 292,
+        "Rank": 291,
         "NCTId": [
           "NCT00465699"
         ],
@@ -14585,7 +14537,7 @@
         ]
       },
       {
-        "Rank": 293,
+        "Rank": 292,
         "NCTId": [
           "NCT00320086"
         ],
@@ -14633,7 +14585,7 @@
         ]
       },
       {
-        "Rank": 294,
+        "Rank": 293,
         "NCTId": [
           "NCT00292513"
         ],
@@ -14678,7 +14630,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 295,
+        "Rank": 294,
         "NCTId": [
           "NCT00182572"
         ],
@@ -14722,7 +14674,7 @@
         ]
       },
       {
-        "Rank": 296,
+        "Rank": 295,
         "NCTId": [
           "NCT00167219"
         ],
@@ -14768,7 +14720,7 @@
         ]
       },
       {
-        "Rank": 297,
+        "Rank": 296,
         "NCTId": [
           "NCT00036712"
         ],
@@ -14825,7 +14777,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 297,
         "NCTId": [
           "NCT00012506"
         ],
@@ -14873,7 +14825,7 @@
         ]
       },
       {
-        "Rank": 299,
+        "Rank": 298,
         "NCTId": [
           "NCT00000112"
         ],
@@ -14914,7 +14866,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 300,
+        "Rank": 299,
         "NCTId": [
           "NCT04621734"
         ],
@@ -14964,7 +14916,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 300,
         "NCTId": [
           "NCT04621331"
         ],
@@ -15006,7 +14958,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 302,
+        "Rank": 301,
         "NCTId": [
           "NCT04602325"
         ],
@@ -15058,7 +15010,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 302,
         "NCTId": [
           "NCT03266016"
         ],
@@ -15098,6 +15050,54 @@
         "DetailedDescription": [
           "Study Aims:\n\nSA1: To determine if REDvent acute and/or weaning phase protocols can shorten the duration of weaning from MV (Primary outcome).\n\nSA2: To determine if changes to direct measures of respiratory muscle strength, load, effort, and architecture throughout the duration of MV are related to weaning outcomes.\n\nSA3: To determine if patient effort of breathing during both acute and weaning phases of MV is independently associated with the development of respiratory muscle weakness.\n\nStudy Design: Single-center randomized controlled trial (138 children per arm) using REDvent (intervention arm) as compared with usual care ventilator management including a standardized daily SBT (control arm). Acute phase randomization will occur upon study enrollment, and patients who fail the first SBT will undergo a weaning phase randomization. The investigators will obtain serial measurements of respiratory system capacity, load, effort of breathing, and diaphragm architecture throughout the course of MV.\n\nAcute Phase: The acute phase is defined as the time from intubation until the patient meets weaning criteria, passes the initial oxygenation test (decrease PEEP to 5 cmH2O and FiO2 to 0.5, maintains SpO2 > 90%), and undergoes a Spontaneous Breathing Trial (SBT).\n\nIntervention Arm (REDvent-acute): Patients will be managed with pressure control plus pressure support ventilation using a computerized decision support tool that will recommend changes to ventilator settings approximately every 4 hr (with or without a new blood gas). If the patient is spontaneously breathing, it will incorporate real-time measures of effort of breathing (esophageal manometry) to keep it in a target range.\nControl Arm (Control-acute): Ventilator management will be per usual care until the patient meets weaning criteria and passes the oxygenation test.\n\nWeaning Phase: The weaning phase is defined as the time from the first Spontaneous Breathing Trial (SBT) until the patient successfully passes an SBT or is extubated (whichever comes first). Patients who pass the initial SBT at the end of the acute phase will not undergo weaning phase randomization.\n\nIntervention Arm (REDvent-weaning): Patients will be managed in a pressure support/CPAP mode of ventilation with assessments or changes to the level of pressure support every 4 hours, targeting maintaining effort of breathing (esophageal manometry) in a normal range. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\nControl Arm (Control-weaning): Ventilator management will be per usual care. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\n\nAnalysis Plan and Sample Size Justification:\n\nAim 1: The primary outcome is weaning duration. Sample size has been determined to adequately power 3 separate comparative analyses: (a) REDvent-acute versus Acute Phase control (b) REDvent-weaning phase versus Weaning Phase control (c) REDvent both phases versus control both phases. Power is based on 2 planned methods for analysis: cox proportional hazard ratios for multivariable analysis and univariate analysis with an independent t-test using log transformation (as needed) to account for the expected distribution of weaning duration. For all three of the planned comparisons above, with the proposed sample size the investigators would be adequately powered (>0.8) to detect a difference in weaning duration of ≥ 1 day, or a hazard ratio of ≥ 1.4 between groups. The secondary outcomes are ventilator free days and extubation failure. Directly comparing control only patients to REDvent only patients, with an expected standard deviation for VFDs between 5 to 9 days, the investigators will be able to detect a 2-day change in VFDs between groups with a power between 0.35 and 0.82. Re-intubation rates are expected to be 10%, allowing the investigators to confirm that REDvent is not inferior to usual care in regards to re-intubation with a non-inferiority margin of 0.10 with a power of 0.8 and alpha of 0.05.\n\nAim 2: The primary outcome of this aim is weaning duration. For respiratory muscle strength the investigators will compare the first measured aPiMax (after resolution of the acute phase, before the first SBT), the trajectory and value of the daily aPiMax during the weaning phase prior to extubation, the lowest and highest measured aPiMax, and aPiMax on the day of extubation against weaning duration. For analysis, aPiMax will be dichotomized at 30 cmH2O, and weaning duration will be compared between patients with aPiMax > 30 versus ≤ 30 cmH2O using a t-test with or without log-transformation, or Mann-Whitney U test, depending on the distribution. From preliminary data, it is anticipated at least 35% of patients (n=84) will have aPiMax ≤ 30 cmH2O. Based on a similar power analysis as presented above, this would allow the investigators to determine whether low aPiMax is associated with a ≥ 1-day increase in weaning duration, with an alpha of 0.05 and power of 0.8. The investigators will perform identical analysis for ePiMax. Diaphragm Thickness analysis will compound daily ultrasound measures to detect the relative change in diaphragm thickness from study day 1 until passage of an SBT. The investigators will compare the change in thickness after resolution of the acute phase (on the day of the first SBT) against weaning duration, in a similar manner as proposed above for aPiMax. In addition to weaning duration, the investigators will also examine whether the respiratory measures taken just prior to or during each SBT are associated with the patient passing the SBT. For example with aPiMax and ePiMax, the investigators will examine if there is a dose response relationship between PiMax measured just before the SBT and the rate of passage of the subsequent SBT.\n\nAim 3: The primary outcome of this aim is aPiMax < 30 cmH2O.The analysis will focus on determining whether the degree of patient effort of breathing is independently associated with the development of respiratory muscle weakness. For the acute phase, the investigators will generate a time-weighted average PRP during the acute phase and graph it against aPiMax at the first SBT. They will subsequently dichotomize aPiMax at the first SBT and compare mean time weighted average PRP in the acute phase between aPiMax groups (> 30 vs. ≤ 30 cmH2O). For the weaning phase, the investigators will graph the changes in aPiMax throughout the weaning phase (from first failed SBT until successful SBT) against time-weighted average PRP, with the anticipation that low PRP will be associated with either further reductions in aPiMax, or no improvement, while PRP in the physiologic range of 150-400 will be associated with improvement in aPiMax. The investigators will subsequently dichotomize aPiMax (at 30 cm H2O) at the time of successful passage of an SBT and compare time-weighted average PRP in the weaning phase between aPiMax groups. Subsequently, the investigators will build a multivariable logistic regression model on the outcome of aPiMax ≤ 30 cmH2O to determine if time-weighted PRP in the acute phase, weaning phase or both have an independent association with preserving aPiMax, after controlling for confounding variables."
         ]
+      },
+      {
+        "Rank": 303,
+        "NCTId": [
+          "NCT02420990"
+        ],
+        "OfficialTitle": [
+          "Randomized Comparison of Evidence-Based Protocols for Adolescents With ADHD in Specialty Care: Behavioral Only Versus Integrated Behavioral and Medication Interventions"
+        ],
+        "Condition": [
+          "ADHD",
+          "Substance Use Disorders"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPrimary caregiver able to participate in treatment\nAdolescent meets DSM-5 diagnostic criteria for ADHD\nAdolescents who are substance users (50% of sample) meet ASAM criteria for non-intensive outpatient services\nAdolescent not enrolled in any other behavioral treatment\nCaregiver expresses desire, and adolescent expresses willingness, to participate in outpatient treatment\nFamily has health benefits that meet the requirements of study treatment sites, all of which accept a broad range of insurance plans including Medicaid.\n\nExclusion Criteria:\n\nIntellectual Disability or Autism-Spectrum Disorder\nMedical/psychiatric illness requiring hospitalization\nCurrent psychotic symptoms; active suicidal ideation\nSevere substance use problems that require immediate relief (detox or residential placement)"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "New York"
+        ],
+        "LocationFacility": [
+          "The National Center on Addiction and Substance Abuse at Columbia University"
+        ],
+        "LocationState": [
+          "New York"
+        ],
+        "LocationZip": [
+          "10017"
+        ],
+        "LocationContactEMail": [
+          "leap@casacolumbia.org"
+        ],
+        "LocationContactName": [
+          "Jacqueline Fisher, Ph.D.",
+          "Aaron T Hogue, Ph.D."
+        ],
+        "LocationContactPhone": [
+          "212-841-5242"
+        ],
+        "BriefSummary": [
+          "Attention-Deficit/Hyperactivity Disorder (ADHD) exists in 20-50% of the 3 million adolescents annually enrolled in outpatient mental health and substance use treatment. Adolescents with ADHD present deficits in attention, self-regulation, and social competence that significantly impede achievement of developmental and educational milestones. Currently there are only two evidence-based treatment options for this age group: academic training and stimulant medications. Both options remain vastly underutilized. Academic training is not available in most school settings and rarely implemented in clinical care. Similarly, ADHD medications are rarely utilized with adolescents in primary or specialty care for a host of reasons related to stigma, misinformation about effects and side effects, and adolescent autonomy issues. Moreover, the widespread fragmentation of pharmacological versus behavioral services prevents families from making informed treatment selections.\n\nThe primary objective of this randomized parametric trial is to compare the effectiveness of behavioral only versus integrated (behavioral plus medication decision-making) interventions for adolescents with ADHD in outpatient behavioral services. The behavioral intervention, Changing Academic Support in the Home for Adolescents with ADHD (CASH-AA), contains three components: ADHD psychoeducation, family-based motivational interventions, and academic training. The medication decision-making intervention, Medication Integration Protocol (MIP), contain three components: psychoeducation about ADHD medication, family decision-making, and medication management. The study will compare the effects of two legitimate treatment options for adolescents with ADHD on service utilization, behavioral symptoms, and quality of life. It will generate new evidence on patient-centered treatment selection that aligns with family-specific principles and treatment goals.\n\nThis parametric comparative trial will randomly assign 140 inner-city adolescents with ADHD to (1) CASH-AA Only or (2) CASH-AA + MIP. Treatment will occur in community behavioral health clinics. All participants will receive behavioral interventions (CASH-AA): family psychoeducation in ADHD symptoms, executive functioning, and developmental impacts; family-based motivation and ADHD accommodation interventions; and academic training focused on home environment support and organizational skills. Half of the participants will also receive medication decision-making interventions (MIP): ADHD medication psychoeducation, family decision-making interventions, and (for those who elect to start medication) coordinated medication management. Half of the sample will have comorbid substance use problems. Treatment will occur in three community clinics; therapists will be randomly assigned to study condition. Caregivers and adolescents will complete assessments at baseline, 3, 6, and 12-month follow-up. Multilevel modeling will compare the effectiveness of each condition on key patient and service use outcomes. Patient-centered analyses will explore differential treatment effects based on (a) Medication decision (yes/no); (b) Substance use comorbidity (yes/no); (c) Race/Ethnicity (Hispanic, African American).\n\nQuantitative outcome analyses will test for service use effects, symptom reduction, and quality of life improvements that are primary reasons for seeking clinical services. Qualitative interviews will document family-specific rationale for decisions about medication, compliance with behavioral and medication interventions, and suggestions for improving services and service integration. Note that families assigned to CASH-AA Only will retain the option of pursuing ADHD medication through treatment-as-usual procedures at their respective clinic. Similarly, families assigned to CASH-AA + MIP will not be required to start ADHD medication. Instead, they will receive informed-choice interventions and can choose when and if to start medication; the study will assess the impact of these decisions on clinical outcomes.\n\nIf proven efficacious, the CASH-AA and MIP protocols could be rapidly disseminated individually or as an integrated protocol into routine behavioral healthcare settings. The protocols can also be readily combined with other behavioral treatments to form a multicomponent treatment package for adolescents with co-occurring behavior problems. In addition, the family-based, patient-centered CASH-AA and MIP protocols could be delivered in conjunction with other family-based treatments or with individual approaches that flexibly include caregivers in multiple treatment sessions. This makes CASH-AA and MIP highly efficient clinical resources for addressing ADHD-related problems in any outpatient setting that serves adolescents and their families."
+        ],
+        "DetailedDescription": []
       },
       {
         "Rank": 304,
@@ -17247,135 +17247,6 @@
       {
         "Rank": 336,
         "NCTId": [
-          "NCT04442295"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
-        ],
-        "Condition": [
-          "Dravet Syndrome"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
-        ],
-        "MinimumAge": [
-          "2 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "San Francisco",
-          "Aurora",
-          "Washington",
-          "Miami",
-          "Orlando",
-          "Chicago",
-          "Iowa City",
-          "Boston",
-          "Ann Arbor",
-          "Rochester",
-          "New York",
-          "Portland",
-          "Philadelphia",
-          "Memphis",
-          "Fort Worth",
-          "Salt Lake City",
-          "Seattle",
-          "Tacoma"
-        ],
-        "LocationFacility": [
-          "University of California San Francisco Medical Center",
-          "Children's Hospital Colorado",
-          "Children's National Medical Center",
-          "Nicklaus Children's Hospital",
-          "AdventHealth Orlando",
-          "Ann & Robert H. Lurie Children's Hospital of Chicago",
-          "University of Iowa, Department of Pediatrics,",
-          "Massachusetts General Hospital",
-          "Mott Children's Hospital",
-          "Mayo Clinic",
-          "NYU Comprehensive Epilepsy Center",
-          "Oregon Health & Science University",
-          "Children's Hospital of Philadelphia",
-          "Le Bonheur Children's Hospital",
-          "Cook Children's Medical Center",
-          "University of Utah Pediatrics Clinical Trials Office",
-          "Seattle Children's Hospital",
-          "Multicare Institute for Research and Innovation"
-        ],
-        "LocationState": [
-          "California",
-          "Colorado",
-          "District of Columbia",
-          "Florida",
-          "Florida",
-          "Illinois",
-          "Iowa",
-          "Massachusetts",
-          "Michigan",
-          "Minnesota",
-          "New York",
-          "Oregon",
-          "Pennsylvania",
-          "Tennessee",
-          "Texas",
-          "Utah",
-          "Washington",
-          "Washington"
-        ],
-        "LocationZip": [
-          "94158",
-          "80045",
-          "20010",
-          "33155",
-          "32803",
-          "60611",
-          "52242",
-          "02114",
-          "48109",
-          "55905",
-          "10016",
-          "97239",
-          "19104",
-          "38105",
-          "76104",
-          "84108",
-          "98105",
-          "98405"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
-        ],
-        "DetailedDescription": [
-          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
-        ]
-      },
-      {
-        "Rank": 337,
-        "NCTId": [
           "NCT04431453"
         ],
         "OfficialTitle": [
@@ -17545,7 +17416,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 337,
         "NCTId": [
           "NCT04258943"
         ],
@@ -17805,7 +17676,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 338,
         "NCTId": [
           "NCT04195399"
         ],
@@ -18331,7 +18202,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 339,
         "NCTId": [
           "NCT03522168"
         ],
@@ -18765,7 +18636,7 @@
         ]
       },
       {
-        "Rank": 341,
+        "Rank": 340,
         "NCTId": [
           "NCT03199053"
         ],
@@ -19324,7 +19195,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 341,
         "NCTId": [
           "NCT02121132"
         ],
@@ -19499,6 +19370,135 @@
         ],
         "DetailedDescription": [
           "All patients 18 years of age or younger who have completed an initial medical assessment between March 1, 2014 through April 30, 2020 will be approached for this study.\n\nData from individual follow up visits or group intervention sessions, depending on the program design of each institution, will be collected through October 31, 2020. The data included in this study will be collected during routine medical care. Information that could identify a participant will be removed from the data. Data will be entered into a secure database called Medidata Rave® CDMS. This database will be managed by the Data Coordinating Center (DCC) at Cincinnati Children's Hospital Medical Center (CCHMC).\n\nThe DCC will combine all the data from each site. Additional data cleaning and data quality monitoring will be performed. Combined datasets for analysis will be provided by the DCC in a format agreed upon by the POWER Governance Board. Data will be stored in a secure and protected format and will not include any written or electronic protected health information (PHI/EPHI). The DCC will store the data on a secure server."
+        ]
+      },
+      {
+        "Rank": 342,
+        "NCTId": [
+          "NCT04442295"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
+        ],
+        "Condition": [
+          "Dravet Syndrome"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
+        ],
+        "MinimumAge": [
+          "2 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "San Francisco",
+          "Aurora",
+          "Washington",
+          "Miami",
+          "Orlando",
+          "Chicago",
+          "Iowa City",
+          "Boston",
+          "Ann Arbor",
+          "Rochester",
+          "New York",
+          "Portland",
+          "Philadelphia",
+          "Memphis",
+          "Fort Worth",
+          "Salt Lake City",
+          "Seattle",
+          "Tacoma"
+        ],
+        "LocationFacility": [
+          "University of California San Francisco Medical Center",
+          "Children's Hospital Colorado",
+          "Children's National Medical Center",
+          "Nicklaus Children's Hospital",
+          "AdventHealth Orlando",
+          "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "University of Iowa, Department of Pediatrics,",
+          "Massachusetts General Hospital",
+          "Mott Children's Hospital",
+          "Mayo Clinic",
+          "NYU Comprehensive Epilepsy Center",
+          "Oregon Health & Science University",
+          "Children's Hospital of Philadelphia",
+          "Le Bonheur Children's Hospital",
+          "Cook Children's Medical Center",
+          "University of Utah Pediatrics Clinical Trials Office",
+          "Seattle Children's Hospital",
+          "Multicare Institute for Research and Innovation"
+        ],
+        "LocationState": [
+          "California",
+          "Colorado",
+          "District of Columbia",
+          "Florida",
+          "Florida",
+          "Illinois",
+          "Iowa",
+          "Massachusetts",
+          "Michigan",
+          "Minnesota",
+          "New York",
+          "Oregon",
+          "Pennsylvania",
+          "Tennessee",
+          "Texas",
+          "Utah",
+          "Washington",
+          "Washington"
+        ],
+        "LocationZip": [
+          "94158",
+          "80045",
+          "20010",
+          "33155",
+          "32803",
+          "60611",
+          "52242",
+          "02114",
+          "48109",
+          "55905",
+          "10016",
+          "97239",
+          "19104",
+          "38105",
+          "76104",
+          "84108",
+          "98105",
+          "98405"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
+        ],
+        "DetailedDescription": [
+          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
         ]
       },
       {
@@ -21140,7 +21140,6 @@
           "dana.coyle@childrenscolorado.org",
           "Akele.carter@choa.org",
           "ashleigh.streby@emory.edu",
-          "tdawkins@luriechildrens.org",
           "yhwu@luriechildrens.org",
           "misthomp@iupui.edu",
           "lbendy@iu.edu",
@@ -21164,7 +21163,6 @@
           "Akele Carter",
           "Ashleigh Streby",
           "Kevin Kirchner, MD",
-          "Trecia Dawkins",
           "Irene Wu",
           "Susanna McColley, MD",
           "Misty Thompson, B.S.",
@@ -21192,7 +21190,6 @@
           "720-777-6162",
           "404-785-9011",
           "404-727-0305",
-          "312-227-1258",
           "312-227-2473",
           "317-274-7768",
           "317-948-7152",
@@ -25463,109 +25460,6 @@
       {
         "Rank": 377,
         "NCTId": [
-          "NCT03363763"
-        ],
-        "OfficialTitle": [
-          "Phase 2 Multi Center Prospective Rand. Double Blind Placebo Cont. Parallel Design Study to Evaluate Safety & Efficacy of Topical Sirolimus for Cutaneous Angiofibromas in Subjects W/ Tuberous Sclerosis Complex Followed by Opt. Open Label"
-        ],
-        "Condition": [
-          "Angiofibroma of Face",
-          "Tuberous Sclerosis"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nGenerally healthy males or non-pregnant females aged 2 to 18 years, inclusive, at the time of screening.\nDiagnosis of TSC with visible facial angiofibromas of at least grade 3 up to grade 5, inclusive, based on the IGA.\n\nFemales of childbearing potential must have a negative urine pregnancy test (or a negative serum pregnancy test if a urine pregnancy test cannot be obtained) and if sexually active or become sexually active during the study, must agree to use an effective form of birth control for the duration of the study. Females using oral contraceptives must also use a barrier method of contraception during the study. Sexually active male subjects and/or their female partners should also use appropriate contraception.\n\nEffective contraception is defined as follows:\n\nOral/implant/injectable/transdermal/estrogenic vaginal ring contraceptives, intrauterine device, condom with spermicide, diaphragm with spermicide.\nAbstinence or partner's vasectomy are acceptable if the female agrees to implement one of the other acceptable methods of birth control if her partner changes.\nThe subject and/or their parent or guardian must be willing and able to provide written informed consent/assent.\nWilling and able to comply with all trial requirements.\nSubject or parent/guardian must be able to complete the subject self-assessment survey and subject diary in English or another language into which the documents have been officially translated.\n\nSubjects should be in good general health based on the subject's medical history, physical exam, and impression of the study doctor.\n\nExclusion Criteria:\n\n. Has any chronic or acute medical condition, that in the opinion of the investigator, may pose a risk to the safety of the subject during the trial period, or may interfere with the assessment of safety or efficacy in this trial.\n. Has received oral therapy or topical therapy of an mTOR inhibitor (sirolimus, temsirolimus, or everolimus) or other dermatologic treatment to facial angiofibromas within 8 weeks of Baseline or other dermatological treatment to facial angiofibormas within 4 weeks of baseline.(Sunscreen is expected to be used in this patient population and is not considered treatment.)\nIs currently receiving any form of immunosuppression therapy or has previously experienced significant immune dysfunction.\nHas a history of sensitivity to any component of the investigational product.\nIs pregnant, plans to become pregnant during the course of the study, or is breastfeeding.\nHas other dermatologic conditions, pigmentation, scarring, pigmented lesions or sunburn in the treatment area that would preclude or prevent adequate assessment of changes to their facial angiofibromas.\nHas facial hair (e.g., beard, sideburns, mustache) that could interfere with study assessments.\nHas had laser surgery or cryotherapy to facial angiofibromas within 6 months preceding study entry.\nRequires the use of any concomitant medication that, in the investigator's opinion, has the potential to cause an adverse effect when given with the investigational product or will interfere with the interpretation of the study results (see Section 16.1 Appendix 1 for Potential Drug Interactions).\n\n18. Has participated in another clinical trial or received an investigational product within 3 months prior to screening."
-        ],
-        "MinimumAge": [
-          "2 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Phoenix",
-          "Los Angeles",
-          "Aurora",
-          "Atlanta",
-          "Boston",
-          "Philadelphia",
-          "Memphis",
-          "Shanghai"
-        ],
-        "LocationFacility": [
-          "Translational Genomics Research",
-          "Children's Hospital of Los Angeles, Division of Neurology",
-          "Children's Clinical Research Organization, Children's Hospital Colorado",
-          "Children's Healthcare of Atlanta",
-          "Boston Children's Hospital",
-          "Children's Hospital of Philadelphia",
-          "LeBonheur Children's Hospital",
-          "Children's Hospital of Fudan University"
-        ],
-        "LocationState": [
-          "Arizona",
-          "California",
-          "Colorado",
-          "Georgia",
-          "Massachusetts",
-          "Pennsylvania",
-          "Tennessee"
-        ],
-        "LocationZip": [
-          "85004",
-          "90027",
-          "80045",
-          "30329",
-          "02115",
-          "19104",
-          "38103",
-          "201102"
-        ],
-        "LocationContactEMail": [
-          "margarcia@chla.usc.edu",
-          "sharolene.goodman@childrenscolorado.org",
-          "Michelle.DeLeo@childrens.harvard.edu",
-          "Julia.costantini@childrens.harvard.edu",
-          "PARIS@email.chop.edu",
-          "kinishia.Guy@lebonheur.org",
-          "Tracee.Ridley-Pryor@lebonheur.org",
-          "xiaojizi12@sina.com"
-        ],
-        "LocationContactName": [
-          "Martha Arellano-Garcia",
-          "Tena Rosser, MD",
-          "Sharolene Goodman",
-          "Anna Bruckner, MD",
-          "Michelle DeLeo",
-          "Julia Costantini",
-          "Mustafa Sahin, MD",
-          "Donnette Paris",
-          "Albert C. YAN, MD",
-          "Katherine Taub, MD",
-          "Kenishia Guy",
-          "Tracee Ridley-Pryor",
-          "James W. Wheless, MD",
-          "Teresa Wright, MD",
-          "Ji Wang"
-        ],
-        "LocationContactPhone": [
-          "323-361-5812",
-          "720-777-5379",
-          "617-355-5173",
-          "617-355-1494",
-          "267-426-7167",
-          "901-287-5958",
-          "901-287-5388"
-        ],
-        "BriefSummary": [
-          "The objective of this study is to evaluate the safety and efficacy of sirolimus (0.2% and 0.4% formulations) and its vehicle when applied topically once daily for 12 weeks for the treatment of cutaneous angiofibromas in pediatric subjects with tuberous sclerosis complex (TSC)."
-        ],
-        "DetailedDescription": [
-          "This is a Phase 2, randomized, double-blind, placebo-controlled, multicenter study designed to assess the safety and efficacy of topically-applied sirolimus for the treatment of cutaneous angiofibromas in pediatric subjects with TSC. Approximately 45 subjects will be enrolled at investigational sites in the United States (US) and China, though other countries may be added in the future. Approximately 45 subjects who meet the study entry criteria will randomly be assigned in a 1:1:1 ratio to receive 1 of 3 treatments: sirolimus 0.2% ointment, sirolimus 0.4% ointment, or placebo ointment. The randomization is stratified by site. Subjects, or a parent/guardian, will apply the study medication topically to the cutaneous angiofibromas on the face once daily at night before going to bed for 12 weeks. Subjects who complete the double-blind phase of the study, with an overall compliance rate >80% as determined by the dosing diary, will be offered entry into an open-label period for an additional 12 weeks.\n\nThe maximum study duration for each subject will be approximately 30 weeks and includes a screening period of up to 4 weeks, a blinded treatment period of 12 weeks, optional open-label period of 12 weeks, and a follow-up period of 2 weeks.\n\nAn interim analysis will be performed when all subjects have completed the double-blind phase (Visit 5 - Week 12). The data will be unblinded to assess for efficacy and results reported."
-        ]
-      },
-      {
-        "Rank": 378,
-        "NCTId": [
           "NCT03312751"
         ],
         "OfficialTitle": [
@@ -25790,7 +25684,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 379,
+        "Rank": 378,
         "NCTId": [
           "NCT04351893"
         ],
@@ -25890,7 +25784,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 380,
+        "Rank": 379,
         "NCTId": [
           "NCT04218851"
         ],
@@ -25930,8 +25824,8 @@
           "Seoul",
           "Lima",
           "Lima",
-          "Moscow",
           "Saint Petersburg",
+          "Moscow",
           "Saint Petersburg",
           "Saint Petersburg"
         ],
@@ -25956,10 +25850,10 @@
           "The Catholic University of Korea. Seoul St. Mary s Hospital ( Site 1325)",
           "Instituto Nacional de Enfermedades Neoplásicas ( Site 1251)",
           "Hospital Nacional Edgardo Rebagliati Martins ( Site 1250)",
+          "Almazov National Medical Research Centre ( Site 1284)",
           "Dmitry Rogachev National Research Center ( Site 1275)",
           "Institute of Invasive Mycosis ( Site 1282)",
-          "Institute of Child Hematology and Transpl n.a.R.M.Gorbacheva ( Site 1281)",
-          "Almazov National Medical Research Centre ( Site 1284)"
+          "Institute of Child Hematology and Transpl n.a.R.M.Gorbacheva ( Site 1281)"
         ],
         "LocationState": [
           "California",
@@ -25970,8 +25864,8 @@
           "Attiki",
           "Borsod-Abauj-Zemplen",
           "Tell Abib",
+          "Leningradskaya Oblast",
           "Moskva",
-          "Sankt-Peterburg",
           "Sankt-Peterburg",
           "Sankt-Peterburg"
         ],
@@ -25996,10 +25890,10 @@
           "06591",
           "15038",
           "15072",
+          "197341",
           "117198",
           "194291",
-          "197022",
-          "197341"
+          "197022"
         ],
         "LocationContactEMail": [],
         "LocationContactName": [
@@ -26049,10 +25943,10 @@
           "82222586188",
           "+51993536178",
           "+51987245661",
+          "+78127023765",
           "+79161666692",
           "+78123035146",
-          "+78122337006",
-          "+78127023765"
+          "+78122337006"
         ],
         "BriefSummary": [
           "This study will evaluate the safety, efficacy, and pharmacokinetics of posaconazole (POS) intravenous (IV) and oral formulations in pediatric participants 2 to <18 years of age with invasive aspergillosis (IA)."
@@ -26060,7 +25954,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 381,
+        "Rank": 380,
         "NCTId": [
           "NCT04015141"
         ],
@@ -26234,7 +26128,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 381,
         "NCTId": [
           "NCT02134301"
         ],
@@ -26325,7 +26219,7 @@
         ]
       },
       {
-        "Rank": 383,
+        "Rank": 382,
         "NCTId": [
           "NCT01500551"
         ],
@@ -26833,7 +26727,7 @@
         ]
       },
       {
-        "Rank": 384,
+        "Rank": 383,
         "NCTId": [
           "NCT04578756"
         ],
@@ -26976,7 +26870,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 384,
         "NCTId": [
           "NCT04200352"
         ],
@@ -27096,7 +26990,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 386,
+        "Rank": 385,
         "NCTId": [
           "NCT03958877"
         ],
@@ -27339,7 +27233,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 387,
+        "Rank": 386,
         "NCTId": [
           "NCT03813407"
         ],
@@ -27499,7 +27393,7 @@
         ]
       },
       {
-        "Rank": 388,
+        "Rank": 387,
         "NCTId": [
           "NCT03492177"
         ],
@@ -27684,7 +27578,7 @@
         ]
       },
       {
-        "Rank": 389,
+        "Rank": 388,
         "NCTId": [
           "NCT04238819"
         ],
@@ -27801,7 +27695,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 390,
+        "Rank": 389,
         "NCTId": [
           "NCT03406507"
         ],
@@ -27857,7 +27751,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 391,
+        "Rank": 390,
         "NCTId": [
           "NCT03206021"
         ],
@@ -27973,7 +27867,7 @@
         ]
       },
       {
-        "Rank": 392,
+        "Rank": 391,
         "NCTId": [
           "NCT02862132"
         ],
