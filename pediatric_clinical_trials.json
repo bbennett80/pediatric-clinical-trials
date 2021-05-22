@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:05:19 22:22:05.811",
+    "DataVrs": "2021:05:20 22:24:51.226",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 378162,
-    "NStudiesFound": 393,
+    "NStudiesAvail": 378302,
+    "NStudiesFound": 394,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 393,
+    "NStudiesReturned": 394,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -1548,6 +1548,56 @@
       {
         "Rank": 28,
         "NCTId": [
+          "NCT04896502"
+        ],
+        "OfficialTitle": [
+          "Effectiveness of Telemedicine Home Assessments for Identification and Reduction of Asthma Triggers"
+        ],
+        "Condition": [
+          "Asthma in Children"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nAge ≥ 5 years and ≤ 18 years\nHave a diagnosis of persistent asthma as defined by national guidelines criteria1\nPatient receives care in Arkansas Children's Hospital (ACH) primary care, in patient and/or specialty clinics\nPatient has had at least one or more acute exacerbations of asthma within the 12 months prior to enrollment that led to an emergency department visit, hospital admission, or prescription for systemic steroids\nEnglish speaking participants/parents\nAccess to WIFI, smartphone or mobile device (tablet)\n\nExclusion Criteria:\n\nAge <5 or >18 years\nNon-English speaking participants/parents\nPatients not receiving primary and/or asthma specialty care or inpatient services at ACH\nInability of patient or family to participate in TM evaluation due to lack of access to WIFI or smartphone or mobile device"
+        ],
+        "MinimumAge": [
+          "5 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Little Rock"
+        ],
+        "LocationFacility": [
+          "Arkansas Children's Hospital"
+        ],
+        "LocationState": [
+          "Arkansas"
+        ],
+        "LocationZip": [
+          "72202"
+        ],
+        "LocationContactEMail": [
+          "rdpesek@uams.edu"
+        ],
+        "LocationContactName": [
+          "Robbie Pesek, MD",
+          "Kim Cobb"
+        ],
+        "LocationContactPhone": [
+          "501-364-3208",
+          "501-364-3208"
+        ],
+        "BriefSummary": [
+          "The study is about comparing asthma home assessments/interventions by telemedicine compared to providing education alone. Interactive Video (IAV) defines telemedicine. It allows two-way communication in real-time with both audio and visual communication between the subject and someone from the study team. It is similar to using Face Time on a mobile device. Asthma home assessments/interventions are used to identify things in a home that can make asthma symptoms worse, called triggers. Reducing these triggers in the home can improve asthma."
+        ],
+        "DetailedDescription": [
+          "In this study, supplies will be given to some participants to help reduce or remove triggers from the home. One example is dust mites. These are microscopic bugs that are found in every home, cannot be seen by the naked eye, and make asthma symptoms worse. Part of the study includes collecting two dust samples from home to check dust mite levels at the beginning of the study and at the end. This study may help elucidate whether telemedicine home assessments work better than education alone at lowering dust mite levels and improving a child's asthma symptoms."
+        ]
+      },
+      {
+        "Rank": 29,
+        "NCTId": [
           "NCT04848532"
         ],
         "OfficialTitle": [
@@ -1601,7 +1651,7 @@
         ]
       },
       {
-        "Rank": 29,
+        "Rank": 30,
         "NCTId": [
           "NCT04840498"
         ],
@@ -1647,7 +1697,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 30,
+        "Rank": 31,
         "NCTId": [
           "NCT04812028"
         ],
@@ -1695,7 +1745,7 @@
         ]
       },
       {
-        "Rank": 31,
+        "Rank": 32,
         "NCTId": [
           "NCT04810130"
         ],
@@ -1748,7 +1798,7 @@
         ]
       },
       {
-        "Rank": 32,
+        "Rank": 33,
         "NCTId": [
           "NCT04784455"
         ],
@@ -1792,7 +1842,7 @@
         ]
       },
       {
-        "Rank": 33,
+        "Rank": 34,
         "NCTId": [
           "NCT04783506"
         ],
@@ -1841,7 +1891,7 @@
         ]
       },
       {
-        "Rank": 34,
+        "Rank": 35,
         "NCTId": [
           "NCT04771338"
         ],
@@ -1894,7 +1944,7 @@
         ]
       },
       {
-        "Rank": 35,
+        "Rank": 36,
         "NCTId": [
           "NCT04752501"
         ],
@@ -1944,7 +1994,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 36,
+        "Rank": 37,
         "NCTId": [
           "NCT04738539"
         ],
@@ -1995,7 +2045,7 @@
         ]
       },
       {
-        "Rank": 37,
+        "Rank": 38,
         "NCTId": [
           "NCT04737460"
         ],
@@ -2044,7 +2094,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 38,
+        "Rank": 39,
         "NCTId": [
           "NCT04735874"
         ],
@@ -2093,7 +2143,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 39,
+        "Rank": 40,
         "NCTId": [
           "NCT04706364"
         ],
@@ -2145,7 +2195,7 @@
         ]
       },
       {
-        "Rank": 40,
+        "Rank": 41,
         "NCTId": [
           "NCT04688255"
         ],
@@ -2201,7 +2251,7 @@
         ]
       },
       {
-        "Rank": 41,
+        "Rank": 42,
         "NCTId": [
           "NCT04685343"
         ],
@@ -2247,7 +2297,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 42,
+        "Rank": 43,
         "NCTId": [
           "NCT04675567"
         ],
@@ -2298,7 +2348,7 @@
         ]
       },
       {
-        "Rank": 43,
+        "Rank": 44,
         "NCTId": [
           "NCT04671186"
         ],
@@ -2346,63 +2396,6 @@
         ],
         "DetailedDescription": [
           "The goal/objective of this study is to evaluate the role of probiotics in the treatment of NAFLD by assessing with fibroscan in both newly diagnosed and known pediatric patients with NAFLD. This will be done by performing a fibroscan during each visit and comparing patient ALT and fecal microbiome at various intervals.\n\nThe primary endpoint is to assess the effect of probiotic treatment in liver steatosis and fibrosis by assessing with fibroscan using CAP score and TE staging. The higher the CAP score (S1, S2, S3) so worse the steatosis. TE staging (F0-F4), higher the staging indicates worsening of fibrosis.\n\nSecondary endpoints include:\n\nThe rate of decline of ALT over 3 month time interval and through whole study starting at initial diagnosis.\nThe rate of decrease in hepatic steatosis and BMI\n\nThis study will target pediatric patients with NAFLD. Participants will be new and previously diagnosed NAFLD patients between the ages of 5 years and 18 years.\n\nThis is single center study. Investigators will enroll patients from The Division of Pediatric Gastroenterology, Liver Disease and Nutrition.\n\nParticipants will be blindly randomized into one of two groups: probiotic or placebo.\n\nInvestigators expect the study to run for 1 year from 09/15/2020 to 09/14/2021. Investigators will enroll patients over a 6 month period. After randomization into two separate groups (probiotic vs placebo), Investigators plan to collect data for the subsequent 6 months following enrollment."
-        ]
-      },
-      {
-        "Rank": 44,
-        "NCTId": [
-          "NCT04654260"
-        ],
-        "OfficialTitle": [
-          "Behavior Therapy for Irritability and Aggression in Adolescents With Autism"
-        ],
-        "Condition": [
-          "Autism Spectrum Disorder",
-          "Irritability",
-          "Disruptive Behavior",
-          "Anger",
-          "Aggression",
-          "Asperger Syndrome",
-          "Pervasive Developmental Disorder"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nBoys and girls, ages 12 to 18 years inclusive\nDiagnosis of autism spectrum disorder\nPresence of disruptive behaviors such as irritability and anger outbursts\nNo planned changes in the intensity of current treatment(s)\nMedication free or on stable medication\nSufficient language for participation in verbal therapy\nLives within driving distance from New Haven, CT\n\nExclusion Criteria:\n\nPresence of a medical condition that would interfere with participation in the study\nPresence of a current psychiatric disorder that requires immediate clinical attention"
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "New Haven"
-        ],
-        "LocationFacility": [
-          "Yale Child Study Center"
-        ],
-        "LocationState": [
-          "Connecticut"
-        ],
-        "LocationZip": [
-          "06520"
-        ],
-        "LocationContactEMail": [
-          "denis.sukhodolsky@yale.edu",
-          "rebecca.jordan@yale.edu"
-        ],
-        "LocationContactName": [
-          "Denis Sukhodolsky, Ph.D.",
-          "Rebecca Jordan, B.A."
-        ],
-        "LocationContactPhone": [
-          "203-785-6446",
-          "(203) 737-7664"
-        ],
-        "BriefSummary": [
-          "This is a clinical trial of a novel intervention, Behavioral Therapy for Irritability and Aggression (BTIA), for adolescents on the autism spectrum. The main goals of BTIA are to help adolescents develop emotion regulation skills to handle frustration and to strengthen skills for navigating the challenging and diverse experiences associated with the transition to adulthood. The study will test whether BTIA can be helpful to adolescents on the autism spectrum and to their families."
-        ],
-        "DetailedDescription": [
-          "This is a randomized controlled study of BTIA versus a supportive therapy control condition in 126 adolescents (ages 12 to 18 years) with a diagnosis of autism spectrum disorder and significant levels of disruptive behaviors such as aggression, anger outbursts, and oppositional behavior. BTIA consists of 15 ninety-minute weekly sessions that will be conducted with the teens and their parents by therapists using a structured, detailed manual. The effects of BTIA on the reduction of behavioral problems will be rated by an experienced clinician who does not know which treatment each participant is receiving (a \"blinded\" evaluator). Study participants will receive a thorough diagnostic assessment of autism spectrum disorder and other forms of psychopathology that may co-occur with ASD. In addition to testing the effects of BTIA on disruptive behavior, the changes in adaptive functioning, or children's ability to function competently in their everyday environment, will be examined before and after treatment."
         ]
       },
       {
@@ -12637,6 +12630,50 @@
       {
         "Rank": 253,
         "NCTId": [
+          "NCT02395003"
+        ],
+        "OfficialTitle": [
+          "Study to Investigate Adipocyte Cell and Lipid Turnover in Obese Adolescents"
+        ],
+        "Condition": [
+          "Pediatric Obesity"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nOverweight (85-95th% age and gender specific) or Obese (>95th% age and gender specific)\nAges 12-18 years\nAbsence of any endocrinopathy\nAbsence of any therapy with medication known to alter glucose metabolism (i.e.: Oral steroids, certain psychiatric medications such as Xeleca, Lithium, Paxil)\nEnglish Speaking subjects\n\nExclusion Criteria:\n\nAny disease known to alter glucose metabolism (T2DM)\nDiuretic Medication\nPregnant or breastfeeding\nType 1 or 2 diabetes"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "New Haven"
+        ],
+        "LocationFacility": [
+          "Yale"
+        ],
+        "LocationState": [
+          "Connecticut"
+        ],
+        "LocationZip": [
+          "06511"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Bridget Pierpont"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Insulin Resistance is the best predictor of whether the obese adolescent will develop type 2 diabetes. The present studies will focus on determining what might cause fat to accumulate in the subcutaneous fat regions and lead to local inflammation, causing insulin resistance to develop in obese adolescents."
+        ],
+        "DetailedDescription": [
+          "The purpose of this study is to test whether the reduced transcription of key lipogenic/adipogenic genes in abdominal subcutaneous adipose tissue (SAT) in obese adolescents with a High VAT/SAT (visceral adipose tissue/subcutaneous adipose tissue) ratio translates functionally into a reduced in vivo triglyceride (TG) synthesis and adipocyte proliferation, which in turn will contribute to ectopic fat accumulation and insulin resistance (IR). To test whether the storage capacity of gluteal SAT is linked to the level of VAT/SAT fat distribution in obese adolescents. To explore if changes in dietary fat intake (palmitate intake), alters ceramide concentration in both plasma and adipose tissue (AT) and the Inflammasome complex in the different fat distribution phenotypes and their associations with IR."
+        ]
+      },
+      {
+        "Rank": 254,
+        "NCTId": [
           "NCT02354365"
         ],
         "OfficialTitle": [
@@ -12687,7 +12724,7 @@
         ]
       },
       {
-        "Rank": 254,
+        "Rank": 255,
         "NCTId": [
           "NCT02312635"
         ],
@@ -12739,7 +12776,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 256,
         "NCTId": [
           "NCT02305537"
         ],
@@ -12797,7 +12834,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 257,
         "NCTId": [
           "NCT02257229"
         ],
@@ -12844,7 +12881,7 @@
         ]
       },
       {
-        "Rank": 257,
+        "Rank": 258,
         "NCTId": [
           "NCT02245997"
         ],
@@ -12891,7 +12928,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 258,
+        "Rank": 259,
         "NCTId": [
           "NCT02202174"
         ],
@@ -12936,7 +12973,7 @@
         ]
       },
       {
-        "Rank": 259,
+        "Rank": 260,
         "NCTId": [
           "NCT02130180"
         ],
@@ -12984,7 +13021,7 @@
         ]
       },
       {
-        "Rank": 260,
+        "Rank": 261,
         "NCTId": [
           "NCT02127658"
         ],
@@ -13026,7 +13063,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 261,
+        "Rank": 262,
         "NCTId": [
           "NCT02117063"
         ],
@@ -13083,7 +13120,7 @@
         ]
       },
       {
-        "Rank": 262,
+        "Rank": 263,
         "NCTId": [
           "NCT02055105"
         ],
@@ -13131,7 +13168,7 @@
         ]
       },
       {
-        "Rank": 263,
+        "Rank": 264,
         "NCTId": [
           "NCT02021604"
         ],
@@ -13174,7 +13211,7 @@
         ]
       },
       {
-        "Rank": 264,
+        "Rank": 265,
         "NCTId": [
           "NCT01960166"
         ],
@@ -13216,7 +13253,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 265,
+        "Rank": 266,
         "NCTId": [
           "NCT01857791"
         ],
@@ -13263,7 +13300,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 266,
+        "Rank": 267,
         "NCTId": [
           "NCT01839747"
         ],
@@ -13312,7 +13349,7 @@
         ]
       },
       {
-        "Rank": 267,
+        "Rank": 268,
         "NCTId": [
           "NCT01724463"
         ],
@@ -13367,7 +13404,7 @@
         ]
       },
       {
-        "Rank": 268,
+        "Rank": 269,
         "NCTId": [
           "NCT01665326"
         ],
@@ -13417,7 +13454,7 @@
         ]
       },
       {
-        "Rank": 269,
+        "Rank": 270,
         "NCTId": [
           "NCT01629017"
         ],
@@ -13469,7 +13506,7 @@
         ]
       },
       {
-        "Rank": 270,
+        "Rank": 271,
         "NCTId": [
           "NCT01598766"
         ],
@@ -13521,7 +13558,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 271,
+        "Rank": 272,
         "NCTId": [
           "NCT01577810"
         ],
@@ -13572,7 +13609,7 @@
         ]
       },
       {
-        "Rank": 272,
+        "Rank": 273,
         "NCTId": [
           "NCT01567579"
         ],
@@ -13623,7 +13660,7 @@
         ]
       },
       {
-        "Rank": 273,
+        "Rank": 274,
         "NCTId": [
           "NCT01543438"
         ],
@@ -13670,7 +13707,7 @@
         ]
       },
       {
-        "Rank": 274,
+        "Rank": 275,
         "NCTId": [
           "NCT01504373"
         ],
@@ -13716,7 +13753,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 275,
+        "Rank": 276,
         "NCTId": [
           "NCT01422759"
         ],
@@ -13768,7 +13805,7 @@
         ]
       },
       {
-        "Rank": 276,
+        "Rank": 277,
         "NCTId": [
           "NCT01422746"
         ],
@@ -13818,7 +13855,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 277,
+        "Rank": 278,
         "NCTId": [
           "NCT01421810"
         ],
@@ -13869,7 +13906,7 @@
         ]
       },
       {
-        "Rank": 278,
+        "Rank": 279,
         "NCTId": [
           "NCT01421797"
         ],
@@ -13921,7 +13958,7 @@
         ]
       },
       {
-        "Rank": 279,
+        "Rank": 280,
         "NCTId": [
           "NCT01386736"
         ],
@@ -13970,7 +14007,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 280,
+        "Rank": 281,
         "NCTId": [
           "NCT01383915"
         ],
@@ -14019,7 +14056,7 @@
         ]
       },
       {
-        "Rank": 281,
+        "Rank": 282,
         "NCTId": [
           "NCT01304875"
         ],
@@ -14063,7 +14100,7 @@
         ]
       },
       {
-        "Rank": 282,
+        "Rank": 283,
         "NCTId": [
           "NCT01285531"
         ],
@@ -14120,7 +14157,7 @@
         ]
       },
       {
-        "Rank": 283,
+        "Rank": 284,
         "NCTId": [
           "NCT01122095"
         ],
@@ -14173,7 +14210,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 285,
         "NCTId": [
           "NCT00906906"
         ],
@@ -14224,7 +14261,7 @@
         ]
       },
       {
-        "Rank": 285,
+        "Rank": 286,
         "NCTId": [
           "NCT00814853"
         ],
@@ -14271,7 +14308,7 @@
         ]
       },
       {
-        "Rank": 286,
+        "Rank": 287,
         "NCTId": [
           "NCT00792415"
         ],
@@ -14319,7 +14356,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 287,
+        "Rank": 288,
         "NCTId": [
           "NCT00745394"
         ],
@@ -14366,7 +14403,7 @@
         ]
       },
       {
-        "Rank": 288,
+        "Rank": 289,
         "NCTId": [
           "NCT00616317"
         ],
@@ -14404,7 +14441,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 289,
+        "Rank": 290,
         "NCTId": [
           "NCT00494572"
         ],
@@ -14454,7 +14491,7 @@
         ]
       },
       {
-        "Rank": 290,
+        "Rank": 291,
         "NCTId": [
           "NCT00491946"
         ],
@@ -14499,7 +14536,7 @@
         ]
       },
       {
-        "Rank": 291,
+        "Rank": 292,
         "NCTId": [
           "NCT00465699"
         ],
@@ -14543,7 +14580,7 @@
         ]
       },
       {
-        "Rank": 292,
+        "Rank": 293,
         "NCTId": [
           "NCT00320086"
         ],
@@ -14591,7 +14628,7 @@
         ]
       },
       {
-        "Rank": 293,
+        "Rank": 294,
         "NCTId": [
           "NCT00292513"
         ],
@@ -14636,7 +14673,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 294,
+        "Rank": 295,
         "NCTId": [
           "NCT00182572"
         ],
@@ -14680,7 +14717,7 @@
         ]
       },
       {
-        "Rank": 295,
+        "Rank": 296,
         "NCTId": [
           "NCT00167219"
         ],
@@ -14726,7 +14763,7 @@
         ]
       },
       {
-        "Rank": 296,
+        "Rank": 297,
         "NCTId": [
           "NCT00036712"
         ],
@@ -14783,7 +14820,7 @@
         ]
       },
       {
-        "Rank": 297,
+        "Rank": 298,
         "NCTId": [
           "NCT00012506"
         ],
@@ -14831,7 +14868,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 299,
         "NCTId": [
           "NCT00000112"
         ],
@@ -14872,7 +14909,64 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 299,
+        "Rank": 300,
+        "NCTId": [
+          "NCT04654260"
+        ],
+        "OfficialTitle": [
+          "Behavior Therapy for Irritability and Aggression in Adolescents With Autism"
+        ],
+        "Condition": [
+          "Autism Spectrum Disorder",
+          "Irritability",
+          "Disruptive Behavior",
+          "Anger",
+          "Aggression",
+          "Asperger Syndrome",
+          "Pervasive Developmental Disorder"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nBoys and girls, ages 12 to 18 years inclusive\nDiagnosis of autism spectrum disorder\nPresence of disruptive behaviors such as irritability and anger outbursts\nNo planned changes in the intensity of current treatment(s)\nMedication free or on stable medication\nSufficient language for participation in verbal therapy\nLives within driving distance from New Haven, CT\n\nExclusion Criteria:\n\nPresence of a medical condition that would interfere with participation in the study\nPresence of a current psychiatric disorder that requires immediate clinical attention"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "New Haven"
+        ],
+        "LocationFacility": [
+          "Yale Child Study Center"
+        ],
+        "LocationState": [
+          "Connecticut"
+        ],
+        "LocationZip": [
+          "06520"
+        ],
+        "LocationContactEMail": [
+          "denis.sukhodolsky@yale.edu",
+          "rebecca.jordan@yale.edu"
+        ],
+        "LocationContactName": [
+          "Denis Sukhodolsky, Ph.D.",
+          "Rebecca Jordan, B.A."
+        ],
+        "LocationContactPhone": [
+          "203-785-6446",
+          "(203) 737-7664"
+        ],
+        "BriefSummary": [
+          "This is a clinical trial of a novel intervention, Behavioral Therapy for Irritability and Aggression (BTIA), for adolescents on the autism spectrum. The main goals of BTIA are to help adolescents develop emotion regulation skills to handle frustration and to strengthen skills for navigating the challenging and diverse experiences associated with the transition to adulthood. The study will test whether BTIA can be helpful to adolescents on the autism spectrum and to their families."
+        ],
+        "DetailedDescription": [
+          "This is a randomized controlled study of BTIA versus a supportive therapy control condition in 126 adolescents (ages 12 to 18 years) with a diagnosis of autism spectrum disorder and significant levels of disruptive behaviors such as aggression, anger outbursts, and oppositional behavior. BTIA consists of 15 ninety-minute weekly sessions that will be conducted with the teens and their parents by therapists using a structured, detailed manual. The effects of BTIA on the reduction of behavioral problems will be rated by an experienced clinician who does not know which treatment each participant is receiving (a \"blinded\" evaluator). Study participants will receive a thorough diagnostic assessment of autism spectrum disorder and other forms of psychopathology that may co-occur with ASD. In addition to testing the effects of BTIA on disruptive behavior, the changes in adaptive functioning, or children's ability to function competently in their everyday environment, will be examined before and after treatment."
+        ]
+      },
+      {
+        "Rank": 301,
         "NCTId": [
           "NCT04639336"
         ],
@@ -14922,7 +15016,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 300,
+        "Rank": 302,
         "NCTId": [
           "NCT04638595"
         ],
@@ -14971,7 +15065,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 301,
+        "Rank": 303,
         "NCTId": [
           "NCT04637802"
         ],
@@ -15022,7 +15116,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 304,
         "NCTId": [
           "NCT04621734"
         ],
@@ -15072,7 +15166,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 305,
         "NCTId": [
           "NCT04621331"
         ],
@@ -15114,7 +15208,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 304,
+        "Rank": 306,
         "NCTId": [
           "NCT03266016"
         ],
@@ -15156,7 +15250,7 @@
         ]
       },
       {
-        "Rank": 305,
+        "Rank": 307,
         "NCTId": [
           "NCT02398539"
         ],
@@ -15201,51 +15295,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 306,
-        "NCTId": [
-          "NCT02395003"
-        ],
-        "OfficialTitle": [
-          "Study to Investigate Adipocyte Cell and Lipid Turnover in Obese Adolescents"
-        ],
-        "Condition": [
-          "Pediatric Obesity"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nOverweight (85-95th% age and gender specific) or Obese (>95th% age and gender specific)\nAges 12-18 years\nAbsence of any endocrinopathy\nAbsence of any therapy with medication known to alter glucose metabolism (i.e.: Oral steroids, certain psychiatric medications such as Xeleca, Lithium, Paxil)\nEnglish Speaking subjects\n\nExclusion Criteria:\n\nAny disease known to alter glucose metabolism (T2DM)\nDiuretic Medication\nPregnant or breastfeeding\nType 1 or 2 diabetes"
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "New Haven"
-        ],
-        "LocationFacility": [
-          "Yale"
-        ],
-        "LocationState": [
-          "Connecticut"
-        ],
-        "LocationZip": [
-          "06511"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Bridget Pierpont"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Insulin Resistance is the best predictor of whether the obese adolescent will develop type 2 diabetes. The present studies will focus on determining what might cause fat to accumulate in the subcutaneous fat regions and lead to local inflammation, causing insulin resistance to develop in obese adolescents."
-        ],
-        "DetailedDescription": [
-          "The purpose of this study is to test whether the reduced transcription of key lipogenic/adipogenic genes in abdominal subcutaneous adipose tissue (SAT) in obese adolescents with a High VAT/SAT (visceral adipose tissue/subcutaneous adipose tissue) ratio translates functionally into a reduced in vivo triglyceride (TG) synthesis and adipocyte proliferation, which in turn will contribute to ectopic fat accumulation and insulin resistance (IR). To test whether the storage capacity of gluteal SAT is linked to the level of VAT/SAT fat distribution in obese adolescents. To explore if changes in dietary fat intake (palmitate intake), alters ceramide concentration in both plasma and adipose tissue (AT) and the Inflammasome complex in the different fat distribution phenotypes and their associations with IR."
-        ]
-      },
-      {
-        "Rank": 307,
+        "Rank": 308,
         "NCTId": [
           "NCT04602728"
         ],
@@ -15295,7 +15345,7 @@
         ]
       },
       {
-        "Rank": 308,
+        "Rank": 309,
         "NCTId": [
           "NCT03242473"
         ],
@@ -15354,7 +15404,7 @@
         ]
       },
       {
-        "Rank": 309,
+        "Rank": 310,
         "NCTId": [
           "NCT02505165"
         ],
@@ -15419,7 +15469,7 @@
         ]
       },
       {
-        "Rank": 310,
+        "Rank": 311,
         "NCTId": [
           "NCT01142882"
         ],
@@ -15483,7 +15533,7 @@
         ]
       },
       {
-        "Rank": 311,
+        "Rank": 312,
         "NCTId": [
           "NCT03657771"
         ],
@@ -15554,7 +15604,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 313,
         "NCTId": [
           "NCT04344899"
         ],
@@ -15615,7 +15665,7 @@
         ]
       },
       {
-        "Rank": 313,
+        "Rank": 314,
         "NCTId": [
           "NCT02260856"
         ],
@@ -15698,7 +15748,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 315,
         "NCTId": [
           "NCT02933008"
         ],
@@ -15744,7 +15794,7 @@
         ]
       },
       {
-        "Rank": 315,
+        "Rank": 316,
         "NCTId": [
           "NCT04251026"
         ],
@@ -15818,7 +15868,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 316,
+        "Rank": 317,
         "NCTId": [
           "NCT03525431"
         ],
@@ -15884,7 +15934,7 @@
         ]
       },
       {
-        "Rank": 317,
+        "Rank": 318,
         "NCTId": [
           "NCT02044744"
         ],
@@ -15952,7 +16002,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 318,
+        "Rank": 319,
         "NCTId": [
           "NCT04625686"
         ],
@@ -16022,7 +16072,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 320,
         "NCTId": [
           "NCT04074265"
         ],
@@ -16106,7 +16156,7 @@
         ]
       },
       {
-        "Rank": 320,
+        "Rank": 321,
         "NCTId": [
           "NCT03201874"
         ],
@@ -16173,7 +16223,7 @@
         ]
       },
       {
-        "Rank": 321,
+        "Rank": 322,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16242,7 +16292,7 @@
         ]
       },
       {
-        "Rank": 322,
+        "Rank": 323,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16312,7 +16362,7 @@
         ]
       },
       {
-        "Rank": 323,
+        "Rank": 324,
         "NCTId": [
           "NCT02914405"
         ],
@@ -16383,7 +16433,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 324,
+        "Rank": 325,
         "NCTId": [
           "NCT02391324"
         ],
@@ -16445,7 +16495,7 @@
         ]
       },
       {
-        "Rank": 325,
+        "Rank": 326,
         "NCTId": [
           "NCT02134782"
         ],
@@ -16509,7 +16559,7 @@
         ]
       },
       {
-        "Rank": 326,
+        "Rank": 327,
         "NCTId": [
           "NCT04333823"
         ],
@@ -16578,7 +16628,7 @@
         ]
       },
       {
-        "Rank": 327,
+        "Rank": 328,
         "NCTId": [
           "NCT03962894"
         ],
@@ -16658,7 +16708,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 328,
+        "Rank": 329,
         "NCTId": [
           "NCT03606980"
         ],
@@ -16722,7 +16772,7 @@
         ]
       },
       {
-        "Rank": 329,
+        "Rank": 330,
         "NCTId": [
           "NCT03240809"
         ],
@@ -16780,7 +16830,7 @@
         ]
       },
       {
-        "Rank": 330,
+        "Rank": 331,
         "NCTId": [
           "NCT04853316"
         ],
@@ -16857,7 +16907,7 @@
         ]
       },
       {
-        "Rank": 331,
+        "Rank": 332,
         "NCTId": [
           "NCT04060823"
         ],
@@ -16913,7 +16963,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 332,
+        "Rank": 333,
         "NCTId": [
           "NCT00005105"
         ],
@@ -16977,7 +17027,7 @@
         ]
       },
       {
-        "Rank": 333,
+        "Rank": 334,
         "NCTId": [
           "NCT03505658"
         ],
@@ -17038,7 +17088,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 334,
+        "Rank": 335,
         "NCTId": [
           "NCT03989986"
         ],
@@ -17098,7 +17148,7 @@
         ]
       },
       {
-        "Rank": 335,
+        "Rank": 336,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17172,7 +17222,7 @@
         ]
       },
       {
-        "Rank": 336,
+        "Rank": 337,
         "NCTId": [
           "NCT03117751"
         ],
@@ -17262,7 +17312,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 338,
         "NCTId": [
           "NCT03910933"
         ],
@@ -17345,7 +17395,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 339,
         "NCTId": [
           "NCT04442295"
         ],
@@ -17474,7 +17524,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 340,
         "NCTId": [
           "NCT04431453"
         ],
@@ -17645,7 +17695,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 341,
         "NCTId": [
           "NCT04258943"
         ],
@@ -17905,7 +17955,7 @@
         ]
       },
       {
-        "Rank": 341,
+        "Rank": 342,
         "NCTId": [
           "NCT04195399"
         ],
@@ -18431,7 +18481,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 343,
         "NCTId": [
           "NCT03522168"
         ],
@@ -18865,7 +18915,7 @@
         ]
       },
       {
-        "Rank": 343,
+        "Rank": 344,
         "NCTId": [
           "NCT03199053"
         ],
@@ -19424,7 +19474,7 @@
         ]
       },
       {
-        "Rank": 344,
+        "Rank": 345,
         "NCTId": [
           "NCT02121132"
         ],
@@ -19602,7 +19652,7 @@
         ]
       },
       {
-        "Rank": 345,
+        "Rank": 346,
         "NCTId": [
           "NCT04318548"
         ],
@@ -19797,7 +19847,7 @@
         ]
       },
       {
-        "Rank": 346,
+        "Rank": 347,
         "NCTId": [
           "NCT04203316"
         ],
@@ -19946,7 +19996,7 @@
         ]
       },
       {
-        "Rank": 347,
+        "Rank": 348,
         "NCTId": [
           "NCT03939637"
         ],
@@ -20129,7 +20179,7 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 349,
         "NCTId": [
           "NCT02610660"
         ],
@@ -20312,7 +20362,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 349,
+        "Rank": 350,
         "NCTId": [
           "NCT02859896"
         ],
@@ -20477,7 +20527,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 351,
         "NCTId": [
           "NCT02205762"
         ],
@@ -20831,7 +20881,7 @@
         ]
       },
       {
-        "Rank": 351,
+        "Rank": 352,
         "NCTId": [
           "NCT03719339"
         ],
@@ -20995,7 +21045,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 353,
         "NCTId": [
           "NCT04608019"
         ],
@@ -21140,7 +21190,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 354,
         "NCTId": [
           "NCT03633708"
         ],
@@ -21312,7 +21362,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 355,
         "NCTId": [
           "NCT04378075"
         ],
@@ -21399,7 +21449,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 355,
+        "Rank": 356,
         "NCTId": [
           "NCT03707158"
         ],
@@ -21510,7 +21560,7 @@
         ]
       },
       {
-        "Rank": 356,
+        "Rank": 357,
         "NCTId": [
           "NCT01987882"
         ],
@@ -21623,7 +21673,7 @@
         ]
       },
       {
-        "Rank": 357,
+        "Rank": 358,
         "NCTId": [
           "NCT00670735"
         ],
@@ -21778,7 +21828,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 358,
+        "Rank": 359,
         "NCTId": [
           "NCT04250415"
         ],
@@ -21871,7 +21921,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 359,
+        "Rank": 360,
         "NCTId": [
           "NCT03416530"
         ],
@@ -21974,7 +22024,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 360,
+        "Rank": 361,
         "NCTId": [
           "NCT03813238"
         ],
@@ -22263,7 +22313,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 361,
+        "Rank": 362,
         "NCTId": [
           "NCT04075266"
         ],
@@ -22386,7 +22436,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 362,
+        "Rank": 363,
         "NCTId": [
           "NCT04354155"
         ],
@@ -22536,7 +22586,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 363,
+        "Rank": 364,
         "NCTId": [
           "NCT04551742"
         ],
@@ -22630,7 +22680,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 364,
+        "Rank": 365,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22694,7 +22744,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 365,
+        "Rank": 366,
         "NCTId": [
           "NCT03025698"
         ],
@@ -22893,7 +22943,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 366,
+        "Rank": 367,
         "NCTId": [
           "NCT03837899"
         ],
@@ -23003,7 +23053,7 @@
         ]
       },
       {
-        "Rank": 367,
+        "Rank": 368,
         "NCTId": [
           "NCT03441360"
         ],
@@ -23205,7 +23255,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 368,
+        "Rank": 369,
         "NCTId": [
           "NCT01148550"
         ],
@@ -23419,7 +23469,7 @@
         ]
       },
       {
-        "Rank": 369,
+        "Rank": 370,
         "NCTId": [
           "NCT02040714"
         ],
@@ -23835,7 +23885,7 @@
         ]
       },
       {
-        "Rank": 370,
+        "Rank": 371,
         "NCTId": [
           "NCT03268421"
         ],
@@ -23936,7 +23986,7 @@
         ]
       },
       {
-        "Rank": 371,
+        "Rank": 372,
         "NCTId": [
           "NCT04114539"
         ],
@@ -24508,7 +24558,7 @@
         ]
       },
       {
-        "Rank": 372,
+        "Rank": 373,
         "NCTId": [
           "NCT04068012"
         ],
@@ -24586,7 +24636,7 @@
         ]
       },
       {
-        "Rank": 373,
+        "Rank": 374,
         "NCTId": [
           "NCT03118986"
         ],
@@ -24671,7 +24721,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 374,
+        "Rank": 375,
         "NCTId": [
           "NCT02840409"
         ],
@@ -24809,7 +24859,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 375,
+        "Rank": 376,
         "NCTId": [
           "NCT02650401"
         ],
@@ -24992,7 +25042,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 376,
+        "Rank": 377,
         "NCTId": [
           "NCT03785405"
         ],
@@ -25283,7 +25333,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 377,
+        "Rank": 378,
         "NCTId": [
           "NCT03275402"
         ],
@@ -25381,7 +25431,7 @@
         ]
       },
       {
-        "Rank": 378,
+        "Rank": 379,
         "NCTId": [
           "NCT02303431"
         ],
@@ -25568,7 +25618,7 @@
         ]
       },
       {
-        "Rank": 379,
+        "Rank": 380,
         "NCTId": [
           "NCT03312751"
         ],
@@ -25794,7 +25844,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 380,
+        "Rank": 381,
         "NCTId": [
           "NCT04351893"
         ],
@@ -25894,7 +25944,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 381,
+        "Rank": 382,
         "NCTId": [
           "NCT04218851"
         ],
@@ -26064,7 +26114,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 383,
         "NCTId": [
           "NCT04015141"
         ],
@@ -26238,7 +26288,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 383,
+        "Rank": 384,
         "NCTId": [
           "NCT02134301"
         ],
@@ -26329,7 +26379,7 @@
         ]
       },
       {
-        "Rank": 384,
+        "Rank": 385,
         "NCTId": [
           "NCT01500551"
         ],
@@ -26837,7 +26887,7 @@
         ]
       },
       {
-        "Rank": 385,
+        "Rank": 386,
         "NCTId": [
           "NCT04578756"
         ],
@@ -26980,7 +27030,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 386,
+        "Rank": 387,
         "NCTId": [
           "NCT04200352"
         ],
@@ -27100,7 +27150,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 387,
+        "Rank": 388,
         "NCTId": [
           "NCT03958877"
         ],
@@ -27343,7 +27393,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 388,
+        "Rank": 389,
         "NCTId": [
           "NCT03813407"
         ],
@@ -27503,7 +27553,7 @@
         ]
       },
       {
-        "Rank": 389,
+        "Rank": 390,
         "NCTId": [
           "NCT03492177"
         ],
@@ -27688,7 +27738,7 @@
         ]
       },
       {
-        "Rank": 390,
+        "Rank": 391,
         "NCTId": [
           "NCT04238819"
         ],
@@ -27805,7 +27855,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 391,
+        "Rank": 392,
         "NCTId": [
           "NCT03406507"
         ],
@@ -27861,7 +27911,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 392,
+        "Rank": 393,
         "NCTId": [
           "NCT03206021"
         ],
@@ -27977,7 +28027,7 @@
         ]
       },
       {
-        "Rank": 393,
+        "Rank": 394,
         "NCTId": [
           "NCT02862132"
         ],
