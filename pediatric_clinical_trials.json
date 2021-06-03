@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:05:31 22:25:45.182",
+    "DataVrs": "2021:06:01 22:23:16.812",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 379209,
+    "NStudiesAvail": 379337,
     "NStudiesFound": 395,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -25624,6 +25624,7 @@
           "Rome",
           "Irbid",
           "Beirut",
+          "Saida",
           "Barcelona",
           "Cordoba",
           "Madrid",
@@ -25663,6 +25664,7 @@
           "Bambino Gesu Hospital",
           "King Abdullah University Hospital",
           "Hotel Dieu De France",
+          "Hammoud Hospital University Medical Center",
           "Hospital Universitario Vall d'Hebron",
           "Hospital Universitario Reina Sofia",
           "Hospital Clinico San Carlos",
@@ -25719,6 +25721,7 @@
           "165",
           "22110",
           "BP 165191",
+          "1600",
           "8035",
           "14004",
           "28040",
@@ -25733,7 +25736,6 @@
         ],
         "LocationContactEMail": [],
         "LocationContactName": [
-          "Principal Investigator",
           "Principal Investigator",
           "Principal Investigator",
           "Principal Investigator",
