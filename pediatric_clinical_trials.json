@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:06:03 22:26:15.268",
+    "DataVrs": "2021:06:06 22:08:24.743",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 379601,
+    "NStudiesAvail": 379759,
     "NStudiesFound": 393,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -15812,76 +15812,6 @@
       {
         "Rank": 316,
         "NCTId": [
-          "NCT04625686"
-        ],
-        "OfficialTitle": [
-          "A Multi-Site, Non-Interventional Study to Compare the Outcomes of Psychiatric Treatment of Suicidal Adolescents in Different Treatment Settings"
-        ],
-        "Condition": [
-          "Suicidal Ideation"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAdolescents that are 12 through 18 years old.\nAdolescents that are brought to the Emergency Department for crisis evaluation due to suicidal thoughts or behaviors.\nRequire a higher level of care.\nThe presence of a legal guardian for consent.\nCapable of giving signed informed consent/assent, which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.\n\nExclusion Criteria:\n\nAdolescents with suicidal thoughts who had prior OCIC treatment in the past 12 months.\nAdolescents without the ability to answer survey questions.\nAdolescents that are non-English speaking due to the scales and surveys that are used for this study only being available in English."
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Queens",
-          "Cincinnati",
-          "Columbus",
-          "Dallas"
-        ],
-        "LocationFacility": [
-          "Northwell Health",
-          "Cincinnati Children's Hospital Medical Center",
-          "Nationwide Children's Hospital",
-          "UT Southwestern Medical Center"
-        ],
-        "LocationState": [
-          "New York",
-          "Ohio",
-          "Ohio",
-          "Texas"
-        ],
-        "LocationZip": [
-          "11004",
-          "45229",
-          "43205",
-          "75390"
-        ],
-        "LocationContactEMail": [
-          "nmathur@northwell.edu",
-          "jennifer.combs@cchmc.org",
-          "rosalie.hemphill@cchmc.org",
-          "jaclyn.tissue@nationwidechildrens.org",
-          "molly.michaels@utsouthwestern.edu"
-        ],
-        "LocationContactName": [
-          "Nandita Mathur",
-          "Jennifer Combs, LISW",
-          "Rosalie Hemphill, MSW",
-          "Jaclyn Tissue",
-          "Molly Michaels"
-        ],
-        "LocationContactPhone": [
-          "513-803-0007",
-          "(513) 517-7126",
-          "614-355-1529"
-        ],
-        "BriefSummary": [
-          "To address the unmet need of optimizing the treatment and management for adolescent suicidality, the investigators propose to evaluate the effectiveness and safety of telehealth services compared to inpatient and OCIC for suicidal adolescents in target population. To achieve this goal, the investigators propose a multi- site study to compare telehealth, OCIC, and inpatient care, and see which can lead to a lower risk of a suicidal event (primary outcome) as well as higher treatment satisfaction (TS) and satisfaction with life (SL) (secondary outcomes) of both the legal guardians/parents and patients."
-        ],
-        "DetailedDescription": [
-          "The investigators have proposed an observational design. Eligible individuals will be identified during a crisis assessment, either in the emergency department or during an emergency phone or telehealth assessment. Once the individual has been assessed and assigned to the clinician for treatment, study staff will assess if the patient is appropriate for the study using the study eligibility criteria. Individuals who receive treatment in one of the following treatment arms will be eligible for this observation study: inpatient, in-person OCIC or telehealth crisis intervention service. Eligible individuals will be contacted by study staff to introduce and offer the study. If patient and guardian agree, they will complete surveys at baseline and every 2 weeks for 6 months to evaluate outcomes."
-        ]
-      },
-      {
-        "Rank": 317,
-        "NCTId": [
           "NCT04251026"
         ],
         "OfficialTitle": [
@@ -15954,7 +15884,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 318,
+        "Rank": 317,
         "NCTId": [
           "NCT03525431"
         ],
@@ -16020,7 +15950,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 318,
         "NCTId": [
           "NCT02044744"
         ],
@@ -16086,6 +16016,76 @@
           "The purpose of this study is to determine the impact of primary care referrals to community physical activity programs for overweight and obese youth aged 6-18 years on objectively measured physical activity and cardiorespiratory fitness, as well as other cardiovascular health indicators. We hypothesize that physical activity referrals will result in higher levels of physical activity and fitness."
         ],
         "DetailedDescription": []
+      },
+      {
+        "Rank": 319,
+        "NCTId": [
+          "NCT04625686"
+        ],
+        "OfficialTitle": [
+          "A Multi-Site, Non-Interventional Study to Compare the Outcomes of Psychiatric Treatment of Suicidal Adolescents in Different Treatment Settings"
+        ],
+        "Condition": [
+          "Suicidal Ideation"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nAdolescents that are 12 through 18 years old.\nAdolescents that are brought to the Emergency Department for crisis evaluation due to suicidal thoughts or behaviors.\nRequire a higher level of care.\nThe presence of a legal guardian for consent.\nCapable of giving signed informed consent/assent, which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.\n\nExclusion Criteria:\n\nAdolescents with suicidal thoughts who had prior OCIC treatment in the past 12 months.\nAdolescents without the ability to answer survey questions.\nAdolescents that are non-English speaking due to the scales and surveys that are used for this study only being available in English."
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Queens",
+          "Cincinnati",
+          "Columbus",
+          "Dallas"
+        ],
+        "LocationFacility": [
+          "Northwell Health",
+          "Cincinnati Children's Hospital Medical Center",
+          "Nationwide Children's Hospital",
+          "UT Southwestern Medical Center"
+        ],
+        "LocationState": [
+          "New York",
+          "Ohio",
+          "Ohio",
+          "Texas"
+        ],
+        "LocationZip": [
+          "11004",
+          "45229",
+          "43205",
+          "75390"
+        ],
+        "LocationContactEMail": [
+          "nmathur@northwell.edu",
+          "jennifer.combs@cchmc.org",
+          "rosalie.hemphill@cchmc.org",
+          "jaclyn.tissue@nationwidechildrens.org",
+          "molly.michaels@utsouthwestern.edu"
+        ],
+        "LocationContactName": [
+          "Nandita Mathur",
+          "Jennifer Combs, LISW",
+          "Rosalie Hemphill, MSW",
+          "Jaclyn Tissue",
+          "Molly Michaels"
+        ],
+        "LocationContactPhone": [
+          "513-803-0007",
+          "(513) 517-7126",
+          "614-355-1529"
+        ],
+        "BriefSummary": [
+          "To address the unmet need of optimizing the treatment and management for adolescent suicidality, the investigators propose to evaluate the effectiveness and safety of telehealth services compared to inpatient and OCIC for suicidal adolescents in target population. To achieve this goal, the investigators propose a multi- site study to compare telehealth, OCIC, and inpatient care, and see which can lead to a lower risk of a suicidal event (primary outcome) as well as higher treatment satisfaction (TS) and satisfaction with life (SL) (secondary outcomes) of both the legal guardians/parents and patients."
+        ],
+        "DetailedDescription": [
+          "The investigators have proposed an observational design. Eligible individuals will be identified during a crisis assessment, either in the emergency department or during an emergency phone or telehealth assessment. Once the individual has been assessed and assigned to the clinician for treatment, study staff will assess if the patient is appropriate for the study using the study eligibility criteria. Individuals who receive treatment in one of the following treatment arms will be eligible for this observation study: inpatient, in-person OCIC or telehealth crisis intervention service. Eligible individuals will be contacted by study staff to introduce and offer the study. If patient and guardian agree, they will complete surveys at baseline and every 2 weeks for 6 months to evaluate outcomes."
+        ]
       },
       {
         "Rank": 320,
@@ -17740,6 +17740,7 @@
           "Loma Linda",
           "Oakland",
           "Orange",
+          "Wilmington",
           "Gainesville",
           "Orlando",
           "Honolulu",
@@ -17771,6 +17772,7 @@
           "Loma Linda University Medical Center",
           "Kaiser Permanene-Oakland",
           "Children's Hospital of Orange County",
+          "Alfred I duPont Hospital for Children",
           "University of Florida Health Science Center - Gainesville",
           "Nemours Children's Hospital",
           "Kapiolani Medical Center for Women and Children",
@@ -17802,6 +17804,7 @@
           "California",
           "California",
           "California",
+          "Delaware",
           "Florida",
           "Florida",
           "Hawaii",
@@ -17833,6 +17836,7 @@
           "92354",
           "94611",
           "92868",
+          "19803",
           "32610",
           "32827",
           "96826",
@@ -17864,6 +17868,7 @@
           "AKheradp@llu.edu",
           "laura.campbell@kp.org",
           "erubin@choc.org",
+          "ecaywood@nemours.org",
           "slaytwb@peds.ufl.edu",
           "rnagasub@nemours.org",
           "kyono@hawaii.edu",
@@ -17901,6 +17906,8 @@
           "Laura Campbell, MD",
           "Elyssa Rubin, MD",
           "Elyssa Rubin, MD",
+          "Emi Caywood, MD",
+          "Emi Caywood, MD",
           "William Slayton, MD",
           "William Slayton",
           "Ramamoorthy Nagasubramanian, MD",
@@ -17955,6 +17962,7 @@
           "909-558-4076",
           "916-474-2170",
           "714-997-3000",
+          "302-651-5763",
           "352-273-9120",
           "407-650-7230",
           "808-983-6090",
