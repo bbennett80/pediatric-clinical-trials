@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:06:06 22:08:24.743",
+    "DataVrs": "2021:06:07 22:02:32.658",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 379759,
-    "NStudiesFound": 393,
+    "NStudiesAvail": 379895,
+    "NStudiesFound": 395,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 393,
+    "NStudiesReturned": 395,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -189,58 +189,6 @@
       {
         "Rank": 4,
         "NCTId": [
-          "NCT04465370"
-        ],
-        "OfficialTitle": [
-          "A Prospective, Single-Arm, Nonrandomized, Observational Study of Cardiac Output Monitoring in Pediatric Patients"
-        ],
-        "Condition": [
-          "Pediatric ALL"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nSubjects who are 12 to 18 years of age\nSubjects who have signed the Informed Consent Form\nSubjects who are projected to receive Swan-Ganz catheter as part of procedure/standard of care with intermittent cardiac output measures\nSubjects who are at least 2 weeks post cardiac transplantation\nSubjects with planned pressure monitoring with an arterial line\n\nExclusion Criteria:\n\nSubjects with contraindications for Pulmonary Artery Catheters Placement and monitoring (recurrent sepsis, or with hypercoagulopathy);\nSubjects with contraindications for Arterial Line Placement;\nSubjects with an extreme contraction of the smooth muscle in the arteries and arterioles in the lower arm and hand (i.e., Raynaud's Disease).\nSubjects with a physical site area too limited for proper Sensor placement\nSubjects with finger size less than the smallest finger cuff size"
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Gainesville",
-          "Houston"
-        ],
-        "LocationFacility": [
-          "UF Health Shands Children's Hospital",
-          "Texas Children's Hospital"
-        ],
-        "LocationState": [
-          "Florida",
-          "Texas"
-        ],
-        "LocationZip": [
-          "32610",
-          "77030"
-        ],
-        "LocationContactEMail": [
-          "dalylc@ufl.edu",
-          "sctume@texaschildrens.org"
-        ],
-        "LocationContactName": [
-          "Dalia Lopez-Colon",
-          "Sebastian Tume, MD"
-        ],
-        "LocationContactPhone": [
-          "352-273-7770"
-        ],
-        "BriefSummary": [
-          "To assess Cardiac Output Monitoring in pediatric subjects by comparing FloTrac and ClearSight system to intermittent thermodilution Swan-Ganz, in order to expand the indications of FloTrac, ClearSight and Swan-Ganz thermodilution pulmonary artery catheter to the pediatric population 12 to 18 years of age."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 5,
-        "NCTId": [
           "NCT04380311"
         ],
         "OfficialTitle": [
@@ -297,7 +245,7 @@
         ]
       },
       {
-        "Rank": 6,
+        "Rank": 5,
         "NCTId": [
           "NCT04342390"
         ],
@@ -355,7 +303,7 @@
         ]
       },
       {
-        "Rank": 7,
+        "Rank": 6,
         "NCTId": [
           "NCT04329117"
         ],
@@ -415,7 +363,7 @@
         ]
       },
       {
-        "Rank": 8,
+        "Rank": 7,
         "NCTId": [
           "NCT04276194"
         ],
@@ -474,7 +422,7 @@
         ]
       },
       {
-        "Rank": 9,
+        "Rank": 8,
         "NCTId": [
           "NCT04132999"
         ],
@@ -536,7 +484,7 @@
         ]
       },
       {
-        "Rank": 10,
+        "Rank": 9,
         "NCTId": [
           "NCT03929237"
         ],
@@ -589,7 +537,7 @@
         ]
       },
       {
-        "Rank": 11,
+        "Rank": 10,
         "NCTId": [
           "NCT03847194"
         ],
@@ -642,7 +590,7 @@
         ]
       },
       {
-        "Rank": 12,
+        "Rank": 11,
         "NCTId": [
           "NCT03655574"
         ],
@@ -703,7 +651,7 @@
         ]
       },
       {
-        "Rank": 13,
+        "Rank": 12,
         "NCTId": [
           "NCT03655470"
         ],
@@ -761,7 +709,7 @@
         ]
       },
       {
-        "Rank": 14,
+        "Rank": 13,
         "NCTId": [
           "NCT03522233"
         ],
@@ -810,7 +758,7 @@
         ]
       },
       {
-        "Rank": 15,
+        "Rank": 14,
         "NCTId": [
           "NCT03489434"
         ],
@@ -859,7 +807,7 @@
         ]
       },
       {
-        "Rank": 16,
+        "Rank": 15,
         "NCTId": [
           "NCT03325946"
         ],
@@ -923,7 +871,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 17,
+        "Rank": 16,
         "NCTId": [
           "NCT03281889"
         ],
@@ -979,7 +927,7 @@
         ]
       },
       {
-        "Rank": 18,
+        "Rank": 17,
         "NCTId": [
           "NCT02948647"
         ],
@@ -1029,7 +977,7 @@
         ]
       },
       {
-        "Rank": 19,
+        "Rank": 18,
         "NCTId": [
           "NCT02681211"
         ],
@@ -1090,7 +1038,7 @@
         ]
       },
       {
-        "Rank": 20,
+        "Rank": 19,
         "NCTId": [
           "NCT02572791"
         ],
@@ -1143,7 +1091,7 @@
         ]
       },
       {
-        "Rank": 21,
+        "Rank": 20,
         "NCTId": [
           "NCT02456376"
         ],
@@ -1197,7 +1145,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 22,
+        "Rank": 21,
         "NCTId": [
           "NCT01023139"
         ],
@@ -1257,7 +1205,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 23,
+        "Rank": 22,
         "NCTId": [
           "NCT04298281"
         ],
@@ -1313,7 +1261,7 @@
         ]
       },
       {
-        "Rank": 24,
+        "Rank": 23,
         "NCTId": [
           "NCT04075877"
         ],
@@ -1376,7 +1324,7 @@
         ]
       },
       {
-        "Rank": 25,
+        "Rank": 24,
         "NCTId": [
           "NCT03940508"
         ],
@@ -1437,7 +1385,7 @@
         ]
       },
       {
-        "Rank": 26,
+        "Rank": 25,
         "NCTId": [
           "NCT03937960"
         ],
@@ -1495,7 +1443,7 @@
         ]
       },
       {
-        "Rank": 27,
+        "Rank": 26,
         "NCTId": [
           "NCT03289351"
         ],
@@ -1546,7 +1494,7 @@
         ]
       },
       {
-        "Rank": 28,
+        "Rank": 27,
         "NCTId": [
           "NCT04903314"
         ],
@@ -1593,7 +1541,7 @@
         ]
       },
       {
-        "Rank": 29,
+        "Rank": 28,
         "NCTId": [
           "NCT04896502"
         ],
@@ -1643,7 +1591,7 @@
         ]
       },
       {
-        "Rank": 30,
+        "Rank": 29,
         "NCTId": [
           "NCT04848532"
         ],
@@ -1698,7 +1646,7 @@
         ]
       },
       {
-        "Rank": 31,
+        "Rank": 30,
         "NCTId": [
           "NCT04840498"
         ],
@@ -1744,7 +1692,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 32,
+        "Rank": 31,
         "NCTId": [
           "NCT04812028"
         ],
@@ -1792,7 +1740,7 @@
         ]
       },
       {
-        "Rank": 33,
+        "Rank": 32,
         "NCTId": [
           "NCT04810130"
         ],
@@ -1845,7 +1793,7 @@
         ]
       },
       {
-        "Rank": 34,
+        "Rank": 33,
         "NCTId": [
           "NCT04784455"
         ],
@@ -1889,7 +1837,7 @@
         ]
       },
       {
-        "Rank": 35,
+        "Rank": 34,
         "NCTId": [
           "NCT04783506"
         ],
@@ -1938,7 +1886,7 @@
         ]
       },
       {
-        "Rank": 36,
+        "Rank": 35,
         "NCTId": [
           "NCT04771338"
         ],
@@ -1991,7 +1939,7 @@
         ]
       },
       {
-        "Rank": 37,
+        "Rank": 36,
         "NCTId": [
           "NCT04752501"
         ],
@@ -2041,7 +1989,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 38,
+        "Rank": 37,
         "NCTId": [
           "NCT04752293"
         ],
@@ -2111,7 +2059,7 @@
         ]
       },
       {
-        "Rank": 39,
+        "Rank": 38,
         "NCTId": [
           "NCT04738539"
         ],
@@ -2162,7 +2110,7 @@
         ]
       },
       {
-        "Rank": 40,
+        "Rank": 39,
         "NCTId": [
           "NCT04737460"
         ],
@@ -2211,7 +2159,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 41,
+        "Rank": 40,
         "NCTId": [
           "NCT04735874"
         ],
@@ -2258,6 +2206,55 @@
           "This is a prospective, multicenter, cross-sectional study to evaluate prevalence of vascular risk factors in children with Down Syndrome and to determine the association between vascular disease risk factors and objective markers of early atherosclerosis."
         ],
         "DetailedDescription": []
+      },
+      {
+        "Rank": 41,
+        "NCTId": [
+          "NCT04718441"
+        ],
+        "OfficialTitle": [
+          "Contrast Ultrasound for Pediatric Trauma - Comparative Evaluation (CAPTURE Study)"
+        ],
+        "Condition": [
+          "Abdominal Injury"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nHemodynamically stable, as determined by the trauma team\nAge 8 through 18 years (inclusive)\nInterpretable CT of the abdomen and pelvis that demonstrates at least one solid organ injury among the liver, spleen, pancreas, and kidneys\nPlan for observation or admission to the hospital\nCandidate for abdominal ultrasound based on body habitus, as determined by the investigator\nGlasgow Coma Score of 15\nAble to complete the study procedures within 48 hours of injury\n\nExclusion Criteria:\n\nKnown cardiac abnormality\nPulmonary Hypertension\nKnown sensitivity to any Lumason components - including sulfur hexafluoride, polyethylene glycol 4000, distearoylphosphatidylcholine (DSPC), dipalmitoylphosphatidylglycerol sodium (DPPG-Na), or palmitic acid\nUnable to be rolled onto side to allow lateral ultrasound windows if necessary\nUnable to assent or consent\nPregnant\nLactating\nCT images not available for transmission to central image repository"
+        ],
+        "MinimumAge": [
+          "8 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Boston"
+        ],
+        "LocationFacility": [
+          "Boston Children's Hospital"
+        ],
+        "LocationState": [
+          "Massachusetts"
+        ],
+        "LocationZip": [
+          "02118"
+        ],
+        "LocationContactEMail": [
+          "gabrielle.eden@childrens.harvard.edu"
+        ],
+        "LocationContactName": [
+          "Gabrielle Eden, MS",
+          "David Mooney, MD, MPH"
+        ],
+        "LocationContactPhone": [
+          "617-919-1857"
+        ],
+        "BriefSummary": [
+          "This multicenter study aims to evaluate the accuracy of contrast-enhanced ultrasound (CEUS) in diagnosing abdominal solid organ injuries in pediatric patients. Up to 130 subjects will complete the study across approximately 5-10 sites in the US, with up to 30 patients in the training phase (3 per site) and 100 patients in the treatment phase of the study. All subjects will have had a CT scan as part of standard of care, confirming at least one solid organ abdominal injury. The study procedure will occur within 48 hours from time of injury. All subjects will have an abdominal ultrasound without contrast, followed by a contrast-enhanced ultrasound using the contrast agent Lumason. Ultrasound and contrast-enhanced ultrasound results will be compared to the CT scan results. The CT and ultrasound scans will be read locally and will undergo central review."
+        ],
+        "DetailedDescription": [
+          "This is an interventional study which proposes to evaluate the accuracy of contrast-enhanced ultrasound (CEUS) in diagnosing abdominal solid organ injuries in pediatric trauma patients. Up to 130 subjects will be enrolled across approximately 5 to 10 sites in the US. Each site, including the coordinating center, will undergo the training phase; each site will enroll 3 participants in this phase successfully prior to entering the treatment phase. All subjects will have had a Computerized Tomography (CT) scan as part of standard of care, confirming at least one solid organ abdominal injury. All subjects will have an abdominal ultrasound without contrast, followed by a contrast-enhanced ultrasound using the contrast agent Lumason. Ultrasound and contrast-enhanced ultrasound results will be compared to the CT scan results. The study procedures will take place within 48 hours of injury. At conclusion of enrollment of all subjects a centralized review of CT vs. CEUS will occur to compare to real-time readings."
+        ]
       },
       {
         "Rank": 42,
@@ -15313,6 +15310,64 @@
       {
         "Rank": 308,
         "NCTId": [
+          "NCT04465370"
+        ],
+        "OfficialTitle": [
+          "A Prospective, Single-Arm, Nonrandomized, Observational Study of Cardiac Output Monitoring in Pediatric Patients"
+        ],
+        "Condition": [
+          "Pediatric ALL"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nSubjects who are 12 to 18 years of age\nSubjects who have signed the Informed Consent Form\nSubjects who are projected to receive Swan-Ganz catheter as part of procedure/standard of care with intermittent cardiac output measures\nFor those Subjects who have had a cardiac transplant,Subjects who are at least 2 weeks post cardiac transplantation\nSubjects with planned pressure monitoring with an arterial line\n\nExclusion Criteria:\n\nSubjects with contraindications for Pulmonary Artery Catheters Placement and monitoring (recurrent sepsis, or with hypercoagulopathy);\nSubjects with contraindications for Arterial Line Placement;\nSubjects with an extreme contraction of the smooth muscle in the arteries and arterioles in the lower arm and hand (i.e., Raynaud's Disease).\nSubjects with a physical site area too limited for proper Sensor placement\nSubjects with finger size less than the smallest finger cuff size\nDocumented ≥ moderate pulmonary hypertension (PAPm > 25mmHg, PVRI > 3.0 WUxm2)\nPresence of intracardiac shunting (i.e., ASD, VSD)\nAorto-pulmonary collaterals\n≥ Moderate tricuspid regurgitation, per echocardiogram criteria\n> Moderate Aortic or pulmonary regurgitation, per echocardiogram criteria\nPersistent cardiac arrythmias during the cardiac catheterization period (> 3min)\nVascular abnormalities of the arterial system (i.e., connective tissue disorders, mid-aortic syndrome)"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Gainesville",
+          "Philadelphia",
+          "Houston"
+        ],
+        "LocationFacility": [
+          "UF Health Shands Children's Hospital",
+          "Children's Hospital of Philadelphia",
+          "Texas Children's Hospital"
+        ],
+        "LocationState": [
+          "Florida",
+          "Pennsylvania",
+          "Texas"
+        ],
+        "LocationZip": [
+          "32610",
+          "19104",
+          "77030"
+        ],
+        "LocationContactEMail": [
+          "dalylc@ufl.edu",
+          "REILLYS1@chop.edu",
+          "sctume@texaschildrens.org"
+        ],
+        "LocationContactName": [
+          "Dalia Lopez-Colon",
+          "Samantha Reilly",
+          "Sebastian Tume, MD"
+        ],
+        "LocationContactPhone": [
+          "352-273-7770"
+        ],
+        "BriefSummary": [
+          "To assess Cardiac Output Monitoring in pediatric subjects by comparing FloTrac and ClearSight system to intermittent thermodilution Swan-Ganz, in order to expand the indications of FloTrac, ClearSight and Swan-Ganz thermodilution pulmonary artery catheter to the pediatric population 12 to 18 years of age."
+        ],
+        "DetailedDescription": []
+      },
+      {
+        "Rank": 309,
+        "NCTId": [
           "NCT03242473"
         ],
         "OfficialTitle": [
@@ -15370,7 +15425,7 @@
         ]
       },
       {
-        "Rank": 309,
+        "Rank": 310,
         "NCTId": [
           "NCT02505165"
         ],
@@ -15435,7 +15490,7 @@
         ]
       },
       {
-        "Rank": 310,
+        "Rank": 311,
         "NCTId": [
           "NCT01142882"
         ],
@@ -15499,7 +15554,7 @@
         ]
       },
       {
-        "Rank": 311,
+        "Rank": 312,
         "NCTId": [
           "NCT04602728"
         ],
@@ -15549,7 +15604,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 313,
         "NCTId": [
           "NCT03657771"
         ],
@@ -15620,7 +15675,7 @@
         ]
       },
       {
-        "Rank": 313,
+        "Rank": 314,
         "NCTId": [
           "NCT04344899"
         ],
@@ -15681,7 +15736,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 315,
         "NCTId": [
           "NCT02260856"
         ],
@@ -15764,7 +15819,7 @@
         ]
       },
       {
-        "Rank": 315,
+        "Rank": 316,
         "NCTId": [
           "NCT02933008"
         ],
@@ -15810,7 +15865,7 @@
         ]
       },
       {
-        "Rank": 316,
+        "Rank": 317,
         "NCTId": [
           "NCT04251026"
         ],
@@ -15884,7 +15939,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 317,
+        "Rank": 318,
         "NCTId": [
           "NCT03525431"
         ],
@@ -15950,7 +16005,7 @@
         ]
       },
       {
-        "Rank": 318,
+        "Rank": 319,
         "NCTId": [
           "NCT02044744"
         ],
@@ -16018,7 +16073,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 319,
+        "Rank": 320,
         "NCTId": [
           "NCT04625686"
         ],
@@ -16088,7 +16143,7 @@
         ]
       },
       {
-        "Rank": 320,
+        "Rank": 321,
         "NCTId": [
           "NCT04074265"
         ],
@@ -16172,7 +16227,7 @@
         ]
       },
       {
-        "Rank": 321,
+        "Rank": 322,
         "NCTId": [
           "NCT03201874"
         ],
@@ -16239,7 +16294,7 @@
         ]
       },
       {
-        "Rank": 322,
+        "Rank": 323,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16308,7 +16363,7 @@
         ]
       },
       {
-        "Rank": 323,
+        "Rank": 324,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16378,7 +16433,7 @@
         ]
       },
       {
-        "Rank": 324,
+        "Rank": 325,
         "NCTId": [
           "NCT02914405"
         ],
@@ -16449,7 +16504,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 325,
+        "Rank": 326,
         "NCTId": [
           "NCT02391324"
         ],
@@ -16511,7 +16566,7 @@
         ]
       },
       {
-        "Rank": 326,
+        "Rank": 327,
         "NCTId": [
           "NCT02134782"
         ],
@@ -16575,7 +16630,7 @@
         ]
       },
       {
-        "Rank": 327,
+        "Rank": 328,
         "NCTId": [
           "NCT04333823"
         ],
@@ -16644,7 +16699,7 @@
         ]
       },
       {
-        "Rank": 328,
+        "Rank": 329,
         "NCTId": [
           "NCT03962894"
         ],
@@ -16724,7 +16779,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 329,
+        "Rank": 330,
         "NCTId": [
           "NCT03606980"
         ],
@@ -16788,7 +16843,7 @@
         ]
       },
       {
-        "Rank": 330,
+        "Rank": 331,
         "NCTId": [
           "NCT03240809"
         ],
@@ -16846,7 +16901,7 @@
         ]
       },
       {
-        "Rank": 331,
+        "Rank": 332,
         "NCTId": [
           "NCT04853316"
         ],
@@ -16923,7 +16978,7 @@
         ]
       },
       {
-        "Rank": 332,
+        "Rank": 333,
         "NCTId": [
           "NCT04060823"
         ],
@@ -16979,7 +17034,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 333,
+        "Rank": 334,
         "NCTId": [
           "NCT00005105"
         ],
@@ -17043,7 +17098,7 @@
         ]
       },
       {
-        "Rank": 334,
+        "Rank": 335,
         "NCTId": [
           "NCT03505658"
         ],
@@ -17104,7 +17159,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 335,
+        "Rank": 336,
         "NCTId": [
           "NCT03989986"
         ],
@@ -17164,7 +17219,7 @@
         ]
       },
       {
-        "Rank": 336,
+        "Rank": 337,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17238,7 +17293,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 338,
         "NCTId": [
           "NCT03117751"
         ],
@@ -17328,7 +17383,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 339,
         "NCTId": [
           "NCT03910933"
         ],
@@ -17411,7 +17466,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 340,
         "NCTId": [
           "NCT04442295"
         ],
@@ -17540,7 +17595,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 341,
         "NCTId": [
           "NCT04431453"
         ],
@@ -17711,7 +17766,7 @@
         ]
       },
       {
-        "Rank": 341,
+        "Rank": 342,
         "NCTId": [
           "NCT04258943"
         ],
@@ -17992,177 +18047,6 @@
         ],
         "DetailedDescription": [
           "The Phase 1 part of the study employs a 6+4 design (no DLT in 6 patients or 1 DLT in 10 patients) and incorporates additional PK information before escalating to the next dose level. If there is unacceptable toxicity or if PK results have exceeded the acceptable exposure levels for the adult equivalent dose, further dose escalation will be prohibited. The Recommended Phase 2 Dose (RP2D) is defined as the dose that results in equivalent(approximately ±20% of the adult values) PK exposure to 500 mg/day in adults and with 0 of 6 or <2 DLTs observed out of 10 evaluable patients with Ph+ CML and resistance or intolerance to prior TKI therapy. The phase 2 part of the study will enroll the following patient populations.\n\nNewly diagnosed (ND): newly diagnosed pediatric Ph + CML patients in chronic phase (CP)\nResistant/intolerant (R/I): chronic phase or advanced (accelerated (AP) or blast phase (BP) pediatric Ph+ CML patients with resistance or intolerance to at least 1 prior TKI"
-        ]
-      },
-      {
-        "Rank": 342,
-        "NCTId": [
-          "NCT04203316"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Feasibility Study to Assess the Safety and Pharmacokinetics of Enasidenib in Pediatric Patients With Relapsed/Refractory Acute Myeloid Leukemia (R/R-AML) With an Isocitrate Dehydrogenase-2 (IDH2) Mutation"
-        ],
-        "Condition": [
-          "Recurrent Acute Myeloid Leukemia",
-          "Refractory Acute Myeloid Leukemia"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPatient must have AML with an IDH2 mutation identified from a peripheral blood or bone marrow sample at the time of diagnosis and/or relapsed/refractory disease\n\nPatient must have bone marrow assessment (aspiration or biopsy) with > 5% leukemic blasts by morphology and/or flow cytometry in at least one of the following clinical scenarios:\n\nSecond or greater relapse after chemotherapy or hematopoietic stem cell transplant (HSCT)\nRefractory after >= 2 attempts at induction therapy\n\nRelapsed patients\n\nMust not have received prior re-induction therapy for this relapse\nEach block of chemotherapy (i.e., cytarabine, daunorubicin and etoposide [ADE], cytarabine and mitoxantrone [MA]) is a separate re-induction attempt\nDonor lymphocyte infusion (DLI) is considered a re-induction attempt\n\nRefractory patients\n\nEach attempt at induction therapy may include up to two chemotherapy courses\nKarnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age. Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score\nPatient's current disease state must be one for which there is no known curative therapy or therapy proven to prolong survival with an acceptable quality of life\nEvaluation of cerebrospinal fluid (CSF) is only required if there is a clinical suspicion of central nervous system (CNS) involvement by leukemia during eligibility screening. Should a patient be found to have CNS2 or CNS3 status by CSF prior to eligibility screening, patient may receive intrathecal chemotherapy > 72 hours prior to starting study drug. CNS1 status must be established before starting study drug\n\nPatients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy and must meet the following minimum duration from prior anti-cancer directed therapy prior to enrollment. If after the required timeframe, the numerical eligibility criteria are met, e.g., blood count criteria, the patient is considered to have recovered adequately\n\nCytotoxic chemotherapy or other anti-cancer agents known to be myelosuppressive. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\n\n>= 14 days must have elapsed after the completion of other cytotoxic therapy with the exception of hydroxyurea. Additionally, patients must have fully recovered from all acute toxic effects of prior therapy. NOTE: Cytoreduction with hydroxyurea must be discontinued >= 24 hours prior to the start of protocol therapy\nIntrathecal chemotherapy must be completed >= 72 hours prior to the start of the first cycle of treatment\nAnti-cancer agents not known to be myelosuppressive (e.g. not associated with reduced platelet or absolute neutrophil count [ANC] counts): >= 7 days after the last dose of agent. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\nAntibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1\nCorticosteroids: If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid\nHematopoietic growth factors: >= 14 days after the last dose of a long-acting growth factor (e.g., pegfilgrastim) or 7 days for short-acting growth factor. For agents that have known adverse events occurring beyond 7 days after administration, this period must be extended beyond the time during which adverse events are known to occur. The duration of this interval must be discussed with the study chair and the study research coordinator\nInterleukins, interferons and cytokines (other than hematopoietic growth factors): >= 21 days after the completion of interleukins, interferon or cytokines (other than hematopoietic growth factors)\n\nStem cell Infusions (with or without total body irradiation [TBI]):\n\nAllogeneic (non-autologous) bone marrow or stem cell transplant, or any stem cell infusion including DLI or boost infusion:\n\n>= 60 days after infusion for bone marrow or stem cell transplant and\n>= 4 weeks after infusion for any stem cell infusion including DLI or boost infusion\nThere must be no evidence of graft versus host disease (GVHD)\nAutologous stem cell infusion including boost infusion: >= 42 days\nCellular Therapy: >= 42 days after the completion of any type of cellular therapy (e.g. modified T cells, natural killer [NK] cells, dendritic cells, etc.)\nXRT/external beam irradiation including protons: >= 14 days after local XRT; >= 150 days after TBI, craniospinal XRT or if radiation to >= 50% of the pelvis; >= 42 days if other substantial bone marrow (BM) radiation\nRadiopharmaceutical therapy (e.g., radiolabeled antibody, 131I-metaiodobenzylguanidine [MIBG]): >= 42 days after systemically administered radiopharmaceutical therapy\nStudy-specific limitations on prior therapy: small molecule investigational agents: >= 14 days or > 5 half-lives must have elapsed from the last dose of the agent, whichever is greater\nPlatelet count >= 20,000/mm^3 (may receive platelet transfusions). These patients must not be known to be refractory to red cell or platelet transfusion\nHemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)\n\nCreatinine clearance or radioisotope glomerular filtration rate [GFR] >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\n\nAge: Maximum serum creatinine (mg/dL)\n\n2 to < 6 years: 0.8 (male and female)\n6 to < 10 years: 1 (male and female)\n10 to < 13 years: 1.2 (male and female)\n13 to < 16 years: 1.5 (male); 1.4 (female\n>= 16 years: 1.7 (male); 1.4 (female)\nBilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age\nSerum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 225 U/L. For the purpose of this study, the ULN for SGPT is 45 U/L\nSerum albumin >= 2 g/dL\nLeft ventricular ejection fraction of >= 50% by echocardiogram\n\nRegulatory Requirements\n\nAll patients and/or their parents or legal authorized representatives must sign a written informed consent. Assent, when appropriate, will be obtained according to institutional guidelines\nAll institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met\n\nExclusion Criteria:\n\nAML associated with Down syndrome or t(15;17) is not eligible for study\nPregnant or breast-feeding women will not be entered on this study due to risks of fetal and teratogenic adverse events as seen in animal/human studies. Pregnancy tests must be obtained in girls who are post-menarchal. Males or females of reproductive potential may not participate unless they have agreed to use an effective contraceptive method for the duration of study therapy and for 4 months after the last dose of enasidenib. Abstinence is an acceptable method of birth control. It is not known if enasidenib is present in breast milk. Breastfeeding is not recommended during therapy or for at least 30 days after the last dose of enasidenib\n\nConcomitant Medications:\n\nCorticosteroids: Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible. If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid. The use of corticosteroids to manage the side effect of IDH inhibitor-associated differentiation syndrome (IDH-DS), is permitted on study\nInvestigational drugs: Patients who are currently receiving another investigational drug are not eligible\nAnti-cancer agents: Patients who are currently receiving other anti-cancer agents are not eligible (except leukemia patients receiving hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy; the use of hydroxyurea to manage the side effect of IDH-DS, is permitted on study)\nAnti-GVHD agents post-transplant: Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial\n\nPatients must be able to swallow intact tablets whole.\n\nPatients with known hypersensitivity to any of the components of enasidenib are not eligible.\nPatients with prior exposure to enasidenib or another IDH2 inhibitor are not eligible.\n\nPatients taking the following drugs will be excluded from study entry unless these drugs are discontinued or patients are transferred to a medically acceptable alternative > 5 half-lives before the first dose of enasidenib.\n\nDrugs with a narrow therapeutic range that are sensitive substrates of the following cytochrome P450 (CYP) enzymes: CYP2C8 (e.g. paclitaxel), 2C9 (e.g. phenytoin and warfarin), 2C19 (e.g. s-mephenytoin), 2D6 (e.g. thioridazine), and 1A2 (e.g. theophylline and tizanidine).\nBreast cancer resistant protein (BCRP) transporter-sensitive substrate rosuvastatin\n\nPatients with the following leukemia complications are not eligible for this trial:\n\nNo intrathecal chemotherapy is permitted on study. Prior to study enrollment, cerebrospinal fluid (CSF) evaluation is only required if there is a clinical suspicion for CNS leukemia. Clinical signs of CNS leukemia (such as facial nerve palsy, brain/eye involvement or hypothalamic syndrome) are not eligible for this trial\nImmediately life-threatening, severe complications of leukemia including uncontrolled bleeding, pneumonia with hypoxia or shock, and/or disseminated intravascular coagulation\nInfection: Patients who have an uncontrolled infection or patients with known human immunodeficiency virus (HIV) or active hepatitis B or C are not eligible\nPatients who have received a prior solid organ transplantation are not eligible\nPatients who in the opinion of the investigator may not be able to comply with the safety monitoring requirements of the study are not eligible"
-        ],
-        "MinimumAge": [
-          "24 Months"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Birmingham",
-          "Little Rock",
-          "Wilmington",
-          "Washington",
-          "Gainesville",
-          "Indianapolis",
-          "Ann Arbor",
-          "Kansas City",
-          "Hackensack",
-          "Syracuse",
-          "Cincinnati",
-          "Pittsburgh",
-          "Memphis",
-          "Nashville",
-          "Dallas",
-          "Norfolk",
-          "Montreal"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Alabama",
-          "Arkansas Children's Hospital",
-          "Alfred I duPont Hospital for Children",
-          "Children's National Medical Center",
-          "University of Florida Health Science Center - Gainesville",
-          "Riley Hospital for Children",
-          "C S Mott Children's Hospital",
-          "Children's Mercy Hospitals and Clinics",
-          "Hackensack University Medical Center",
-          "State University of New York Upstate Medical University",
-          "Cincinnati Children's Hospital Medical Center",
-          "Children's Hospital of Pittsburgh of UPMC",
-          "Saint Jude Children's Research Hospital",
-          "Vanderbilt University/Ingram Cancer Center",
-          "UT Southwestern/Simmons Cancer Center-Dallas",
-          "Children's Hospital of The King's Daughters",
-          "Centre Hospitalier Universitaire Sainte-Justine"
-        ],
-        "LocationState": [
-          "Alabama",
-          "Arkansas",
-          "Delaware",
-          "District of Columbia",
-          "Florida",
-          "Indiana",
-          "Michigan",
-          "Missouri",
-          "New Jersey",
-          "New York",
-          "Ohio",
-          "Pennsylvania",
-          "Tennessee",
-          "Tennessee",
-          "Texas",
-          "Virginia",
-          "Quebec"
-        ],
-        "LocationZip": [
-          "35233",
-          "72202-3591",
-          "19803",
-          "20010",
-          "32610",
-          "46202",
-          "48109",
-          "64108",
-          "07601",
-          "13210",
-          "45229",
-          "15224",
-          "38105",
-          "37232",
-          "75390",
-          "23507",
-          "H3T 1C5"
-        ],
-        "LocationContactEMail": [
-          "oncologyresearch@peds.uab.edu",
-          "dperry@nemours.org",
-          "cancer-center@ufl.edu",
-          "rryan@cmh.edu",
-          "cancer@cchmc.org",
-          "jean.tersak@chp.edu",
-          "referralinfo@stjude.org",
-          "canceranswerline@UTSouthwestern.edu",
-          "CCBDCresearch@chkd.org",
-          "yvan.samson@umontreal.ca"
-        ],
-        "LocationContactName": [
-          "Site Public Contact",
-          "Matthew A. Kutny",
-          "Site Public Contact",
-          "David L. Becton",
-          "Site Public Contact",
-          "Scott M. Bradfield",
-          "Site Public Contact",
-          "AeRang Kim",
-          "Site Public Contact",
-          "William B. Slayton",
-          "Site Public Contact",
-          "Sandeep Batra",
-          "Site Public Contact",
-          "Rajen Mody",
-          "Site Public Contact",
-          "Kevin F. Ginn",
-          "Site Public Contact",
-          "Jing Chen",
-          "Site Public Contact",
-          "Philip M. Monteleone",
-          "Site Public Contact",
-          "Joseph G. Pressey",
-          "Site Public Contact",
-          "Andrew Bukowinski",
-          "Site Public Contact",
-          "Jeffrey E. Rubnitz",
-          "Site Public Contact",
-          "Sara Zarnegar-Lumley",
-          "Site Public Contact",
-          "Kathleen (Wiertel) Ludwig",
-          "Site Public Contact",
-          "Eric J. Lowe",
-          "Site Public Contact",
-          "Yvan Samson"
-        ],
-        "LocationContactPhone": [
-          "205-638-9285",
-          "501-364-7373",
-          "302-651-6884",
-          "202-884-2549",
-          "352-273-8010",
-          "800-248-1199",
-          "800-865-1125",
-          "816-302-6808",
-          "201-996-2879",
-          "315-464-5476",
-          "513-636-2799",
-          "412-692-8570",
-          "888-226-4343",
-          "800-811-8480",
-          "214-648-7097",
-          "757-668-7243",
-          "514-345-4931"
-        ],
-        "BriefSummary": [
-          "This trial studies the side effects of enasidenib and to see how well it works in treating patients with acute myeloid leukemia that has come back after treatment (relapsed) or has been difficult to treat with chemotherapy (refractory). Patients must also have a specific genetic change, also called a mutation, in a protein called IDH2. Enasidenib may stop the growth of cancer cells by blocking the mutated IDH2 protein, which is needed for cell growth."
-        ],
-        "DetailedDescription": [
-          "PRIMARY OBJECTIVES:\n\nI. To determine the safety of treatment with enasidenib mesylate (enasidenib) administered at continuous daily oral dosing for a 28-day cycle up to 12 cycles in pediatric patients with IDH2-mutant relapsed/refractory (R/R)-acute myeloid leukemia (AML).\n\nII. To characterize the plasma pharmacokinetic (PK) profile of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nSECONDARY OBJECTIVES:\n\nI. To investigate the pharmacodynamic (PD) relationship of oncogenic metabolite 2-hydroxyglutarate (2-HG) to enasidenib treatment in pediatric patients with IDH2-mutant R/R-AML.\n\nII. To describe the clinical activity of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nOUTLINE:\n\nPatients receive enasidenib orally (PO) once daily (QD) on days 1-28. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days, then periodically up to 1 year."
         ]
       },
       {
@@ -19901,6 +19785,177 @@
       {
         "Rank": 347,
         "NCTId": [
+          "NCT04203316"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Feasibility Study to Assess the Safety and Pharmacokinetics of Enasidenib in Pediatric Patients With Relapsed/Refractory Acute Myeloid Leukemia (R/R-AML) With an Isocitrate Dehydrogenase-2 (IDH2) Mutation"
+        ],
+        "Condition": [
+          "Recurrent Acute Myeloid Leukemia",
+          "Refractory Acute Myeloid Leukemia"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPatient must have AML with an IDH2 mutation identified from a peripheral blood or bone marrow sample at the time of diagnosis and/or relapsed/refractory disease\n\nPatient must have bone marrow assessment (aspiration or biopsy) with > 5% leukemic blasts by morphology and/or flow cytometry in at least one of the following clinical scenarios:\n\nSecond or greater relapse after chemotherapy or hematopoietic stem cell transplant (HSCT)\nRefractory after >= 2 attempts at induction therapy\n\nRelapsed patients\n\nMust not have received prior re-induction therapy for this relapse\nEach block of chemotherapy (i.e., cytarabine, daunorubicin and etoposide [ADE], cytarabine and mitoxantrone [MA]) is a separate re-induction attempt\nDonor lymphocyte infusion (DLI) is considered a re-induction attempt\n\nRefractory patients\n\nEach attempt at induction therapy may include up to two chemotherapy courses\nKarnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age. Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score\nPatient's current disease state must be one for which there is no known curative therapy or therapy proven to prolong survival with an acceptable quality of life\nEvaluation of cerebrospinal fluid (CSF) is only required if there is a clinical suspicion of central nervous system (CNS) involvement by leukemia during eligibility screening. Should a patient be found to have CNS2 or CNS3 status by CSF prior to eligibility screening, patient may receive intrathecal chemotherapy > 72 hours prior to starting study drug. CNS1 status must be established before starting study drug\n\nPatients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy and must meet the following minimum duration from prior anti-cancer directed therapy prior to enrollment. If after the required timeframe, the numerical eligibility criteria are met, e.g., blood count criteria, the patient is considered to have recovered adequately\n\nCytotoxic chemotherapy or other anti-cancer agents known to be myelosuppressive. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\n\n>= 14 days must have elapsed after the completion of other cytotoxic therapy with the exception of hydroxyurea. Additionally, patients must have fully recovered from all acute toxic effects of prior therapy. NOTE: Cytoreduction with hydroxyurea must be discontinued >= 24 hours prior to the start of protocol therapy\nIntrathecal chemotherapy must be completed >= 72 hours prior to the start of the first cycle of treatment\nAnti-cancer agents not known to be myelosuppressive (e.g. not associated with reduced platelet or absolute neutrophil count [ANC] counts): >= 7 days after the last dose of agent. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\nAntibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1\nCorticosteroids: If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid\nHematopoietic growth factors: >= 14 days after the last dose of a long-acting growth factor (e.g., pegfilgrastim) or 7 days for short-acting growth factor. For agents that have known adverse events occurring beyond 7 days after administration, this period must be extended beyond the time during which adverse events are known to occur. The duration of this interval must be discussed with the study chair and the study research coordinator\nInterleukins, interferons and cytokines (other than hematopoietic growth factors): >= 21 days after the completion of interleukins, interferon or cytokines (other than hematopoietic growth factors)\n\nStem cell Infusions (with or without total body irradiation [TBI]):\n\nAllogeneic (non-autologous) bone marrow or stem cell transplant, or any stem cell infusion including DLI or boost infusion:\n\n>= 60 days after infusion for bone marrow or stem cell transplant and\n>= 4 weeks after infusion for any stem cell infusion including DLI or boost infusion\nThere must be no evidence of graft versus host disease (GVHD)\nAutologous stem cell infusion including boost infusion: >= 42 days\nCellular Therapy: >= 42 days after the completion of any type of cellular therapy (e.g. modified T cells, natural killer [NK] cells, dendritic cells, etc.)\nXRT/external beam irradiation including protons: >= 14 days after local XRT; >= 150 days after TBI, craniospinal XRT or if radiation to >= 50% of the pelvis; >= 42 days if other substantial bone marrow (BM) radiation\nRadiopharmaceutical therapy (e.g., radiolabeled antibody, 131I-metaiodobenzylguanidine [MIBG]): >= 42 days after systemically administered radiopharmaceutical therapy\nStudy-specific limitations on prior therapy: small molecule investigational agents: >= 14 days or > 5 half-lives must have elapsed from the last dose of the agent, whichever is greater\nPlatelet count >= 20,000/mm^3 (may receive platelet transfusions). These patients must not be known to be refractory to red cell or platelet transfusion\nHemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)\n\nCreatinine clearance or radioisotope glomerular filtration rate [GFR] >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\n\nAge: Maximum serum creatinine (mg/dL)\n\n2 to < 6 years: 0.8 (male and female)\n6 to < 10 years: 1 (male and female)\n10 to < 13 years: 1.2 (male and female)\n13 to < 16 years: 1.5 (male); 1.4 (female\n>= 16 years: 1.7 (male); 1.4 (female)\nBilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age\nSerum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 225 U/L. For the purpose of this study, the ULN for SGPT is 45 U/L\nSerum albumin >= 2 g/dL\nLeft ventricular ejection fraction of >= 50% by echocardiogram\n\nRegulatory Requirements\n\nAll patients and/or their parents or legal authorized representatives must sign a written informed consent. Assent, when appropriate, will be obtained according to institutional guidelines\nAll institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met\n\nExclusion Criteria:\n\nAML associated with Down syndrome or t(15;17) is not eligible for study\nPregnant or breast-feeding women will not be entered on this study due to risks of fetal and teratogenic adverse events as seen in animal/human studies. Pregnancy tests must be obtained in girls who are post-menarchal. Males or females of reproductive potential may not participate unless they have agreed to use an effective contraceptive method for the duration of study therapy and for 4 months after the last dose of enasidenib. Abstinence is an acceptable method of birth control. It is not known if enasidenib is present in breast milk. Breastfeeding is not recommended during therapy or for at least 30 days after the last dose of enasidenib\n\nConcomitant Medications:\n\nCorticosteroids: Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible. If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid. The use of corticosteroids to manage the side effect of IDH inhibitor-associated differentiation syndrome (IDH-DS), is permitted on study\nInvestigational drugs: Patients who are currently receiving another investigational drug are not eligible\nAnti-cancer agents: Patients who are currently receiving other anti-cancer agents are not eligible (except leukemia patients receiving hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy; the use of hydroxyurea to manage the side effect of IDH-DS, is permitted on study)\nAnti-GVHD agents post-transplant: Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial\n\nPatients must be able to swallow intact tablets whole.\n\nPatients with known hypersensitivity to any of the components of enasidenib are not eligible.\nPatients with prior exposure to enasidenib or another IDH2 inhibitor are not eligible.\n\nPatients taking the following drugs will be excluded from study entry unless these drugs are discontinued or patients are transferred to a medically acceptable alternative > 5 half-lives before the first dose of enasidenib.\n\nDrugs with a narrow therapeutic range that are sensitive substrates of the following cytochrome P450 (CYP) enzymes: CYP2C8 (e.g. paclitaxel), 2C9 (e.g. phenytoin and warfarin), 2C19 (e.g. s-mephenytoin), 2D6 (e.g. thioridazine), and 1A2 (e.g. theophylline and tizanidine).\nBreast cancer resistant protein (BCRP) transporter-sensitive substrate rosuvastatin\n\nPatients with the following leukemia complications are not eligible for this trial:\n\nNo intrathecal chemotherapy is permitted on study. Prior to study enrollment, cerebrospinal fluid (CSF) evaluation is only required if there is a clinical suspicion for CNS leukemia. Clinical signs of CNS leukemia (such as facial nerve palsy, brain/eye involvement or hypothalamic syndrome) are not eligible for this trial\nImmediately life-threatening, severe complications of leukemia including uncontrolled bleeding, pneumonia with hypoxia or shock, and/or disseminated intravascular coagulation\nInfection: Patients who have an uncontrolled infection or patients with known human immunodeficiency virus (HIV) or active hepatitis B or C are not eligible\nPatients who have received a prior solid organ transplantation are not eligible\nPatients who in the opinion of the investigator may not be able to comply with the safety monitoring requirements of the study are not eligible"
+        ],
+        "MinimumAge": [
+          "24 Months"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Little Rock",
+          "Wilmington",
+          "Washington",
+          "Gainesville",
+          "Indianapolis",
+          "Ann Arbor",
+          "Kansas City",
+          "Hackensack",
+          "Syracuse",
+          "Cincinnati",
+          "Pittsburgh",
+          "Memphis",
+          "Nashville",
+          "Dallas",
+          "Norfolk",
+          "Montreal"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Alabama",
+          "Arkansas Children's Hospital",
+          "Alfred I duPont Hospital for Children",
+          "Children's National Medical Center",
+          "University of Florida Health Science Center - Gainesville",
+          "Riley Hospital for Children",
+          "C S Mott Children's Hospital",
+          "Children's Mercy Hospitals and Clinics",
+          "Hackensack University Medical Center",
+          "State University of New York Upstate Medical University",
+          "Cincinnati Children's Hospital Medical Center",
+          "Children's Hospital of Pittsburgh of UPMC",
+          "Saint Jude Children's Research Hospital",
+          "Vanderbilt University/Ingram Cancer Center",
+          "UT Southwestern/Simmons Cancer Center-Dallas",
+          "Children's Hospital of The King's Daughters",
+          "Centre Hospitalier Universitaire Sainte-Justine"
+        ],
+        "LocationState": [
+          "Alabama",
+          "Arkansas",
+          "Delaware",
+          "District of Columbia",
+          "Florida",
+          "Indiana",
+          "Michigan",
+          "Missouri",
+          "New Jersey",
+          "New York",
+          "Ohio",
+          "Pennsylvania",
+          "Tennessee",
+          "Tennessee",
+          "Texas",
+          "Virginia",
+          "Quebec"
+        ],
+        "LocationZip": [
+          "35233",
+          "72202-3591",
+          "19803",
+          "20010",
+          "32610",
+          "46202",
+          "48109",
+          "64108",
+          "07601",
+          "13210",
+          "45229",
+          "15224",
+          "38105",
+          "37232",
+          "75390",
+          "23507",
+          "H3T 1C5"
+        ],
+        "LocationContactEMail": [
+          "oncologyresearch@peds.uab.edu",
+          "dperry@nemours.org",
+          "cancer-center@ufl.edu",
+          "rryan@cmh.edu",
+          "cancer@cchmc.org",
+          "jean.tersak@chp.edu",
+          "referralinfo@stjude.org",
+          "canceranswerline@UTSouthwestern.edu",
+          "CCBDCresearch@chkd.org",
+          "yvan.samson@umontreal.ca"
+        ],
+        "LocationContactName": [
+          "Site Public Contact",
+          "Matthew A. Kutny",
+          "Site Public Contact",
+          "David L. Becton",
+          "Site Public Contact",
+          "Scott M. Bradfield",
+          "Site Public Contact",
+          "AeRang Kim",
+          "Site Public Contact",
+          "William B. Slayton",
+          "Site Public Contact",
+          "Sandeep Batra",
+          "Site Public Contact",
+          "Rajen Mody",
+          "Site Public Contact",
+          "Kevin F. Ginn",
+          "Site Public Contact",
+          "Jing Chen",
+          "Site Public Contact",
+          "Philip M. Monteleone",
+          "Site Public Contact",
+          "Joseph G. Pressey",
+          "Site Public Contact",
+          "Andrew Bukowinski",
+          "Site Public Contact",
+          "Jeffrey E. Rubnitz",
+          "Site Public Contact",
+          "Sara Zarnegar-Lumley",
+          "Site Public Contact",
+          "Kathleen (Wiertel) Ludwig",
+          "Site Public Contact",
+          "Eric J. Lowe",
+          "Site Public Contact",
+          "Yvan Samson"
+        ],
+        "LocationContactPhone": [
+          "205-638-9285",
+          "501-364-7373",
+          "302-651-6884",
+          "202-884-2549",
+          "352-273-8010",
+          "800-248-1199",
+          "800-865-1125",
+          "816-302-6808",
+          "201-996-2879",
+          "315-464-5476",
+          "513-636-2799",
+          "412-692-8570",
+          "888-226-4343",
+          "800-811-8480",
+          "214-648-7097",
+          "757-668-7243",
+          "514-345-4931"
+        ],
+        "BriefSummary": [
+          "This trial studies the side effects of enasidenib and to see how well it works in treating patients with acute myeloid leukemia that has come back after treatment (relapsed) or has been difficult to treat with chemotherapy (refractory). Patients must also have a specific genetic change, also called a mutation, in a protein called IDH2. Enasidenib may stop the growth of cancer cells by blocking the mutated IDH2 protein, which is needed for cell growth."
+        ],
+        "DetailedDescription": [
+          "PRIMARY OBJECTIVES:\n\nI. To determine the safety of treatment with enasidenib mesylate (enasidenib) administered at continuous daily oral dosing for a 28-day cycle up to 12 cycles in pediatric patients with IDH2-mutant relapsed/refractory (R/R)-acute myeloid leukemia (AML).\n\nII. To characterize the plasma pharmacokinetic (PK) profile of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nSECONDARY OBJECTIVES:\n\nI. To investigate the pharmacodynamic (PD) relationship of oncogenic metabolite 2-hydroxyglutarate (2-HG) to enasidenib treatment in pediatric patients with IDH2-mutant R/R-AML.\n\nII. To describe the clinical activity of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nOUTLINE:\n\nPatients receive enasidenib orally (PO) once daily (QD) on days 1-28. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days, then periodically up to 1 year."
+        ]
+      },
+      {
+        "Rank": 348,
+        "NCTId": [
           "NCT04318548"
         ],
         "OfficialTitle": [
@@ -20094,7 +20149,7 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 349,
         "NCTId": [
           "NCT03939637"
         ],
@@ -20277,7 +20332,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 350,
         "NCTId": [
           "NCT02610660"
         ],
@@ -20460,7 +20515,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 350,
+        "Rank": 351,
         "NCTId": [
           "NCT02859896"
         ],
@@ -20625,7 +20680,7 @@
         ]
       },
       {
-        "Rank": 351,
+        "Rank": 352,
         "NCTId": [
           "NCT02205762"
         ],
@@ -20979,7 +21034,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 353,
         "NCTId": [
           "NCT03719339"
         ],
@@ -21143,7 +21198,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 354,
         "NCTId": [
           "NCT03633708"
         ],
@@ -21315,7 +21370,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 355,
         "NCTId": [
           "NCT04608019"
         ],
@@ -21460,7 +21515,7 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 356,
         "NCTId": [
           "NCT04378075"
         ],
@@ -21547,7 +21602,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 356,
+        "Rank": 357,
         "NCTId": [
           "NCT03707158"
         ],
@@ -21658,7 +21713,7 @@
         ]
       },
       {
-        "Rank": 357,
+        "Rank": 358,
         "NCTId": [
           "NCT01987882"
         ],
@@ -21771,7 +21826,7 @@
         ]
       },
       {
-        "Rank": 358,
+        "Rank": 359,
         "NCTId": [
           "NCT00670735"
         ],
@@ -21926,7 +21981,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 359,
+        "Rank": 360,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22019,7 +22074,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 360,
+        "Rank": 361,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22122,7 +22177,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 361,
+        "Rank": 362,
         "NCTId": [
           "NCT03813238"
         ],
@@ -22411,7 +22466,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 362,
+        "Rank": 363,
         "NCTId": [
           "NCT04075266"
         ],
@@ -22534,7 +22589,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 363,
+        "Rank": 364,
         "NCTId": [
           "NCT04354155"
         ],
@@ -22684,7 +22739,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 364,
+        "Rank": 365,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22748,7 +22803,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 365,
+        "Rank": 366,
         "NCTId": [
           "NCT03025698"
         ],
@@ -22947,7 +23002,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 366,
+        "Rank": 367,
         "NCTId": [
           "NCT03837899"
         ],
@@ -23057,7 +23112,7 @@
         ]
       },
       {
-        "Rank": 367,
+        "Rank": 368,
         "NCTId": [
           "NCT03441360"
         ],
@@ -23259,7 +23314,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 368,
+        "Rank": 369,
         "NCTId": [
           "NCT01148550"
         ],
@@ -23473,7 +23528,7 @@
         ]
       },
       {
-        "Rank": 369,
+        "Rank": 370,
         "NCTId": [
           "NCT02040714"
         ],
@@ -23889,7 +23944,7 @@
         ]
       },
       {
-        "Rank": 370,
+        "Rank": 371,
         "NCTId": [
           "NCT03268421"
         ],
@@ -23990,7 +24045,7 @@
         ]
       },
       {
-        "Rank": 371,
+        "Rank": 372,
         "NCTId": [
           "NCT04114539"
         ],
@@ -24562,7 +24617,7 @@
         ]
       },
       {
-        "Rank": 372,
+        "Rank": 373,
         "NCTId": [
           "NCT04068012"
         ],
@@ -24640,7 +24695,7 @@
         ]
       },
       {
-        "Rank": 373,
+        "Rank": 374,
         "NCTId": [
           "NCT03118986"
         ],
@@ -24725,7 +24780,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 374,
+        "Rank": 375,
         "NCTId": [
           "NCT02840409"
         ],
@@ -24863,7 +24918,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 375,
+        "Rank": 376,
         "NCTId": [
           "NCT02650401"
         ],
@@ -25046,7 +25101,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 376,
+        "Rank": 377,
         "NCTId": [
           "NCT03785405"
         ],
@@ -25337,7 +25392,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 377,
+        "Rank": 378,
         "NCTId": [
           "NCT03275402"
         ],
@@ -25435,7 +25490,7 @@
         ]
       },
       {
-        "Rank": 378,
+        "Rank": 379,
         "NCTId": [
           "NCT02303431"
         ],
@@ -25624,7 +25679,7 @@
         ]
       },
       {
-        "Rank": 379,
+        "Rank": 380,
         "NCTId": [
           "NCT03312751"
         ],
@@ -25850,7 +25905,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 380,
+        "Rank": 381,
         "NCTId": [
           "NCT04351893"
         ],
@@ -25950,7 +26005,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 381,
+        "Rank": 382,
         "NCTId": [
           "NCT04218851"
         ],
@@ -26120,7 +26175,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 383,
         "NCTId": [
           "NCT04015141"
         ],
@@ -26294,7 +26349,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 383,
+        "Rank": 384,
         "NCTId": [
           "NCT02134301"
         ],
@@ -26385,7 +26440,7 @@
         ]
       },
       {
-        "Rank": 384,
+        "Rank": 385,
         "NCTId": [
           "NCT01500551"
         ],
@@ -26893,7 +26948,7 @@
         ]
       },
       {
-        "Rank": 385,
+        "Rank": 386,
         "NCTId": [
           "NCT04578756"
         ],
@@ -27036,7 +27091,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 386,
+        "Rank": 387,
         "NCTId": [
           "NCT04200352"
         ],
@@ -27156,7 +27211,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 387,
+        "Rank": 388,
         "NCTId": [
           "NCT03958877"
         ],
@@ -27399,7 +27454,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 388,
+        "Rank": 389,
         "NCTId": [
           "NCT03813407"
         ],
@@ -27559,7 +27614,7 @@
         ]
       },
       {
-        "Rank": 389,
+        "Rank": 390,
         "NCTId": [
           "NCT03492177"
         ],
@@ -27744,7 +27799,7 @@
         ]
       },
       {
-        "Rank": 390,
+        "Rank": 391,
         "NCTId": [
           "NCT04238819"
         ],
@@ -27861,7 +27916,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 391,
+        "Rank": 392,
         "NCTId": [
           "NCT03406507"
         ],
@@ -27917,7 +27972,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 392,
+        "Rank": 393,
         "NCTId": [
           "NCT03206021"
         ],
@@ -28033,7 +28088,7 @@
         ]
       },
       {
-        "Rank": 393,
+        "Rank": 394,
         "NCTId": [
           "NCT02862132"
         ],
@@ -28144,6 +28199,69 @@
         ],
         "DetailedDescription": [
           "This is a multi-center prospective cohort study in which the investigators are aim to enroll 140 children under the age of 18 years, diagnosed with CD, inflammatory bowel disease unclassified (IBDU) or UC (approximately 70 in UC/IBDU and 70 in the CD group) who commenced on Vedolizumab for any reason at the discretion of the treating physician.\n\nPatients will be followed up to 3 years at 8 different time points: week 0, week 2, week 6, week 14, week 30, week 54 (1 year), week 108 (2 years) and week 162 (3 years). Blood work will be collected at each visit during the time of venous access insertion for the drug infusion for serum and stool sample will be collected at visits 0, 14, 30, and 54. In addition, at week 0 and 14 whole blood will be collected into a PaxGene tube for gene expression analysis."
+        ]
+      },
+      {
+        "Rank": 395,
+        "NCTId": [
+          "NCT04143724"
+        ],
+        "OfficialTitle": [
+          "A Phase 2a Study to Evaluate the Safety and Pharmacokinetics of Luspatercept (ACE-536) in Pediatric Subjects Who Require Regular Red Blood Cell Transfusions Due to Beta (β)-Thalassemia"
+        ],
+        "Condition": [
+          "Beta-Thalassemia"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nParticipants must satisfy the following criteria to be enrolled into the study:\n\nParticipant must be 6 years to < 18 years of age at the time of signing the informed consent form (ICF)/informed assent form (IAF).\nParticipant (and when applicable, parent/legal representative) must understand and voluntarily sign an ICF/IAF prior to conducting any study-related assessments/procedures.\nParticipant (and when applicable, parent/legal representative) is willing and able to adhere to the study visit schedule and other protocol requirements.\nParticipant must have documented diagnosis of β-thalassemia or Hemoglobin/β-thalassemia.\n\nParticipant is regularly transfused, defined as: ≥ 4 red blood cell transfusions in the 24 weeks prior to enrollment with no transfusion-free period ≥ 42 days during that period.\n\nNote: For the purpose of the study, transfusions administered over 2 or 3 consecutive days are considered as part of a single transfusion event. Participant must have a history of regular transfusions for at least 2 years.\n\nParticipant has Karnofsky (age ≥16 years) or Lansky (age < 16 years) performance status score ≥ 50 at screening.\nFemale children of childbearing potential (FCCBP), females of childbearing potential (FCBP), and male participants that have reached puberty (and when applicable, parent/legal representative) must agree to undergo physician-approved reproductive education and discuss the side effects of the study therapy on reproduction.\n\nFemale children of childbearing potential, defined as females who have achieved menarche and/or breast development in Tanner Stage 2 or greater and have not undergone a hysterectomy or bilateral oophorectomy and females of childbearing potential (FCBP)defined as a sexually mature woman who has achieved menarche at some point, has not undergone a hysterectomy or bilateral oophorectomy and has not been naturally postmenopausal for at least 24 consecutive months (ie, has had menses at any time in the preceding 24 consecutive months) must meet the following conditions below (Note: Secondary amenorrhea from any cause does not rule out childbearing potential):\n\nMedically supervised serum pregnancy tests with a sensitivity of at least 25 mIU/mL must be conducted in Female children of childbearing potential (FCCBP)/ females of childbearing potential (FCBP), including those who commit to complete abstinence. Female children of childbearing potential/ females of childbearing potential (FCBP)must have 2 negative pregnancy tests as verified by the Investigator prior to starting study therapy. Female children of childbearing potential/ females of childbearing potential (FCBP)must agree to ongoing pregnancy testing during the course of the study, after the end of study treatment, and end of the study.\nFemale participants must, as appropriate to age and at the discretion of the site Investigator, either commit to true abstinence* from heterosexual contact (which must be reviewed on a monthly basis) or agree to use, and be able to comply with, effective** contraception without interruption, 28 days prior to starting IP, during the study therapy (including dose interruptions), and for 12 weeks (approximately 5 times the mean terminal t1/2 of luspatercept based on multiple-dose PK data) after discontinuation of study therapy.\n\nMale participants, as appropriate to age and the discretion of the study physician:\n\nMust practice true abstinence* (which must be reviewed on a monthly basis) or agree to use a synthetic or latex condom during sexual contact with a pregnant female or a Female children of childbearing potential (FCCBP)/FCBP while participating in the study, during dose interruptions and for at least 12 weeks (approximately 5 times the mean terminal t1/2 of luspatercept based on multiple-dose PK data) following IP discontinuation, even if he has undergone a successful vasectomy\n\nTrue abstinence is acceptable when this is in line with the preferred and usual lifestyle of the participant. [Periodic abstinence (eg, calendar, ovulation, symptothermal, post-ovulation methods) and withdrawal are not acceptable methods of contraception.] ** Agreement to use highly effective methods of contraception that alone or in combination result in a failure rate of a Pearl index of less than 1% per year when used consistently and correctly throughout the course of the study. Such methods include: Combined (estrogen and progesterone/progestin containing) hormonal contraception: Oral; Intravaginal; Transdermal; Progestogen/progestin only hormonal contraception associated with inhibition of ovulation: Oral; Injectable hormonal contraception; Implantable hormonal contraception; Placement of an intrauterine device (IUD); Placement of an intrauterine hormone-releasing system (IUS); Bilateral tubal occlusion; Vasectomized partner; Sexual Abstinence.\n\nExclusion Criteria:\n\nThe presence of any of the following will exclude a participant from enrollment into the study:\n\nParticipant has any significant medical condition, laboratory abnormality, or psychiatric illness that would prevent the participant from participating in the study.\nParticipant has any condition including the presence of laboratory abnormalities, which places the participant at unacceptable risk if he/she were to participate in the study.\nParticipant has any condition that confounds the ability to interpret data from the study.\nParticipant has a diagnosis of Hemoglobin S/β-thalassemia or alpha (α)-thalassemia (eg, Hemoglobin H); β-thalassemia combined with α-thalassemia is allowed.\n\nParticipant has of active hepatitis C (HCV) infection, as demonstrated by a positive HCF-ribonucleic acid (RNS) test of sufficient sensitivity, or active infectious hepatitis B (as demonstrated by the presence of hepatitis B surface antigen (HBsAG) and/or hepatitis B virus (HBV)-deoxyribonucleic acid (DNA) positive, or known positive human immunodeficiency virus (HIV).\n\nNote: Participants receiving antiviral therapies should have 2 negative HCV-RNA tests 3 months apart before ICF/IAF signature, ie, one test at the end of the antiviral therapy and the second test 3 months following the first test.\n\nParticipant has severe infection ≤ 28 days prior to enrollment. Additionally, in the case of prior SARS-CoV-2 infection, symptoms must have completely resolved, and based on Investigator assessment in consultation with the Clinical Trial Physician, there are no sequelae that would place the participant at a higher risk of receiving investigational treatment.\nParticipant has received a live COVID-19 vaccine ≤ 28 days prior to screening.\nParticipant has deep vein thrombosis (DVT), stroke, or other thromboembolic event(s) (except clogged indwelling catheter) requiring medical intervention ≤ 24 weeks prior to enrollment.\nParticipant has chronic anticoagulant therapy ≤ 28 days prior to enrollment (Anticoagulant therapies used for prophylaxis for surgery or high-risk procedures as well as low molecular weight [LMW] heparin for superficial vein thrombosis [SVT] and chronic aspirin are allowed).\nParticipant has platelet count > 1000 x 109/L.\nParticipant has poorly controlled diabetes mellitus within 24 weeks prior to enrollment as defined by short term (eg, hyperosmolar or ketoacidotic crisis) and/or history of diabetic cardiovascular complications (eg, stroke or myocardial infarction).\nParticipant has treatment with another investigational drug or device ≤ 28 days prior to enrollment.\nParticipant has prior exposure to sotatercept (ACE-011) or luspatercept (ACE-536).\nParticipant underwent or is scheduled for HSCT or gene therapy\nParticipant has used an erythropoiesis-stimulating agent (ESA) ≤ 24 weeks prior to enrollment.\nParticipant use of iron chelation therapy (ICT), if initiated ≤ 8 weeks prior to enrollment (allowed if initiated > 8 weeks before or during treatment).\nParticipant use of hydroxyurea treatment ≤ 24 weeks prior to enrollment.\nParticipant is pregnant or breastfeeding female.\nParticipant has uncontrolled hypertension. Controlled hypertension for this protocol is considered ≤ Grade 1 according to NCI CTCAE version 5.0.\n\nParticipant has major organ damage, including:\n\nSymptomatic splenomegaly\nLiver disease with alanine aminotransferase (ALT)/aspartate aminotransferase (AST) > 3X the upper limit of normal (ULN) for age\nHeart disease, heart failure as classified by the New York Heart Association (NYHA) classification 3 or higher, or significant arrhythmia requiring treatment, or recent myocardial infarction within 6 years of enrollment\nLung disease, including pulmonary fibrosis or pulmonary hypertension which are clinically significant\n\nRenal insufficiency defined as:\n\nA serum creatinine based on age/gender based on threshold derived from Schwartz formula for estimating GFR utilizing child length and stature data published by the Centers for Disease Control\nParticipant has proteinuria ≥ Grade 3 according to NCI CTCAE version 5.0.\nParticipant use of chronic systemic glucocorticoids ≤ 12 weeks prior to enrollment (physiologic replacement therapy for adrenal insufficiency is allowed). Single day glucocorticoid treatment (eg, for prevention or treatment of transfusion reactions) is allowed.\nParticipant has major surgery ≤ 12 weeks prior to enrollment (participants must have completely recovered from any previous surgery prior to enrollment).\nParticipant has history of severe allergic or anaphylactic reactions or hypersensitivity to recombinant proteins or excipients in the IP (see IB).\nParticipant use of cytotoxic agents, immunosuppressants ≤ 28 days prior to enrollment (ie, antithymocite globulin (ATG) or cyclosporine).\n\nParticipant has history of malignancy with the exception of:\n\nCuratively resected nonmelanoma skin cancer.\nCuratively treated cervical carcinoma in situ.\nOther solid tumor with no known active disease in the opinion of the Investigator."
+        ],
+        "MinimumAge": [
+          "6 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Los Angeles",
+          "Ulm",
+          "Athens",
+          "Genoa",
+          "Napoli",
+          "Orbassano",
+          "Bangkok",
+          "Izmir"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Los Angeles",
+          "Universitatsklinikum Ulm",
+          "General Children's Hospital \"Agia Sophia\"",
+          "Ente Ospedaliero Ospedali Galliera - Centro della Microcitemia e delle Anemie Congenite",
+          "Azienda Ospedaliera Universitaria \"Federico II\"",
+          "Azienda Ospedaliero Universitaria S. Luigi Gonzaga",
+          "Siriraj Hospital Mahidol University",
+          "Ege Universitesi Tip Fakultesi Hastanesi"
+        ],
+        "LocationState": [
+          "California"
+        ],
+        "LocationZip": [
+          "90027",
+          "89081",
+          "115 27",
+          "16128",
+          "80131",
+          "10043",
+          "10700",
+          "35100"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "This is a Phase 2a study to evaluate the safety and pharmacokinetics (PK) of luspatercept in pediatric participants who require regular red blood cell transfusions due to β-thalassemia.\n\nThe study will be conducted in 2 parts: Part A will be in adolescent participants aged 12 to <18 years with two dose escalation cohorts of 6 participants each, followed by a dose expansion cohort of 30 participants. Part B will begin after a review of the safety in participants completing at least one year of treatment in Part A and will be in participants aged 6 to <12 with two dose escalation cohorts of 6 participants each.\n\nUpon completion of the Treatment Period, participants of any cohort who are benefiting from the study treatment, will be offered the opportunity to continue luspatercept treatment in the Long-term Treatment Period for up to 5 years from their first dose (Cycle 1 Day 1).\n\nParticipants who discontinue study treatment any time will continue in the Posttreatment Follow-up Period for at least 5 years from their first dose of luspatercept (Cycle 1 Day 1), or 3 years from their last dose, whichever occurs later, or until they withdraw consent/assent, are lost to follow-up, or the End of Trial, whichever occurs first."
+        ],
+        "DetailedDescription": [
+          "This is a Phase 2a study to evaluate the safety and pharmacokinetics (PK) of luspatercept in pediatric participants who require regular red blood cell (RBC) transfusions due to β-thalassemia and to determine the recommended dose (RD).\n\nThe primary endpoints are the determination of the RD and PK parameters (including Cmax, AUC, t1/2, CL/F and Vd/F).\n\nThe secondary endpoints include the safety of luspatercept in pediatric participants, the immunogenicity (frequency of antidrug antibodies) of luspatercept, mean change in RBC transfusion burden, mean change in hemoglobin levels, mean change from baseline in mean daily dose of iron chelation therapy (ICT), and mean change from baseline in serum ferritin.\n\nThe study will consist of the following periods:\n\nScreening/Run-in Period\nTreatment Period\nLong-term Treatment Period\nPosttreatment Follow-up Period\n\nParticipant screening procedures will occur during the Screening/Run-in Period, within 12 weeks prior to the start of study treatment. Participants who meet the study eligibility criteria will be enrolled into the Treatment Period.\n\nThe study will be conducted in a staggered manner, in descending order of age, with 2 parts as described below.\n\nPart A\n\nAdolescent participants aged 12 to < 18 years: Luspatercept 0.75 will be enrolled as outlined below:\n\nPart A Dose Escalation Phase\n\nPart A Dose Escalation Phase will explore up to 2 dose levels of luspatercept, 0.75 mg/kg and 1.0 mg/kg, to evaluate the safety and tolerability of luspatercept in this age group and determine the RD to be used for Part A Expansion Phase:\n\nCohort 1: 6 adolescent participants 12 to < 18 years of age receiving luspatercept 0.75 mg/kg, administered subcutaneously (SC) once every 21 days (for up to 4 cycles in the Treatment Period)\nCohort 2: 6 adolescent participants 12 to < 18 years of age receiving luspatercept 1.0 mg/kg, administered SC once every 21 days (for up to 4 cycles in the Treatment Period)\n\nPart A Expansion Phase\n\n• Cohort 3 - The Expansion Cohort: 30 adolescent participants (12 to < 18 years of age) receiving luspatercept at the RD for up to 12 months in the Treatment Period.\n\nChildren from 6 years to < 12 years of age will be enrolled into Part B as outlined below:\n\nPart B Dose Escalation Phase will explore 2 dose levels of luspatercept, 1.0 mg/kg and 1.25 mg/kg, to evaluate the safety and tolerability of luspatercept in this age group and determine the RD.\n\nCohort 4: 6 participants (6 to < 12 years of age) receiving luspatercept 1.0 mg/kg, administered SC once every 21 days (for up to 4 cycles in the Treatment Period)\nCohort 5: 6 participants (6 to <12 years of age) receiving luspatercept 1.25 mg/kg, administered SC once every 21 days (for up to 4 cycles in the Treatment Period)\n\nDuring the Treatment Period of both Part A Dose Escalation Phase and Part B Dose Escalation Phase, once all 6 participants in a dose escalation cohort have completed the first cycle (Study Day 22), the Dose Review Team (DRT), will review all available safety data, including dose-limiting toxicities (DLTs), adverse events (AEs), serious adverse events (SAEs), and laboratory results (including hematology and chemistry) reported during Cycle 1 of each dose level.\n\nA DLT, using the current active version of the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0, is defined as any of the following toxicities at any dose level occurring within 21 days of the first administered dose:\n\nTreatment-related SAE of ≥ Grade 3\nTreatment-related nonhematologic AE of ≥ Grade 3\nTreatment-related hematologic AE of ≥ Grade 4\n\nThe DRT will make a recommendation as to whether or not to enroll the next cohort at the next planned dose level based in part upon the following criteria:\n\nIf a DLT occurs in ≤ 1 participant (out of 6) in a cohort within 21 days following the initial dose of luspatercept, the next planned dose level may proceed;\nIf a DLT occurs in ≥ 2 participants (out of 6) in a cohort within 21 days following the initial dose of luspatercept, the next planned dose level should not proceed;\nIf a hemoglobin increase of ≥ 2.0 g/dL (confirmed by central lab after initial study treatment administration and not attributable to RBC transfusion) occurs in ≥ 2 participants (out of 6) in a cohort, the decision to proceed to the next planned dose level will need to be evaluated by the DRT.\n\nAt least 6 participants eligible for the Dose Determining Set (DDS) are planned to be enrolled per dose escalation cohort with up to 2 cohorts per age group. With up to 4 2 age groups being considered, a total of up to 24 participants are to be included in the DDS.\n\nTo minimize safety risk to participants, best supportive care will be available, including RBC transfusions, iron-chelating agents, use of antibiotic therapy, antiviral and antifungal therapy, and/or nutritional support as needed."
         ]
       }
     ]
