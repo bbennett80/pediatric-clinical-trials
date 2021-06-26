@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:06:23 22:28:43.382",
+    "DataVrs": "2021:06:24 22:29:20.138",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 381460,
+    "NStudiesAvail": 381600,
     "NStudiesFound": 396,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -11943,9 +11943,11 @@
           "Bone Diseases, Metabolic"
         ],
         "EligibilityCriteria": [
-          "INCLUSION CRITERIA:\nParticipants with known or suspected endocrine disorder ages 0-18 years are eligible for this protocol. Protocol investigators will make the actual selection of patients most appropriate for clinical training.\nRelatives ages 0- 100 years may be enrolled if clinically indicated for the diagnosis of a proband.\n\nEXCLUSION CRITERIA:\n\nThere are no formal exclusion criteria\nAny medical, physical, psychiatric, or social conditions, which, in the opinion of the investigators, would make participation in this protocol not in the best interest of the patient, will exclude participation. Patients who are critically ill, unstable, or with severe organ failure that may affect/limit the endocrine evaluation and place unsustainable demands on Clinical Center or NICHD resources will be excluded."
+          "INCLUSION CRITERIA:\nParticipants with known or suspected endocrine disorder ages 1-18 years are eligible for this protocol. Protocol investigators will make the actual selection of patients most appropriate for clinical training.\nRelatives ages 3 months- 100 years may be enrolled if clinically indicated for the diagnosis of a proband.\n\nEXCLUSION CRITERIA:\n\nThere are no formal exclusion criteria\nAny medical, physical, psychiatric, or social conditions, which, in the opinion of the investigators, would make participation in this protocol not in the best interest of the patient, will exclude participation. Patients who are critically ill, unstable, or with severe organ failure that may affect/limit the endocrine evaluation and place unsustainable demands on Clinical Center or NICHD resources will be excluded."
         ],
-        "MinimumAge": [],
+        "MinimumAge": [
+          "1 Year"
+        ],
         "MaximumAge": [
           "18 Years"
         ],
@@ -21414,6 +21416,151 @@
       {
         "Rank": 357,
         "NCTId": [
+          "NCT04608019"
+        ],
+        "OfficialTitle": [
+          "Streamlined Treatment of Pulmonary Exacerbations in Pediatrics (Pilot)"
+        ],
+        "Condition": [
+          "Cystic Fibrosis"
+        ],
+        "EligibilityCriteria": [
+          "Enrollment Inclusion Criteria:\n\nAge 6 to <19 years\n\nDocumentation of a CF diagnosis as evidenced by one or more clinical features consistent with the CF phenotype and one or more of the following criteria:\n\nsweat chloride ≥ 60 mEq/liter\ntwo disease-causing variants in the cystic fibrosis transmembrane conductive regulator (CFTR) gene\nWritten informed consent (and assent when applicable) obtained from participant or participant's legal representative and ability of participant to comply with the requirements of the study\nAble to perform acceptable and reproducible spirometry\nFEV1 ≥ 50% predicted at enrollment based on the Global lung Initiative (GLI) reference equations\nAt least 1 course of oral or IV antibiotics for respiratory symptoms since January 1, 2019.\nAbility to receive text messages and access the internet\n\nEnrollment Exclusion Criteria:\n\nPresence of a condition or abnormality that in the opinion of the Investigator would compromise the safety of the patient or the quality of the data.\nPrevious randomization in the study\nReceiving antibiotics for a PEx at the time of enrollment or within the 21 days prior to enrollment. Individuals may be re-screened ≥21 days after completion of antibiotics if they are at their baseline state of health, per self-report.\nTreatment with systemic corticosteroids at enrollment. Individuals may be re- screened ≥21 days after completion of systemic corticosteroids if they are at their clinical baseline, per self-report.\nHistory of solid organ transplant\nHistory of positive culture for Mycobacterium abscessus in the 12 months prior to enrollment\nTreatment with antibiotics for any non-tuberculous mycobacteria (NTM) at enrollment\nThree or more IV antibiotic-treated PEx in the 12 months prior to enrollment\nTreatment with chronic oral antibiotics other than azithromycin at enrollment"
+        ],
+        "MinimumAge": [
+          "6 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Tucson",
+          "Aurora",
+          "Atlanta",
+          "Chicago",
+          "Indianapolis",
+          "Grand Rapids",
+          "Portland",
+          "Pittsburgh",
+          "Houston",
+          "Seattle"
+        ],
+        "LocationFacility": [
+          "Tucson Cystic Fibrosis Center",
+          "Children's Hospital of Colorado",
+          "Children's Healthcare of Atlanta",
+          "Lurie Children's Hospital of Chicago & Northwestern University",
+          "Riley Hospital for Children",
+          "Helen DeVos Children's Hospital",
+          "Oregon Health Sciences University",
+          "Children's Hospital of Pittsburgh of UPMC",
+          "Texas Children's Hospital and Baylor College of Medicine",
+          "Seattle Children's Hospital"
+        ],
+        "LocationState": [
+          "Arizona",
+          "Colorado",
+          "Georgia",
+          "Illinois",
+          "Indiana",
+          "Michigan",
+          "Oregon",
+          "Pennsylvania",
+          "Texas",
+          "Washington"
+        ],
+        "LocationZip": [
+          "85713",
+          "80045",
+          "30322",
+          "60611-2605",
+          "46202",
+          "49503",
+          "97239",
+          "15224",
+          "77030",
+          "98105"
+        ],
+        "LocationContactEMail": [
+          "elizabethryan@arizona.edu",
+          "Mary.Cross@childrenscolorado.org",
+          "dana.coyle@childrenscolorado.org",
+          "Akele.carter@choa.org",
+          "ashleigh.streby@emory.edu",
+          "yhwu@luriechildrens.org",
+          "misthomp@iupui.edu",
+          "lbendy@iu.edu",
+          "thomas.symington@spectrumhealth.org",
+          "Lindsey.Kamphuis@spectrumealth.org",
+          "hansoan@ohsu.edu",
+          "kleinb@ohsu.edu",
+          "Adrienne.Dericco2@upmc.edu",
+          "jennifer.nagg@chp.edu",
+          "rogeliog@bcm.edu",
+          "klhowe@texaschildrens.org",
+          "sharon.mcnamara@seattlechildrens.org",
+          "sabrina.gorry@seattlechildrens.org"
+        ],
+        "LocationContactName": [
+          "Elizabeth (Lisa) Ryan",
+          "Cori Daines, MD",
+          "Mary Cross",
+          "Dana Coyle",
+          "Jordana Hoppe, MD",
+          "Akele Carter",
+          "Ashleigh Streby",
+          "Kevin Kirchner, MD",
+          "Irene Wu",
+          "Susanna McColley, MD",
+          "Misty Thompson, B.S.",
+          "Lisa Bendy",
+          "D. B. Sanders, MD",
+          "Thomas Symington, RN",
+          "Lindsey Kamphuis, RN",
+          "Susan Millard, MD",
+          "Annie Hanson",
+          "Brendan Klein",
+          "Kelvin MacDonald, MD",
+          "Adrienne DeRicco",
+          "Jennifer Nagg, RN",
+          "Daniel Weiner, MD",
+          "Roger Hernandez",
+          "Katie Howe",
+          "Fadel Ruiz, MD",
+          "Sharon McNamara",
+          "Sabrina Gorry",
+          "Margaret Rosenfeld, MD"
+        ],
+        "LocationContactPhone": [
+          "520-626-3125",
+          "720-777-4645",
+          "720-777-6162",
+          "404-785-9011",
+          "404-727-0305",
+          "312-227-2473",
+          "317-274-7768",
+          "317-948-7152",
+          "616-391-9366",
+          "616-267-2022",
+          "503-494-5487",
+          "503-418-8108",
+          "412-692-8069",
+          "(412) 692-5389",
+          "832-822-3389",
+          "(810) 429-1721",
+          "206-987-3921",
+          "206-987-3921"
+        ],
+        "BriefSummary": [
+          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population."
+        ],
+        "DetailedDescription": [
+          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population. The primary endpoint is the proportion of participants in the tailored arm who did not take any oral antibiotics in the 28 days following randomization.\n\nUltimately, we want to learn:\n\nWhat is the best way to treat pulmonary exacerbations?\nShould everyone with a pulmonary exacerbation take antibiotics?\nDo the benefits of starting antibiotics at the first signs of illness outweigh the possible risks, like side effects and antibiotic resistance?\n\nThis pilot study is designed to determine if an interventional study to help answer these questions is feasible. Up to 120 participants will be enrolled and followed through their well state of health, then for 28 days following their first randomized exacerbation. Enrollment will stop after 80 pulmonary exacerbation events have been randomized, even if this does not require 120 participants. Due to the nature of the study, the identity of treatment assignment will be known to investigators, research staff, and patients (ie, not blinded).\n\nTotal duration of this pilot study is expected to be approximately 18 months: 6 months for participant recruitment and 12 months for follow up. Participants could be monitored for up to 18 months if they do not have an exacerbation. However, it is anticipated that the majority of participants will experience a randomizable PEx event and therefore have a shorter follow up period."
+        ]
+      },
+      {
+        "Rank": 358,
+        "NCTId": [
           "NCT04378075"
         ],
         "OfficialTitle": [
@@ -21504,7 +21651,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 358,
+        "Rank": 359,
         "NCTId": [
           "NCT03633708"
         ],
@@ -21673,151 +21820,6 @@
         ],
         "DetailedDescription": [
           "SHPT is a common and serious co-morbidity that develops relatively early in the course of CKD, worsens with declining kidney function, and is associated with serious complications in children on dialysis. Children on dialysis experience a wide spectrum of bone abnormalities and growth retardation, in addition to increased risk for cardiovascular morbidity and mortality that manifests early in their adulthood. Traditional therapies for SHPT (eg, vitamin D sterols) are widely used in the pediatric dialysis population, and have the potential to aggravate complications of the disease by increasing serum calcium (Ca), serum phosphorus, and serum Ca times serum phosphorus product.\n\nEtelcalcetide has been shown to be safe and efficacious in treating adult CKD patients with SHPT by simultaneously controlling intact parathyroid hormone (iPTH), Ca, and phosphorus and has recently been approved for use in adult patients with SHPT treated with hemodialysis in both the United States and Europe. Although no previous studies have been conducted in pediatric patients with etelcalcetide (one single dose pharmacokinetic [PK] study is currently ongoing), Amgen anticipates minimal to moderate risk with a possibility of direct benefit to the pediatric subject in this study. The burden of complications of SHPT in the pediatric dialysis population and the limitations of current standard therapy, underscore the need for studies of etelcalcetide in these patients to address this unmet medical need and inform the pediatric nephrology community of the potential use of etelcalcetide in children on hemodialysis with critical safety and efficacy data."
-        ]
-      },
-      {
-        "Rank": 359,
-        "NCTId": [
-          "NCT04608019"
-        ],
-        "OfficialTitle": [
-          "Streamlined Treatment of Pulmonary Exacerbations in Pediatrics (Pilot)"
-        ],
-        "Condition": [
-          "Cystic Fibrosis"
-        ],
-        "EligibilityCriteria": [
-          "Enrollment Inclusion Criteria:\n\nAge 6 to <19 years\n\nDocumentation of a CF diagnosis as evidenced by one or more clinical features consistent with the CF phenotype and one or more of the following criteria:\n\nsweat chloride ≥ 60 mEq/liter\ntwo disease-causing variants in the cystic fibrosis transmembrane conductive regulator (CFTR) gene\nWritten informed consent (and assent when applicable) obtained from participant or participant's legal representative and ability of participant to comply with the requirements of the study\nAble to perform acceptable and reproducible spirometry\nFEV1 ≥ 50% predicted at enrollment based on the Global lung Initiative (GLI) reference equations\nAt least 1 course of oral or IV antibiotics for respiratory symptoms since January 1, 2019.\nAbility to receive text messages and access the internet\n\nEnrollment Exclusion Criteria:\n\nPresence of a condition or abnormality that in the opinion of the Investigator would compromise the safety of the patient or the quality of the data.\nPrevious randomization in the study\nReceiving antibiotics for a PEx at the time of enrollment or within the 21 days prior to enrollment. Individuals may be re-screened ≥21 days after completion of antibiotics if they are at their baseline state of health, per self-report.\nTreatment with systemic corticosteroids at enrollment. Individuals may be re- screened ≥21 days after completion of systemic corticosteroids if they are at their clinical baseline, per self-report.\nHistory of solid organ transplant\nHistory of positive culture for Mycobacterium abscessus in the 12 months prior to enrollment\nTreatment with antibiotics for any non-tuberculous mycobacteria (NTM) at enrollment\nThree or more IV antibiotic-treated PEx in the 12 months prior to enrollment\nTreatment with chronic oral antibiotics other than azithromycin at enrollment"
-        ],
-        "MinimumAge": [
-          "6 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Tucson",
-          "Aurora",
-          "Atlanta",
-          "Chicago",
-          "Indianapolis",
-          "Grand Rapids",
-          "Portland",
-          "Pittsburgh",
-          "Houston",
-          "Seattle"
-        ],
-        "LocationFacility": [
-          "Tucson Cystic Fibrosis Center",
-          "Children's Hospital of Colorado",
-          "Children's Healthcare of Atlanta",
-          "Lurie Children's Hospital of Chicago & Northwestern University",
-          "Riley Hospital for Children",
-          "Helen DeVos Children's Hospital",
-          "Oregon Health Sciences University",
-          "Children's Hospital of Pittsburgh of UPMC",
-          "Texas Children's Hospital and Baylor College of Medicine",
-          "Seattle Children's Hospital"
-        ],
-        "LocationState": [
-          "Arizona",
-          "Colorado",
-          "Georgia",
-          "Illinois",
-          "Indiana",
-          "Michigan",
-          "Oregon",
-          "Pennsylvania",
-          "Texas",
-          "Washington"
-        ],
-        "LocationZip": [
-          "85713",
-          "80045",
-          "30322",
-          "60611-2605",
-          "46202",
-          "49503",
-          "97239",
-          "15224",
-          "77030",
-          "98105"
-        ],
-        "LocationContactEMail": [
-          "elizabethryan@arizona.edu",
-          "Mary.Cross@childrenscolorado.org",
-          "dana.coyle@childrenscolorado.org",
-          "Akele.carter@choa.org",
-          "ashleigh.streby@emory.edu",
-          "yhwu@luriechildrens.org",
-          "misthomp@iupui.edu",
-          "lbendy@iu.edu",
-          "thomas.symington@spectrumhealth.org",
-          "Lindsey.Kamphuis@spectrumealth.org",
-          "hansoan@ohsu.edu",
-          "kleinb@ohsu.edu",
-          "Adrienne.Dericco2@upmc.edu",
-          "jennifer.nagg@chp.edu",
-          "rogeliog@bcm.edu",
-          "klhowe@texaschildrens.org",
-          "sharon.mcnamara@seattlechildrens.org",
-          "sabrina.gorry@seattlechildrens.org"
-        ],
-        "LocationContactName": [
-          "Elizabeth (Lisa) Ryan",
-          "Cori Daines, MD",
-          "Mary Cross",
-          "Dana Coyle",
-          "Jordana Hoppe, MD",
-          "Akele Carter",
-          "Ashleigh Streby",
-          "Kevin Kirchner, MD",
-          "Irene Wu",
-          "Susanna McColley, MD",
-          "Misty Thompson, B.S.",
-          "Lisa Bendy",
-          "D. B. Sanders, MD",
-          "Thomas Symington, RN",
-          "Lindsey Kamphuis, RN",
-          "Susan Millard, MD",
-          "Annie Hanson",
-          "Brendan Klein",
-          "Kelvin MacDonald, MD",
-          "Adrienne DeRicco",
-          "Jennifer Nagg, RN",
-          "Daniel Weiner, MD",
-          "Roger Hernandez",
-          "Katie Howe",
-          "Fadel Ruiz, MD",
-          "Sharon McNamara",
-          "Sabrina Gorry",
-          "Margaret Rosenfeld, MD"
-        ],
-        "LocationContactPhone": [
-          "520-626-3125",
-          "720-777-4645",
-          "720-777-6162",
-          "404-785-9011",
-          "404-727-0305",
-          "312-227-2473",
-          "317-274-7768",
-          "317-948-7152",
-          "616-391-9366",
-          "616-267-2022",
-          "503-494-5487",
-          "503-418-8108",
-          "412-692-8069",
-          "(412) 692-5389",
-          "832-822-3389",
-          "(810) 429-1721",
-          "206-987-3921",
-          "206-987-3921"
-        ],
-        "BriefSummary": [
-          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population."
-        ],
-        "DetailedDescription": [
-          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population. The primary endpoint is the proportion of participants in the tailored arm who did not take any oral antibiotics in the 28 days following randomization.\n\nUltimately, we want to learn:\n\nWhat is the best way to treat pulmonary exacerbations?\nShould everyone with a pulmonary exacerbation take antibiotics?\nDo the benefits of starting antibiotics at the first signs of illness outweigh the possible risks, like side effects and antibiotic resistance?\n\nThis pilot study is designed to determine if an interventional study to help answer these questions is feasible. Up to 120 participants will be enrolled and followed through their well state of health, then for 28 days following their first randomized exacerbation. Enrollment will stop after 80 pulmonary exacerbation events have been randomized, even if this does not require 120 participants. Due to the nature of the study, the identity of treatment assignment will be known to investigators, research staff, and patients (ie, not blinded).\n\nTotal duration of this pilot study is expected to be approximately 18 months: 6 months for participant recruitment and 12 months for follow up. Participants could be monitored for up to 18 months if they do not have an exacerbation. However, it is anticipated that the majority of participants will experience a randomizable PEx event and therefore have a shorter follow up period."
         ]
       },
       {
