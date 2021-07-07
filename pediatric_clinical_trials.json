@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:07:01 22:14:56.984",
+    "DataVrs": "2021:07:05 22:11:52.871",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 382313,
+    "NStudiesAvail": 382428,
     "NStudiesFound": 397,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -10730,48 +10730,6 @@
       {
         "Rank": 214,
         "NCTId": [
-          "NCT03266016"
-        ],
-        "OfficialTitle": [
-          "Identifying and Preventing Ventilator Induced Diaphragm Dysfunction in Children"
-        ],
-        "Condition": [
-          "Ventilation Therapy; Complications",
-          "Diaphragm Disease",
-          "Pediatric Respiratory Diseases"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nChildren > 1 month (>44 weeks CGA) and ≤ 18 years of age AND\nSupported on mechanical ventilation with pulmonary parenchymal disease (i.e., pneumonia, bronchiolitis, Pediatric Acute Respiratory Distress Syndrome (PARDS)) with Oxygen Saturation Index (OSI) ≥ 5 or Oxygenation Index (OI) ≥) AND\nWho are within 48 hours of initiation of invasive mechanical ventilation (allow for up to 72 hours for those transferred from another institution)\n\nExclusion Criteria:\n\nContraindications to use of an esophageal catheter (i.e. severe mucosal bleeding, nasal encephalocele, transphenoidal surgery) OR\nContraindications to use of RIP bands (i.e. omphalocele, chest immobilizer or cast) OR\nConditions precluding diaphragm ultrasound measurement (i.e. abdominal wall defects, pregnancy) OR\nConditions on enrollment that preclude conventional methods of weaning (i.e., status asthmaticus, severe lower airway obstruction, critical airway, intracranial hypertension, Extra Corporeal Life Support (ECLS), intubation for UAO, DNR, severe chronic respiratory failure, spinal cord injury above lumbar region, cyanotic heart disease (unrepaired or palliated)) OR\nPrimary Attending physician refuses (will be cleared with primary attending before approaching the patient)."
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Los Angeles"
-        ],
-        "LocationFacility": [
-          "Children's Hospital Los Angeles"
-        ],
-        "LocationState": [
-          "California"
-        ],
-        "LocationZip": [
-          "90027"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "This study is a Phase II controlled clinical trial that will obtain comprehensive, serial assessments of respiratory muscle strength and architecture to understand the evolution of ventilator-induced respiratory muscle weakness in critically ill children, and test whether a novel computer-based approach (Real-time Effort Driven ventilator management (REDvent)) can preserve respiratory muscle strength and reduce time on MV. REDvent offers systematic recommendations to reduce controlled ventilation during the acute phase of MV, and uses real-time measures from esophageal manometry to adjust supported ventilator pressures such that patient effort of breathing remains in a normal range during the ventilator weaning phase. This phase II clinical trial is expected to enroll 276 children with pulmonary parenchymal disease, anticipated to be ventilated > 48 hrs. Patients will be randomized to REDvent-acute vs. usual care for the acute phase of MV (interval from intubation to first spontaneous breathing trial (SBT)). Patients in either group who fail their first Spontaneous Breathing Trial (SBT), will also be randomized to REDvent-weaning vs. usual care for the weaning phase of MV (interval from first SBT to passing SBT). The primary clinical outcome is length of weaning (time from first SBT until successful passage of an SBT or extubation (whichever comes first)). Mechanistic outcomes surround multi-modal serial measures of respiratory muscle capacity (PiMax), load (resistance, compliance), effort (esophageal manometry), and architecture (ultrasound) throughout the course of MV. Upon completion, this study will provide important information on the pathogenesis and timing of respiratory muscle weakness during MV in children and whether this weakness can be mitigated by promoting more normal patient effort during MV via the use of REDvent. This will form the basis for a larger, Phase III multi-center study, powered for key clinical outcomes such as 28-day Ventilator Free Days."
-        ],
-        "DetailedDescription": [
-          "Study Aims:\n\nSA1: To determine if REDvent acute and/or weaning phase protocols can shorten the duration of weaning from MV (Primary outcome).\n\nSA2: To determine if changes to direct measures of respiratory muscle strength, load, effort, and architecture throughout the duration of MV are related to weaning outcomes.\n\nSA3: To determine if patient effort of breathing during both acute and weaning phases of MV is independently associated with the development of respiratory muscle weakness.\n\nStudy Design: Single-center randomized controlled trial (138 children per arm) using REDvent (intervention arm) as compared with usual care ventilator management including a standardized daily SBT (control arm). Acute phase randomization will occur upon study enrollment, and patients who fail the first SBT will undergo a weaning phase randomization. The investigators will obtain serial measurements of respiratory system capacity, load, effort of breathing, and diaphragm architecture throughout the course of MV.\n\nAcute Phase: The acute phase is defined as the time from intubation until the patient meets weaning criteria, passes the initial oxygenation test (decrease PEEP to 5 cmH2O and FiO2 to 0.5, maintains SpO2 > 90%), and undergoes a Spontaneous Breathing Trial (SBT).\n\nIntervention Arm (REDvent-acute): Patients will be managed with pressure control plus pressure support ventilation using a computerized decision support tool that will recommend changes to ventilator settings approximately every 4 hr (with or without a new blood gas). If the patient is spontaneously breathing, it will incorporate real-time measures of effort of breathing (esophageal manometry) to keep it in a target range.\nControl Arm (Control-acute): Ventilator management will be per usual care until the patient meets weaning criteria and passes the oxygenation test.\n\nWeaning Phase: The weaning phase is defined as the time from the first Spontaneous Breathing Trial (SBT) until the patient successfully passes an SBT or is extubated (whichever comes first). Patients who pass the initial SBT at the end of the acute phase will not undergo weaning phase randomization.\n\nIntervention Arm (REDvent-weaning): Patients will be managed in a pressure support/CPAP mode of ventilation with assessments or changes to the level of pressure support every 4 hours, targeting maintaining effort of breathing (esophageal manometry) in a normal range. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\nControl Arm (Control-weaning): Ventilator management will be per usual care. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\n\nAnalysis Plan and Sample Size Justification:\n\nAim 1: The primary outcome is weaning duration. Sample size has been determined to adequately power 3 separate comparative analyses: (a) REDvent-acute versus Acute Phase control (b) REDvent-weaning phase versus Weaning Phase control (c) REDvent both phases versus control both phases. Power is based on 2 planned methods for analysis: cox proportional hazard ratios for multivariable analysis and univariate analysis with an independent t-test using log transformation (as needed) to account for the expected distribution of weaning duration. For all three of the planned comparisons above, with the proposed sample size the investigators would be adequately powered (>0.8) to detect a difference in weaning duration of ≥ 1 day, or a hazard ratio of ≥ 1.4 between groups. The secondary outcomes are ventilator free days and extubation failure. Directly comparing control only patients to REDvent only patients, with an expected standard deviation for VFDs between 5 to 9 days, the investigators will be able to detect a 2-day change in VFDs between groups with a power between 0.35 and 0.82. Re-intubation rates are expected to be 10%, allowing the investigators to confirm that REDvent is not inferior to usual care in regards to re-intubation with a non-inferiority margin of 0.10 with a power of 0.8 and alpha of 0.05.\n\nAim 2: The primary outcome of this aim is weaning duration. For respiratory muscle strength the investigators will compare the first measured aPiMax (after resolution of the acute phase, before the first SBT), the trajectory and value of the daily aPiMax during the weaning phase prior to extubation, the lowest and highest measured aPiMax, and aPiMax on the day of extubation against weaning duration. For analysis, aPiMax will be dichotomized at 30 cmH2O, and weaning duration will be compared between patients with aPiMax > 30 versus ≤ 30 cmH2O using a t-test with or without log-transformation, or Mann-Whitney U test, depending on the distribution. From preliminary data, it is anticipated at least 35% of patients (n=84) will have aPiMax ≤ 30 cmH2O. Based on a similar power analysis as presented above, this would allow the investigators to determine whether low aPiMax is associated with a ≥ 1-day increase in weaning duration, with an alpha of 0.05 and power of 0.8. The investigators will perform identical analysis for ePiMax. Diaphragm Thickness analysis will compound daily ultrasound measures to detect the relative change in diaphragm thickness from study day 1 until passage of an SBT. The investigators will compare the change in thickness after resolution of the acute phase (on the day of the first SBT) against weaning duration, in a similar manner as proposed above for aPiMax. In addition to weaning duration, the investigators will also examine whether the respiratory measures taken just prior to or during each SBT are associated with the patient passing the SBT. For example with aPiMax and ePiMax, the investigators will examine if there is a dose response relationship between PiMax measured just before the SBT and the rate of passage of the subsequent SBT.\n\nAim 3: The primary outcome of this aim is aPiMax < 30 cmH2O.The analysis will focus on determining whether the degree of patient effort of breathing is independently associated with the development of respiratory muscle weakness. For the acute phase, the investigators will generate a time-weighted average PRP during the acute phase and graph it against aPiMax at the first SBT. They will subsequently dichotomize aPiMax at the first SBT and compare mean time weighted average PRP in the acute phase between aPiMax groups (> 30 vs. ≤ 30 cmH2O). For the weaning phase, the investigators will graph the changes in aPiMax throughout the weaning phase (from first failed SBT until successful SBT) against time-weighted average PRP, with the anticipation that low PRP will be associated with either further reductions in aPiMax, or no improvement, while PRP in the physiologic range of 150-400 will be associated with improvement in aPiMax. The investigators will subsequently dichotomize aPiMax (at 30 cm H2O) at the time of successful passage of an SBT and compare time-weighted average PRP in the weaning phase between aPiMax groups. Subsequently, the investigators will build a multivariable logistic regression model on the outcome of aPiMax ≤ 30 cmH2O to determine if time-weighted PRP in the acute phase, weaning phase or both have an independent association with preserving aPiMax, after controlling for confounding variables."
-        ]
-      },
-      {
-        "Rank": 215,
-        "NCTId": [
           "NCT03239977"
         ],
         "OfficialTitle": [
@@ -10816,7 +10774,7 @@
         ]
       },
       {
-        "Rank": 216,
+        "Rank": 215,
         "NCTId": [
           "NCT03234309"
         ],
@@ -10865,7 +10823,7 @@
         ]
       },
       {
-        "Rank": 217,
+        "Rank": 216,
         "NCTId": [
           "NCT03229837"
         ],
@@ -10915,7 +10873,7 @@
         ]
       },
       {
-        "Rank": 218,
+        "Rank": 217,
         "NCTId": [
           "NCT03225014"
         ],
@@ -10964,7 +10922,7 @@
         ]
       },
       {
-        "Rank": 219,
+        "Rank": 218,
         "NCTId": [
           "NCT03222570"
         ],
@@ -11010,7 +10968,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 220,
+        "Rank": 219,
         "NCTId": [
           "NCT03202303"
         ],
@@ -11058,7 +11016,7 @@
         ]
       },
       {
-        "Rank": 221,
+        "Rank": 220,
         "NCTId": [
           "NCT03192566"
         ],
@@ -11110,7 +11068,7 @@
         ]
       },
       {
-        "Rank": 222,
+        "Rank": 221,
         "NCTId": [
           "NCT03166358"
         ],
@@ -11158,7 +11116,7 @@
         ]
       },
       {
-        "Rank": 223,
+        "Rank": 222,
         "NCTId": [
           "NCT03154359"
         ],
@@ -11209,7 +11167,7 @@
         ]
       },
       {
-        "Rank": 224,
+        "Rank": 223,
         "NCTId": [
           "NCT03132948"
         ],
@@ -11258,7 +11216,7 @@
         ]
       },
       {
-        "Rank": 225,
+        "Rank": 224,
         "NCTId": [
           "NCT03073070"
         ],
@@ -11310,7 +11268,7 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 225,
         "NCTId": [
           "NCT03072849"
         ],
@@ -11361,7 +11319,7 @@
         ]
       },
       {
-        "Rank": 227,
+        "Rank": 226,
         "NCTId": [
           "NCT03055533"
         ],
@@ -11410,7 +11368,7 @@
         ]
       },
       {
-        "Rank": 228,
+        "Rank": 227,
         "NCTId": [
           "NCT03052738"
         ],
@@ -11460,7 +11418,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 228,
         "NCTId": [
           "NCT03032328"
         ],
@@ -11511,7 +11469,7 @@
         ]
       },
       {
-        "Rank": 230,
+        "Rank": 229,
         "NCTId": [
           "NCT03023566"
         ],
@@ -11560,7 +11518,7 @@
         ]
       },
       {
-        "Rank": 231,
+        "Rank": 230,
         "NCTId": [
           "NCT03005951"
         ],
@@ -11611,7 +11569,7 @@
         ]
       },
       {
-        "Rank": 232,
+        "Rank": 231,
         "NCTId": [
           "NCT02952222"
         ],
@@ -11657,7 +11615,7 @@
         ]
       },
       {
-        "Rank": 233,
+        "Rank": 232,
         "NCTId": [
           "NCT02914067"
         ],
@@ -11710,7 +11668,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 234,
+        "Rank": 233,
         "NCTId": [
           "NCT02895711"
         ],
@@ -11759,7 +11717,7 @@
         ]
       },
       {
-        "Rank": 235,
+        "Rank": 234,
         "NCTId": [
           "NCT02889016"
         ],
@@ -11806,7 +11764,7 @@
         ]
       },
       {
-        "Rank": 236,
+        "Rank": 235,
         "NCTId": [
           "NCT02872558"
         ],
@@ -11857,7 +11815,7 @@
         ]
       },
       {
-        "Rank": 237,
+        "Rank": 236,
         "NCTId": [
           "NCT02852213"
         ],
@@ -11909,7 +11867,7 @@
         ]
       },
       {
-        "Rank": 238,
+        "Rank": 237,
         "NCTId": [
           "NCT02846272"
         ],
@@ -11958,7 +11916,7 @@
         ]
       },
       {
-        "Rank": 239,
+        "Rank": 238,
         "NCTId": [
           "NCT02824627"
         ],
@@ -12008,7 +11966,7 @@
         ]
       },
       {
-        "Rank": 240,
+        "Rank": 239,
         "NCTId": [
           "NCT02795455"
         ],
@@ -12058,7 +12016,7 @@
         ]
       },
       {
-        "Rank": 241,
+        "Rank": 240,
         "NCTId": [
           "NCT02775643"
         ],
@@ -12105,7 +12063,7 @@
         ]
       },
       {
-        "Rank": 242,
+        "Rank": 241,
         "NCTId": [
           "NCT02769975"
         ],
@@ -12157,7 +12115,7 @@
         ]
       },
       {
-        "Rank": 243,
+        "Rank": 242,
         "NCTId": [
           "NCT02747849"
         ],
@@ -12208,7 +12166,7 @@
         ]
       },
       {
-        "Rank": 244,
+        "Rank": 243,
         "NCTId": [
           "NCT02742272"
         ],
@@ -12261,7 +12219,7 @@
         ]
       },
       {
-        "Rank": 245,
+        "Rank": 244,
         "NCTId": [
           "NCT02722486"
         ],
@@ -12309,7 +12267,7 @@
         ]
       },
       {
-        "Rank": 246,
+        "Rank": 245,
         "NCTId": [
           "NCT02699190"
         ],
@@ -12357,7 +12315,7 @@
         ]
       },
       {
-        "Rank": 247,
+        "Rank": 246,
         "NCTId": [
           "NCT02651493"
         ],
@@ -12408,7 +12366,7 @@
         ]
       },
       {
-        "Rank": 248,
+        "Rank": 247,
         "NCTId": [
           "NCT02616796"
         ],
@@ -12456,7 +12414,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 249,
+        "Rank": 248,
         "NCTId": [
           "NCT02611206"
         ],
@@ -12508,7 +12466,7 @@
         ]
       },
       {
-        "Rank": 250,
+        "Rank": 249,
         "NCTId": [
           "NCT02610946"
         ],
@@ -12559,7 +12517,7 @@
         ]
       },
       {
-        "Rank": 251,
+        "Rank": 250,
         "NCTId": [
           "NCT02558010"
         ],
@@ -12613,7 +12571,7 @@
         ]
       },
       {
-        "Rank": 252,
+        "Rank": 251,
         "NCTId": [
           "NCT02535936"
         ],
@@ -12664,7 +12622,7 @@
         ]
       },
       {
-        "Rank": 253,
+        "Rank": 252,
         "NCTId": [
           "NCT02531893"
         ],
@@ -12705,14 +12663,14 @@
           "800-411-1222"
         ],
         "BriefSummary": [
-          "Background:\n\nWhen children have severe irritability and temper outbursts, they can be so cranky or angry that it leads to problems at home, in school, and with friends. This is called Disruptive Mood Dysregulation Disorder (DMDD) and there have been no psychological treatments developed specifically for children with this problem. Researchers think two forms of therapy, Cognitive Behavioral Therapy (CBT) and Interpretation Bias Training (IBT), might help children with DMDD.\n\nObjective:\n\nTo test two whether IBT and CBT can decrease severe irritability in children and youth.\n\nEligibility:\n\nChildren 8-17 years old with DMDD. Their symptoms must have started before age 10.\n\nDesign:\n\nParticipants will be screened with a review of their symptoms. Parents and participants will answer questions.\n\nParticipants can do only one or both of these treatments if they wish. Those who wish to do both will start with IBT.\n\nParticipants who do CBT will have 12-16 weekly meetings of research talk therapy. A parent will participate in part of the sessions.\n\nParticipants will talk about what makes them irritable and how it affects them. They may be put in situations that might make them annoyed or irritable.\n\nParticipants will rate how intense their irritability is. Parents and participants will complete rating scales, questionnaires, and interviews.\n\nParticipants will do practice activities at home.\n\nParticipants doing IBT will have up to 14 sessions over 10 weeks.\n\nParticipants will view 15 faces, one at a time, on a computer. They will choose if the face looks happy or angry on a computer. Sometimes the computer gives feedback. Participants will complete some sessions at the NIH and some at home.\n\nParticipants and parents answer questions about their progress.\n\n..."
+          "Background:\n\nWhen children have severe irritability and temper outbursts, they can be so cranky or angry that it leads to problems at home, in school, and with friends. This is called Disruptive Mood Dysregulation Disorder (DMDD) and there have been no psychological treatments developed specifically for children with this problem. Researchers think two forms of therapy, Cognitive Behavioral Therapy (CBT) and Interpretation Bias Training (IBT), might help children with DMDD.\n\nObjective:\n\nTo test two whether IBT and CBT can decrease severe irritability in children and youth.\n\nEligibility:\n\nChildren 8-17 years old with DMDD. Their symptoms must have started before age 10.\n\nDesign:\n\nParticipants will be screened with a review of their symptoms. Parents and participants will answer questions.\n\nParticipants can do only one or both of these treatments if they wish. Those who wish to do both will start with IBT.\n\nParticipants who do CBT will have 12-16 weekly meetings of research talk therapy. A parent will participate in part of the sessions.\n\nParticipants will talk about what makes them irritable and how it affects them. They may be put in situations that might make them annoyed or irritable.\n\nParticipants will rate how intense their irritability is. Parents and participants will complete rating scales, questionnaires, and interviews.\n\nParticipants will do practice activities at home.\n\nParticipants doing IBT will have up to 14 sessions over 10 weeks.\n\nParticipants will view 15 faces, one at a time, on a computer. They will choose if the face looks happy or angry on a computer. Sometimes the computer gives feedback. Participants will complete some sessions at the NIH and some at home.\n\nParticipants and parents answer questions about their progress."
         ],
         "DetailedDescription": [
           "OBJECTIVE:\n\nThis purpose of this protocol is to further the development of two potential non-pharmacologic treatments for youths with chronic, severe and impairing irritability. The first potential treatment is Interpretation Bias Training (IBT), a computer-based training designed to shift emotional judgments of ambiguous faces away from angry, and toward happy, judgments. The first component of this protocol includes a randomized, controlled trial of active IBT in youth with severe irritability. The second potential treatment is a cognitive behavioral therapy (CBT) targeting severe irritability. The goal of this protocol is to conduct a preliminary study using a randomized within-subjects multiple-baseline design to test the efficacy of a new manualized exposure-based CBT with parenting training in the treatment of severe irritability.\n\nObjective 1: Assess the efficacy of Interpretation Bias Training (IBT) in youths with severe irritability, operationalized as those meeting criteria for DSM-5 Disruptive Mood Dysregulation Disorder (DMDD). To accomplish this objective, we will conduct a randomized, controlled trial (RCT) of active IBT in 40 youths with DMDD. Subjects will be randomized to receive four IBT training sessions (active vs. placebo, in a double-blind design) over four days followed by weekly mood ratings for two weeks. Primary outcome measures in this trial will assess changes in irritability using the Affective Reactivity Index (ARI: clinician-rated, parent-rated, and child-rated) and Clinical Global Impressions-Improvement (CGI-I). After completing the RCT, all participants will be offered four open, active IBT sessions, delivered on the same schedule as in the RCT and using the same primary outcome measures.\n\nObjective 2: Test the efficacy of a new manualized CBT for severe, impairing irritability in youth. To accomplish this objective, we will utilize a within-subjects multiple baseline design (Onghena & Edgington, 2005; Gliner, Morgan, Harmon, & Harmon, 2000; Morgan & Morgan, 2001). The children will be randomized to their start times. Clinical ratings, as well as parent- and child- report ratings will be obtained every two weeks (plus or minus seven days) during both the baseline and active periods. This is not an RCT. All children will receive active CBT following variable (randomized) start times. Consistent with the manual we will continue to meet with children and their parents utilizing newly manualized exposure-based CBT procedures, such as eliciting hierarchies of irritability inducing events, exposure exercises (e.g., in-vivo, role-play, imaginal) and parent training. We will conduct the CBT on N=40 youth with severe, impairing irritability. Primary outcome measures for CBT will assess changes in irritability using the ARI (clinician-rated, parent-rated, and child-rated) and CGI-I.\n\nSecondary Objective 1a and 1b: Assess the effect of IBT on clinical measures of depression, anxiety, and functional impairment.\n\nSecondary Objective 2: Assess the effect of the CBT for irritability on clinical measures of depression, anxiety, and functional impairment.\n\nSubjects can participate in one or both of these potential treatments. If they opt to do both, there will be a four-week wash-out period between treatments.\n\nSTUDY POPULATION:\n\nThe study is taking place at the National Institutes of Health (NIH). All outpatients, ages 8-17, enrolled in NIMH-DIRP Protocol 02-M-0021, who are in stable treatment in the community will be invited to participate in this study.\n\nDESIGN:\n\nThe first part of the protocol will involve conducting a randomized controlled trial of IBT in 40 youths who meet criteria for DMDD. The goal of this novel, potential treatment is to decrease the severity of the child s irritability.\n\nThe second part of the protocol will involve conducting a randomized within-subjects multiple-baseline trial of CBT targeting severe irritability including N=40 youth.\n\nSubjects can elect to participate in the IBT randomized controlled trial only, CBT treatment or both. If subjects elect to participate in both IBT and CBT, there will be a one-month wash-out period in between.\n\nOUTCOME MEASURES:\n\nThe main outcome measures will assess changes in irritability using the ARI (clinician-rated, parent-rated, and child-rated, original and revised versions for IBT and CBT, respectively) and CGI-I. Secondary measures include parent and self-report measures of depression, anxiety, anger, social status, and aggression, as well as clinician ratings of depression, anxiety, and impairment. Data for ecological momentary assessments (EMA) will be collected using secure technology, with procedures approved by the NIMH ISSO; subjects and their caregivers will be asked a set of questions relating to recent experiences and emotions"
         ]
       },
       {
-        "Rank": 254,
+        "Rank": 253,
         "NCTId": [
           "NCT02512718"
         ],
@@ -12756,7 +12714,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 254,
         "NCTId": [
           "NCT02507791"
         ],
@@ -12807,7 +12765,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 255,
         "NCTId": [
           "NCT02498925"
         ],
@@ -12855,7 +12813,7 @@
         ]
       },
       {
-        "Rank": 257,
+        "Rank": 256,
         "NCTId": [
           "NCT02485418"
         ],
@@ -12902,7 +12860,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 258,
+        "Rank": 257,
         "NCTId": [
           "NCT02478788"
         ],
@@ -12952,7 +12910,7 @@
         ]
       },
       {
-        "Rank": 259,
+        "Rank": 258,
         "NCTId": [
           "NCT02453126"
         ],
@@ -12998,7 +12956,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 260,
+        "Rank": 259,
         "NCTId": [
           "NCT02420990"
         ],
@@ -13044,6 +13002,50 @@
           "Attention-Deficit/Hyperactivity Disorder (ADHD) exists in 20-50% of the 3 million adolescents annually enrolled in outpatient mental health and substance use treatment. Adolescents with ADHD present deficits in attention, self-regulation, and social competence that significantly impede achievement of developmental and educational milestones. Currently there are only two evidence-based treatment options for this age group: academic training and stimulant medications. Both options remain vastly underutilized. Academic training is not available in most school settings and rarely implemented in clinical care. Similarly, ADHD medications are rarely utilized with adolescents in primary or specialty care for a host of reasons related to stigma, misinformation about effects and side effects, and adolescent autonomy issues. Moreover, the widespread fragmentation of pharmacological versus behavioral services prevents families from making informed treatment selections.\n\nThe primary objective of this randomized parametric trial is to compare the effectiveness of behavioral only versus integrated (behavioral plus medication decision-making) interventions for adolescents with ADHD in outpatient behavioral services. The behavioral intervention, Changing Academic Support in the Home for Adolescents with ADHD (CASH-AA), contains three components: ADHD psychoeducation, family-based motivational interventions, and academic training. The medication decision-making intervention, Medication Integration Protocol (MIP), contain three components: psychoeducation about ADHD medication, family decision-making, and medication management. The study will compare the effects of two legitimate treatment options for adolescents with ADHD on service utilization, behavioral symptoms, and quality of life. It will generate new evidence on patient-centered treatment selection that aligns with family-specific principles and treatment goals.\n\nThis parametric comparative trial will randomly assign 140 inner-city adolescents with ADHD to (1) CASH-AA Only or (2) CASH-AA + MIP. Treatment will occur in community behavioral health clinics. All participants will receive behavioral interventions (CASH-AA): family psychoeducation in ADHD symptoms, executive functioning, and developmental impacts; family-based motivation and ADHD accommodation interventions; and academic training focused on home environment support and organizational skills. Half of the participants will also receive medication decision-making interventions (MIP): ADHD medication psychoeducation, family decision-making interventions, and (for those who elect to start medication) coordinated medication management. Half of the sample will have comorbid substance use problems. Treatment will occur in three community clinics; therapists will be randomly assigned to study condition. Caregivers and adolescents will complete assessments at baseline, 3, 6, and 12-month follow-up. Multilevel modeling will compare the effectiveness of each condition on key patient and service use outcomes. Patient-centered analyses will explore differential treatment effects based on (a) Medication decision (yes/no); (b) Substance use comorbidity (yes/no); (c) Race/Ethnicity (Hispanic, African American).\n\nQuantitative outcome analyses will test for service use effects, symptom reduction, and quality of life improvements that are primary reasons for seeking clinical services. Qualitative interviews will document family-specific rationale for decisions about medication, compliance with behavioral and medication interventions, and suggestions for improving services and service integration. Note that families assigned to CASH-AA Only will retain the option of pursuing ADHD medication through treatment-as-usual procedures at their respective clinic. Similarly, families assigned to CASH-AA + MIP will not be required to start ADHD medication. Instead, they will receive informed-choice interventions and can choose when and if to start medication; the study will assess the impact of these decisions on clinical outcomes.\n\nIf proven efficacious, the CASH-AA and MIP protocols could be rapidly disseminated individually or as an integrated protocol into routine behavioral healthcare settings. The protocols can also be readily combined with other behavioral treatments to form a multicomponent treatment package for adolescents with co-occurring behavior problems. In addition, the family-based, patient-centered CASH-AA and MIP protocols could be delivered in conjunction with other family-based treatments or with individual approaches that flexibly include caregivers in multiple treatment sessions. This makes CASH-AA and MIP highly efficient clinical resources for addressing ADHD-related problems in any outpatient setting that serves adolescents and their families."
         ],
         "DetailedDescription": []
+      },
+      {
+        "Rank": 260,
+        "NCTId": [
+          "NCT02395003"
+        ],
+        "OfficialTitle": [
+          "Study to Investigate Adipocyte Cell and Lipid Turnover in Obese Adolescents"
+        ],
+        "Condition": [
+          "Pediatric Obesity"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nOverweight (85-95th% age and gender specific) or Obese (>95th% age and gender specific)\nAges 12-18 years\nAbsence of any endocrinopathy\nAbsence of any therapy with medication known to alter glucose metabolism (i.e.: Oral steroids, certain psychiatric medications such as Xeleca, Lithium, Paxil)\nEnglish Speaking subjects\n\nExclusion Criteria:\n\nAny disease known to alter glucose metabolism (T2DM)\nDiuretic Medication\nPregnant or breastfeeding\nType 1 or 2 diabetes"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "New Haven"
+        ],
+        "LocationFacility": [
+          "Yale"
+        ],
+        "LocationState": [
+          "Connecticut"
+        ],
+        "LocationZip": [
+          "06511"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Bridget Pierpont"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Insulin Resistance is the best predictor of whether the obese adolescent will develop type 2 diabetes. The present studies will focus on determining what might cause fat to accumulate in the subcutaneous fat regions and lead to local inflammation, causing insulin resistance to develop in obese adolescents."
+        ],
+        "DetailedDescription": [
+          "The purpose of this study is to test whether the reduced transcription of key lipogenic/adipogenic genes in abdominal subcutaneous adipose tissue (SAT) in obese adolescents with a High VAT/SAT (visceral adipose tissue/subcutaneous adipose tissue) ratio translates functionally into a reduced in vivo triglyceride (TG) synthesis and adipocyte proliferation, which in turn will contribute to ectopic fat accumulation and insulin resistance (IR). To test whether the storage capacity of gluteal SAT is linked to the level of VAT/SAT fat distribution in obese adolescents. To explore if changes in dietary fat intake (palmitate intake), alters ceramide concentration in both plasma and adipose tissue (AT) and the Inflammasome complex in the different fat distribution phenotypes and their associations with IR."
+        ]
       },
       {
         "Rank": 261,
@@ -15386,6 +15388,48 @@
       {
         "Rank": 309,
         "NCTId": [
+          "NCT03266016"
+        ],
+        "OfficialTitle": [
+          "Identifying and Preventing Ventilator Induced Diaphragm Dysfunction in Children"
+        ],
+        "Condition": [
+          "Ventilation Therapy; Complications",
+          "Diaphragm Disease",
+          "Pediatric Respiratory Diseases"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nChildren > 1 month (>44 weeks CGA) and ≤ 18 years of age AND\nSupported on mechanical ventilation with pulmonary parenchymal disease (i.e., pneumonia, bronchiolitis, Pediatric Acute Respiratory Distress Syndrome (PARDS)) with Oxygen Saturation Index (OSI) ≥ 5 or Oxygenation Index (OI) ≥) AND\nWho are within 48 hours of initiation of invasive mechanical ventilation (allow for up to 72 hours for those transferred from another institution)\n\nExclusion Criteria:\n\nContraindications to use of an esophageal catheter (i.e. severe mucosal bleeding, nasal encephalocele, transphenoidal surgery) OR\nContraindications to use of RIP bands (i.e. omphalocele, chest immobilizer or cast) OR\nConditions precluding diaphragm ultrasound measurement (i.e. abdominal wall defects, pregnancy) OR\nConditions on enrollment that preclude conventional methods of weaning (i.e., status asthmaticus, severe lower airway obstruction, critical airway, intracranial hypertension, Extra Corporeal Life Support (ECLS), intubation for UAO, DNR, severe chronic respiratory failure, spinal cord injury above lumbar region, cyanotic heart disease (unrepaired or palliated)) OR\nPrimary Attending physician refuses (will be cleared with primary attending before approaching the patient)."
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Los Angeles"
+        ],
+        "LocationFacility": [
+          "Children's Hospital Los Angeles"
+        ],
+        "LocationState": [
+          "California"
+        ],
+        "LocationZip": [
+          "90027"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "This study is a Phase II controlled clinical trial that will obtain comprehensive, serial assessments of respiratory muscle strength and architecture to understand the evolution of ventilator-induced respiratory muscle weakness in critically ill children, and test whether a novel computer-based approach (Real-time Effort Driven ventilator management (REDvent)) can preserve respiratory muscle strength and reduce time on MV. REDvent offers systematic recommendations to reduce controlled ventilation during the acute phase of MV, and uses real-time measures from esophageal manometry to adjust supported ventilator pressures such that patient effort of breathing remains in a normal range during the ventilator weaning phase. This phase II clinical trial is expected to enroll 276 children with pulmonary parenchymal disease, anticipated to be ventilated > 48 hrs. Patients will be randomized to REDvent-acute vs. usual care for the acute phase of MV (interval from intubation to first spontaneous breathing trial (SBT)). Patients in either group who fail their first Spontaneous Breathing Trial (SBT), will also be randomized to REDvent-weaning vs. usual care for the weaning phase of MV (interval from first SBT to passing SBT). The primary clinical outcome is length of weaning (time from first SBT until successful passage of an SBT or extubation (whichever comes first)). Mechanistic outcomes surround multi-modal serial measures of respiratory muscle capacity (PiMax), load (resistance, compliance), effort (esophageal manometry), and architecture (ultrasound) throughout the course of MV. Upon completion, this study will provide important information on the pathogenesis and timing of respiratory muscle weakness during MV in children and whether this weakness can be mitigated by promoting more normal patient effort during MV via the use of REDvent. This will form the basis for a larger, Phase III multi-center study, powered for key clinical outcomes such as 28-day Ventilator Free Days."
+        ],
+        "DetailedDescription": [
+          "Study Aims:\n\nSA1: To determine if REDvent acute and/or weaning phase protocols can shorten the duration of weaning from MV (Primary outcome).\n\nSA2: To determine if changes to direct measures of respiratory muscle strength, load, effort, and architecture throughout the duration of MV are related to weaning outcomes.\n\nSA3: To determine if patient effort of breathing during both acute and weaning phases of MV is independently associated with the development of respiratory muscle weakness.\n\nStudy Design: Single-center randomized controlled trial (138 children per arm) using REDvent (intervention arm) as compared with usual care ventilator management including a standardized daily SBT (control arm). Acute phase randomization will occur upon study enrollment, and patients who fail the first SBT will undergo a weaning phase randomization. The investigators will obtain serial measurements of respiratory system capacity, load, effort of breathing, and diaphragm architecture throughout the course of MV.\n\nAcute Phase: The acute phase is defined as the time from intubation until the patient meets weaning criteria, passes the initial oxygenation test (decrease PEEP to 5 cmH2O and FiO2 to 0.5, maintains SpO2 > 90%), and undergoes a Spontaneous Breathing Trial (SBT).\n\nIntervention Arm (REDvent-acute): Patients will be managed with pressure control plus pressure support ventilation using a computerized decision support tool that will recommend changes to ventilator settings approximately every 4 hr (with or without a new blood gas). If the patient is spontaneously breathing, it will incorporate real-time measures of effort of breathing (esophageal manometry) to keep it in a target range.\nControl Arm (Control-acute): Ventilator management will be per usual care until the patient meets weaning criteria and passes the oxygenation test.\n\nWeaning Phase: The weaning phase is defined as the time from the first Spontaneous Breathing Trial (SBT) until the patient successfully passes an SBT or is extubated (whichever comes first). Patients who pass the initial SBT at the end of the acute phase will not undergo weaning phase randomization.\n\nIntervention Arm (REDvent-weaning): Patients will be managed in a pressure support/CPAP mode of ventilation with assessments or changes to the level of pressure support every 4 hours, targeting maintaining effort of breathing (esophageal manometry) in a normal range. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\nControl Arm (Control-weaning): Ventilator management will be per usual care. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\n\nAnalysis Plan and Sample Size Justification:\n\nAim 1: The primary outcome is weaning duration. Sample size has been determined to adequately power 3 separate comparative analyses: (a) REDvent-acute versus Acute Phase control (b) REDvent-weaning phase versus Weaning Phase control (c) REDvent both phases versus control both phases. Power is based on 2 planned methods for analysis: cox proportional hazard ratios for multivariable analysis and univariate analysis with an independent t-test using log transformation (as needed) to account for the expected distribution of weaning duration. For all three of the planned comparisons above, with the proposed sample size the investigators would be adequately powered (>0.8) to detect a difference in weaning duration of ≥ 1 day, or a hazard ratio of ≥ 1.4 between groups. The secondary outcomes are ventilator free days and extubation failure. Directly comparing control only patients to REDvent only patients, with an expected standard deviation for VFDs between 5 to 9 days, the investigators will be able to detect a 2-day change in VFDs between groups with a power between 0.35 and 0.82. Re-intubation rates are expected to be 10%, allowing the investigators to confirm that REDvent is not inferior to usual care in regards to re-intubation with a non-inferiority margin of 0.10 with a power of 0.8 and alpha of 0.05.\n\nAim 2: The primary outcome of this aim is weaning duration. For respiratory muscle strength the investigators will compare the first measured aPiMax (after resolution of the acute phase, before the first SBT), the trajectory and value of the daily aPiMax during the weaning phase prior to extubation, the lowest and highest measured aPiMax, and aPiMax on the day of extubation against weaning duration. For analysis, aPiMax will be dichotomized at 30 cmH2O, and weaning duration will be compared between patients with aPiMax > 30 versus ≤ 30 cmH2O using a t-test with or without log-transformation, or Mann-Whitney U test, depending on the distribution. From preliminary data, it is anticipated at least 35% of patients (n=84) will have aPiMax ≤ 30 cmH2O. Based on a similar power analysis as presented above, this would allow the investigators to determine whether low aPiMax is associated with a ≥ 1-day increase in weaning duration, with an alpha of 0.05 and power of 0.8. The investigators will perform identical analysis for ePiMax. Diaphragm Thickness analysis will compound daily ultrasound measures to detect the relative change in diaphragm thickness from study day 1 until passage of an SBT. The investigators will compare the change in thickness after resolution of the acute phase (on the day of the first SBT) against weaning duration, in a similar manner as proposed above for aPiMax. In addition to weaning duration, the investigators will also examine whether the respiratory measures taken just prior to or during each SBT are associated with the patient passing the SBT. For example with aPiMax and ePiMax, the investigators will examine if there is a dose response relationship between PiMax measured just before the SBT and the rate of passage of the subsequent SBT.\n\nAim 3: The primary outcome of this aim is aPiMax < 30 cmH2O.The analysis will focus on determining whether the degree of patient effort of breathing is independently associated with the development of respiratory muscle weakness. For the acute phase, the investigators will generate a time-weighted average PRP during the acute phase and graph it against aPiMax at the first SBT. They will subsequently dichotomize aPiMax at the first SBT and compare mean time weighted average PRP in the acute phase between aPiMax groups (> 30 vs. ≤ 30 cmH2O). For the weaning phase, the investigators will graph the changes in aPiMax throughout the weaning phase (from first failed SBT until successful SBT) against time-weighted average PRP, with the anticipation that low PRP will be associated with either further reductions in aPiMax, or no improvement, while PRP in the physiologic range of 150-400 will be associated with improvement in aPiMax. The investigators will subsequently dichotomize aPiMax (at 30 cm H2O) at the time of successful passage of an SBT and compare time-weighted average PRP in the weaning phase between aPiMax groups. Subsequently, the investigators will build a multivariable logistic regression model on the outcome of aPiMax ≤ 30 cmH2O to determine if time-weighted PRP in the acute phase, weaning phase or both have an independent association with preserving aPiMax, after controlling for confounding variables."
+        ]
+      },
+      {
+        "Rank": 310,
+        "NCTId": [
           "NCT02398539"
         ],
         "OfficialTitle": [
@@ -15427,50 +15471,6 @@
           "This protocol describes a randomized, two arm clinical trial comparing two topical treatments in patients with hypergranulation tissue at gastrostomy tube sites. The subjects are randomized to either group 1or group 2 treatments:\n\nMaximum duration of therapy is 4 weeks. However, the therapy may be discontinued anytime at the discretion of the investigator or if there is resolution of the of the hypergranulation tissue."
         ],
         "DetailedDescription": []
-      },
-      {
-        "Rank": 310,
-        "NCTId": [
-          "NCT02395003"
-        ],
-        "OfficialTitle": [
-          "Study to Investigate Adipocyte Cell and Lipid Turnover in Obese Adolescents"
-        ],
-        "Condition": [
-          "Pediatric Obesity"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nOverweight (85-95th% age and gender specific) or Obese (>95th% age and gender specific)\nAges 12-18 years\nAbsence of any endocrinopathy\nAbsence of any therapy with medication known to alter glucose metabolism (i.e.: Oral steroids, certain psychiatric medications such as Xeleca, Lithium, Paxil)\nEnglish Speaking subjects\n\nExclusion Criteria:\n\nAny disease known to alter glucose metabolism (T2DM)\nDiuretic Medication\nPregnant or breastfeeding\nType 1 or 2 diabetes"
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "New Haven"
-        ],
-        "LocationFacility": [
-          "Yale"
-        ],
-        "LocationState": [
-          "Connecticut"
-        ],
-        "LocationZip": [
-          "06511"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Bridget Pierpont"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Insulin Resistance is the best predictor of whether the obese adolescent will develop type 2 diabetes. The present studies will focus on determining what might cause fat to accumulate in the subcutaneous fat regions and lead to local inflammation, causing insulin resistance to develop in obese adolescents."
-        ],
-        "DetailedDescription": [
-          "The purpose of this study is to test whether the reduced transcription of key lipogenic/adipogenic genes in abdominal subcutaneous adipose tissue (SAT) in obese adolescents with a High VAT/SAT (visceral adipose tissue/subcutaneous adipose tissue) ratio translates functionally into a reduced in vivo triglyceride (TG) synthesis and adipocyte proliferation, which in turn will contribute to ectopic fat accumulation and insulin resistance (IR). To test whether the storage capacity of gluteal SAT is linked to the level of VAT/SAT fat distribution in obese adolescents. To explore if changes in dietary fat intake (palmitate intake), alters ceramide concentration in both plasma and adipose tissue (AT) and the Inflammasome complex in the different fat distribution phenotypes and their associations with IR."
-        ]
       },
       {
         "Rank": 311,
@@ -21791,11 +21791,13 @@
         ],
         "LocationContactEMail": [
           "elizabethryan@arizona.edu",
+          "jrpimentel@arizona.edu",
           "Mary.Cross@childrenscolorado.org",
           "dana.coyle@childrenscolorado.org",
           "Akele.carter@choa.org",
           "ashleigh.streby@emory.edu",
           "yhwu@luriechildrens.org",
+          "lrugg@luriechildrens.org",
           "misthomp@iupui.edu",
           "lbendy@iu.edu",
           "thomas.symington@spectrumhealth.org",
@@ -21811,6 +21813,7 @@
         ],
         "LocationContactName": [
           "Elizabeth (Lisa) Ryan",
+          "Jenna Pimentel",
           "Cori Daines, MD",
           "Mary Cross",
           "Dana Coyle",
@@ -21819,7 +21822,8 @@
           "Ashleigh Streby",
           "Kevin Kirchner, MD",
           "Irene Wu",
-          "Susanna McColley, MD",
+          "Larissa Rugg",
+          "Maria Dowell, MD",
           "Misty Thompson, B.S.",
           "Lisa Bendy",
           "D. B. Sanders, MD",
@@ -21841,11 +21845,13 @@
         ],
         "LocationContactPhone": [
           "520-626-3125",
+          "520-621-1806",
           "720-777-4645",
           "720-777-6162",
           "404-785-9011",
           "404-727-0305",
           "312-227-2473",
+          "312-227-6865",
           "317-274-7768",
           "317-948-7152",
           "616-391-9366",
