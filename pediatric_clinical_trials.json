@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:07:18 22:12:58.389",
+    "DataVrs": "2021:07:19 22:16:44.584",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 383666,
-    "NStudiesFound": 399,
+    "NStudiesAvail": 383811,
+    "NStudiesFound": 397,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 399,
+    "NStudiesReturned": 397,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -7536,60 +7536,6 @@
       {
         "Rank": 150,
         "NCTId": [
-          "NCT03917290"
-        ],
-        "OfficialTitle": [
-          "A Sports Injury Prevention Program to Reduce Subsequent Injuries After Concussion"
-        ],
-        "Condition": [
-          "Brain Concussion",
-          "Musculoskeletal Injury",
-          "Locomotion",
-          "Postural Balance"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nEligible participants will be those diagnosed with a concussion, defined as a brain injury caused by a direct blow to the head, face, neck or elsewhere on the body, resulting in the rapid onset of impairment of neurological function and diagnosed by Children's Hospital Colorado sports medicine physicians.\nBeing between 12-18 years of age\nThe ability to complete initial testing within 14 days of the injury\nA post-concussion symptom scale (PCSS) score of greater than 9 at the time of enrollment.\n\nExclusion Criteria:\n\nActive lower extremity injury affecting balance\nPre-existing neurological disorder (bipolar disorder, schizophrenia, etc.)\nPrevious concussion sustained within the past year\nPrisoners, pregnant females, individuals with limited decision-making capacity\nPre-existing learning disability\nStructural brain injury (confirmed with neuroimaging)\nA high velocity injury mechanism (e.g motor vehicle accident).\nLess than one month remaining in the current athletic season."
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Aurora"
-        ],
-        "LocationFacility": [
-          "Children's Hospital Colorado"
-        ],
-        "LocationState": [
-          "Colorado"
-        ],
-        "LocationZip": [
-          "80045"
-        ],
-        "LocationContactEMail": [
-          "david.howell@ucdenver.edu",
-          "corrine.seehusen@childrenscolorado.org"
-        ],
-        "LocationContactName": [
-          "David Howell, PhD",
-          "Cory Seehusen, BA"
-        ],
-        "LocationContactPhone": [
-          "720-777-1502",
-          "720"
-        ],
-        "BriefSummary": [
-          "The long-term goal of this research is to implement methods that healthcare providers can use across diverse clinical settings to (1) identify athletes at risk for (musculoskeletal) MSK injury when cleared to return to play (RTP) after a concussion and (2) develop practical ways to reduce MSK injury risk following concussion RTP. The rationale is that once post-concussion MSK injury risk factors are known and prevention strategies tested, concussion RTP protocols will evolve to include injury risk reduction programs."
-        ],
-        "DetailedDescription": [
-          "Aims:\n\ni. To determine the effect of a sports injury prevention program on MSK injuries initiated at concussion RTP and continued throughout the subsequent athletic season.\n\nii. To examine the effect of a neuromuscular training (NMT) program on clinical and instrumented postural control measures before and after the intervention.\n\nThe proposed study will use an intervention-based paradigm to further understand MSK injury risk after concussion RTP and to identify potential methods to reduce this risk. Common Data Element (CDE) and instrumented postural control data will be linked to objectively classify the clinical and functional underpinnings of concussion recovery and subsequent MSK injury among those engaged in an injury prevention program compared to those who are not. These are important elements to investigate because: 1) few studies have explored the mechanisms for MSK injury incidence after concussion using a multimodal and objective approach and 2) no investigations have examined interventions to improve long-term concussion outcomes initiated at RTP."
-        ]
-      },
-      {
-        "Rank": 151,
-        "NCTId": [
           "NCT03911388"
         ],
         "OfficialTitle": [
@@ -7671,7 +7617,7 @@
         ]
       },
       {
-        "Rank": 152,
+        "Rank": 151,
         "NCTId": [
           "NCT03905031"
         ],
@@ -7732,7 +7678,7 @@
         ]
       },
       {
-        "Rank": 153,
+        "Rank": 152,
         "NCTId": [
           "NCT03896867"
         ],
@@ -7778,7 +7724,7 @@
         ]
       },
       {
-        "Rank": 154,
+        "Rank": 153,
         "NCTId": [
           "NCT03885154"
         ],
@@ -7820,7 +7766,7 @@
         ]
       },
       {
-        "Rank": 155,
+        "Rank": 154,
         "NCTId": [
           "NCT03882034"
         ],
@@ -7868,7 +7814,7 @@
         ]
       },
       {
-        "Rank": 156,
+        "Rank": 155,
         "NCTId": [
           "NCT03869749"
         ],
@@ -7917,7 +7863,7 @@
         ]
       },
       {
-        "Rank": 157,
+        "Rank": 156,
         "NCTId": [
           "NCT03866707"
         ],
@@ -7968,7 +7914,7 @@
         ]
       },
       {
-        "Rank": 158,
+        "Rank": 157,
         "NCTId": [
           "NCT03866460"
         ],
@@ -8015,7 +7961,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 159,
+        "Rank": 158,
         "NCTId": [
           "NCT03861871"
         ],
@@ -8062,7 +8008,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 160,
+        "Rank": 159,
         "NCTId": [
           "NCT03860311"
         ],
@@ -8115,7 +8061,7 @@
         ]
       },
       {
-        "Rank": 161,
+        "Rank": 160,
         "NCTId": [
           "NCT03855553"
         ],
@@ -8169,7 +8115,7 @@
         ]
       },
       {
-        "Rank": 162,
+        "Rank": 161,
         "NCTId": [
           "NCT03831360"
         ],
@@ -8217,7 +8163,7 @@
         ]
       },
       {
-        "Rank": 163,
+        "Rank": 162,
         "NCTId": [
           "NCT03825341"
         ],
@@ -8267,7 +8213,7 @@
         ]
       },
       {
-        "Rank": 164,
+        "Rank": 163,
         "NCTId": [
           "NCT03812575"
         ],
@@ -8307,7 +8253,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 165,
+        "Rank": 164,
         "NCTId": [
           "NCT03812159"
         ],
@@ -8358,7 +8304,7 @@
         ]
       },
       {
-        "Rank": 166,
+        "Rank": 165,
         "NCTId": [
           "NCT03795818"
         ],
@@ -8409,7 +8355,7 @@
         ]
       },
       {
-        "Rank": 167,
+        "Rank": 166,
         "NCTId": [
           "NCT03781817"
         ],
@@ -8464,7 +8410,7 @@
         ]
       },
       {
-        "Rank": 168,
+        "Rank": 167,
         "NCTId": [
           "NCT03763591"
         ],
@@ -8507,7 +8453,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 169,
+        "Rank": 168,
         "NCTId": [
           "NCT03755687"
         ],
@@ -8552,7 +8498,7 @@
         ]
       },
       {
-        "Rank": 170,
+        "Rank": 169,
         "NCTId": [
           "NCT03730194"
         ],
@@ -8605,7 +8551,7 @@
         ]
       },
       {
-        "Rank": 171,
+        "Rank": 170,
         "NCTId": [
           "NCT03729999"
         ],
@@ -8650,7 +8596,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 172,
+        "Rank": 171,
         "NCTId": [
           "NCT03721068"
         ],
@@ -8697,7 +8643,7 @@
         ]
       },
       {
-        "Rank": 173,
+        "Rank": 172,
         "NCTId": [
           "NCT03718234"
         ],
@@ -8749,7 +8695,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 174,
+        "Rank": 173,
         "NCTId": [
           "NCT03711318"
         ],
@@ -8795,7 +8741,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 175,
+        "Rank": 174,
         "NCTId": [
           "NCT03709472"
         ],
@@ -8848,7 +8794,7 @@
         ]
       },
       {
-        "Rank": 176,
+        "Rank": 175,
         "NCTId": [
           "NCT03709199"
         ],
@@ -8898,7 +8844,7 @@
         ]
       },
       {
-        "Rank": 177,
+        "Rank": 176,
         "NCTId": [
           "NCT03687008"
         ],
@@ -8947,7 +8893,7 @@
         ]
       },
       {
-        "Rank": 178,
+        "Rank": 177,
         "NCTId": [
           "NCT03675321"
         ],
@@ -8993,7 +8939,7 @@
         ]
       },
       {
-        "Rank": 179,
+        "Rank": 178,
         "NCTId": [
           "NCT03670849"
         ],
@@ -9041,7 +8987,7 @@
         ]
       },
       {
-        "Rank": 180,
+        "Rank": 179,
         "NCTId": [
           "NCT03665337"
         ],
@@ -9086,7 +9032,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 181,
+        "Rank": 180,
         "NCTId": [
           "NCT03653013"
         ],
@@ -9129,7 +9075,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 182,
+        "Rank": 181,
         "NCTId": [
           "NCT03648450"
         ],
@@ -9178,7 +9124,7 @@
         ]
       },
       {
-        "Rank": 183,
+        "Rank": 182,
         "NCTId": [
           "NCT03625011"
         ],
@@ -9230,7 +9176,7 @@
         ]
       },
       {
-        "Rank": 184,
+        "Rank": 183,
         "NCTId": [
           "NCT03584399"
         ],
@@ -9272,7 +9218,7 @@
         ]
       },
       {
-        "Rank": 185,
+        "Rank": 184,
         "NCTId": [
           "NCT03559036"
         ],
@@ -9317,7 +9263,7 @@
         ]
       },
       {
-        "Rank": 186,
+        "Rank": 185,
         "NCTId": [
           "NCT03555708"
         ],
@@ -9370,7 +9316,7 @@
         ]
       },
       {
-        "Rank": 187,
+        "Rank": 186,
         "NCTId": [
           "NCT03553875"
         ],
@@ -9419,7 +9365,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 188,
+        "Rank": 187,
         "NCTId": [
           "NCT03539783"
         ],
@@ -9471,7 +9417,7 @@
         ]
       },
       {
-        "Rank": 189,
+        "Rank": 188,
         "NCTId": [
           "NCT03530852"
         ],
@@ -9520,7 +9466,7 @@
         ]
       },
       {
-        "Rank": 190,
+        "Rank": 189,
         "NCTId": [
           "NCT03528109"
         ],
@@ -9584,7 +9530,7 @@
         ]
       },
       {
-        "Rank": 191,
+        "Rank": 190,
         "NCTId": [
           "NCT03508622"
         ],
@@ -9637,7 +9583,7 @@
         ]
       },
       {
-        "Rank": 192,
+        "Rank": 191,
         "NCTId": [
           "NCT03500835"
         ],
@@ -9687,7 +9633,7 @@
         ]
       },
       {
-        "Rank": 193,
+        "Rank": 192,
         "NCTId": [
           "NCT03498495"
         ],
@@ -9733,7 +9679,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 194,
+        "Rank": 193,
         "NCTId": [
           "NCT03496259"
         ],
@@ -9782,7 +9728,7 @@
         ]
       },
       {
-        "Rank": 195,
+        "Rank": 194,
         "NCTId": [
           "NCT03495388"
         ],
@@ -9835,7 +9781,7 @@
         ]
       },
       {
-        "Rank": 196,
+        "Rank": 195,
         "NCTId": [
           "NCT03492944"
         ],
@@ -9879,7 +9825,7 @@
         ]
       },
       {
-        "Rank": 197,
+        "Rank": 196,
         "NCTId": [
           "NCT03472768"
         ],
@@ -9925,7 +9871,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 198,
+        "Rank": 197,
         "NCTId": [
           "NCT03467750"
         ],
@@ -9975,7 +9921,7 @@
         ]
       },
       {
-        "Rank": 199,
+        "Rank": 198,
         "NCTId": [
           "NCT03462979"
         ],
@@ -10027,7 +9973,7 @@
         ]
       },
       {
-        "Rank": 200,
+        "Rank": 199,
         "NCTId": [
           "NCT03453541"
         ],
@@ -10086,7 +10032,7 @@
         ]
       },
       {
-        "Rank": 201,
+        "Rank": 200,
         "NCTId": [
           "NCT03451435"
         ],
@@ -10134,7 +10080,7 @@
         ]
       },
       {
-        "Rank": 202,
+        "Rank": 201,
         "NCTId": [
           "NCT03438656"
         ],
@@ -10183,7 +10129,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 203,
+        "Rank": 202,
         "NCTId": [
           "NCT03429114"
         ],
@@ -10231,7 +10177,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 204,
+        "Rank": 203,
         "NCTId": [
           "NCT03423940"
         ],
@@ -10283,7 +10229,7 @@
         ]
       },
       {
-        "Rank": 205,
+        "Rank": 204,
         "NCTId": [
           "NCT03419260"
         ],
@@ -10329,7 +10275,7 @@
         ]
       },
       {
-        "Rank": 206,
+        "Rank": 205,
         "NCTId": [
           "NCT03412162"
         ],
@@ -10379,7 +10325,7 @@
         ]
       },
       {
-        "Rank": 207,
+        "Rank": 206,
         "NCTId": [
           "NCT03384134"
         ],
@@ -10430,7 +10376,7 @@
         ]
       },
       {
-        "Rank": 208,
+        "Rank": 207,
         "NCTId": [
           "NCT03363919"
         ],
@@ -10482,7 +10428,7 @@
         ]
       },
       {
-        "Rank": 209,
+        "Rank": 208,
         "NCTId": [
           "NCT03337594"
         ],
@@ -10534,7 +10480,7 @@
         ]
       },
       {
-        "Rank": 210,
+        "Rank": 209,
         "NCTId": [
           "NCT03334942"
         ],
@@ -10589,7 +10535,7 @@
         ]
       },
       {
-        "Rank": 211,
+        "Rank": 210,
         "NCTId": [
           "NCT03318393"
         ],
@@ -10633,7 +10579,7 @@
         ]
       },
       {
-        "Rank": 212,
+        "Rank": 211,
         "NCTId": [
           "NCT03304574"
         ],
@@ -10688,7 +10634,7 @@
         ]
       },
       {
-        "Rank": 213,
+        "Rank": 212,
         "NCTId": [
           "NCT03297658"
         ],
@@ -10734,7 +10680,7 @@
         ]
       },
       {
-        "Rank": 214,
+        "Rank": 213,
         "NCTId": [
           "NCT03283033"
         ],
@@ -10783,7 +10729,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 215,
+        "Rank": 214,
         "NCTId": [
           "NCT03280628"
         ],
@@ -10823,7 +10769,7 @@
         ]
       },
       {
-        "Rank": 216,
+        "Rank": 215,
         "NCTId": [
           "NCT03239977"
         ],
@@ -10869,7 +10815,7 @@
         ]
       },
       {
-        "Rank": 217,
+        "Rank": 216,
         "NCTId": [
           "NCT03234309"
         ],
@@ -10918,7 +10864,7 @@
         ]
       },
       {
-        "Rank": 218,
+        "Rank": 217,
         "NCTId": [
           "NCT03229837"
         ],
@@ -10968,7 +10914,7 @@
         ]
       },
       {
-        "Rank": 219,
+        "Rank": 218,
         "NCTId": [
           "NCT03225014"
         ],
@@ -11017,7 +10963,7 @@
         ]
       },
       {
-        "Rank": 220,
+        "Rank": 219,
         "NCTId": [
           "NCT03222570"
         ],
@@ -11063,7 +11009,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 221,
+        "Rank": 220,
         "NCTId": [
           "NCT03202303"
         ],
@@ -11111,7 +11057,7 @@
         ]
       },
       {
-        "Rank": 222,
+        "Rank": 221,
         "NCTId": [
           "NCT03192566"
         ],
@@ -11163,7 +11109,7 @@
         ]
       },
       {
-        "Rank": 223,
+        "Rank": 222,
         "NCTId": [
           "NCT03166358"
         ],
@@ -11211,7 +11157,7 @@
         ]
       },
       {
-        "Rank": 224,
+        "Rank": 223,
         "NCTId": [
           "NCT03154359"
         ],
@@ -11262,7 +11208,7 @@
         ]
       },
       {
-        "Rank": 225,
+        "Rank": 224,
         "NCTId": [
           "NCT03132948"
         ],
@@ -11311,7 +11257,7 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 225,
         "NCTId": [
           "NCT03073070"
         ],
@@ -11363,7 +11309,7 @@
         ]
       },
       {
-        "Rank": 227,
+        "Rank": 226,
         "NCTId": [
           "NCT03072849"
         ],
@@ -11414,7 +11360,7 @@
         ]
       },
       {
-        "Rank": 228,
+        "Rank": 227,
         "NCTId": [
           "NCT03055533"
         ],
@@ -11463,7 +11409,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 228,
         "NCTId": [
           "NCT03052738"
         ],
@@ -11513,7 +11459,7 @@
         ]
       },
       {
-        "Rank": 230,
+        "Rank": 229,
         "NCTId": [
           "NCT03032328"
         ],
@@ -11564,7 +11510,7 @@
         ]
       },
       {
-        "Rank": 231,
+        "Rank": 230,
         "NCTId": [
           "NCT03023566"
         ],
@@ -11613,7 +11559,7 @@
         ]
       },
       {
-        "Rank": 232,
+        "Rank": 231,
         "NCTId": [
           "NCT03005951"
         ],
@@ -11664,7 +11610,7 @@
         ]
       },
       {
-        "Rank": 233,
+        "Rank": 232,
         "NCTId": [
           "NCT02952222"
         ],
@@ -11710,7 +11656,7 @@
         ]
       },
       {
-        "Rank": 234,
+        "Rank": 233,
         "NCTId": [
           "NCT02914067"
         ],
@@ -11763,7 +11709,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 235,
+        "Rank": 234,
         "NCTId": [
           "NCT02895711"
         ],
@@ -11812,7 +11758,7 @@
         ]
       },
       {
-        "Rank": 236,
+        "Rank": 235,
         "NCTId": [
           "NCT02889016"
         ],
@@ -11859,7 +11805,7 @@
         ]
       },
       {
-        "Rank": 237,
+        "Rank": 236,
         "NCTId": [
           "NCT02872558"
         ],
@@ -11910,7 +11856,7 @@
         ]
       },
       {
-        "Rank": 238,
+        "Rank": 237,
         "NCTId": [
           "NCT02852213"
         ],
@@ -11962,7 +11908,7 @@
         ]
       },
       {
-        "Rank": 239,
+        "Rank": 238,
         "NCTId": [
           "NCT02846272"
         ],
@@ -12011,7 +11957,7 @@
         ]
       },
       {
-        "Rank": 240,
+        "Rank": 239,
         "NCTId": [
           "NCT02824627"
         ],
@@ -12061,7 +12007,7 @@
         ]
       },
       {
-        "Rank": 241,
+        "Rank": 240,
         "NCTId": [
           "NCT02795455"
         ],
@@ -12111,7 +12057,7 @@
         ]
       },
       {
-        "Rank": 242,
+        "Rank": 241,
         "NCTId": [
           "NCT02775643"
         ],
@@ -12158,7 +12104,7 @@
         ]
       },
       {
-        "Rank": 243,
+        "Rank": 242,
         "NCTId": [
           "NCT02769975"
         ],
@@ -12210,7 +12156,7 @@
         ]
       },
       {
-        "Rank": 244,
+        "Rank": 243,
         "NCTId": [
           "NCT02747849"
         ],
@@ -12261,7 +12207,7 @@
         ]
       },
       {
-        "Rank": 245,
+        "Rank": 244,
         "NCTId": [
           "NCT02742272"
         ],
@@ -12314,7 +12260,7 @@
         ]
       },
       {
-        "Rank": 246,
+        "Rank": 245,
         "NCTId": [
           "NCT02722486"
         ],
@@ -12362,7 +12308,7 @@
         ]
       },
       {
-        "Rank": 247,
+        "Rank": 246,
         "NCTId": [
           "NCT02703597"
         ],
@@ -12409,7 +12355,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 248,
+        "Rank": 247,
         "NCTId": [
           "NCT02699190"
         ],
@@ -12457,7 +12403,7 @@
         ]
       },
       {
-        "Rank": 249,
+        "Rank": 248,
         "NCTId": [
           "NCT02651493"
         ],
@@ -12508,7 +12454,7 @@
         ]
       },
       {
-        "Rank": 250,
+        "Rank": 249,
         "NCTId": [
           "NCT02616796"
         ],
@@ -12556,7 +12502,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 251,
+        "Rank": 250,
         "NCTId": [
           "NCT02611206"
         ],
@@ -12608,7 +12554,7 @@
         ]
       },
       {
-        "Rank": 252,
+        "Rank": 251,
         "NCTId": [
           "NCT02610946"
         ],
@@ -12659,7 +12605,7 @@
         ]
       },
       {
-        "Rank": 253,
+        "Rank": 252,
         "NCTId": [
           "NCT02558010"
         ],
@@ -12713,7 +12659,7 @@
         ]
       },
       {
-        "Rank": 254,
+        "Rank": 253,
         "NCTId": [
           "NCT02535936"
         ],
@@ -12764,7 +12710,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 254,
         "NCTId": [
           "NCT02531893"
         ],
@@ -12812,7 +12758,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 255,
         "NCTId": [
           "NCT02512718"
         ],
@@ -12856,7 +12802,7 @@
         ]
       },
       {
-        "Rank": 257,
+        "Rank": 256,
         "NCTId": [
           "NCT02507791"
         ],
@@ -12907,7 +12853,7 @@
         ]
       },
       {
-        "Rank": 258,
+        "Rank": 257,
         "NCTId": [
           "NCT02498925"
         ],
@@ -12955,7 +12901,7 @@
         ]
       },
       {
-        "Rank": 259,
+        "Rank": 258,
         "NCTId": [
           "NCT02485418"
         ],
@@ -13002,7 +12948,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 260,
+        "Rank": 259,
         "NCTId": [
           "NCT02478788"
         ],
@@ -13052,7 +12998,7 @@
         ]
       },
       {
-        "Rank": 261,
+        "Rank": 260,
         "NCTId": [
           "NCT02453126"
         ],
@@ -13098,7 +13044,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 262,
+        "Rank": 261,
         "NCTId": [
           "NCT02398539"
         ],
@@ -13143,7 +13089,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 263,
+        "Rank": 262,
         "NCTId": [
           "NCT02395003"
         ],
@@ -13187,7 +13133,7 @@
         ]
       },
       {
-        "Rank": 264,
+        "Rank": 263,
         "NCTId": [
           "NCT02354365"
         ],
@@ -13239,7 +13185,7 @@
         ]
       },
       {
-        "Rank": 265,
+        "Rank": 264,
         "NCTId": [
           "NCT02312635"
         ],
@@ -13291,7 +13237,7 @@
         ]
       },
       {
-        "Rank": 266,
+        "Rank": 265,
         "NCTId": [
           "NCT02305537"
         ],
@@ -13349,7 +13295,7 @@
         ]
       },
       {
-        "Rank": 267,
+        "Rank": 266,
         "NCTId": [
           "NCT02257229"
         ],
@@ -13396,7 +13342,7 @@
         ]
       },
       {
-        "Rank": 268,
+        "Rank": 267,
         "NCTId": [
           "NCT02245997"
         ],
@@ -13443,7 +13389,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 269,
+        "Rank": 268,
         "NCTId": [
           "NCT02202174"
         ],
@@ -13488,7 +13434,7 @@
         ]
       },
       {
-        "Rank": 270,
+        "Rank": 269,
         "NCTId": [
           "NCT02130180"
         ],
@@ -13536,7 +13482,7 @@
         ]
       },
       {
-        "Rank": 271,
+        "Rank": 270,
         "NCTId": [
           "NCT02127658"
         ],
@@ -13578,7 +13524,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 272,
+        "Rank": 271,
         "NCTId": [
           "NCT02117063"
         ],
@@ -13635,7 +13581,7 @@
         ]
       },
       {
-        "Rank": 273,
+        "Rank": 272,
         "NCTId": [
           "NCT02055105"
         ],
@@ -13683,7 +13629,7 @@
         ]
       },
       {
-        "Rank": 274,
+        "Rank": 273,
         "NCTId": [
           "NCT02021604"
         ],
@@ -13726,7 +13672,7 @@
         ]
       },
       {
-        "Rank": 275,
+        "Rank": 274,
         "NCTId": [
           "NCT01960166"
         ],
@@ -13768,7 +13714,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 276,
+        "Rank": 275,
         "NCTId": [
           "NCT01857791"
         ],
@@ -13815,7 +13761,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 277,
+        "Rank": 276,
         "NCTId": [
           "NCT01839747"
         ],
@@ -13864,7 +13810,7 @@
         ]
       },
       {
-        "Rank": 278,
+        "Rank": 277,
         "NCTId": [
           "NCT01724463"
         ],
@@ -13919,7 +13865,7 @@
         ]
       },
       {
-        "Rank": 279,
+        "Rank": 278,
         "NCTId": [
           "NCT01665326"
         ],
@@ -13969,7 +13915,7 @@
         ]
       },
       {
-        "Rank": 280,
+        "Rank": 279,
         "NCTId": [
           "NCT01629017"
         ],
@@ -14021,7 +13967,7 @@
         ]
       },
       {
-        "Rank": 281,
+        "Rank": 280,
         "NCTId": [
           "NCT01598766"
         ],
@@ -14073,7 +14019,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 282,
+        "Rank": 281,
         "NCTId": [
           "NCT01577810"
         ],
@@ -14124,7 +14070,7 @@
         ]
       },
       {
-        "Rank": 283,
+        "Rank": 282,
         "NCTId": [
           "NCT01567579"
         ],
@@ -14175,7 +14121,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 283,
         "NCTId": [
           "NCT01543438"
         ],
@@ -14222,7 +14168,7 @@
         ]
       },
       {
-        "Rank": 285,
+        "Rank": 284,
         "NCTId": [
           "NCT01504373"
         ],
@@ -14268,7 +14214,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 286,
+        "Rank": 285,
         "NCTId": [
           "NCT01422759"
         ],
@@ -14320,7 +14266,7 @@
         ]
       },
       {
-        "Rank": 287,
+        "Rank": 286,
         "NCTId": [
           "NCT01422746"
         ],
@@ -14370,7 +14316,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 288,
+        "Rank": 287,
         "NCTId": [
           "NCT01421810"
         ],
@@ -14421,7 +14367,7 @@
         ]
       },
       {
-        "Rank": 289,
+        "Rank": 288,
         "NCTId": [
           "NCT01421797"
         ],
@@ -14473,7 +14419,7 @@
         ]
       },
       {
-        "Rank": 290,
+        "Rank": 289,
         "NCTId": [
           "NCT01386736"
         ],
@@ -14522,7 +14468,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 291,
+        "Rank": 290,
         "NCTId": [
           "NCT01383915"
         ],
@@ -14571,7 +14517,7 @@
         ]
       },
       {
-        "Rank": 292,
+        "Rank": 291,
         "NCTId": [
           "NCT01304875"
         ],
@@ -14615,7 +14561,7 @@
         ]
       },
       {
-        "Rank": 293,
+        "Rank": 292,
         "NCTId": [
           "NCT01285531"
         ],
@@ -14672,7 +14618,7 @@
         ]
       },
       {
-        "Rank": 294,
+        "Rank": 293,
         "NCTId": [
           "NCT01122095"
         ],
@@ -14725,7 +14671,7 @@
         ]
       },
       {
-        "Rank": 295,
+        "Rank": 294,
         "NCTId": [
           "NCT00906906"
         ],
@@ -14776,7 +14722,7 @@
         ]
       },
       {
-        "Rank": 296,
+        "Rank": 295,
         "NCTId": [
           "NCT00814853"
         ],
@@ -14823,7 +14769,7 @@
         ]
       },
       {
-        "Rank": 297,
+        "Rank": 296,
         "NCTId": [
           "NCT00792415"
         ],
@@ -14871,7 +14817,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 298,
+        "Rank": 297,
         "NCTId": [
           "NCT00745394"
         ],
@@ -14918,7 +14864,7 @@
         ]
       },
       {
-        "Rank": 299,
+        "Rank": 298,
         "NCTId": [
           "NCT00616317"
         ],
@@ -14956,7 +14902,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 300,
+        "Rank": 299,
         "NCTId": [
           "NCT00494572"
         ],
@@ -15006,7 +14952,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 300,
         "NCTId": [
           "NCT00491946"
         ],
@@ -15051,7 +14997,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 301,
         "NCTId": [
           "NCT00465699"
         ],
@@ -15095,7 +15041,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 302,
         "NCTId": [
           "NCT00320086"
         ],
@@ -15143,7 +15089,7 @@
         ]
       },
       {
-        "Rank": 304,
+        "Rank": 303,
         "NCTId": [
           "NCT00292513"
         ],
@@ -15188,7 +15134,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 305,
+        "Rank": 304,
         "NCTId": [
           "NCT00182572"
         ],
@@ -15232,7 +15178,7 @@
         ]
       },
       {
-        "Rank": 306,
+        "Rank": 305,
         "NCTId": [
           "NCT00167219"
         ],
@@ -15278,7 +15224,7 @@
         ]
       },
       {
-        "Rank": 307,
+        "Rank": 306,
         "NCTId": [
           "NCT00036712"
         ],
@@ -15335,7 +15281,7 @@
         ]
       },
       {
-        "Rank": 308,
+        "Rank": 307,
         "NCTId": [
           "NCT00012506"
         ],
@@ -15383,7 +15329,7 @@
         ]
       },
       {
-        "Rank": 309,
+        "Rank": 308,
         "NCTId": [
           "NCT00000112"
         ],
@@ -15424,7 +15370,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 310,
+        "Rank": 309,
         "NCTId": [
           "NCT04602325"
         ],
@@ -15476,7 +15422,7 @@
         ]
       },
       {
-        "Rank": 311,
+        "Rank": 310,
         "NCTId": [
           "NCT03266016"
         ],
@@ -15518,7 +15464,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 311,
         "NCTId": [
           "NCT02420990"
         ],
@@ -15566,7 +15512,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 313,
+        "Rank": 312,
         "NCTId": [
           "NCT04465370"
         ],
@@ -15624,7 +15570,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 314,
+        "Rank": 313,
         "NCTId": [
           "NCT03242473"
         ],
@@ -15683,7 +15629,7 @@
         ]
       },
       {
-        "Rank": 315,
+        "Rank": 314,
         "NCTId": [
           "NCT02505165"
         ],
@@ -15748,7 +15694,7 @@
         ]
       },
       {
-        "Rank": 316,
+        "Rank": 315,
         "NCTId": [
           "NCT01142882"
         ],
@@ -15812,7 +15758,7 @@
         ]
       },
       {
-        "Rank": 317,
+        "Rank": 316,
         "NCTId": [
           "NCT04602728"
         ],
@@ -15862,7 +15808,7 @@
         ]
       },
       {
-        "Rank": 318,
+        "Rank": 317,
         "NCTId": [
           "NCT03657771"
         ],
@@ -15933,7 +15879,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 318,
         "NCTId": [
           "NCT04344899"
         ],
@@ -15994,7 +15940,7 @@
         ]
       },
       {
-        "Rank": 320,
+        "Rank": 319,
         "NCTId": [
           "NCT02260856"
         ],
@@ -16077,7 +16023,7 @@
         ]
       },
       {
-        "Rank": 321,
+        "Rank": 320,
         "NCTId": [
           "NCT02933008"
         ],
@@ -16123,7 +16069,7 @@
         ]
       },
       {
-        "Rank": 322,
+        "Rank": 321,
         "NCTId": [
           "NCT04933331"
         ],
@@ -16202,7 +16148,7 @@
         ]
       },
       {
-        "Rank": 323,
+        "Rank": 322,
         "NCTId": [
           "NCT04251026"
         ],
@@ -16276,7 +16222,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 324,
+        "Rank": 323,
         "NCTId": [
           "NCT03525431"
         ],
@@ -16342,7 +16288,7 @@
         ]
       },
       {
-        "Rank": 325,
+        "Rank": 324,
         "NCTId": [
           "NCT02044744"
         ],
@@ -16410,7 +16356,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 326,
+        "Rank": 325,
         "NCTId": [
           "NCT04625686"
         ],
@@ -16480,7 +16426,7 @@
         ]
       },
       {
-        "Rank": 327,
+        "Rank": 326,
         "NCTId": [
           "NCT04621331"
         ],
@@ -16537,7 +16483,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 328,
+        "Rank": 327,
         "NCTId": [
           "NCT04074265"
         ],
@@ -16621,7 +16567,7 @@
         ]
       },
       {
-        "Rank": 329,
+        "Rank": 328,
         "NCTId": [
           "NCT03201874"
         ],
@@ -16688,7 +16634,7 @@
         ]
       },
       {
-        "Rank": 330,
+        "Rank": 329,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16757,7 +16703,7 @@
         ]
       },
       {
-        "Rank": 331,
+        "Rank": 330,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16827,7 +16773,7 @@
         ]
       },
       {
-        "Rank": 332,
+        "Rank": 331,
         "NCTId": [
           "NCT02914405"
         ],
@@ -16898,7 +16844,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 333,
+        "Rank": 332,
         "NCTId": [
           "NCT02391324"
         ],
@@ -16960,7 +16906,7 @@
         ]
       },
       {
-        "Rank": 334,
+        "Rank": 333,
         "NCTId": [
           "NCT02134782"
         ],
@@ -17024,7 +16970,7 @@
         ]
       },
       {
-        "Rank": 335,
+        "Rank": 334,
         "NCTId": [
           "NCT04333823"
         ],
@@ -17093,7 +17039,7 @@
         ]
       },
       {
-        "Rank": 336,
+        "Rank": 335,
         "NCTId": [
           "NCT03962894"
         ],
@@ -17173,7 +17119,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 337,
+        "Rank": 336,
         "NCTId": [
           "NCT03606980"
         ],
@@ -17237,7 +17183,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 337,
         "NCTId": [
           "NCT03240809"
         ],
@@ -17295,7 +17241,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 338,
         "NCTId": [
           "NCT04853316"
         ],
@@ -17372,7 +17318,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 339,
         "NCTId": [
           "NCT04060823"
         ],
@@ -17428,7 +17374,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 341,
+        "Rank": 340,
         "NCTId": [
           "NCT00005105"
         ],
@@ -17492,7 +17438,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 341,
         "NCTId": [
           "NCT03505658"
         ],
@@ -17553,7 +17499,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 343,
+        "Rank": 342,
         "NCTId": [
           "NCT03989986"
         ],
@@ -17613,7 +17559,7 @@
         ]
       },
       {
-        "Rank": 344,
+        "Rank": 343,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17687,7 +17633,7 @@
         ]
       },
       {
-        "Rank": 345,
+        "Rank": 344,
         "NCTId": [
           "NCT03117751"
         ],
@@ -17777,7 +17723,7 @@
         ]
       },
       {
-        "Rank": 346,
+        "Rank": 345,
         "NCTId": [
           "NCT03910933"
         ],
@@ -17860,7 +17806,7 @@
         ]
       },
       {
-        "Rank": 347,
+        "Rank": 346,
         "NCTId": [
           "NCT04442295"
         ],
@@ -17989,7 +17935,7 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 347,
         "NCTId": [
           "NCT04431453"
         ],
@@ -18160,7 +18106,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 348,
         "NCTId": [
           "NCT04258943"
         ],
@@ -18460,7 +18406,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 349,
         "NCTId": [
           "NCT04203316"
         ],
@@ -18639,7 +18585,7 @@
         ]
       },
       {
-        "Rank": 351,
+        "Rank": 350,
         "NCTId": [
           "NCT04195399"
         ],
@@ -19201,7 +19147,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 351,
         "NCTId": [
           "NCT03199053"
         ],
@@ -19760,7 +19706,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 352,
         "NCTId": [
           "NCT02121132"
         ],
@@ -19938,7 +19884,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 353,
         "NCTId": [
           "NCT04318548"
         ],
@@ -20133,7 +20079,7 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 354,
         "NCTId": [
           "NCT03939637"
         ],
@@ -20316,7 +20262,7 @@
         ]
       },
       {
-        "Rank": 356,
+        "Rank": 355,
         "NCTId": [
           "NCT03522168"
         ],
@@ -20724,7 +20670,7 @@
         ]
       },
       {
-        "Rank": 357,
+        "Rank": 356,
         "NCTId": [
           "NCT02859896"
         ],
@@ -20889,7 +20835,7 @@
         ]
       },
       {
-        "Rank": 358,
+        "Rank": 357,
         "NCTId": [
           "NCT02205762"
         ],
@@ -21243,7 +21189,7 @@
         ]
       },
       {
-        "Rank": 359,
+        "Rank": 358,
         "NCTId": [
           "NCT03719339"
         ],
@@ -21407,158 +21353,7 @@
         ]
       },
       {
-        "Rank": 360,
-        "NCTId": [
-          "NCT04608019"
-        ],
-        "OfficialTitle": [
-          "Streamlined Treatment of Pulmonary Exacerbations in Pediatrics (Pilot)"
-        ],
-        "Condition": [
-          "Cystic Fibrosis"
-        ],
-        "EligibilityCriteria": [
-          "Enrollment Inclusion Criteria:\n\nAge 6 to <19 years\n\nDocumentation of a CF diagnosis as evidenced by one or more clinical features consistent with the CF phenotype and one or more of the following criteria:\n\nsweat chloride ≥ 60 mEq/liter\ntwo disease-causing variants in the cystic fibrosis transmembrane conductive regulator (CFTR) gene\nWritten informed consent (and assent when applicable) obtained from participant or participant's legal representative and ability of participant to comply with the requirements of the study\nAble to perform acceptable and reproducible spirometry\nFEV1 ≥ 50% predicted at enrollment based on the Global lung Initiative (GLI) reference equations\nAt least 1 course of oral or IV antibiotics for respiratory symptoms since January 1, 2019.\nAbility to receive text messages and access the internet\n\nEnrollment Exclusion Criteria:\n\nPresence of a condition or abnormality that in the opinion of the Investigator would compromise the safety of the patient or the quality of the data.\nPrevious randomization in the study\nReceiving antibiotics for a PEx at the time of enrollment or within the 21 days prior to enrollment. Individuals may be re-screened ≥21 days after completion of antibiotics if they are at their baseline state of health, per self-report.\nTreatment with systemic corticosteroids at enrollment. Individuals may be re- screened ≥21 days after completion of systemic corticosteroids if they are at their clinical baseline, per self-report.\nHistory of solid organ transplant\nHistory of positive culture for Mycobacterium abscessus in the 12 months prior to enrollment\nTreatment with antibiotics for any non-tuberculous mycobacteria (NTM) at enrollment\nThree or more IV antibiotic-treated PEx in the 12 months prior to enrollment\nTreatment with chronic oral antibiotics other than azithromycin at enrollment"
-        ],
-        "MinimumAge": [
-          "6 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Tucson",
-          "Aurora",
-          "Atlanta",
-          "Chicago",
-          "Indianapolis",
-          "Grand Rapids",
-          "Portland",
-          "Pittsburgh",
-          "Houston",
-          "Seattle"
-        ],
-        "LocationFacility": [
-          "Tucson Cystic Fibrosis Center",
-          "Children's Hospital of Colorado",
-          "Children's Healthcare of Atlanta",
-          "Lurie Children's Hospital of Chicago & Northwestern University",
-          "Riley Hospital for Children",
-          "Helen DeVos Children's Hospital",
-          "Oregon Health Sciences University",
-          "Children's Hospital of Pittsburgh of UPMC",
-          "Texas Children's Hospital and Baylor College of Medicine",
-          "Seattle Children's Hospital"
-        ],
-        "LocationState": [
-          "Arizona",
-          "Colorado",
-          "Georgia",
-          "Illinois",
-          "Indiana",
-          "Michigan",
-          "Oregon",
-          "Pennsylvania",
-          "Texas",
-          "Washington"
-        ],
-        "LocationZip": [
-          "85713",
-          "80045",
-          "30322",
-          "60611-2605",
-          "46202",
-          "49503",
-          "97239",
-          "15224",
-          "77030",
-          "98105"
-        ],
-        "LocationContactEMail": [
-          "elizabethryan@arizona.edu",
-          "jrpimentel@arizona.edu",
-          "Mary.Cross@childrenscolorado.org",
-          "dana.coyle@childrenscolorado.org",
-          "Akele.carter@choa.org",
-          "ashleigh.streby@emory.edu",
-          "yhwu@luriechildrens.org",
-          "lrugg@luriechildrens.org",
-          "misthomp@iupui.edu",
-          "lbendy@iu.edu",
-          "thomas.symington@spectrumhealth.org",
-          "Lindsey.Kamphuis@spectrumealth.org",
-          "hansoan@ohsu.edu",
-          "kleinb@ohsu.edu",
-          "Adrienne.Dericco2@upmc.edu",
-          "jennifer.nagg@chp.edu",
-          "rogeliog@bcm.edu",
-          "klhowe@texaschildrens.org",
-          "sharon.mcnamara@seattlechildrens.org",
-          "sabrina.gorry@seattlechildrens.org"
-        ],
-        "LocationContactName": [
-          "Elizabeth (Lisa) Ryan",
-          "Jenna Pimentel",
-          "Cori Daines, MD",
-          "Mary Cross",
-          "Dana Coyle",
-          "Jordana Hoppe, MD",
-          "Akele Carter",
-          "Ashleigh Streby",
-          "Kevin Kirchner, MD",
-          "Irene Wu",
-          "Larissa Rugg",
-          "Maria Dowell, MD",
-          "Misty Thompson, B.S.",
-          "Lisa Bendy",
-          "D. B. Sanders, MD",
-          "Thomas Symington, RN",
-          "Lindsey Kamphuis, RN",
-          "Susan Millard, MD",
-          "Annie Hanson",
-          "Brendan Klein",
-          "Kelvin MacDonald, MD",
-          "Adrienne DeRicco",
-          "Jennifer Nagg, RN",
-          "Daniel Weiner, MD",
-          "Roger Hernandez",
-          "Katie Howe",
-          "Fadel Ruiz, MD",
-          "Sharon McNamara",
-          "Sabrina Gorry",
-          "Margaret Rosenfeld, MD"
-        ],
-        "LocationContactPhone": [
-          "520-626-3125",
-          "520-621-1806",
-          "720-777-4645",
-          "720-777-6162",
-          "404-785-9011",
-          "404-727-0305",
-          "312-227-2473",
-          "312-227-6865",
-          "317-274-7768",
-          "317-948-7152",
-          "616-391-9366",
-          "616-267-2022",
-          "503-494-5487",
-          "503-418-8108",
-          "412-692-8069",
-          "(412) 692-5389",
-          "832-822-3389",
-          "(810) 429-1721",
-          "206-987-3921",
-          "206-987-3921"
-        ],
-        "BriefSummary": [
-          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population."
-        ],
-        "DetailedDescription": [
-          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population. The primary endpoint is the proportion of participants in the tailored arm who did not take any oral antibiotics in the 28 days following randomization.\n\nUltimately, we want to learn:\n\nWhat is the best way to treat pulmonary exacerbations?\nShould everyone with a pulmonary exacerbation take antibiotics?\nDo the benefits of starting antibiotics at the first signs of illness outweigh the possible risks, like side effects and antibiotic resistance?\n\nThis pilot study is designed to determine if an interventional study to help answer these questions is feasible. Up to 120 participants will be enrolled and followed through their well state of health, then for 28 days following their first randomized exacerbation. Enrollment will stop after 80 pulmonary exacerbation events have been randomized, even if this does not require 120 participants. Due to the nature of the study, the identity of treatment assignment will be known to investigators, research staff, and patients (ie, not blinded).\n\nTotal duration of this pilot study is expected to be approximately 18 months: 6 months for participant recruitment and 12 months for follow up. Participants could be monitored for up to 18 months if they do not have an exacerbation. However, it is anticipated that the majority of participants will experience a randomizable PEx event and therefore have a shorter follow up period."
-        ]
-      },
-      {
-        "Rank": 361,
+        "Rank": 359,
         "NCTId": [
           "NCT04378075"
         ],
@@ -21650,7 +21445,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 362,
+        "Rank": 360,
         "NCTId": [
           "NCT03633708"
         ],
@@ -21822,7 +21617,158 @@
         ]
       },
       {
-        "Rank": 363,
+        "Rank": 361,
+        "NCTId": [
+          "NCT04608019"
+        ],
+        "OfficialTitle": [
+          "Streamlined Treatment of Pulmonary Exacerbations in Pediatrics (Pilot)"
+        ],
+        "Condition": [
+          "Cystic Fibrosis"
+        ],
+        "EligibilityCriteria": [
+          "Enrollment Inclusion Criteria:\n\nAge 6 to <19 years\n\nDocumentation of a CF diagnosis as evidenced by one or more clinical features consistent with the CF phenotype and one or more of the following criteria:\n\nsweat chloride ≥ 60 mEq/liter\ntwo disease-causing variants in the cystic fibrosis transmembrane conductive regulator (CFTR) gene\nWritten informed consent (and assent when applicable) obtained from participant or participant's legal representative and ability of participant to comply with the requirements of the study\nAble to perform acceptable and reproducible spirometry\nFEV1 ≥ 50% predicted at enrollment based on the Global lung Initiative (GLI) reference equations\nAt least 1 course of oral or IV antibiotics for respiratory symptoms since January 1, 2019.\nAbility to receive text messages and access the internet\n\nEnrollment Exclusion Criteria:\n\nPresence of a condition or abnormality that in the opinion of the Investigator would compromise the safety of the patient or the quality of the data.\nPrevious randomization in the study\nReceiving antibiotics for a PEx at the time of enrollment or within the 21 days prior to enrollment. Individuals may be re-screened ≥21 days after completion of antibiotics if they are at their baseline state of health, per self-report.\nTreatment with systemic corticosteroids at enrollment. Individuals may be re- screened ≥21 days after completion of systemic corticosteroids if they are at their clinical baseline, per self-report.\nHistory of solid organ transplant\nHistory of positive culture for Mycobacterium abscessus in the 12 months prior to enrollment\nTreatment with antibiotics for any non-tuberculous mycobacteria (NTM) at enrollment\nThree or more IV antibiotic-treated PEx in the 12 months prior to enrollment\nTreatment with chronic oral antibiotics other than azithromycin at enrollment"
+        ],
+        "MinimumAge": [
+          "6 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Tucson",
+          "Aurora",
+          "Atlanta",
+          "Chicago",
+          "Indianapolis",
+          "Grand Rapids",
+          "Portland",
+          "Pittsburgh",
+          "Houston",
+          "Seattle"
+        ],
+        "LocationFacility": [
+          "Tucson Cystic Fibrosis Center",
+          "Children's Hospital of Colorado",
+          "Children's Healthcare of Atlanta",
+          "Lurie Children's Hospital of Chicago & Northwestern University",
+          "Riley Hospital for Children",
+          "Helen DeVos Children's Hospital",
+          "Oregon Health Sciences University",
+          "Children's Hospital of Pittsburgh of UPMC",
+          "Texas Children's Hospital and Baylor College of Medicine",
+          "Seattle Children's Hospital"
+        ],
+        "LocationState": [
+          "Arizona",
+          "Colorado",
+          "Georgia",
+          "Illinois",
+          "Indiana",
+          "Michigan",
+          "Oregon",
+          "Pennsylvania",
+          "Texas",
+          "Washington"
+        ],
+        "LocationZip": [
+          "85713",
+          "80045",
+          "30322",
+          "60611-2605",
+          "46202",
+          "49503",
+          "97239",
+          "15224",
+          "77030",
+          "98105"
+        ],
+        "LocationContactEMail": [
+          "elizabethryan@arizona.edu",
+          "jrpimentel@arizona.edu",
+          "Mary.Cross@childrenscolorado.org",
+          "dana.coyle@childrenscolorado.org",
+          "Akele.carter@choa.org",
+          "ashleigh.streby@emory.edu",
+          "yhwu@luriechildrens.org",
+          "lrugg@luriechildrens.org",
+          "misthomp@iupui.edu",
+          "lbendy@iu.edu",
+          "thomas.symington@spectrumhealth.org",
+          "Lindsey.Kamphuis@spectrumealth.org",
+          "hansoan@ohsu.edu",
+          "kleinb@ohsu.edu",
+          "Adrienne.Dericco2@upmc.edu",
+          "jennifer.nagg@chp.edu",
+          "rogeliog@bcm.edu",
+          "klhowe@texaschildrens.org",
+          "sharon.mcnamara@seattlechildrens.org",
+          "sabrina.gorry@seattlechildrens.org"
+        ],
+        "LocationContactName": [
+          "Elizabeth (Lisa) Ryan",
+          "Jenna Pimentel",
+          "Cori Daines, MD",
+          "Mary Cross",
+          "Dana Coyle",
+          "Jordana Hoppe, MD",
+          "Akele Carter",
+          "Ashleigh Streby",
+          "Kevin Kirchner, MD",
+          "Irene Wu",
+          "Larissa Rugg",
+          "Maria Dowell, MD",
+          "Misty Thompson, B.S.",
+          "Lisa Bendy",
+          "D. B. Sanders, MD",
+          "Thomas Symington, RN",
+          "Lindsey Kamphuis, RN",
+          "Susan Millard, MD",
+          "Annie Hanson",
+          "Brendan Klein",
+          "Kelvin MacDonald, MD",
+          "Adrienne DeRicco",
+          "Jennifer Nagg, RN",
+          "Daniel Weiner, MD",
+          "Roger Hernandez",
+          "Katie Howe",
+          "Fadel Ruiz, MD",
+          "Sharon McNamara",
+          "Sabrina Gorry",
+          "Margaret Rosenfeld, MD"
+        ],
+        "LocationContactPhone": [
+          "520-626-3125",
+          "520-621-1806",
+          "720-777-4645",
+          "720-777-6162",
+          "404-785-9011",
+          "404-727-0305",
+          "312-227-2473",
+          "312-227-6865",
+          "317-274-7768",
+          "317-948-7152",
+          "616-391-9366",
+          "616-267-2022",
+          "503-494-5487",
+          "503-418-8108",
+          "412-692-8069",
+          "(412) 692-5389",
+          "832-822-3389",
+          "(810) 429-1721",
+          "206-987-3921",
+          "206-987-3921"
+        ],
+        "BriefSummary": [
+          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population."
+        ],
+        "DetailedDescription": [
+          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population. The primary endpoint is the proportion of participants in the tailored arm who did not take any oral antibiotics in the 28 days following randomization.\n\nUltimately, we want to learn:\n\nWhat is the best way to treat pulmonary exacerbations?\nShould everyone with a pulmonary exacerbation take antibiotics?\nDo the benefits of starting antibiotics at the first signs of illness outweigh the possible risks, like side effects and antibiotic resistance?\n\nThis pilot study is designed to determine if an interventional study to help answer these questions is feasible. Up to 120 participants will be enrolled and followed through their well state of health, then for 28 days following their first randomized exacerbation. Enrollment will stop after 80 pulmonary exacerbation events have been randomized, even if this does not require 120 participants. Due to the nature of the study, the identity of treatment assignment will be known to investigators, research staff, and patients (ie, not blinded).\n\nTotal duration of this pilot study is expected to be approximately 18 months: 6 months for participant recruitment and 12 months for follow up. Participants could be monitored for up to 18 months if they do not have an exacerbation. However, it is anticipated that the majority of participants will experience a randomizable PEx event and therefore have a shorter follow up period."
+        ]
+      },
+      {
+        "Rank": 362,
         "NCTId": [
           "NCT03707158"
         ],
@@ -21933,7 +21879,7 @@
         ]
       },
       {
-        "Rank": 364,
+        "Rank": 363,
         "NCTId": [
           "NCT01987882"
         ],
@@ -22046,7 +21992,7 @@
         ]
       },
       {
-        "Rank": 365,
+        "Rank": 364,
         "NCTId": [
           "NCT00670735"
         ],
@@ -22201,7 +22147,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 366,
+        "Rank": 365,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22294,7 +22240,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 367,
+        "Rank": 366,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22397,7 +22343,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 368,
+        "Rank": 367,
         "NCTId": [
           "NCT03813238"
         ],
@@ -22686,7 +22632,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 369,
+        "Rank": 368,
         "NCTId": [
           "NCT04075266"
         ],
@@ -22809,157 +22755,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 370,
-        "NCTId": [
-          "NCT04354155"
-        ],
-        "OfficialTitle": [
-          "COVID-19 Anticoagulation in Children - Thromboprophlaxis (COVAC-TP) Trial"
-        ],
-        "Condition": [
-          "Infection Viral",
-          "Thromboses, Venous",
-          "COVID-19"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nBirth to <18 years of age; AND\nPositive nucleic acid test for SARS-CoV-2 within the past 7 days; AND\nHospitalized, <72 hours post-admission; AND\n\nOne or more signs and/or symptoms of COVID-19 illness within the past 72 hours, as follows:\n\nCough; OR\nFever (oral temperature >100.4°F/38°C); OR\nChest pain; OR\nShortness of breath; OR\nMyalgia; OR\nAcute unexplained loss of smell or taste; OR\nNew/increased supplemental oxygen requirement; OR\nAcute respiratory failure requiring non-invasive or invasive ventilation; OR\nEncephalitis.\n\nExclusion Criteria:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\nReceiving therapeutic anticoagulation for treatment of a thromboembolic event diagnosed within the past 12 weeks; OR\nClinical-relevant bleeding (see criteria under Primary Outcome, below) within the past 72 hours; OR\nPlatelet count <50,000/µL within the past 24 hours; OR\nProthrombin time (PT) ≥2 seconds above the upper limit of age-appropriate local reference range within the past 24 hours; OR\nActivated partial thromboplastin time (aPTT) ≥4 seconds above the upper limit of age-appropriate local reference range within the past 24 hours; OR\nFibrinogen level <75 mg/dL; OR\nSevere renal impairment, as defined by estimated glomerular filtration rate (eGFR) <31 mL/min/ 1.73 m2, as calculated by the Schwartz formula; OR\nParent or legally authorized representative unwilling to provide informed consent for patient participation."
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Birmingham",
-          "Los Angeles",
-          "Sacramento",
-          "San Diego",
-          "Saint Petersburg",
-          "Atlanta",
-          "Chicago",
-          "Chicago",
-          "New Orleans",
-          "Baltimore",
-          "Boston",
-          "Detroit",
-          "New Hyde Park",
-          "Akron",
-          "Pittsburgh",
-          "Dallas"
-        ],
-        "LocationFacility": [
-          "Children's of Alabama",
-          "Children's Hospital Los Angeles",
-          "Hemostasis and Thrombosis Center UC Davis",
-          "Rady Children's Hospital",
-          "Johns Hopkins All Children's Hospital",
-          "Children's Hospital of Atlanta",
-          "Lurie Children's Hospital",
-          "Rush University Medical Center",
-          "Children's Hospital New Orleans",
-          "Johns Hopkins Hospital and Children's Center",
-          "Boston Children's Hospital",
-          "Children's Hospital of Michigan",
-          "Cohen Children's Medical Center",
-          "Akron Children's Hospital",
-          "Children's Hospital Pittsburgh",
-          "Children's Medical Center of Dallas"
-        ],
-        "LocationState": [
-          "Alabama",
-          "California",
-          "California",
-          "California",
-          "Florida",
-          "Georgia",
-          "Illinois",
-          "Illinois",
-          "Louisiana",
-          "Maryland",
-          "Massachusetts",
-          "Michigan",
-          "New York",
-          "Ohio",
-          "Pennsylvania",
-          "Texas"
-        ],
-        "LocationZip": [
-          "35233",
-          "90027",
-          "95817",
-          "92123",
-          "33701",
-          "30322",
-          "60611",
-          "60612",
-          "70118",
-          "21287",
-          "02115",
-          "48201",
-          "11040",
-          "44308",
-          "15224",
-          "75235"
-        ],
-        "LocationContactEMail": [
-          "cpatrick@peds.uab.edu",
-          "eunbkim@chla.usc.edu",
-          "mbtate@ucdavis.edu",
-          "Jlimjoco1@rchsd.org",
-          "ftariq1@jhmi.edu",
-          "Rachana.Kanvinde@choa.org",
-          "KatKing@luriechildrens.org",
-          "Josephine_R_Volgi@rush.edu",
-          "ngodi1@lsuhsc.edu",
-          "ronke@jhmi.edu",
-          "Taylah.Buissereth@childrens.harvard.edu",
-          "bhannan@med.wayne.edu",
-          "Adelpilar@northwell.edu",
-          "awiseman@akronchildrens.org",
-          "Angela.martino2@chp.edu",
-          "kendras.malone@childrens.com"
-        ],
-        "LocationContactName": [
-          "Christy Patrick",
-          "Hope Wilson, MD",
-          "Eunbbie Kim",
-          "Julie Jaffray, MD",
-          "Morgan Tate",
-          "Arun Panigrahi, MD",
-          "Jacquie Limjoco",
-          "Courtney Thornburg, MD",
-          "Fatima Tariq",
-          "Anthony Sochet, MD",
-          "Rachana Kanvinde",
-          "Gary Woods, MD",
-          "Kathryn King",
-          "Rukhmi Bhat, MD",
-          "Josephine Volgi",
-          "Valerie Kalinowski, MD",
-          "Nihal Godiwala, MD",
-          "Nihal Godiwala, MD",
-          "Ronke Awojoodu",
-          "Sapna Kudchadkar, MD",
-          "Taylah Buissereth",
-          "Riten Kumar, MD",
-          "Bryan Hannon",
-          "Madhvi Rajpurkar, MD",
-          "Ariana Del Pilar",
-          "Suchitra Acharya, MD",
-          "Amanda Wiseman",
-          "John Fargo, MD",
-          "Angela Martino",
-          "James Cooper, MD",
-          "Kendra Malone",
-          "Ayesha Zia, MD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The purpose of this study is to evaluate the safety, dose-requirements, and exploratory efficacy of twice-daily subcutaneous enoxaparin as venous thromboembolism prophylaxis in children (birth to 18 years) hospitalized with signs and/or symptoms of SARS-CoV-2 infection (i.e., COVID-19)."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 371,
+        "Rank": 369,
         "NCTId": [
           "NCT03866798"
         ],
@@ -23023,7 +22819,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 372,
+        "Rank": 370,
         "NCTId": [
           "NCT03837899"
         ],
@@ -23133,7 +22929,7 @@
         ]
       },
       {
-        "Rank": 373,
+        "Rank": 371,
         "NCTId": [
           "NCT03441360"
         ],
@@ -23335,7 +23131,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 374,
+        "Rank": 372,
         "NCTId": [
           "NCT01148550"
         ],
@@ -23549,7 +23345,7 @@
         ]
       },
       {
-        "Rank": 375,
+        "Rank": 373,
         "NCTId": [
           "NCT02040714"
         ],
@@ -23965,7 +23761,7 @@
         ]
       },
       {
-        "Rank": 376,
+        "Rank": 374,
         "NCTId": [
           "NCT03268421"
         ],
@@ -24066,7 +23862,7 @@
         ]
       },
       {
-        "Rank": 377,
+        "Rank": 375,
         "NCTId": [
           "NCT04114539"
         ],
@@ -24638,7 +24434,7 @@
         ]
       },
       {
-        "Rank": 378,
+        "Rank": 376,
         "NCTId": [
           "NCT04068012"
         ],
@@ -24716,7 +24512,7 @@
         ]
       },
       {
-        "Rank": 379,
+        "Rank": 377,
         "NCTId": [
           "NCT03118986"
         ],
@@ -24801,7 +24597,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 380,
+        "Rank": 378,
         "NCTId": [
           "NCT02840409"
         ],
@@ -24939,7 +24735,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 381,
+        "Rank": 379,
         "NCTId": [
           "NCT02650401"
         ],
@@ -25122,7 +24918,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 380,
         "NCTId": [
           "NCT03785405"
         ],
@@ -25413,7 +25209,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 383,
+        "Rank": 381,
         "NCTId": [
           "NCT03025698"
         ],
@@ -25596,7 +25392,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 384,
+        "Rank": 382,
         "NCTId": [
           "NCT04351893"
         ],
@@ -25696,7 +25492,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 383,
         "NCTId": [
           "NCT04218851"
         ],
@@ -25876,7 +25672,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 386,
+        "Rank": 384,
         "NCTId": [
           "NCT04015141"
         ],
@@ -26050,7 +25846,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 387,
+        "Rank": 385,
         "NCTId": [
           "NCT02303431"
         ],
@@ -26237,7 +26033,7 @@
         ]
       },
       {
-        "Rank": 388,
+        "Rank": 386,
         "NCTId": [
           "NCT02134301"
         ],
@@ -26328,7 +26124,7 @@
         ]
       },
       {
-        "Rank": 389,
+        "Rank": 387,
         "NCTId": [
           "NCT01500551"
         ],
@@ -26839,7 +26635,7 @@
         ]
       },
       {
-        "Rank": 390,
+        "Rank": 388,
         "NCTId": [
           "NCT04578756"
         ],
@@ -26982,7 +26778,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 391,
+        "Rank": 389,
         "NCTId": [
           "NCT04200352"
         ],
@@ -27102,7 +26898,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 392,
+        "Rank": 390,
         "NCTId": [
           "NCT03958877"
         ],
@@ -27139,7 +26935,7 @@
           "Lille",
           "Le Kremlin Bicêtre cedex",
           "Freiburg",
-          "Goettingen",
+          "Gottingen",
           "Bochum",
           "Berlin",
           "Larissa",
@@ -27173,13 +26969,12 @@
           "Riyadh",
           "Belgrade",
           "Belgrade",
-          "Belgrade",
           "Bratislava",
           "Esplugues de Llobregat",
           "El Palmar",
           "Cordoba",
           "Madrid",
-          "Mannouba",
+          "Manouba",
           "Monastir",
           "Sfax",
           "Ankara",
@@ -27188,7 +26983,6 @@
           "Samsun"
         ],
         "LocationFacility": [
-          "Research Site",
           "Research Site",
           "Research Site",
           "Research Site",
@@ -27321,7 +27115,6 @@
           "40047",
           "11461",
           "11000",
-          "11000",
           "11070",
           "83340",
           "08950",
@@ -27345,7 +27138,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 393,
+        "Rank": 391,
         "NCTId": [
           "NCT03813407"
         ],
@@ -27505,7 +27298,7 @@
         ]
       },
       {
-        "Rank": 394,
+        "Rank": 392,
         "NCTId": [
           "NCT03275402"
         ],
@@ -27589,7 +27382,7 @@
         ]
       },
       {
-        "Rank": 395,
+        "Rank": 393,
         "NCTId": [
           "NCT04238819"
         ],
@@ -27706,7 +27499,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 396,
+        "Rank": 394,
         "NCTId": [
           "NCT03406507"
         ],
@@ -27762,7 +27555,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 397,
+        "Rank": 395,
         "NCTId": [
           "NCT03206021"
         ],
@@ -27878,7 +27671,7 @@
         ]
       },
       {
-        "Rank": 398,
+        "Rank": 396,
         "NCTId": [
           "NCT02862132"
         ],
@@ -27992,7 +27785,7 @@
         ]
       },
       {
-        "Rank": 399,
+        "Rank": 397,
         "NCTId": [
           "NCT04143724"
         ],
