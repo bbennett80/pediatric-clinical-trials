@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:08:01 22:16:37.408",
+    "DataVrs": "2021:08:02 22:24:55.147",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 385106,
+    "NStudiesAvail": 385281,
     "NStudiesFound": 404,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -23216,6 +23216,7 @@
           "New Hyde Park",
           "Oklahoma City",
           "Charleston",
+          "Salt Lake City",
           "Washington",
           "Lille Cedex",
           "Marseille",
@@ -23256,6 +23257,7 @@
           "Research Site",
           "Research Site",
           "Research Site",
+          "Research Site",
           "Research Site"
         ],
         "LocationState": [
@@ -23264,6 +23266,7 @@
           "New York",
           "Oklahoma",
           "South Carolina",
+          "Utah",
           "Virginia"
         ],
         "LocationZip": [
@@ -23272,6 +23275,7 @@
           "11040",
           "73104",
           "29425",
+          "84132",
           "20010",
           "59020",
           "13385",
@@ -26798,6 +26802,8 @@
           "Saratov",
           "Tolyatti",
           "Yekaterinburg",
+          "Bratislava",
+          "Kosice",
           "Piestany",
           "Panorama",
           "Pretoria",
@@ -26930,6 +26936,8 @@
           "FSBEI HE Saratov SMU n.a. V.I.Razumovskiy MoH RF",
           "State Budgetary Healthcare Institution of Samara Region \"Tolyatti City Clinical Hospital #5\"",
           "State Budgetary Healthcare Institution of Sverdlovsk Region",
+          "Narodny ustav detskych chorob",
+          "Detska Fakultna nemocnica Kosice",
           "Narodny ustav reumatickych chorob",
           "Panorama Medical Centre",
           "Emmed Research",
@@ -27147,6 +27155,8 @@
           "410054",
           "445039",
           "620149",
+          "83340",
+          "04011",
           "921 12",
           "7500",
           "0002",
