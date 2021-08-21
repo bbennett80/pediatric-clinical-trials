@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:08:18 22:17:52.687",
+    "DataVrs": "2021:08:19 22:24:09.615",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 387213,
-    "NStudiesFound": 403,
+    "NStudiesAvail": 387363,
+    "NStudiesFound": 402,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 403,
+    "NStudiesReturned": 402,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -13323,48 +13323,45 @@
       {
         "Rank": 267,
         "NCTId": [
-          "NCT02420990"
+          "NCT02398539"
         ],
         "OfficialTitle": [
-          "Randomized Comparison of Evidence-Based Protocols for Adolescents With ADHD in Specialty Care: Behavioral Only Versus Integrated Behavioral and Medication Interventions"
+          "Randomized Clinical Trial Comparing Silver Nitrate Application With Topical Corticosteroids for Hypergranulation Tissue at Gastrostomy Sites"
         ],
         "Condition": [
-          "ADHD",
-          "Substance Use Disorders"
+          "Hypergranulation Tissue; Gastrostomy Tube Site"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPrimary caregiver able to participate in treatment\nAdolescent meets DSM-5 diagnostic criteria for ADHD\nAdolescents who are substance users (50% of sample) meet ASAM criteria for non-intensive outpatient services\nAdolescent not enrolled in any other behavioral treatment\nCaregiver expresses desire, and adolescent expresses willingness, to participate in outpatient treatment\nFamily has health benefits that meet the requirements of study treatment sites, all of which accept a broad range of insurance plans including Medicaid.\n\nExclusion Criteria:\n\nIntellectual Disability or Autism-Spectrum Disorder\nMedical/psychiatric illness requiring hospitalization\nCurrent psychotic symptoms; active suicidal ideation\nSevere substance use problems that require immediate relief (detox or residential placement)"
+          "Inclusion Criteria:\n\nPediatric patients <18\nEvaluated for hypergranulation at the G-tube site\nInpatient and out-patient\n\nExclusion Criteria:\n\nChildren not meeting the above criteia"
         ],
-        "MinimumAge": [
-          "12 Years"
-        ],
+        "MinimumAge": [],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "New York"
+          "Akron"
         ],
         "LocationFacility": [
-          "The National Center on Addiction and Substance Abuse at Columbia University"
+          "Akron Children's Hospital"
         ],
         "LocationState": [
-          "New York"
+          "Ohio"
         ],
         "LocationZip": [
-          "10017"
+          "44308"
         ],
         "LocationContactEMail": [
-          "leap@casacolumbia.org"
+          "elemon@chmca.org"
         ],
         "LocationContactName": [
-          "Jacqueline Fisher, Ph.D.",
-          "Aaron T Hogue, Ph.D."
+          "Eloise Lemon",
+          "Ana Frabotta, PNP"
         ],
         "LocationContactPhone": [
-          "212-841-5242"
+          "330-543-3193"
         ],
         "BriefSummary": [
-          "Attention-Deficit/Hyperactivity Disorder (ADHD) exists in 20-50% of the 3 million adolescents annually enrolled in outpatient mental health and substance use treatment. Adolescents with ADHD present deficits in attention, self-regulation, and social competence that significantly impede achievement of developmental and educational milestones. Currently there are only two evidence-based treatment options for this age group: academic training and stimulant medications. Both options remain vastly underutilized. Academic training is not available in most school settings and rarely implemented in clinical care. Similarly, ADHD medications are rarely utilized with adolescents in primary or specialty care for a host of reasons related to stigma, misinformation about effects and side effects, and adolescent autonomy issues. Moreover, the widespread fragmentation of pharmacological versus behavioral services prevents families from making informed treatment selections.\n\nThe primary objective of this randomized parametric trial is to compare the effectiveness of behavioral only versus integrated (behavioral plus medication decision-making) interventions for adolescents with ADHD in outpatient behavioral services. The behavioral intervention, Changing Academic Support in the Home for Adolescents with ADHD (CASH-AA), contains three components: ADHD psychoeducation, family-based motivational interventions, and academic training. The medication decision-making intervention, Medication Integration Protocol (MIP), contain three components: psychoeducation about ADHD medication, family decision-making, and medication management. The study will compare the effects of two legitimate treatment options for adolescents with ADHD on service utilization, behavioral symptoms, and quality of life. It will generate new evidence on patient-centered treatment selection that aligns with family-specific principles and treatment goals.\n\nThis parametric comparative trial will randomly assign 140 inner-city adolescents with ADHD to (1) CASH-AA Only or (2) CASH-AA + MIP. Treatment will occur in community behavioral health clinics. All participants will receive behavioral interventions (CASH-AA): family psychoeducation in ADHD symptoms, executive functioning, and developmental impacts; family-based motivation and ADHD accommodation interventions; and academic training focused on home environment support and organizational skills. Half of the participants will also receive medication decision-making interventions (MIP): ADHD medication psychoeducation, family decision-making interventions, and (for those who elect to start medication) coordinated medication management. Half of the sample will have comorbid substance use problems. Treatment will occur in three community clinics; therapists will be randomly assigned to study condition. Caregivers and adolescents will complete assessments at baseline, 3, 6, and 12-month follow-up. Multilevel modeling will compare the effectiveness of each condition on key patient and service use outcomes. Patient-centered analyses will explore differential treatment effects based on (a) Medication decision (yes/no); (b) Substance use comorbidity (yes/no); (c) Race/Ethnicity (Hispanic, African American).\n\nQuantitative outcome analyses will test for service use effects, symptom reduction, and quality of life improvements that are primary reasons for seeking clinical services. Qualitative interviews will document family-specific rationale for decisions about medication, compliance with behavioral and medication interventions, and suggestions for improving services and service integration. Note that families assigned to CASH-AA Only will retain the option of pursuing ADHD medication through treatment-as-usual procedures at their respective clinic. Similarly, families assigned to CASH-AA + MIP will not be required to start ADHD medication. Instead, they will receive informed-choice interventions and can choose when and if to start medication; the study will assess the impact of these decisions on clinical outcomes.\n\nIf proven efficacious, the CASH-AA and MIP protocols could be rapidly disseminated individually or as an integrated protocol into routine behavioral healthcare settings. The protocols can also be readily combined with other behavioral treatments to form a multicomponent treatment package for adolescents with co-occurring behavior problems. In addition, the family-based, patient-centered CASH-AA and MIP protocols could be delivered in conjunction with other family-based treatments or with individual approaches that flexibly include caregivers in multiple treatment sessions. This makes CASH-AA and MIP highly efficient clinical resources for addressing ADHD-related problems in any outpatient setting that serves adolescents and their families."
+          "This protocol describes a randomized, two arm clinical trial comparing two topical treatments in patients with hypergranulation tissue at gastrostomy tube sites. The subjects are randomized to either group 1or group 2 treatments:\n\nMaximum duration of therapy is 4 weeks. However, the therapy may be discontinued anytime at the discretion of the investigator or if there is resolution of the of the hypergranulation tissue."
         ],
         "DetailedDescription": []
       },
@@ -15645,45 +15642,48 @@
       {
         "Rank": 315,
         "NCTId": [
-          "NCT02398539"
+          "NCT02420990"
         ],
         "OfficialTitle": [
-          "Randomized Clinical Trial Comparing Silver Nitrate Application With Topical Corticosteroids for Hypergranulation Tissue at Gastrostomy Sites"
+          "Randomized Comparison of Evidence-Based Protocols for Adolescents With ADHD in Specialty Care: Behavioral Only Versus Integrated Behavioral and Medication Interventions"
         ],
         "Condition": [
-          "Hypergranulation Tissue; Gastrostomy Tube Site"
+          "ADHD",
+          "Substance Use Disorders"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPediatric patients <18\nEvaluated for hypergranulation at the G-tube site\nInpatient and out-patient\n\nExclusion Criteria:\n\nChildren not meeting the above criteia"
+          "Inclusion Criteria:\n\nPrimary caregiver able to participate in treatment\nAdolescent meets DSM-5 diagnostic criteria for ADHD\nAdolescents who are substance users (50% of sample) meet ASAM criteria for non-intensive outpatient services\nAdolescent not enrolled in any other behavioral treatment\nCaregiver expresses desire, and adolescent expresses willingness, to participate in outpatient treatment\nFamily has health benefits that meet the requirements of study treatment sites, all of which accept a broad range of insurance plans including Medicaid.\n\nExclusion Criteria:\n\nIntellectual Disability or Autism-Spectrum Disorder\nMedical/psychiatric illness requiring hospitalization\nCurrent psychotic symptoms; active suicidal ideation\nSevere substance use problems that require immediate relief (detox or residential placement)"
         ],
-        "MinimumAge": [],
+        "MinimumAge": [
+          "12 Years"
+        ],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "Akron"
+          "New York"
         ],
         "LocationFacility": [
-          "Akron Children's Hospital"
+          "The National Center on Addiction and Substance Abuse at Columbia University"
         ],
         "LocationState": [
-          "Ohio"
+          "New York"
         ],
         "LocationZip": [
-          "44308"
+          "10017"
         ],
         "LocationContactEMail": [
-          "elemon@chmca.org"
+          "leap@casacolumbia.org"
         ],
         "LocationContactName": [
-          "Eloise Lemon",
-          "Ana Frabotta, PNP"
+          "Jacqueline Fisher, Ph.D.",
+          "Aaron T Hogue, Ph.D."
         ],
         "LocationContactPhone": [
-          "330-543-3193"
+          "212-841-5242"
         ],
         "BriefSummary": [
-          "This protocol describes a randomized, two arm clinical trial comparing two topical treatments in patients with hypergranulation tissue at gastrostomy tube sites. The subjects are randomized to either group 1or group 2 treatments:\n\nMaximum duration of therapy is 4 weeks. However, the therapy may be discontinued anytime at the discretion of the investigator or if there is resolution of the of the hypergranulation tissue."
+          "Attention-Deficit/Hyperactivity Disorder (ADHD) exists in 20-50% of the 3 million adolescents annually enrolled in outpatient mental health and substance use treatment. Adolescents with ADHD present deficits in attention, self-regulation, and social competence that significantly impede achievement of developmental and educational milestones. Currently there are only two evidence-based treatment options for this age group: academic training and stimulant medications. Both options remain vastly underutilized. Academic training is not available in most school settings and rarely implemented in clinical care. Similarly, ADHD medications are rarely utilized with adolescents in primary or specialty care for a host of reasons related to stigma, misinformation about effects and side effects, and adolescent autonomy issues. Moreover, the widespread fragmentation of pharmacological versus behavioral services prevents families from making informed treatment selections.\n\nThe primary objective of this randomized parametric trial is to compare the effectiveness of behavioral only versus integrated (behavioral plus medication decision-making) interventions for adolescents with ADHD in outpatient behavioral services. The behavioral intervention, Changing Academic Support in the Home for Adolescents with ADHD (CASH-AA), contains three components: ADHD psychoeducation, family-based motivational interventions, and academic training. The medication decision-making intervention, Medication Integration Protocol (MIP), contain three components: psychoeducation about ADHD medication, family decision-making, and medication management. The study will compare the effects of two legitimate treatment options for adolescents with ADHD on service utilization, behavioral symptoms, and quality of life. It will generate new evidence on patient-centered treatment selection that aligns with family-specific principles and treatment goals.\n\nThis parametric comparative trial will randomly assign 140 inner-city adolescents with ADHD to (1) CASH-AA Only or (2) CASH-AA + MIP. Treatment will occur in community behavioral health clinics. All participants will receive behavioral interventions (CASH-AA): family psychoeducation in ADHD symptoms, executive functioning, and developmental impacts; family-based motivation and ADHD accommodation interventions; and academic training focused on home environment support and organizational skills. Half of the participants will also receive medication decision-making interventions (MIP): ADHD medication psychoeducation, family decision-making interventions, and (for those who elect to start medication) coordinated medication management. Half of the sample will have comorbid substance use problems. Treatment will occur in three community clinics; therapists will be randomly assigned to study condition. Caregivers and adolescents will complete assessments at baseline, 3, 6, and 12-month follow-up. Multilevel modeling will compare the effectiveness of each condition on key patient and service use outcomes. Patient-centered analyses will explore differential treatment effects based on (a) Medication decision (yes/no); (b) Substance use comorbidity (yes/no); (c) Race/Ethnicity (Hispanic, African American).\n\nQuantitative outcome analyses will test for service use effects, symptom reduction, and quality of life improvements that are primary reasons for seeking clinical services. Qualitative interviews will document family-specific rationale for decisions about medication, compliance with behavioral and medication interventions, and suggestions for improving services and service integration. Note that families assigned to CASH-AA Only will retain the option of pursuing ADHD medication through treatment-as-usual procedures at their respective clinic. Similarly, families assigned to CASH-AA + MIP will not be required to start ADHD medication. Instead, they will receive informed-choice interventions and can choose when and if to start medication; the study will assess the impact of these decisions on clinical outcomes.\n\nIf proven efficacious, the CASH-AA and MIP protocols could be rapidly disseminated individually or as an integrated protocol into routine behavioral healthcare settings. The protocols can also be readily combined with other behavioral treatments to form a multicomponent treatment package for adolescents with co-occurring behavior problems. In addition, the family-based, patient-centered CASH-AA and MIP protocols could be delivered in conjunction with other family-based treatments or with individual approaches that flexibly include caregivers in multiple treatment sessions. This makes CASH-AA and MIP highly efficient clinical resources for addressing ADHD-related problems in any outpatient setting that serves adolescents and their families."
         ],
         "DetailedDescription": []
       },
@@ -16822,70 +16822,6 @@
       {
         "Rank": 333,
         "NCTId": [
-          "NCT04810481"
-        ],
-        "OfficialTitle": [
-          "Bispectral Index and End-Tidal Anesthetic Gas Concentration in Pediatric Patients Undergoing Sevoflurane Anesthesia (BTIGER)"
-        ],
-        "Condition": [
-          "Anesthesia"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPediatric Subjects (ASA PS I or II or III) aged: 4 years to 18 years scheduled for procedures with sedation where the process of assessment will not interfere with the procedure, progress, or patient care\n\nExclusion Criteria:\n\nHas severe contact allergies that may cause a reaction to standard adhesive materials found in pulse oximetry sensors, ECG electrodes, respiration monitor electrodes, or other medical sensors\nKnown neurological disorder (e.g., epilepsy, the presence of a brain tumor, a history of brain surgery, hydrocephalic disorders, depression needing treatment with anti-depressive drugs, a history of brain trauma, hemiplegia, demyelinating disorders, cerebral palsy, congenital anomalies of the brain or spinal cord, or other known neurologic disorders)\nSevere developmental delay per assessment of investigator or report of parent/guardian\nAirway abnormalities\nPregnancy; subjects of childbearing potential will have a urine screen for pregnancy before surgery\nIf the process of assessment will interfere with the procedure or the progress of the procedure\nTaking psychoactive medications\nTaking any medications that may have an impact on the Central Nervous System (CNS)\nPlanned use of any regional anesthesia; a local field block is not included in this exclusion and can be used at the discretion of the anesthesia provider"
-        ],
-        "MinimumAge": [
-          "4 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Chicago",
-          "Durham",
-          "Pittsburgh",
-          "Dallas"
-        ],
-        "LocationFacility": [
-          "Lurie Children's Hospital of Chicago",
-          "Duke University Medical Center",
-          "University of Pittsburgh Medical Center, Children's Hospital",
-          "University of Texas Southwestern Medical Center"
-        ],
-        "LocationState": [
-          "Illinois",
-          "North Carolina",
-          "Pennsylvania",
-          "Texas"
-        ],
-        "LocationZip": [
-          "60611",
-          "27710",
-          "15224",
-          "75390"
-        ],
-        "LocationContactEMail": [
-          "katherine.sweeney@duke.edu",
-          "Marco.Fierro@UTSouthwestern.edu"
-        ],
-        "LocationContactName": [
-          "Katherine Sweeney, BSN",
-          "Brad Taicher, DO",
-          "Marco Fierro, BS",
-          "Gijo Alex, MD"
-        ],
-        "LocationContactPhone": [
-          "919-681-6221"
-        ],
-        "BriefSummary": [
-          "The purpose of this study is to investigate the relationship between BIS™ values including EEG profile and anesthetic agents in the pediatric population"
-        ],
-        "DetailedDescription": [
-          "This is a multi-center, prospective, observational, non-invasive, randomized controlled study to collect data to compare the performance of standard practice (SP) group with the BIS™ monitoring (BIS) group. Pediatric patients between the ages of 4 to 18 years undergoing routine sevoflurane general anesthesia with an expected surgical procedure duration of greater than 30 minutes will be recruited. If the surgery is less than 15 minutes, the data will continue to be collected, but will not be included in the data analysis and the subject will be replaced with an additional subject. General surgeries including abdominal, urological, orthopedic, or ophthalmological procedures with an American Society of Anesthesiologists physical status of I - III."
-        ]
-      },
-      {
-        "Rank": 334,
-        "NCTId": [
           "NCT04259970"
         ],
         "OfficialTitle": [
@@ -16953,7 +16889,7 @@
         ]
       },
       {
-        "Rank": 335,
+        "Rank": 334,
         "NCTId": [
           "NCT04285112"
         ],
@@ -17023,7 +16959,7 @@
         ]
       },
       {
-        "Rank": 336,
+        "Rank": 335,
         "NCTId": [
           "NCT02914405"
         ],
@@ -17094,7 +17030,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 337,
+        "Rank": 336,
         "NCTId": [
           "NCT02391324"
         ],
@@ -17156,7 +17092,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 337,
         "NCTId": [
           "NCT02134782"
         ],
@@ -17220,7 +17156,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 338,
         "NCTId": [
           "NCT04333823"
         ],
@@ -17289,7 +17225,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 339,
         "NCTId": [
           "NCT03962894"
         ],
@@ -17369,7 +17305,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 341,
+        "Rank": 340,
         "NCTId": [
           "NCT03606980"
         ],
@@ -17433,7 +17369,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 341,
         "NCTId": [
           "NCT03240809"
         ],
@@ -17491,7 +17427,7 @@
         ]
       },
       {
-        "Rank": 343,
+        "Rank": 342,
         "NCTId": [
           "NCT04853316"
         ],
@@ -17568,7 +17504,7 @@
         ]
       },
       {
-        "Rank": 344,
+        "Rank": 343,
         "NCTId": [
           "NCT04060823"
         ],
@@ -17624,7 +17560,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 345,
+        "Rank": 344,
         "NCTId": [
           "NCT00005105"
         ],
@@ -17685,6 +17621,80 @@
         ],
         "DetailedDescription": [
           "PROTOCOL OUTLINE:\n\nPatients undergo blood draw. Insulin-like growth factor-I (IGF-I) and insulin-like growth factor binding protein-3 (IGFBP-3) are measured. Patients whose IGF-I and IGFBP-3 levels are average or above are tested for the presence of mutation in the insulin-like growth factor-I receptor."
+        ]
+      },
+      {
+        "Rank": 345,
+        "NCTId": [
+          "NCT04810481"
+        ],
+        "OfficialTitle": [
+          "Bispectral Index and End-Tidal Anesthetic Gas Concentration in Pediatric Patients Undergoing Sevoflurane Anesthesia (BTIGER)"
+        ],
+        "Condition": [
+          "Anesthesia"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPediatric Subjects (ASA PS I or II or III) aged: 4 years to 18 years scheduled for procedures with sedation where the process of assessment will not interfere with the procedure, progress, or patient care\n\nExclusion Criteria:\n\nHas severe contact allergies that may cause a reaction to standard adhesive materials found in pulse oximetry sensors, ECG electrodes, respiration monitor electrodes, or other medical sensors\nKnown neurological disorder (e.g., epilepsy, the presence of a brain tumor, a history of brain surgery, hydrocephalic disorders, depression needing treatment with anti-depressive drugs, a history of brain trauma, hemiplegia, demyelinating disorders, cerebral palsy, congenital anomalies of the brain or spinal cord, or other known neurologic disorders)\nSevere developmental delay per assessment of investigator or report of parent/guardian\nAirway abnormalities\nPregnancy; subjects of childbearing potential will have a urine screen for pregnancy before surgery\nIf the process of assessment will interfere with the procedure or the progress of the procedure\nTaking psychoactive medications\nTaking any medications that may have an impact on the Central Nervous System (CNS)\nPlanned use of any regional anesthesia; a local field block is not included in this exclusion and can be used at the discretion of the anesthesia provider"
+        ],
+        "MinimumAge": [
+          "4 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Aurora",
+          "Chicago",
+          "Durham",
+          "Pittsburgh",
+          "Dallas"
+        ],
+        "LocationFacility": [
+          "Children's Hospital Colorado",
+          "Lurie Children's Hospital of Chicago",
+          "Duke University Medical Center",
+          "University of Pittsburgh Medical Center, Children's Hospital",
+          "University of Texas Southwestern Medical Center"
+        ],
+        "LocationState": [
+          "Colorado",
+          "Illinois",
+          "North Carolina",
+          "Pennsylvania",
+          "Texas"
+        ],
+        "LocationZip": [
+          "80045",
+          "60611",
+          "27710",
+          "15224",
+          "75390"
+        ],
+        "LocationContactEMail": [
+          "Rebecca.Safon@childrenscolorado.org",
+          "KVantHof@luriechildrens.org",
+          "katherine.sweeney@duke.edu",
+          "Marco.Fierro@UTSouthwestern.edu"
+        ],
+        "LocationContactName": [
+          "Rebecca Safon",
+          "Richard Ing, MD",
+          "Kathleen VantHof",
+          "Eric Cheon, MD",
+          "Katherine Sweeney, BSN",
+          "Brad Taicher, DO",
+          "Marco Fierro, BS",
+          "Gijo Alex, MD"
+        ],
+        "LocationContactPhone": [
+          "919-681-6221"
+        ],
+        "BriefSummary": [
+          "The purpose of this study is to investigate the relationship between BIS™ values including EEG profile and anesthetic agents in the pediatric population"
+        ],
+        "DetailedDescription": [
+          "This is a multi-center, prospective, observational, non-invasive, randomized controlled study to collect data to compare the performance of standard practice (SP) group with the BIS™ monitoring (BIS) group. Pediatric patients between the ages of 4 to 18 years undergoing routine sevoflurane general anesthesia with an expected surgical procedure duration of greater than 30 minutes will be recruited. If the surgery is less than 15 minutes, the data will continue to be collected, but will not be included in the data analysis and the subject will be replaced with an additional subject. General surgeries including abdominal, urological, orthopedic, or ophthalmological procedures with an American Society of Anesthesiologists physical status of I - III."
         ]
       },
       {
@@ -18058,6 +18068,135 @@
       {
         "Rank": 351,
         "NCTId": [
+          "NCT04442295"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
+        ],
+        "Condition": [
+          "Dravet Syndrome"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
+        ],
+        "MinimumAge": [
+          "2 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "San Francisco",
+          "Aurora",
+          "Washington",
+          "Miami",
+          "Orlando",
+          "Chicago",
+          "Iowa City",
+          "Boston",
+          "Ann Arbor",
+          "Rochester",
+          "New York",
+          "Portland",
+          "Philadelphia",
+          "Memphis",
+          "Fort Worth",
+          "Salt Lake City",
+          "Seattle",
+          "Tacoma"
+        ],
+        "LocationFacility": [
+          "University of California San Francisco Medical Center",
+          "Children's Hospital Colorado",
+          "Children's National Medical Center",
+          "Nicklaus Children's Hospital",
+          "AdventHealth Orlando",
+          "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "University of Iowa, Department of Pediatrics,",
+          "Massachusetts General Hospital",
+          "Mott Children's Hospital",
+          "Mayo Clinic",
+          "NYU Comprehensive Epilepsy Center",
+          "Oregon Health & Science University",
+          "Children's Hospital of Philadelphia",
+          "Le Bonheur Children's Hospital",
+          "Cook Children's Medical Center",
+          "University of Utah Pediatrics Clinical Trials Office",
+          "Seattle Children's Hospital",
+          "Multicare Institute for Research and Innovation"
+        ],
+        "LocationState": [
+          "California",
+          "Colorado",
+          "District of Columbia",
+          "Florida",
+          "Florida",
+          "Illinois",
+          "Iowa",
+          "Massachusetts",
+          "Michigan",
+          "Minnesota",
+          "New York",
+          "Oregon",
+          "Pennsylvania",
+          "Tennessee",
+          "Texas",
+          "Utah",
+          "Washington",
+          "Washington"
+        ],
+        "LocationZip": [
+          "94158",
+          "80045",
+          "20010",
+          "33155",
+          "32803",
+          "60611",
+          "52242",
+          "02114",
+          "48109",
+          "55905",
+          "10016",
+          "97239",
+          "19104",
+          "38105",
+          "76104",
+          "84108",
+          "98105",
+          "98405"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
+        ],
+        "DetailedDescription": [
+          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
+        ]
+      },
+      {
+        "Rank": 352,
+        "NCTId": [
           "NCT04431453"
         ],
         "OfficialTitle": [
@@ -18227,7 +18366,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 353,
         "NCTId": [
           "NCT04258943"
         ],
@@ -18543,7 +18682,186 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 354,
+        "NCTId": [
+          "NCT04203316"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Feasibility Study to Assess the Safety and Pharmacokinetics of Enasidenib in Pediatric Patients With Relapsed/Refractory Acute Myeloid Leukemia (R/R-AML) With an Isocitrate Dehydrogenase-2 (IDH2) Mutation"
+        ],
+        "Condition": [
+          "Recurrent Acute Myeloid Leukemia",
+          "Refractory Acute Myeloid Leukemia"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPatient must have AML with an IDH2 mutation identified from a peripheral blood or bone marrow sample at the time of diagnosis and/or relapsed/refractory disease\n\nPatient must have bone marrow assessment (aspiration or biopsy) with > 5% leukemic blasts by morphology and/or flow cytometry in at least one of the following clinical scenarios:\n\nSecond or greater relapse after chemotherapy or hematopoietic stem cell transplant (HSCT)\nRefractory after >= 2 attempts at induction therapy\n\nRelapsed patients\n\nMust not have received prior re-induction therapy for this relapse\nEach block of chemotherapy (i.e., cytarabine, daunorubicin and etoposide [ADE], cytarabine and mitoxantrone [MA]) is a separate re-induction attempt\nDonor lymphocyte infusion (DLI) is considered a re-induction attempt\n\nRefractory patients\n\nEach attempt at induction therapy may include up to two chemotherapy courses\nKarnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age. Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score\nPatient's current disease state must be one for which there is no known curative therapy or therapy proven to prolong survival with an acceptable quality of life\nEvaluation of cerebrospinal fluid (CSF) is only required if there is a clinical suspicion of central nervous system (CNS) involvement by leukemia during eligibility screening. Should a patient be found to have CNS2 or CNS3 status by CSF prior to eligibility screening, patient may receive intrathecal chemotherapy > 72 hours prior to starting study drug. CNS1 status must be established before starting study drug\n\nPatients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy and must meet the following minimum duration from prior anti-cancer directed therapy prior to enrollment. If after the required timeframe, the numerical eligibility criteria are met, e.g., blood count criteria, the patient is considered to have recovered adequately\n\nCytotoxic chemotherapy or other anti-cancer agents known to be myelosuppressive. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\n\n>= 14 days must have elapsed after the completion of other cytotoxic therapy with the exception of hydroxyurea. Additionally, patients must have fully recovered from all acute toxic effects of prior therapy. NOTE: Cytoreduction with hydroxyurea must be discontinued >= 24 hours prior to the start of protocol therapy\nIntrathecal chemotherapy must be completed >= 72 hours prior to the start of the first cycle of treatment\nAnti-cancer agents not known to be myelosuppressive (e.g. not associated with reduced platelet or absolute neutrophil count [ANC] counts): >= 7 days after the last dose of agent. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\nAntibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1\nCorticosteroids: If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid\nHematopoietic growth factors: >= 14 days after the last dose of a long-acting growth factor (e.g., pegfilgrastim) or 7 days for short-acting growth factor. For agents that have known adverse events occurring beyond 7 days after administration, this period must be extended beyond the time during which adverse events are known to occur. The duration of this interval must be discussed with the study chair and the study research coordinator\nInterleukins, interferons and cytokines (other than hematopoietic growth factors): >= 21 days after the completion of interleukins, interferon or cytokines (other than hematopoietic growth factors)\n\nStem cell Infusions (with or without total body irradiation [TBI]):\n\nAllogeneic (non-autologous) bone marrow or stem cell transplant, or any stem cell infusion including DLI or boost infusion:\n\n>= 60 days after infusion for bone marrow or stem cell transplant and\n>= 4 weeks after infusion for any stem cell infusion including DLI or boost infusion\nThere must be no evidence of graft versus host disease (GVHD)\nAutologous stem cell infusion including boost infusion: >= 42 days\nCellular Therapy: >= 42 days after the completion of any type of cellular therapy (e.g. modified T cells, natural killer [NK] cells, dendritic cells, etc.)\nXRT/external beam irradiation including protons: >= 14 days after local XRT; >= 150 days after TBI, craniospinal XRT or if radiation to >= 50% of the pelvis; >= 42 days if other substantial bone marrow (BM) radiation\nRadiopharmaceutical therapy (e.g., radiolabeled antibody, 131I-metaiodobenzylguanidine [MIBG]): >= 42 days after systemically administered radiopharmaceutical therapy\nStudy-specific limitations on prior therapy: small molecule investigational agents: >= 14 days or > 5 half-lives must have elapsed from the last dose of the agent, whichever is greater\nPlatelet count >= 20,000/mm^3 (may receive platelet transfusions). These patients must not be known to be refractory to red cell or platelet transfusion\nHemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)\n\nCreatinine clearance or radioisotope glomerular filtration rate [GFR] >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\n\nAge: Maximum serum creatinine (mg/dL)\n\n2 to < 6 years: 0.8 (male and female)\n6 to < 10 years: 1 (male and female)\n10 to < 13 years: 1.2 (male and female)\n13 to < 16 years: 1.5 (male); 1.4 (female\n>= 16 years: 1.7 (male); 1.4 (female)\nBilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age\nSerum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 225 U/L. For the purpose of this study, the ULN for SGPT is 45 U/L\nSerum albumin >= 2 g/dL\nLeft ventricular ejection fraction of >= 50% by echocardiogram\n\nRegulatory Requirements\n\nAll patients and/or their parents or legal authorized representatives must sign a written informed consent. Assent, when appropriate, will be obtained according to institutional guidelines\nAll institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met\n\nExclusion Criteria:\n\nAML associated with Down syndrome or t(15;17) is not eligible for study\nPregnant or breast-feeding women will not be entered on this study due to risks of fetal and teratogenic adverse events as seen in animal/human studies. Pregnancy tests must be obtained in girls who are post-menarchal. Males or females of reproductive potential may not participate unless they have agreed to use an effective contraceptive method for the duration of study therapy and for 4 months after the last dose of enasidenib. Abstinence is an acceptable method of birth control. It is not known if enasidenib is present in breast milk. Breastfeeding is not recommended during therapy or for at least 30 days after the last dose of enasidenib\n\nConcomitant Medications:\n\nCorticosteroids: Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible. If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid. The use of corticosteroids to manage the side effect of IDH inhibitor-associated differentiation syndrome (IDH-DS), is permitted on study\nInvestigational drugs: Patients who are currently receiving another investigational drug are not eligible\nAnti-cancer agents: Patients who are currently receiving other anti-cancer agents are not eligible (except leukemia patients receiving hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy; the use of hydroxyurea to manage the side effect of IDH-DS, is permitted on study)\nAnti-GVHD agents post-transplant: Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial\n\nPatients must be able to swallow intact tablets whole.\n\nPatients with known hypersensitivity to any of the components of enasidenib are not eligible.\nPatients with prior exposure to enasidenib or another IDH2 inhibitor are not eligible.\n\nPatients taking the following drugs will be excluded from study entry unless these drugs are discontinued or patients are transferred to a medically acceptable alternative > 5 half-lives before the first dose of enasidenib.\n\nDrugs with a narrow therapeutic range that are sensitive substrates of the following cytochrome P450 (CYP) enzymes: CYP2C8 (e.g. paclitaxel), 2C9 (e.g. phenytoin and warfarin), 2C19 (e.g. s-mephenytoin), 2D6 (e.g. thioridazine), and 1A2 (e.g. theophylline and tizanidine).\nBreast cancer resistant protein (BCRP) transporter-sensitive substrate rosuvastatin\n\nPatients with the following leukemia complications are not eligible for this trial:\n\nNo intrathecal chemotherapy is permitted on study. Prior to study enrollment, cerebrospinal fluid (CSF) evaluation is only required if there is a clinical suspicion for CNS leukemia. Clinical signs of CNS leukemia (such as facial nerve palsy, brain/eye involvement or hypothalamic syndrome) are not eligible for this trial\nImmediately life-threatening, severe complications of leukemia including uncontrolled bleeding, pneumonia with hypoxia or shock, and/or disseminated intravascular coagulation\nInfection: Patients who have an uncontrolled infection or patients with known human immunodeficiency virus (HIV) or active hepatitis B or C are not eligible\nPatients who have received a prior solid organ transplantation are not eligible\nPatients who in the opinion of the investigator may not be able to comply with the safety monitoring requirements of the study are not eligible"
+        ],
+        "MinimumAge": [
+          "24 Months"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Little Rock",
+          "Wilmington",
+          "Washington",
+          "Gainesville",
+          "Indianapolis",
+          "Ann Arbor",
+          "Kansas City",
+          "Hackensack",
+          "Syracuse",
+          "Cincinnati",
+          "Oklahoma City",
+          "Pittsburgh",
+          "Memphis",
+          "Nashville",
+          "Dallas",
+          "Norfolk",
+          "Montreal"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Alabama",
+          "Arkansas Children's Hospital",
+          "Alfred I duPont Hospital for Children",
+          "Children's National Medical Center",
+          "University of Florida Health Science Center - Gainesville",
+          "Riley Hospital for Children",
+          "C S Mott Children's Hospital",
+          "Children's Mercy Hospitals and Clinics",
+          "Hackensack University Medical Center",
+          "State University of New York Upstate Medical University",
+          "Cincinnati Children's Hospital Medical Center",
+          "University of Oklahoma Health Sciences Center",
+          "Children's Hospital of Pittsburgh of UPMC",
+          "Saint Jude Children's Research Hospital",
+          "Vanderbilt University/Ingram Cancer Center",
+          "UT Southwestern/Simmons Cancer Center-Dallas",
+          "Children's Hospital of The King's Daughters",
+          "Centre Hospitalier Universitaire Sainte-Justine"
+        ],
+        "LocationState": [
+          "Alabama",
+          "Arkansas",
+          "Delaware",
+          "District of Columbia",
+          "Florida",
+          "Indiana",
+          "Michigan",
+          "Missouri",
+          "New Jersey",
+          "New York",
+          "Ohio",
+          "Oklahoma",
+          "Pennsylvania",
+          "Tennessee",
+          "Tennessee",
+          "Texas",
+          "Virginia",
+          "Quebec"
+        ],
+        "LocationZip": [
+          "35233",
+          "72202-3591",
+          "19803",
+          "20010",
+          "32610",
+          "46202",
+          "48109",
+          "64108",
+          "07601",
+          "13210",
+          "45229",
+          "73104",
+          "15224",
+          "38105",
+          "37232",
+          "75390",
+          "23507",
+          "H3T 1C5"
+        ],
+        "LocationContactEMail": [
+          "oncologyresearch@peds.uab.edu",
+          "dperry@nemours.org",
+          "cancer-center@ufl.edu",
+          "rryan@cmh.edu",
+          "cancer@cchmc.org",
+          "ou-clinical-trials@ouhsc.edu",
+          "jean.tersak@chp.edu",
+          "referralinfo@stjude.org",
+          "canceranswerline@UTSouthwestern.edu",
+          "CCBDCresearch@chkd.org",
+          "yvan.samson@umontreal.ca"
+        ],
+        "LocationContactName": [
+          "Site Public Contact",
+          "Matthew A. Kutny",
+          "Site Public Contact",
+          "David L. Becton",
+          "Site Public Contact",
+          "Scott M. Bradfield",
+          "Site Public Contact",
+          "AeRang Kim",
+          "Site Public Contact",
+          "William B. Slayton",
+          "Site Public Contact",
+          "Sandeep Batra",
+          "Site Public Contact",
+          "Rajen Mody",
+          "Site Public Contact",
+          "Kevin F. Ginn",
+          "Site Public Contact",
+          "Jing Chen",
+          "Site Public Contact",
+          "Philip M. Monteleone",
+          "Site Public Contact",
+          "Joseph G. Pressey",
+          "Site Public Contact",
+          "Rene Y. McNall-Knapp",
+          "Site Public Contact",
+          "Andrew Bukowinski",
+          "Site Public Contact",
+          "Jeffrey E. Rubnitz",
+          "Site Public Contact",
+          "Sara Zarnegar-Lumley",
+          "Site Public Contact",
+          "Kathleen (Wiertel) Ludwig",
+          "Site Public Contact",
+          "Eric J. Lowe",
+          "Site Public Contact",
+          "Yvan Samson"
+        ],
+        "LocationContactPhone": [
+          "205-638-9285",
+          "501-364-7373",
+          "302-651-6884",
+          "202-884-2549",
+          "352-273-8010",
+          "800-248-1199",
+          "800-865-1125",
+          "816-302-6808",
+          "201-996-2879",
+          "315-464-5476",
+          "513-636-2799",
+          "405-271-8777",
+          "412-692-8570",
+          "888-226-4343",
+          "800-811-8480",
+          "214-648-7097",
+          "757-668-7243",
+          "514-345-4931"
+        ],
+        "BriefSummary": [
+          "This trial studies the side effects of enasidenib and to see how well it works in treating patients with acute myeloid leukemia that has come back after treatment (relapsed) or has been difficult to treat with chemotherapy (refractory). Patients must also have a specific genetic change, also called a mutation, in a protein called IDH2. Enasidenib may stop the growth of cancer cells by blocking the mutated IDH2 protein, which is needed for cell growth."
+        ],
+        "DetailedDescription": [
+          "PRIMARY OBJECTIVES:\n\nI. To determine the safety of treatment with enasidenib mesylate (enasidenib) administered at continuous daily oral dosing for a 28-day cycle up to 12 cycles in pediatric patients with IDH2-mutant relapsed/refractory (R/R)-acute myeloid leukemia (AML).\n\nII. To characterize the plasma pharmacokinetic (PK) profile of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nSECONDARY OBJECTIVES:\n\nI. To investigate the pharmacodynamic (PD) relationship of oncogenic metabolite 2-hydroxyglutarate (2-HG) to enasidenib treatment in pediatric patients with IDH2-mutant R/R-AML.\n\nII. To describe the clinical activity of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nOUTLINE:\n\nPatients receive enasidenib orally (PO) once daily (QD) on days 1-28. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days, then periodically up to 1 year."
+        ]
+      },
+      {
+        "Rank": 355,
         "NCTId": [
           "NCT03199053"
         ],
@@ -19102,7 +19420,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 356,
         "NCTId": [
           "NCT02121132"
         ],
@@ -19277,314 +19595,6 @@
         ],
         "DetailedDescription": [
           "All patients 18 years of age or younger who have completed an initial medical assessment between March 1, 2014 through April 30, 2020 will be approached for this study.\n\nData from individual follow up visits or group intervention sessions, depending on the program design of each institution, will be collected through October 31, 2020. The data included in this study will be collected during routine medical care. Information that could identify a participant will be removed from the data. Data will be entered into a secure database called Medidata Rave® CDMS. This database will be managed by the Data Coordinating Center (DCC) at Cincinnati Children's Hospital Medical Center (CCHMC).\n\nThe DCC will combine all the data from each site. Additional data cleaning and data quality monitoring will be performed. Combined datasets for analysis will be provided by the DCC in a format agreed upon by the POWER Governance Board. Data will be stored in a secure and protected format and will not include any written or electronic protected health information (PHI/EPHI). The DCC will store the data on a secure server."
-        ]
-      },
-      {
-        "Rank": 355,
-        "NCTId": [
-          "NCT04442295"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
-        ],
-        "Condition": [
-          "Dravet Syndrome"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
-        ],
-        "MinimumAge": [
-          "2 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "San Francisco",
-          "Aurora",
-          "Washington",
-          "Miami",
-          "Orlando",
-          "Chicago",
-          "Iowa City",
-          "Boston",
-          "Ann Arbor",
-          "Rochester",
-          "New York",
-          "Portland",
-          "Philadelphia",
-          "Memphis",
-          "Fort Worth",
-          "Salt Lake City",
-          "Seattle",
-          "Tacoma"
-        ],
-        "LocationFacility": [
-          "University of California San Francisco Medical Center",
-          "Children's Hospital Colorado",
-          "Children's National Medical Center",
-          "Nicklaus Children's Hospital",
-          "AdventHealth Orlando",
-          "Ann & Robert H. Lurie Children's Hospital of Chicago",
-          "University of Iowa, Department of Pediatrics,",
-          "Massachusetts General Hospital",
-          "Mott Children's Hospital",
-          "Mayo Clinic",
-          "NYU Comprehensive Epilepsy Center",
-          "Oregon Health & Science University",
-          "Children's Hospital of Philadelphia",
-          "Le Bonheur Children's Hospital",
-          "Cook Children's Medical Center",
-          "University of Utah Pediatrics Clinical Trials Office",
-          "Seattle Children's Hospital",
-          "Multicare Institute for Research and Innovation"
-        ],
-        "LocationState": [
-          "California",
-          "Colorado",
-          "District of Columbia",
-          "Florida",
-          "Florida",
-          "Illinois",
-          "Iowa",
-          "Massachusetts",
-          "Michigan",
-          "Minnesota",
-          "New York",
-          "Oregon",
-          "Pennsylvania",
-          "Tennessee",
-          "Texas",
-          "Utah",
-          "Washington",
-          "Washington"
-        ],
-        "LocationZip": [
-          "94158",
-          "80045",
-          "20010",
-          "33155",
-          "32803",
-          "60611",
-          "52242",
-          "02114",
-          "48109",
-          "55905",
-          "10016",
-          "97239",
-          "19104",
-          "38105",
-          "76104",
-          "84108",
-          "98105",
-          "98405"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
-        ],
-        "DetailedDescription": [
-          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
-        ]
-      },
-      {
-        "Rank": 356,
-        "NCTId": [
-          "NCT04203316"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Feasibility Study to Assess the Safety and Pharmacokinetics of Enasidenib in Pediatric Patients With Relapsed/Refractory Acute Myeloid Leukemia (R/R-AML) With an Isocitrate Dehydrogenase-2 (IDH2) Mutation"
-        ],
-        "Condition": [
-          "Recurrent Acute Myeloid Leukemia",
-          "Refractory Acute Myeloid Leukemia"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPatient must have AML with an IDH2 mutation identified from a peripheral blood or bone marrow sample at the time of diagnosis and/or relapsed/refractory disease\n\nPatient must have bone marrow assessment (aspiration or biopsy) with > 5% leukemic blasts by morphology and/or flow cytometry in at least one of the following clinical scenarios:\n\nSecond or greater relapse after chemotherapy or hematopoietic stem cell transplant (HSCT)\nRefractory after >= 2 attempts at induction therapy\n\nRelapsed patients\n\nMust not have received prior re-induction therapy for this relapse\nEach block of chemotherapy (i.e., cytarabine, daunorubicin and etoposide [ADE], cytarabine and mitoxantrone [MA]) is a separate re-induction attempt\nDonor lymphocyte infusion (DLI) is considered a re-induction attempt\n\nRefractory patients\n\nEach attempt at induction therapy may include up to two chemotherapy courses\nKarnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age. Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score\nPatient's current disease state must be one for which there is no known curative therapy or therapy proven to prolong survival with an acceptable quality of life\nEvaluation of cerebrospinal fluid (CSF) is only required if there is a clinical suspicion of central nervous system (CNS) involvement by leukemia during eligibility screening. Should a patient be found to have CNS2 or CNS3 status by CSF prior to eligibility screening, patient may receive intrathecal chemotherapy > 72 hours prior to starting study drug. CNS1 status must be established before starting study drug\n\nPatients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy and must meet the following minimum duration from prior anti-cancer directed therapy prior to enrollment. If after the required timeframe, the numerical eligibility criteria are met, e.g., blood count criteria, the patient is considered to have recovered adequately\n\nCytotoxic chemotherapy or other anti-cancer agents known to be myelosuppressive. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\n\n>= 14 days must have elapsed after the completion of other cytotoxic therapy with the exception of hydroxyurea. Additionally, patients must have fully recovered from all acute toxic effects of prior therapy. NOTE: Cytoreduction with hydroxyurea must be discontinued >= 24 hours prior to the start of protocol therapy\nIntrathecal chemotherapy must be completed >= 72 hours prior to the start of the first cycle of treatment\nAnti-cancer agents not known to be myelosuppressive (e.g. not associated with reduced platelet or absolute neutrophil count [ANC] counts): >= 7 days after the last dose of agent. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\nAntibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1\nCorticosteroids: If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid\nHematopoietic growth factors: >= 14 days after the last dose of a long-acting growth factor (e.g., pegfilgrastim) or 7 days for short-acting growth factor. For agents that have known adverse events occurring beyond 7 days after administration, this period must be extended beyond the time during which adverse events are known to occur. The duration of this interval must be discussed with the study chair and the study research coordinator\nInterleukins, interferons and cytokines (other than hematopoietic growth factors): >= 21 days after the completion of interleukins, interferon or cytokines (other than hematopoietic growth factors)\n\nStem cell Infusions (with or without total body irradiation [TBI]):\n\nAllogeneic (non-autologous) bone marrow or stem cell transplant, or any stem cell infusion including DLI or boost infusion:\n\n>= 60 days after infusion for bone marrow or stem cell transplant and\n>= 4 weeks after infusion for any stem cell infusion including DLI or boost infusion\nThere must be no evidence of graft versus host disease (GVHD)\nAutologous stem cell infusion including boost infusion: >= 42 days\nCellular Therapy: >= 42 days after the completion of any type of cellular therapy (e.g. modified T cells, natural killer [NK] cells, dendritic cells, etc.)\nXRT/external beam irradiation including protons: >= 14 days after local XRT; >= 150 days after TBI, craniospinal XRT or if radiation to >= 50% of the pelvis; >= 42 days if other substantial bone marrow (BM) radiation\nRadiopharmaceutical therapy (e.g., radiolabeled antibody, 131I-metaiodobenzylguanidine [MIBG]): >= 42 days after systemically administered radiopharmaceutical therapy\nStudy-specific limitations on prior therapy: small molecule investigational agents: >= 14 days or > 5 half-lives must have elapsed from the last dose of the agent, whichever is greater\nPlatelet count >= 20,000/mm^3 (may receive platelet transfusions). These patients must not be known to be refractory to red cell or platelet transfusion\nHemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)\n\nCreatinine clearance or radioisotope glomerular filtration rate [GFR] >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\n\nAge: Maximum serum creatinine (mg/dL)\n\n2 to < 6 years: 0.8 (male and female)\n6 to < 10 years: 1 (male and female)\n10 to < 13 years: 1.2 (male and female)\n13 to < 16 years: 1.5 (male); 1.4 (female\n>= 16 years: 1.7 (male); 1.4 (female)\nBilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age\nSerum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 225 U/L. For the purpose of this study, the ULN for SGPT is 45 U/L\nSerum albumin >= 2 g/dL\nLeft ventricular ejection fraction of >= 50% by echocardiogram\n\nRegulatory Requirements\n\nAll patients and/or their parents or legal authorized representatives must sign a written informed consent. Assent, when appropriate, will be obtained according to institutional guidelines\nAll institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met\n\nExclusion Criteria:\n\nAML associated with Down syndrome or t(15;17) is not eligible for study\nPregnant or breast-feeding women will not be entered on this study due to risks of fetal and teratogenic adverse events as seen in animal/human studies. Pregnancy tests must be obtained in girls who are post-menarchal. Males or females of reproductive potential may not participate unless they have agreed to use an effective contraceptive method for the duration of study therapy and for 4 months after the last dose of enasidenib. Abstinence is an acceptable method of birth control. It is not known if enasidenib is present in breast milk. Breastfeeding is not recommended during therapy or for at least 30 days after the last dose of enasidenib\n\nConcomitant Medications:\n\nCorticosteroids: Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible. If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid. The use of corticosteroids to manage the side effect of IDH inhibitor-associated differentiation syndrome (IDH-DS), is permitted on study\nInvestigational drugs: Patients who are currently receiving another investigational drug are not eligible\nAnti-cancer agents: Patients who are currently receiving other anti-cancer agents are not eligible (except leukemia patients receiving hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy; the use of hydroxyurea to manage the side effect of IDH-DS, is permitted on study)\nAnti-GVHD agents post-transplant: Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial\n\nPatients must be able to swallow intact tablets whole.\n\nPatients with known hypersensitivity to any of the components of enasidenib are not eligible.\nPatients with prior exposure to enasidenib or another IDH2 inhibitor are not eligible.\n\nPatients taking the following drugs will be excluded from study entry unless these drugs are discontinued or patients are transferred to a medically acceptable alternative > 5 half-lives before the first dose of enasidenib.\n\nDrugs with a narrow therapeutic range that are sensitive substrates of the following cytochrome P450 (CYP) enzymes: CYP2C8 (e.g. paclitaxel), 2C9 (e.g. phenytoin and warfarin), 2C19 (e.g. s-mephenytoin), 2D6 (e.g. thioridazine), and 1A2 (e.g. theophylline and tizanidine).\nBreast cancer resistant protein (BCRP) transporter-sensitive substrate rosuvastatin\n\nPatients with the following leukemia complications are not eligible for this trial:\n\nNo intrathecal chemotherapy is permitted on study. Prior to study enrollment, cerebrospinal fluid (CSF) evaluation is only required if there is a clinical suspicion for CNS leukemia. Clinical signs of CNS leukemia (such as facial nerve palsy, brain/eye involvement or hypothalamic syndrome) are not eligible for this trial\nImmediately life-threatening, severe complications of leukemia including uncontrolled bleeding, pneumonia with hypoxia or shock, and/or disseminated intravascular coagulation\nInfection: Patients who have an uncontrolled infection or patients with known human immunodeficiency virus (HIV) or active hepatitis B or C are not eligible\nPatients who have received a prior solid organ transplantation are not eligible\nPatients who in the opinion of the investigator may not be able to comply with the safety monitoring requirements of the study are not eligible"
-        ],
-        "MinimumAge": [
-          "24 Months"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Birmingham",
-          "Little Rock",
-          "Wilmington",
-          "Washington",
-          "Gainesville",
-          "Indianapolis",
-          "Ann Arbor",
-          "Kansas City",
-          "Hackensack",
-          "Syracuse",
-          "Cincinnati",
-          "Oklahoma City",
-          "Pittsburgh",
-          "Memphis",
-          "Nashville",
-          "Dallas",
-          "Norfolk",
-          "Montreal"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Alabama",
-          "Arkansas Children's Hospital",
-          "Alfred I duPont Hospital for Children",
-          "Children's National Medical Center",
-          "University of Florida Health Science Center - Gainesville",
-          "Riley Hospital for Children",
-          "C S Mott Children's Hospital",
-          "Children's Mercy Hospitals and Clinics",
-          "Hackensack University Medical Center",
-          "State University of New York Upstate Medical University",
-          "Cincinnati Children's Hospital Medical Center",
-          "University of Oklahoma Health Sciences Center",
-          "Children's Hospital of Pittsburgh of UPMC",
-          "Saint Jude Children's Research Hospital",
-          "Vanderbilt University/Ingram Cancer Center",
-          "UT Southwestern/Simmons Cancer Center-Dallas",
-          "Children's Hospital of The King's Daughters",
-          "Centre Hospitalier Universitaire Sainte-Justine"
-        ],
-        "LocationState": [
-          "Alabama",
-          "Arkansas",
-          "Delaware",
-          "District of Columbia",
-          "Florida",
-          "Indiana",
-          "Michigan",
-          "Missouri",
-          "New Jersey",
-          "New York",
-          "Ohio",
-          "Oklahoma",
-          "Pennsylvania",
-          "Tennessee",
-          "Tennessee",
-          "Texas",
-          "Virginia",
-          "Quebec"
-        ],
-        "LocationZip": [
-          "35233",
-          "72202-3591",
-          "19803",
-          "20010",
-          "32610",
-          "46202",
-          "48109",
-          "64108",
-          "07601",
-          "13210",
-          "45229",
-          "73104",
-          "15224",
-          "38105",
-          "37232",
-          "75390",
-          "23507",
-          "H3T 1C5"
-        ],
-        "LocationContactEMail": [
-          "oncologyresearch@peds.uab.edu",
-          "dperry@nemours.org",
-          "cancer-center@ufl.edu",
-          "rryan@cmh.edu",
-          "cancer@cchmc.org",
-          "ou-clinical-trials@ouhsc.edu",
-          "jean.tersak@chp.edu",
-          "referralinfo@stjude.org",
-          "canceranswerline@UTSouthwestern.edu",
-          "CCBDCresearch@chkd.org",
-          "yvan.samson@umontreal.ca"
-        ],
-        "LocationContactName": [
-          "Site Public Contact",
-          "Matthew A. Kutny",
-          "Site Public Contact",
-          "David L. Becton",
-          "Site Public Contact",
-          "Scott M. Bradfield",
-          "Site Public Contact",
-          "AeRang Kim",
-          "Site Public Contact",
-          "William B. Slayton",
-          "Site Public Contact",
-          "Sandeep Batra",
-          "Site Public Contact",
-          "Rajen Mody",
-          "Site Public Contact",
-          "Kevin F. Ginn",
-          "Site Public Contact",
-          "Jing Chen",
-          "Site Public Contact",
-          "Philip M. Monteleone",
-          "Site Public Contact",
-          "Joseph G. Pressey",
-          "Site Public Contact",
-          "Rene Y. McNall-Knapp",
-          "Site Public Contact",
-          "Andrew Bukowinski",
-          "Site Public Contact",
-          "Jeffrey E. Rubnitz",
-          "Site Public Contact",
-          "Sara Zarnegar-Lumley",
-          "Site Public Contact",
-          "Kathleen (Wiertel) Ludwig",
-          "Site Public Contact",
-          "Eric J. Lowe",
-          "Site Public Contact",
-          "Yvan Samson"
-        ],
-        "LocationContactPhone": [
-          "205-638-9285",
-          "501-364-7373",
-          "302-651-6884",
-          "202-884-2549",
-          "352-273-8010",
-          "800-248-1199",
-          "800-865-1125",
-          "816-302-6808",
-          "201-996-2879",
-          "315-464-5476",
-          "513-636-2799",
-          "405-271-8777",
-          "412-692-8570",
-          "888-226-4343",
-          "800-811-8480",
-          "214-648-7097",
-          "757-668-7243",
-          "514-345-4931"
-        ],
-        "BriefSummary": [
-          "This trial studies the side effects of enasidenib and to see how well it works in treating patients with acute myeloid leukemia that has come back after treatment (relapsed) or has been difficult to treat with chemotherapy (refractory). Patients must also have a specific genetic change, also called a mutation, in a protein called IDH2. Enasidenib may stop the growth of cancer cells by blocking the mutated IDH2 protein, which is needed for cell growth."
-        ],
-        "DetailedDescription": [
-          "PRIMARY OBJECTIVES:\n\nI. To determine the safety of treatment with enasidenib mesylate (enasidenib) administered at continuous daily oral dosing for a 28-day cycle up to 12 cycles in pediatric patients with IDH2-mutant relapsed/refractory (R/R)-acute myeloid leukemia (AML).\n\nII. To characterize the plasma pharmacokinetic (PK) profile of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nSECONDARY OBJECTIVES:\n\nI. To investigate the pharmacodynamic (PD) relationship of oncogenic metabolite 2-hydroxyglutarate (2-HG) to enasidenib treatment in pediatric patients with IDH2-mutant R/R-AML.\n\nII. To describe the clinical activity of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nOUTLINE:\n\nPatients receive enasidenib orally (PO) once daily (QD) on days 1-28. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days, then periodically up to 1 year."
         ]
       },
       {
@@ -28209,122 +28219,6 @@
       {
         "Rank": 401,
         "NCTId": [
-          "NCT03206021"
-        ],
-        "OfficialTitle": [
-          "Phase I/Ib Trial of COmbined 5'aZacitidine and Carboplatin for Recurrent/Refractory Pediatric Brain and Solid Tumors"
-        ],
-        "Condition": [
-          "Recurrent Childhood CNS Tumor",
-          "Ependymoma, Recurrent Childhood",
-          "Childhood Solid Tumor"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nGreater than the age of 1 year and under age 18 at the time of study enrolment\nRecurrent or refractory brain or solid tumor, including recurrent or refractory ependymoma\nTissue from diagnosis or resection prior to registration must be available (either flash frozen tissue or an FFPE block)\nPrevious therapy with carboplatin will be permitted\nFailed first line treatment (surgery, radiation therapy or chemotherapy) and should not be eligible for treatment with curative potential.\nBe at least 4 weeks from the completion of myelosuppressive chemotherapy and/or biologic agents before starting day 1 of this study treatment\nBe at least 14 days from the completion of radiation therapy and MIBG before starting day 1 of this study treatment\nBe at least 3 months post hematopoetic stem cell rescue following myeloablative therapy before starting day 1 of this study treatment\nMust have visible disease on imaging. Resection of visible disease is permitted while on study after two cycles including achievement of a gross total resection. If a resection is performed while on study, fresh frozen tissue should be submitted for analysis.\nConcurrent medications will be limited to supportive medications/agents including but not limited to anti-emetics, steroids, analgesics and non-enzyme inducing anticonvulsants. Strong inducers of the P450 system will not be permitted. Other concurrent medications require approval of the study Sponsor.\nAbility of the parent and/or child to understand and the willingness to sign a written informed consent document\nKarnofsky ≥ 50 for patients > 16 years of age and Lansky ≥ 50 for patients ≤ 16 years of age (See Appendix I for the Karnofsky-Lansky Scores). Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score. Patients with posterior fossa syndrome/cerebellar mutism demonstrating clear improvement post-surgically can be enrolled based on physician discretion\n\nAdequate hepatic, renal, marrow and cardiac function as defined below within 28 days prior to cycle 1 day 1:\n\nSerum creatinine within normal institutional limits or creatinine clearance greater than 60mL/min\nSerum bilirubin <1.5 times upper limit of institutional normal. Higher levels are acceptable if these can be attributed to active hemolysis or ineffective erythropoiesis\nAST, ALT and Alkaline Phosphatase <3 times upper limit of institutional normal. If liver metastases are present, then <5 times upper limit of normal is permitted.\nNormal QTc interval at screening ECG (baseline echocardiogram is not required)\n\nAdequate marrow function defined below within 14 days prior to cycle 1 day 1:\n\nLeukocytes greater than or equal to 1000 x106/L\nAbsolute neutrophil count greater than or equal to 0.75 x109/L\nPlatelets greater than or equal to 75 x109/L\nHemoglobin greater than or equal to 10g/dL (may be transfused).\n\nExclusion Criteria:\n\nFemale patient who is pregnant or breast feeding (Lactating females must agree not to breast feed while taking azacitidine) or with childbearing potential and not willing to use a double method of contraception up to 3 months after the end of study treatment. Male patient who is not willing to use a barrier method of contraception up to 6 months after the end of study treatment.\nPatients may not be receiving any other investigational agents within 30 days prior to day 1 of protocol treatment\nPrior therapy with a DNA demethylase inhibitor\nEvidence of cardiac toxicity (shortening fraction below 28%; shortening fraction measures and ratios the change in the diameter of the left ventricle between the contracted and relaxed states)\nAbnormal coagulation parameters (PT >15 seconds, PTT>40 seconds, and/or INR >1.5)\n\nSignificant active cardiac disease within the previous 6 months including:\n\nNYHA class 3 or 4 CHF\nUnstable angina\nMyocardial infarction\nKnown or suspected hypersensitivity to azacitidine or mannitol carboplatin\nPrevious carboplatin exposure is not an exclusion criteria but previous allergic reaction to carboplatin will exclude enrolment.\nPatient must not require use of enzyme inducing anticonvulsants; patients who are receiving an enzyme inducing anticonvulsant must be able to switch to a non-enzyme inducing anticonvulsant such as Levetiracetam, Clobazam, Lacosamide, Valproate or Topiramate at least 2 weeks prior to study enrolment.\nUncontrolled systemic fungal, bacterial or viral infection (defined as ongoing signs/symptoms related the infection without improvement despite appropriate antibiotics, antiviral therapy and/or other treatment)\nActive viral infection with HIV or hepatitis type B or C Patients with advanced malignant hepatic tumors\nPatients with advanced malignant hepatic tumors"
-        ],
-        "MinimumAge": [
-          "1 Year"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Washington",
-          "Melbourne",
-          "Adelaide",
-          "Clayton",
-          "Lambton",
-          "Perth",
-          "South Brisbane",
-          "Sydney",
-          "Westmead",
-          "Calgary",
-          "Vancouver",
-          "Hamilton",
-          "London",
-          "Ottawa",
-          "Toronto",
-          "Montréal",
-          "Montréal"
-        ],
-        "LocationFacility": [
-          "Children's National Medical Center",
-          "Royal Children's Hospital Melbourne",
-          "Women's and Children's Hospital",
-          "Monash Children's Hospital",
-          "John Hunter Children's Hospital",
-          "Perth Children's Hospital",
-          "Queensland Children's Hospital",
-          "Sydney Children's Hospital",
-          "Children's Hospital at Westmead",
-          "Alberta Children's Hospital",
-          "BC Children's Hospital",
-          "McMaster Children's Hospital",
-          "London Health Sciences Centre",
-          "Children's Hospital of Eastern Ontario",
-          "Hospital for Sick Children",
-          "Centre hospitalier universitaire Sainte-Justine",
-          "Montreal Children's Hospital"
-        ],
-        "LocationState": [
-          "District of Columbia",
-          "Victoria",
-          "Alberta",
-          "British Columbia",
-          "Ontario",
-          "Ontario",
-          "Ontario",
-          "Ontario",
-          "PQ",
-          "PQ"
-        ],
-        "LocationZip": [
-          "20010",
-          "M5G1X8"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Eugene Huang",
-          "Eugene Huang",
-          "Rebecca R Sgambellone, MBBS",
-          "Jordan R Hansford, MBBS",
-          "Svanne Milic",
-          "Maria Kirby",
-          "Narmatha Kuru",
-          "Paul Wood",
-          "Angie Ward",
-          "Frank Alvaro",
-          "Kym Rowlands",
-          "Nick Gottardo",
-          "Natasha Brown",
-          "Steve Foresto",
-          "Xian Wang",
-          "David Zeigler",
-          "Anna Samolej",
-          "Dinisha Govender",
-          "Lucie Lafay-Cousin, MD",
-          "Juliette Hukin, MD",
-          "Adam Fleming, MD",
-          "Shayna Zelcer, MD",
-          "Donna Johnston",
-          "Vijay Ramaswamy, MD PhD FRCPC",
-          "Vijay Ramaswamy, MD PhD",
-          "Eric Bouffet, MD",
-          "Yvan Samson, MD",
-          "Nada Jabado, MD PhD",
-          "Genevieve Legault, MD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Many pediatric brain and solid tumors have altered epigenetic landscapes, and altered DNA methylation. As such this study is a Phase I/Ib study of combined 5'Azacitidine with an escalating dose of carboplatin for all recurrent/refractory pediatric brain and solid tumors. The phase I component will establish with maximum tolerated dose of carboplatin with azacytidine. An expansion cohort will be recruited of up to 30 patients will follow consisting of 20 recurrent posterior fossa ependymoma and 10 recurrent supratentorial ependymoma."
-        ],
-        "DetailedDescription": [
-          "Aberrant DNA methylation is frequently observed in many pediatric solid tumors, but in particularly several entities such as ependymoma, medulloblastoma, embryonal tumor with multilayered rosettes, atypical/teratoid rhabdoid tumor, neuroblastoma and wilm's tumor have promoter hypermethylation. Treatment with DNMTi (DNA methyltransferase inhibitors) agents such as 5-azacytidine has been shown to be safe and efficacious in adult myelodysplastic syndromes, causing significant decreased DNA methylation in blood, with maximum effect at day 15 of each cycle. However, monotherapy with DNMTi has been shown to result in resistance in leukamia's and efficacy in solid tumours is limited. Synergy between DNMTi and platinum agents has shown promise in pre-clinical models including pediatric ependymoma, and in addition, the combination of demethylating agents with carboplatin has provided promising results in platinum resistant ovarian cancers. However, this approach has not been applied to pediatric solid malignancies, which are attractive targets due to their frequent epigenetic dysregulation.\n\nPlatinums are the backbone of therapy for most pediatric solid tumors, and as such it is an attractive hypothesis that part of the reason for resistance to upfront therapies is platinum resistance. Specifically, ependymoma's are highly chemoresistant tumors and studies in preclinical models of ependymoma support that this chemoresistance can be overcome with DNMTi.\n\nThere is a clear medical need for new therapies, particularly for relapsed solid tumors, specifically brain tumors. Although pre-clinical data from our group and others suggests DNA demethylase inhibitors to be promising therapies for high risk ependymoma, medulloblastoma and ETMR (embryonal tumor with multilayered rosettes), 5'azacitidine monotherapy has been disappointing in clinical studies of adult solid tumours. Previous studies have suggested that platinum therapy can be effectively combined with azacitidine therapy and based on adult studies, maximum demethylation occurs approximately 5-10 days after treatment with 5'azacitidine. As such combination of azacitidine and carboplatin is a rationale therapy for several pediatric brain tumours, particularly those with a hypermethylated phenotype.\n\nTwo phases of the study will be conducted. The Phase I will establish the maximum tolerated dose of carboplatin and 5'azacytidine in a rolling 6 design. 5'azacytidine will be administered on Days 1-7 followed by Carboplatin on Day 15. The initial dose level will be 5'Azacytidine 75mg/m2/day for 7 days with Carboplatin administered on Day 15 at AUC (Area under curve) 4. Carboplatin will be dose escalated to a maximum of AUC 6, or de-escalated to AUC 3. The Phase Ib will be an ependymoma specific expansion cohort at the established MTD (maximum tolerated dose), to determine the feasibility and initial efficacy of the combination of carboplatin and 5'azacytidine in patients with recurrent/refractory posterior fossa and supratentorial ependymoma."
-        ]
-      },
-      {
-        "Rank": 402,
-        "NCTId": [
           "NCT02862132"
         ],
         "OfficialTitle": [
@@ -28437,7 +28331,7 @@
         ]
       },
       {
-        "Rank": 403,
+        "Rank": 402,
         "NCTId": [
           "NCT04143724"
         ],
