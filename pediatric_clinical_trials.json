@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:08:23 22:16:25.670",
+    "DataVrs": "2021:08:24 22:14:37.879",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 387641,
-    "NStudiesFound": 402,
+    "NStudiesAvail": 387815,
+    "NStudiesFound": 403,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 402,
+    "NStudiesReturned": 403,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -1506,6 +1506,54 @@
       {
         "Rank": 27,
         "NCTId": [
+          "NCT05020314"
+        ],
+        "OfficialTitle": [
+          "Healthy Weight Clinic: Packaging and Spreading Proven Pediatric Weight Management Interventions for Use by Low-Income Families, Childhood Obesity Research Demonstration Project (CORD) 3.0"
+        ],
+        "Condition": [
+          "Pediatric Obesity"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nchild is age 2 through 18 years at referral\nchild's BMI meets or exceeds the 85th percentile for age and sex\nparent can read and respond to interviews and questionnaires in English or Spanish\nreceived care at one of the participating pilot sites\n\nExclusion Criteria:\n\nchildren who do not have at least one parent who can report on their child's daily activities for 1 year\nfamilies who plan to leave their pediatric health center in the next year\nchildren who have conditions or take medications that substantially interfere with growth, physical activity, or dietary recommendations"
+        ],
+        "MinimumAge": [
+          "2 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Boston"
+        ],
+        "LocationFacility": [
+          "Massachusetts General Hospital"
+        ],
+        "LocationState": [
+          "Massachusetts"
+        ],
+        "LocationZip": [
+          "02114"
+        ],
+        "LocationContactEMail": [
+          "lfiechtner@partners.org",
+          "gventura@mgh.harvard.edu"
+        ],
+        "LocationContactName": [
+          "Lauren Fiechtner, MD",
+          "Giustina Ventura"
+        ],
+        "LocationContactPhone": [
+          "617-643-7247"
+        ],
+        "BriefSummary": [
+          "The overall goal of this study is to increase access to and adoption of the Healthy Weight Clinic package in primary care settings serving low income families in the United States who have a disproportionately high prevalence of childhood obesity. Two federally-qualified health centers will be implementing a Healthy Weight Clinic Program. The Healthy Weight Clinic is staffed by a medical provider, a Dietitian/Nutritionist, and a Community Healthy Worker. Patients attend individual medical visits (once per month for 12 months) with the multidisciplinary team, group visits led by a member of the team (once per month for 6 months), and phone follow-up between visits. All patients who receive care at the pilot implementation sites will be exposed to the systems-level intervention. A subset of patients will be invited to participate in a research evaluation of the program."
+        ],
+        "DetailedDescription": []
+      },
+      {
+        "Rank": 28,
+        "NCTId": [
           "NCT04992611"
         ],
         "OfficialTitle": [
@@ -1557,7 +1605,7 @@
         ]
       },
       {
-        "Rank": 28,
+        "Rank": 29,
         "NCTId": [
           "NCT04991389"
         ],
@@ -1605,7 +1653,7 @@
         ]
       },
       {
-        "Rank": 29,
+        "Rank": 30,
         "NCTId": [
           "NCT04978571"
         ],
@@ -1651,7 +1699,7 @@
         ]
       },
       {
-        "Rank": 30,
+        "Rank": 31,
         "NCTId": [
           "NCT04977830"
         ],
@@ -1696,7 +1744,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 31,
+        "Rank": 32,
         "NCTId": [
           "NCT04974307"
         ],
@@ -1745,7 +1793,7 @@
         ]
       },
       {
-        "Rank": 32,
+        "Rank": 33,
         "NCTId": [
           "NCT04959097"
         ],
@@ -1793,7 +1841,7 @@
         ]
       },
       {
-        "Rank": 33,
+        "Rank": 34,
         "NCTId": [
           "NCT04941742"
         ],
@@ -1835,7 +1883,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 34,
+        "Rank": 35,
         "NCTId": [
           "NCT04927286"
         ],
@@ -1881,7 +1929,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 35,
+        "Rank": 36,
         "NCTId": [
           "NCT04919707"
         ],
@@ -1930,7 +1978,7 @@
         ]
       },
       {
-        "Rank": 36,
+        "Rank": 37,
         "NCTId": [
           "NCT04903314"
         ],
@@ -1977,7 +2025,7 @@
         ]
       },
       {
-        "Rank": 37,
+        "Rank": 38,
         "NCTId": [
           "NCT04896502"
         ],
@@ -2027,7 +2075,7 @@
         ]
       },
       {
-        "Rank": 38,
+        "Rank": 39,
         "NCTId": [
           "NCT04848532"
         ],
@@ -2082,7 +2130,7 @@
         ]
       },
       {
-        "Rank": 39,
+        "Rank": 40,
         "NCTId": [
           "NCT04840498"
         ],
@@ -2128,7 +2176,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 40,
+        "Rank": 41,
         "NCTId": [
           "NCT04825587"
         ],
@@ -2176,7 +2224,7 @@
         ]
       },
       {
-        "Rank": 41,
+        "Rank": 42,
         "NCTId": [
           "NCT04812028"
         ],
@@ -2224,7 +2272,7 @@
         ]
       },
       {
-        "Rank": 42,
+        "Rank": 43,
         "NCTId": [
           "NCT04810130"
         ],
@@ -2277,7 +2325,7 @@
         ]
       },
       {
-        "Rank": 43,
+        "Rank": 44,
         "NCTId": [
           "NCT04798482"
         ],
@@ -2326,7 +2374,7 @@
         ]
       },
       {
-        "Rank": 44,
+        "Rank": 45,
         "NCTId": [
           "NCT04788524"
         ],
@@ -2375,7 +2423,7 @@
         ]
       },
       {
-        "Rank": 45,
+        "Rank": 46,
         "NCTId": [
           "NCT04784455"
         ],
@@ -2419,7 +2467,7 @@
         ]
       },
       {
-        "Rank": 46,
+        "Rank": 47,
         "NCTId": [
           "NCT04783506"
         ],
@@ -2468,7 +2516,7 @@
         ]
       },
       {
-        "Rank": 47,
+        "Rank": 48,
         "NCTId": [
           "NCT04771338"
         ],
@@ -2521,7 +2569,7 @@
         ]
       },
       {
-        "Rank": 48,
+        "Rank": 49,
         "NCTId": [
           "NCT04768634"
         ],
@@ -2564,7 +2612,7 @@
         ]
       },
       {
-        "Rank": 49,
+        "Rank": 50,
         "NCTId": [
           "NCT04756427"
         ],
@@ -2610,7 +2658,7 @@
         ]
       },
       {
-        "Rank": 50,
+        "Rank": 51,
         "NCTId": [
           "NCT04752501"
         ],
@@ -2660,7 +2708,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 51,
+        "Rank": 52,
         "NCTId": [
           "NCT04752293"
         ],
@@ -2730,7 +2778,7 @@
         ]
       },
       {
-        "Rank": 52,
+        "Rank": 53,
         "NCTId": [
           "NCT04738539"
         ],
@@ -2781,7 +2829,7 @@
         ]
       },
       {
-        "Rank": 53,
+        "Rank": 54,
         "NCTId": [
           "NCT04737460"
         ],
@@ -2830,7 +2878,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 54,
+        "Rank": 55,
         "NCTId": [
           "NCT04735874"
         ],
@@ -2879,7 +2927,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 55,
+        "Rank": 56,
         "NCTId": [
           "NCT04725305"
         ],
@@ -2939,7 +2987,7 @@
         ]
       },
       {
-        "Rank": 56,
+        "Rank": 57,
         "NCTId": [
           "NCT04706364"
         ],
@@ -2991,7 +3039,7 @@
         ]
       },
       {
-        "Rank": 57,
+        "Rank": 58,
         "NCTId": [
           "NCT04688255"
         ],
@@ -3047,7 +3095,7 @@
         ]
       },
       {
-        "Rank": 58,
+        "Rank": 59,
         "NCTId": [
           "NCT04685343"
         ],
@@ -3093,7 +3141,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 59,
+        "Rank": 60,
         "NCTId": [
           "NCT04675567"
         ],
@@ -3144,7 +3192,7 @@
         ]
       },
       {
-        "Rank": 60,
+        "Rank": 61,
         "NCTId": [
           "NCT04671186"
         ],
@@ -3195,7 +3243,7 @@
         ]
       },
       {
-        "Rank": 61,
+        "Rank": 62,
         "NCTId": [
           "NCT04654260"
         ],
@@ -3252,7 +3300,7 @@
         ]
       },
       {
-        "Rank": 62,
+        "Rank": 63,
         "NCTId": [
           "NCT04639336"
         ],
@@ -3302,7 +3350,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 63,
+        "Rank": 64,
         "NCTId": [
           "NCT04638595"
         ],
@@ -3351,7 +3399,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 64,
+        "Rank": 65,
         "NCTId": [
           "NCT04637802"
         ],
@@ -3402,7 +3450,7 @@
         ]
       },
       {
-        "Rank": 65,
+        "Rank": 66,
         "NCTId": [
           "NCT04582682"
         ],
@@ -3451,7 +3499,7 @@
         ]
       },
       {
-        "Rank": 66,
+        "Rank": 67,
         "NCTId": [
           "NCT04569708"
         ],
@@ -3507,7 +3555,7 @@
         ]
       },
       {
-        "Rank": 67,
+        "Rank": 68,
         "NCTId": [
           "NCT04562688"
         ],
@@ -3555,7 +3603,7 @@
         ]
       },
       {
-        "Rank": 68,
+        "Rank": 69,
         "NCTId": [
           "NCT04551482"
         ],
@@ -3602,7 +3650,7 @@
         ]
       },
       {
-        "Rank": 69,
+        "Rank": 70,
         "NCTId": [
           "NCT04537390"
         ],
@@ -3649,7 +3697,7 @@
         ]
       },
       {
-        "Rank": 70,
+        "Rank": 71,
         "NCTId": [
           "NCT04529707"
         ],
@@ -3697,7 +3745,7 @@
         ]
       },
       {
-        "Rank": 71,
+        "Rank": 72,
         "NCTId": [
           "NCT04528173"
         ],
@@ -3752,7 +3800,7 @@
         ]
       },
       {
-        "Rank": 72,
+        "Rank": 73,
         "NCTId": [
           "NCT04526639"
         ],
@@ -3798,7 +3846,7 @@
         ]
       },
       {
-        "Rank": 73,
+        "Rank": 74,
         "NCTId": [
           "NCT04522778"
         ],
@@ -3850,7 +3898,7 @@
         ]
       },
       {
-        "Rank": 74,
+        "Rank": 75,
         "NCTId": [
           "NCT04518397"
         ],
@@ -3895,11 +3943,11 @@
           "The purpose of this study is to test the impact of a 6-week theatre intervention rooted in African culture (Sankofa) on the wellness of girls (predominately African American) ages 8-18 receiving services at five Boys & Girls Club Indianapolis sites. Theatre interventions are led by Asante theatre personnel and evaluated by the PI and occupational therapy graduate students. The theatre intervention being evaluated has been conducted for decades by an established theatre company with widespread community participation and anecdotal positive responses, but has not been scientifically evaluated to understand how it impacts wellbeing. This will be the first large-scale study of the mechanisms of change and of the impact of the theatre intervention in the community and will help to guide future therapeutic interventions using theatre with underserved populations.\n\nResearch questions include: Is Sankofa a feasible and acceptable intervention for the target population? Does participation in Sankofa result in improved scores on wellness outcome measures, including the National Youth Outcomes Initiative (NYOI) survey?\n\nThe study is funded by Asante Children's Theatre via the Central Indiana Community Foundation Women's Fund."
         ],
         "DetailedDescription": [
-          "This project will take place over a 3 year period and will consist of 10 6-week theatre interventions (5 for girls 8-12 and 5 for girls 13-18). The first two (pilot) interventions (one for each age group) are scheduled to take place in Spring of 2020. From Fall 2020 through Spring 2022 we will implement one intervention per age group each fall and one per age group each spring.\n\nThe theatre intervention is an Asante Theatre production that involves reading a script, being assigned a role, rehearsing, participating in discussions about the script that will contribute to script development/editing to personalize it, and eventually performing the play in front of a community audience. The play is free and open to the public and at the end of the performance participants will participate in a 'talk back' during which audience members can ask questions about the process. The talk back is moderated by the PI, and participants are not required to respond to questions but can speak up if/when they feel comfortable doing so. Theatre interventions are led by Asante theatre personnel and evaluated by the PI and occupational therapy graduate students. Evaluations take place after the PI obtains parental/guardian informed consent, the week after the intervention, 6 weeks follow up, and 6 months follow up. Evaluation sessions are conducted individually with each girl who signs up to participate, using data collection tools described below and attached in the 'notes/attachment' section, and will take no longer than 60 minutes. Adult audience members at performances are also participants of this study if they consent by checking \"Yes\" or \"No\" on the Audience Survey and responding to questions. The audience survey is described briefly below and attached in the notes/attachments section.\n\nFor 4 weeks leading up to each intervention, we will recruit by posting flyers throughout the Boys & Girls Club of Indianapolis (BGCI) where the interventions are to take place (we will implement at 5 different clubs throughout the city). We will also circulate flyers through BGCI social media and listservs, and send flyers home to parents. Girls who want to participate can let BGCI staff members know and BGCI staff will provide that girl's parent/guardian with an informed consent document to review and sign with the PI's contact information on it in case the parent/guardian has questions. The PI will call parents to ensure understanding and answer questions. She will also review the document to obtain assent from girls who want to participate and have their parents' signed consent forms."
+          "This project will take place over a 3 year period and will consist of 10 6-week theatre interventions (5 for girls 8-12 and 5 for girls 13-18). The first two (pilot) interventions (one for each age group) are scheduled to take place in Spring of 2020. From Fall 2020 through Spring 2022, one intervention per age group will be implemented each fall and one per age group each spring.\n\nThe theatre intervention is an Asante Theatre production that involves reading a script, being assigned a role, rehearsing, participating in discussions about the script that will contribute to script development/editing to personalize it, and eventually performing the play in front of a community audience. The play is free and open to the public and at the end of the performance participants will participate in a community conversation during which audience members can ask questions about the process. The talk back is moderated by the PI, and participants are not required to respond to questions but can speak up if/when they feel comfortable doing so. Theatre interventions are led by Asante theatre personnel and evaluated by the PI and occupational therapy graduate students. Evaluations take place after the PI obtains parental/guardian informed consent, the week after the intervention, 6 weeks follow up, and 6 months follow up. Evaluation sessions are conducted individually with each girl who signs up to participate, using data collection tools described below and attached in the 'notes/attachment' section, and will take no longer than 60 minutes. Adult audience members at performances are also participants of this study if they consent by checking \"Yes\" or \"No\" on the Audience Survey and responding to questions. The audience survey is described briefly below and attached in the notes/attachments section.\n\nFor 4 weeks leading up to each intervention, recruit will take place through posting flyers throughout the Boys & Girls Club of Indianapolis (BGCI) where the interventions are to take place (implemented at 5 different clubs throughout the city). Flyers will also be circulated through BGCI social media and listservs, and sent home to parents. Girls who want to participate can let BGCI staff members know and BGCI staff will provide that girl's parent/guardian with an informed consent document to review and sign with the PI's contact information on it in case the parent/guardian has questions. The PI will call parents to ensure understanding and answer questions. She will also review the document to obtain assent from girls who want to participate and have their parents' signed consent forms."
         ]
       },
       {
-        "Rank": 75,
+        "Rank": 76,
         "NCTId": [
           "NCT04516694"
         ],
@@ -3947,7 +3995,7 @@
         ]
       },
       {
-        "Rank": 76,
+        "Rank": 77,
         "NCTId": [
           "NCT04516343"
         ],
@@ -3994,7 +4042,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 77,
+        "Rank": 78,
         "NCTId": [
           "NCT04488523"
         ],
@@ -4043,7 +4091,7 @@
         ]
       },
       {
-        "Rank": 78,
+        "Rank": 79,
         "NCTId": [
           "NCT04485416"
         ],
@@ -4094,7 +4142,7 @@
         ]
       },
       {
-        "Rank": 79,
+        "Rank": 80,
         "NCTId": [
           "NCT04482556"
         ],
@@ -4143,7 +4191,7 @@
         ]
       },
       {
-        "Rank": 80,
+        "Rank": 81,
         "NCTId": [
           "NCT04481243"
         ],
@@ -4189,7 +4237,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 81,
+        "Rank": 82,
         "NCTId": [
           "NCT04472286"
         ],
@@ -4252,7 +4300,7 @@
         ]
       },
       {
-        "Rank": 82,
+        "Rank": 83,
         "NCTId": [
           "NCT04462861"
         ],
@@ -4299,7 +4347,7 @@
         ]
       },
       {
-        "Rank": 83,
+        "Rank": 84,
         "NCTId": [
           "NCT04449042"
         ],
@@ -4344,7 +4392,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 84,
+        "Rank": 85,
         "NCTId": [
           "NCT04446910"
         ],
@@ -4392,7 +4440,7 @@
         ]
       },
       {
-        "Rank": 85,
+        "Rank": 86,
         "NCTId": [
           "NCT04403633"
         ],
@@ -4440,7 +4488,7 @@
         ]
       },
       {
-        "Rank": 86,
+        "Rank": 87,
         "NCTId": [
           "NCT04398862"
         ],
@@ -4490,7 +4538,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 87,
+        "Rank": 88,
         "NCTId": [
           "NCT04390035"
         ],
@@ -4538,7 +4586,7 @@
         ]
       },
       {
-        "Rank": 88,
+        "Rank": 89,
         "NCTId": [
           "NCT04365556"
         ],
@@ -4590,7 +4638,7 @@
         ]
       },
       {
-        "Rank": 89,
+        "Rank": 90,
         "NCTId": [
           "NCT04360395"
         ],
@@ -4639,7 +4687,7 @@
         ]
       },
       {
-        "Rank": 90,
+        "Rank": 91,
         "NCTId": [
           "NCT04357132"
         ],
@@ -4690,7 +4738,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 91,
+        "Rank": 92,
         "NCTId": [
           "NCT04351958"
         ],
@@ -4738,7 +4786,7 @@
         ]
       },
       {
-        "Rank": 92,
+        "Rank": 93,
         "NCTId": [
           "NCT04351776"
         ],
@@ -4789,7 +4837,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 93,
+        "Rank": 94,
         "NCTId": [
           "NCT04342000"
         ],
@@ -4840,7 +4888,7 @@
         ]
       },
       {
-        "Rank": 94,
+        "Rank": 95,
         "NCTId": [
           "NCT04338048"
         ],
@@ -4880,7 +4928,7 @@
         ]
       },
       {
-        "Rank": 95,
+        "Rank": 96,
         "NCTId": [
           "NCT04322734"
         ],
@@ -4934,7 +4982,7 @@
         ]
       },
       {
-        "Rank": 96,
+        "Rank": 97,
         "NCTId": [
           "NCT04314635"
         ],
@@ -4980,7 +5028,7 @@
         ]
       },
       {
-        "Rank": 97,
+        "Rank": 98,
         "NCTId": [
           "NCT04313192"
         ],
@@ -5032,7 +5080,7 @@
         ]
       },
       {
-        "Rank": 98,
+        "Rank": 99,
         "NCTId": [
           "NCT04312919"
         ],
@@ -5079,7 +5127,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 99,
+        "Rank": 100,
         "NCTId": [
           "NCT04309786"
         ],
@@ -5130,7 +5178,7 @@
         ]
       },
       {
-        "Rank": 100,
+        "Rank": 101,
         "NCTId": [
           "NCT04299191"
         ],
@@ -5178,7 +5226,7 @@
         ]
       },
       {
-        "Rank": 101,
+        "Rank": 102,
         "NCTId": [
           "NCT04298203"
         ],
@@ -5226,7 +5274,7 @@
         ]
       },
       {
-        "Rank": 102,
+        "Rank": 103,
         "NCTId": [
           "NCT04298099"
         ],
@@ -5274,7 +5322,7 @@
         ]
       },
       {
-        "Rank": 103,
+        "Rank": 104,
         "NCTId": [
           "NCT04290754"
         ],
@@ -5325,7 +5373,7 @@
         ]
       },
       {
-        "Rank": 104,
+        "Rank": 105,
         "NCTId": [
           "NCT04288206"
         ],
@@ -5370,7 +5418,7 @@
         ]
       },
       {
-        "Rank": 105,
+        "Rank": 106,
         "NCTId": [
           "NCT04285879"
         ],
@@ -5420,7 +5468,7 @@
         ]
       },
       {
-        "Rank": 106,
+        "Rank": 107,
         "NCTId": [
           "NCT04264143"
         ],
@@ -5474,7 +5522,7 @@
         ]
       },
       {
-        "Rank": 107,
+        "Rank": 108,
         "NCTId": [
           "NCT04254796"
         ],
@@ -5518,7 +5566,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 108,
+        "Rank": 109,
         "NCTId": [
           "NCT04250844"
         ],
@@ -5564,7 +5612,7 @@
         ]
       },
       {
-        "Rank": 109,
+        "Rank": 110,
         "NCTId": [
           "NCT04247100"
         ],
@@ -5614,7 +5662,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 110,
+        "Rank": 111,
         "NCTId": [
           "NCT04246112"
         ],
@@ -5664,7 +5712,7 @@
         ]
       },
       {
-        "Rank": 111,
+        "Rank": 112,
         "NCTId": [
           "NCT04242602"
         ],
@@ -5712,7 +5760,7 @@
         ]
       },
       {
-        "Rank": 112,
+        "Rank": 113,
         "NCTId": [
           "NCT04222101"
         ],
@@ -5765,7 +5813,7 @@
         ]
       },
       {
-        "Rank": 113,
+        "Rank": 114,
         "NCTId": [
           "NCT04219995"
         ],
@@ -5814,7 +5862,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 114,
+        "Rank": 115,
         "NCTId": [
           "NCT04217694"
         ],
@@ -5864,7 +5912,7 @@
         ]
       },
       {
-        "Rank": 115,
+        "Rank": 116,
         "NCTId": [
           "NCT04211935"
         ],
@@ -5913,7 +5961,7 @@
         ]
       },
       {
-        "Rank": 116,
+        "Rank": 117,
         "NCTId": [
           "NCT04208256"
         ],
@@ -5963,7 +6011,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 117,
+        "Rank": 118,
         "NCTId": [
           "NCT04205604"
         ],
@@ -6007,7 +6055,7 @@
         ]
       },
       {
-        "Rank": 118,
+        "Rank": 119,
         "NCTId": [
           "NCT04201106"
         ],
@@ -6053,7 +6101,7 @@
         ]
       },
       {
-        "Rank": 119,
+        "Rank": 120,
         "NCTId": [
           "NCT04199247"
         ],
@@ -6106,7 +6154,7 @@
         ]
       },
       {
-        "Rank": 120,
+        "Rank": 121,
         "NCTId": [
           "NCT04190225"
         ],
@@ -6158,7 +6206,7 @@
         ]
       },
       {
-        "Rank": 121,
+        "Rank": 122,
         "NCTId": [
           "NCT04186429"
         ],
@@ -6208,7 +6256,7 @@
         ]
       },
       {
-        "Rank": 122,
+        "Rank": 123,
         "NCTId": [
           "NCT04180358"
         ],
@@ -6258,7 +6306,7 @@
         ]
       },
       {
-        "Rank": 123,
+        "Rank": 124,
         "NCTId": [
           "NCT04174001"
         ],
@@ -6304,7 +6352,7 @@
         ]
       },
       {
-        "Rank": 124,
+        "Rank": 125,
         "NCTId": [
           "NCT04170231"
         ],
@@ -6347,7 +6395,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 125,
+        "Rank": 126,
         "NCTId": [
           "NCT04166526"
         ],
@@ -6393,7 +6441,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 126,
+        "Rank": 127,
         "NCTId": [
           "NCT04164966"
         ],
@@ -6439,7 +6487,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 127,
+        "Rank": 128,
         "NCTId": [
           "NCT04158245"
         ],
@@ -6491,7 +6539,7 @@
         ]
       },
       {
-        "Rank": 128,
+        "Rank": 129,
         "NCTId": [
           "NCT04154865"
         ],
@@ -6539,7 +6587,7 @@
         ]
       },
       {
-        "Rank": 129,
+        "Rank": 130,
         "NCTId": [
           "NCT04153994"
         ],
@@ -6580,7 +6628,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 130,
+        "Rank": 131,
         "NCTId": [
           "NCT04148560"
         ],
@@ -6632,7 +6680,7 @@
         ]
       },
       {
-        "Rank": 131,
+        "Rank": 132,
         "NCTId": [
           "NCT04127331"
         ],
@@ -6678,7 +6726,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 132,
+        "Rank": 133,
         "NCTId": [
           "NCT04118712"
         ],
@@ -6723,7 +6771,7 @@
         ]
       },
       {
-        "Rank": 133,
+        "Rank": 134,
         "NCTId": [
           "NCT04111991"
         ],
@@ -6769,7 +6817,7 @@
         ]
       },
       {
-        "Rank": 134,
+        "Rank": 135,
         "NCTId": [
           "NCT04111471"
         ],
@@ -6809,7 +6857,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 135,
+        "Rank": 136,
         "NCTId": [
           "NCT04110730"
         ],
@@ -6858,7 +6906,7 @@
         ]
       },
       {
-        "Rank": 136,
+        "Rank": 137,
         "NCTId": [
           "NCT04108988"
         ],
@@ -6907,7 +6955,7 @@
         ]
       },
       {
-        "Rank": 137,
+        "Rank": 138,
         "NCTId": [
           "NCT04104841"
         ],
@@ -6958,7 +7006,7 @@
         ]
       },
       {
-        "Rank": 138,
+        "Rank": 139,
         "NCTId": [
           "NCT04099810"
         ],
@@ -7004,7 +7052,7 @@
         ]
       },
       {
-        "Rank": 139,
+        "Rank": 140,
         "NCTId": [
           "NCT04099797"
         ],
@@ -7058,7 +7106,7 @@
         ]
       },
       {
-        "Rank": 140,
+        "Rank": 141,
         "NCTId": [
           "NCT04089332"
         ],
@@ -7106,7 +7154,7 @@
         ]
       },
       {
-        "Rank": 141,
+        "Rank": 142,
         "NCTId": [
           "NCT04072159"
         ],
@@ -7148,7 +7196,7 @@
         ]
       },
       {
-        "Rank": 142,
+        "Rank": 143,
         "NCTId": [
           "NCT04064684"
         ],
@@ -7195,7 +7243,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 143,
+        "Rank": 144,
         "NCTId": [
           "NCT04060303"
         ],
@@ -7241,7 +7289,7 @@
         ]
       },
       {
-        "Rank": 144,
+        "Rank": 145,
         "NCTId": [
           "NCT04046562"
         ],
@@ -7291,7 +7339,7 @@
         ]
       },
       {
-        "Rank": 145,
+        "Rank": 146,
         "NCTId": [
           "NCT04039750"
         ],
@@ -7337,7 +7385,7 @@
         ]
       },
       {
-        "Rank": 146,
+        "Rank": 147,
         "NCTId": [
           "NCT04032990"
         ],
@@ -7385,7 +7433,7 @@
         ]
       },
       {
-        "Rank": 147,
+        "Rank": 148,
         "NCTId": [
           "NCT04017975"
         ],
@@ -7434,7 +7482,7 @@
         ]
       },
       {
-        "Rank": 148,
+        "Rank": 149,
         "NCTId": [
           "NCT04003012"
         ],
@@ -7480,7 +7528,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 149,
+        "Rank": 150,
         "NCTId": [
           "NCT03995394"
         ],
@@ -7528,7 +7576,7 @@
         ]
       },
       {
-        "Rank": 150,
+        "Rank": 151,
         "NCTId": [
           "NCT03992209"
         ],
@@ -7578,7 +7626,7 @@
         ]
       },
       {
-        "Rank": 151,
+        "Rank": 152,
         "NCTId": [
           "NCT03990870"
         ],
@@ -7626,7 +7674,7 @@
         ]
       },
       {
-        "Rank": 152,
+        "Rank": 153,
         "NCTId": [
           "NCT03985020"
         ],
@@ -7670,7 +7718,7 @@
         ]
       },
       {
-        "Rank": 153,
+        "Rank": 154,
         "NCTId": [
           "NCT03961854"
         ],
@@ -7710,7 +7758,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 154,
+        "Rank": 155,
         "NCTId": [
           "NCT03961061"
         ],
@@ -7761,7 +7809,7 @@
         ]
       },
       {
-        "Rank": 155,
+        "Rank": 156,
         "NCTId": [
           "NCT03954223"
         ],
@@ -7809,7 +7857,7 @@
         ]
       },
       {
-        "Rank": 156,
+        "Rank": 157,
         "NCTId": [
           "NCT03945747"
         ],
@@ -7867,7 +7915,7 @@
         ]
       },
       {
-        "Rank": 157,
+        "Rank": 158,
         "NCTId": [
           "NCT03942952"
         ],
@@ -7920,7 +7968,7 @@
         ]
       },
       {
-        "Rank": 158,
+        "Rank": 159,
         "NCTId": [
           "NCT03922451"
         ],
@@ -7962,7 +8010,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 159,
+        "Rank": 160,
         "NCTId": [
           "NCT03911388"
         ],
@@ -8045,7 +8093,7 @@
         ]
       },
       {
-        "Rank": 160,
+        "Rank": 161,
         "NCTId": [
           "NCT03905031"
         ],
@@ -8105,7 +8153,7 @@
         ]
       },
       {
-        "Rank": 161,
+        "Rank": 162,
         "NCTId": [
           "NCT03896867"
         ],
@@ -8151,7 +8199,7 @@
         ]
       },
       {
-        "Rank": 162,
+        "Rank": 163,
         "NCTId": [
           "NCT03885154"
         ],
@@ -8193,7 +8241,7 @@
         ]
       },
       {
-        "Rank": 163,
+        "Rank": 164,
         "NCTId": [
           "NCT03882034"
         ],
@@ -8237,11 +8285,11 @@
           "Background:\n\nFor children with gigantism, too much growth hormone (GH) in the body causes abnormal growth and many other problems. Current treatments often don t work; no medical treatment is approved by FDA. Researchers want to see if the drug pegvisomant can help.\n\nObjective:\n\nTo test the role of pegvisomant in children and adolescents with gigantism.\n\nEligibility:\n\nPeople ages 2-18 with GH excess for whom usual treatments have not worked or who are not eliginle for them\n\nDesign:\n\nParticipants will be screened with a medical history.\n\nThe study will last 60 weeks and include at least 3 visits: baseline, 6-month, and 12-month visits. For the baseline visit, participants will stay a few nights for testing. They may stay overnight for the other visits.\n\nAll visits will include:\n\nMedical history\n\nPhysical exam\n\nQuestionnaires\n\nHeart and liver tests\n\nParticipants may be photographed in their underwear if they agree.\n\nBlood tests: Participants will get a catheter: A small plastic tube will be placed in an arm vein. For some tests, the blood may be drawn every 30 minutes over 3 hours. For other tests, blood will be drawn every 20 minutes over 12 hours. Only clinically necessary tests will be done in each patient.\n\nAt the baseline visit, participants will have the study drug injected under the skin. They will learn to take the injection at home. They will take the injection daily during the study.\n\nThe baseline and 12-month visits will include:\n\nMRI: Participants will have a dye injected into a vein. They will lie in a machine that takes pictures of the body.\n\nHand X-ray\n\nParticipants must get their height and weight at their local doctor s office monthly.\n\nParticipants must have blood and urine tests at their local lab monthly for the first 6 months then every 3 months until the study ends.\n\n..."
         ],
         "DetailedDescription": [
-          "Growth hormone excess is a rare and potentially lethal condition associated with hypersecretion of growth hormone (GH), usually by a pituitary tumor or hyperplasia. When it occurs prior to the complete fusion of growth plates, it leads to pathological tall stature, and it is called gigantism. After the fusion of the growth plates, it is called acromegaly. It may be associated with debilitating cardiovascular disease and/or diabetes. Children and adolescents with gigantism are currently treated with surgery, radiation therapy, and medications, such as octreotide, to reduce hypersecretion of GH; however, these treatments may lack efficacy and have significant side effects. Pegvisomant is a genetically engineered GH-receptor (GHR antagonist that blocks the action of GH. In adults with acromegaly, pegvisomant has been shown to effectively reduce serum insulin-likegrowth factor type 1 (IGF-1) concentrations and lead to clinical improvement. However, experience in children and adolescents is limited to a small number of case series. We propose the initiation of a new protocol at the NICHD, NIH, to treat children and adolescents with GH excess that is refractory to surgical therapy and/or radiation therapy, or in children and adolescents where the above therapies are contraindicated."
+          "Growth hormone excess is a rare and potentially lethal condition associated with hypersecretion of growth hormone (GH), usually by a pituitary tumor or hyperplasia. When it occurs prior to the complete fusion of growth plates, it leads to pathological tall stature, and it is called gigantism. After the fusion of the growth plates, it is called acromegaly. It may be associated with debilitating cardiovascular disease and/or diabetes. Children and adolescents with gigantism are currently treated with surgery, radiation therapy, and medications, such as octreotide, to reduce hypersecretion of GH; however, these treatments may lack efficacy and have significant side effects. Pegvisomant is a genetically engineered GH-receptor (GHR) antagonist that blocks the action of GH. In adults with acromegaly, pegvisomant has been shown to effectively reduce serum insulin-like-growth factor type 1 (IGF-1) concentrations and lead to clinical improvement. However, experience in children and adolescents is limited to a small number of case series. We propose the initiation of a new protocol at the NICHD, NIH, to treat children and adolescents with GH excess that is refractory to surgical therapy and/or radiation therapy, or in children and adolescents where the above therapies are contraindicated."
         ]
       },
       {
-        "Rank": 164,
+        "Rank": 165,
         "NCTId": [
           "NCT03869749"
         ],
@@ -8290,7 +8338,7 @@
         ]
       },
       {
-        "Rank": 165,
+        "Rank": 166,
         "NCTId": [
           "NCT03866707"
         ],
@@ -8341,7 +8389,7 @@
         ]
       },
       {
-        "Rank": 166,
+        "Rank": 167,
         "NCTId": [
           "NCT03866460"
         ],
@@ -8388,7 +8436,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 167,
+        "Rank": 168,
         "NCTId": [
           "NCT03861871"
         ],
@@ -8435,7 +8483,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 168,
+        "Rank": 169,
         "NCTId": [
           "NCT03860311"
         ],
@@ -8488,7 +8536,7 @@
         ]
       },
       {
-        "Rank": 169,
+        "Rank": 170,
         "NCTId": [
           "NCT03855553"
         ],
@@ -8542,7 +8590,7 @@
         ]
       },
       {
-        "Rank": 170,
+        "Rank": 171,
         "NCTId": [
           "NCT03825341"
         ],
@@ -8592,7 +8640,7 @@
         ]
       },
       {
-        "Rank": 171,
+        "Rank": 172,
         "NCTId": [
           "NCT03812575"
         ],
@@ -8632,7 +8680,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 172,
+        "Rank": 173,
         "NCTId": [
           "NCT03812159"
         ],
@@ -8683,7 +8731,7 @@
         ]
       },
       {
-        "Rank": 173,
+        "Rank": 174,
         "NCTId": [
           "NCT03795818"
         ],
@@ -8734,7 +8782,7 @@
         ]
       },
       {
-        "Rank": 174,
+        "Rank": 175,
         "NCTId": [
           "NCT03781817"
         ],
@@ -8789,7 +8837,7 @@
         ]
       },
       {
-        "Rank": 175,
+        "Rank": 176,
         "NCTId": [
           "NCT03763591"
         ],
@@ -8832,7 +8880,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 176,
+        "Rank": 177,
         "NCTId": [
           "NCT03755687"
         ],
@@ -8877,7 +8925,7 @@
         ]
       },
       {
-        "Rank": 177,
+        "Rank": 178,
         "NCTId": [
           "NCT03730194"
         ],
@@ -8930,7 +8978,7 @@
         ]
       },
       {
-        "Rank": 178,
+        "Rank": 179,
         "NCTId": [
           "NCT03729999"
         ],
@@ -8975,7 +9023,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 179,
+        "Rank": 180,
         "NCTId": [
           "NCT03721068"
         ],
@@ -9022,7 +9070,7 @@
         ]
       },
       {
-        "Rank": 180,
+        "Rank": 181,
         "NCTId": [
           "NCT03718234"
         ],
@@ -9074,7 +9122,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 181,
+        "Rank": 182,
         "NCTId": [
           "NCT03711318"
         ],
@@ -9120,7 +9168,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 182,
+        "Rank": 183,
         "NCTId": [
           "NCT03709472"
         ],
@@ -9173,7 +9221,7 @@
         ]
       },
       {
-        "Rank": 183,
+        "Rank": 184,
         "NCTId": [
           "NCT03709199"
         ],
@@ -9223,7 +9271,7 @@
         ]
       },
       {
-        "Rank": 184,
+        "Rank": 185,
         "NCTId": [
           "NCT03687008"
         ],
@@ -9272,7 +9320,7 @@
         ]
       },
       {
-        "Rank": 185,
+        "Rank": 186,
         "NCTId": [
           "NCT03675321"
         ],
@@ -9318,7 +9366,7 @@
         ]
       },
       {
-        "Rank": 186,
+        "Rank": 187,
         "NCTId": [
           "NCT03670849"
         ],
@@ -9366,7 +9414,7 @@
         ]
       },
       {
-        "Rank": 187,
+        "Rank": 188,
         "NCTId": [
           "NCT03665337"
         ],
@@ -9411,7 +9459,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 188,
+        "Rank": 189,
         "NCTId": [
           "NCT03653013"
         ],
@@ -9454,7 +9502,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 189,
+        "Rank": 190,
         "NCTId": [
           "NCT03648450"
         ],
@@ -9503,7 +9551,7 @@
         ]
       },
       {
-        "Rank": 190,
+        "Rank": 191,
         "NCTId": [
           "NCT03625011"
         ],
@@ -9555,7 +9603,7 @@
         ]
       },
       {
-        "Rank": 191,
+        "Rank": 192,
         "NCTId": [
           "NCT03584399"
         ],
@@ -9597,7 +9645,7 @@
         ]
       },
       {
-        "Rank": 192,
+        "Rank": 193,
         "NCTId": [
           "NCT03559036"
         ],
@@ -9642,7 +9690,7 @@
         ]
       },
       {
-        "Rank": 193,
+        "Rank": 194,
         "NCTId": [
           "NCT03555708"
         ],
@@ -9695,7 +9743,7 @@
         ]
       },
       {
-        "Rank": 194,
+        "Rank": 195,
         "NCTId": [
           "NCT03553875"
         ],
@@ -9744,7 +9792,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 195,
+        "Rank": 196,
         "NCTId": [
           "NCT03539783"
         ],
@@ -9796,7 +9844,7 @@
         ]
       },
       {
-        "Rank": 196,
+        "Rank": 197,
         "NCTId": [
           "NCT03530852"
         ],
@@ -9845,7 +9893,7 @@
         ]
       },
       {
-        "Rank": 197,
+        "Rank": 198,
         "NCTId": [
           "NCT03528109"
         ],
@@ -9909,7 +9957,7 @@
         ]
       },
       {
-        "Rank": 198,
+        "Rank": 199,
         "NCTId": [
           "NCT03508622"
         ],
@@ -9962,7 +10010,7 @@
         ]
       },
       {
-        "Rank": 199,
+        "Rank": 200,
         "NCTId": [
           "NCT03500835"
         ],
@@ -10012,7 +10060,7 @@
         ]
       },
       {
-        "Rank": 200,
+        "Rank": 201,
         "NCTId": [
           "NCT03498495"
         ],
@@ -10058,7 +10106,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 201,
+        "Rank": 202,
         "NCTId": [
           "NCT03496259"
         ],
@@ -10107,7 +10155,7 @@
         ]
       },
       {
-        "Rank": 202,
+        "Rank": 203,
         "NCTId": [
           "NCT03495388"
         ],
@@ -10160,7 +10208,7 @@
         ]
       },
       {
-        "Rank": 203,
+        "Rank": 204,
         "NCTId": [
           "NCT03492944"
         ],
@@ -10204,7 +10252,7 @@
         ]
       },
       {
-        "Rank": 204,
+        "Rank": 205,
         "NCTId": [
           "NCT03472768"
         ],
@@ -10250,7 +10298,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 205,
+        "Rank": 206,
         "NCTId": [
           "NCT03467750"
         ],
@@ -10300,7 +10348,7 @@
         ]
       },
       {
-        "Rank": 206,
+        "Rank": 207,
         "NCTId": [
           "NCT03462979"
         ],
@@ -10352,7 +10400,7 @@
         ]
       },
       {
-        "Rank": 207,
+        "Rank": 208,
         "NCTId": [
           "NCT03453541"
         ],
@@ -10411,7 +10459,7 @@
         ]
       },
       {
-        "Rank": 208,
+        "Rank": 209,
         "NCTId": [
           "NCT03451435"
         ],
@@ -10459,7 +10507,7 @@
         ]
       },
       {
-        "Rank": 209,
+        "Rank": 210,
         "NCTId": [
           "NCT03438656"
         ],
@@ -10508,7 +10556,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 210,
+        "Rank": 211,
         "NCTId": [
           "NCT03429114"
         ],
@@ -10556,7 +10604,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 211,
+        "Rank": 212,
         "NCTId": [
           "NCT03423940"
         ],
@@ -10608,7 +10656,7 @@
         ]
       },
       {
-        "Rank": 212,
+        "Rank": 213,
         "NCTId": [
           "NCT03419260"
         ],
@@ -10654,7 +10702,7 @@
         ]
       },
       {
-        "Rank": 213,
+        "Rank": 214,
         "NCTId": [
           "NCT03412162"
         ],
@@ -10704,7 +10752,7 @@
         ]
       },
       {
-        "Rank": 214,
+        "Rank": 215,
         "NCTId": [
           "NCT03384134"
         ],
@@ -10755,7 +10803,7 @@
         ]
       },
       {
-        "Rank": 215,
+        "Rank": 216,
         "NCTId": [
           "NCT03363919"
         ],
@@ -10807,7 +10855,7 @@
         ]
       },
       {
-        "Rank": 216,
+        "Rank": 217,
         "NCTId": [
           "NCT03337594"
         ],
@@ -10859,7 +10907,7 @@
         ]
       },
       {
-        "Rank": 217,
+        "Rank": 218,
         "NCTId": [
           "NCT03334942"
         ],
@@ -10914,7 +10962,7 @@
         ]
       },
       {
-        "Rank": 218,
+        "Rank": 219,
         "NCTId": [
           "NCT03318393"
         ],
@@ -10958,7 +11006,7 @@
         ]
       },
       {
-        "Rank": 219,
+        "Rank": 220,
         "NCTId": [
           "NCT03304574"
         ],
@@ -11013,7 +11061,7 @@
         ]
       },
       {
-        "Rank": 220,
+        "Rank": 221,
         "NCTId": [
           "NCT03297658"
         ],
@@ -11059,7 +11107,7 @@
         ]
       },
       {
-        "Rank": 221,
+        "Rank": 222,
         "NCTId": [
           "NCT03283033"
         ],
@@ -11108,7 +11156,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 222,
+        "Rank": 223,
         "NCTId": [
           "NCT03280628"
         ],
@@ -11148,7 +11196,7 @@
         ]
       },
       {
-        "Rank": 223,
+        "Rank": 224,
         "NCTId": [
           "NCT03239977"
         ],
@@ -11194,7 +11242,7 @@
         ]
       },
       {
-        "Rank": 224,
+        "Rank": 225,
         "NCTId": [
           "NCT03234309"
         ],
@@ -11243,7 +11291,7 @@
         ]
       },
       {
-        "Rank": 225,
+        "Rank": 226,
         "NCTId": [
           "NCT03229837"
         ],
@@ -11293,7 +11341,7 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 227,
         "NCTId": [
           "NCT03225014"
         ],
@@ -11342,7 +11390,7 @@
         ]
       },
       {
-        "Rank": 227,
+        "Rank": 228,
         "NCTId": [
           "NCT03222570"
         ],
@@ -11388,7 +11436,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 228,
+        "Rank": 229,
         "NCTId": [
           "NCT03202303"
         ],
@@ -11436,7 +11484,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 230,
         "NCTId": [
           "NCT03192566"
         ],
@@ -11488,7 +11536,7 @@
         ]
       },
       {
-        "Rank": 230,
+        "Rank": 231,
         "NCTId": [
           "NCT03166358"
         ],
@@ -11536,7 +11584,7 @@
         ]
       },
       {
-        "Rank": 231,
+        "Rank": 232,
         "NCTId": [
           "NCT03154359"
         ],
@@ -11587,7 +11635,7 @@
         ]
       },
       {
-        "Rank": 232,
+        "Rank": 233,
         "NCTId": [
           "NCT03132948"
         ],
@@ -11636,7 +11684,7 @@
         ]
       },
       {
-        "Rank": 233,
+        "Rank": 234,
         "NCTId": [
           "NCT03073070"
         ],
@@ -11688,7 +11736,7 @@
         ]
       },
       {
-        "Rank": 234,
+        "Rank": 235,
         "NCTId": [
           "NCT03072849"
         ],
@@ -11739,7 +11787,7 @@
         ]
       },
       {
-        "Rank": 235,
+        "Rank": 236,
         "NCTId": [
           "NCT03055533"
         ],
@@ -11788,7 +11836,7 @@
         ]
       },
       {
-        "Rank": 236,
+        "Rank": 237,
         "NCTId": [
           "NCT03052738"
         ],
@@ -11838,7 +11886,7 @@
         ]
       },
       {
-        "Rank": 237,
+        "Rank": 238,
         "NCTId": [
           "NCT03032328"
         ],
@@ -11889,7 +11937,7 @@
         ]
       },
       {
-        "Rank": 238,
+        "Rank": 239,
         "NCTId": [
           "NCT03023566"
         ],
@@ -11938,7 +11986,7 @@
         ]
       },
       {
-        "Rank": 239,
+        "Rank": 240,
         "NCTId": [
           "NCT03005951"
         ],
@@ -11989,7 +12037,7 @@
         ]
       },
       {
-        "Rank": 240,
+        "Rank": 241,
         "NCTId": [
           "NCT02952222"
         ],
@@ -12035,7 +12083,7 @@
         ]
       },
       {
-        "Rank": 241,
+        "Rank": 242,
         "NCTId": [
           "NCT02914067"
         ],
@@ -12088,7 +12136,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 242,
+        "Rank": 243,
         "NCTId": [
           "NCT02895711"
         ],
@@ -12137,7 +12185,7 @@
         ]
       },
       {
-        "Rank": 243,
+        "Rank": 244,
         "NCTId": [
           "NCT02889016"
         ],
@@ -12184,7 +12232,7 @@
         ]
       },
       {
-        "Rank": 244,
+        "Rank": 245,
         "NCTId": [
           "NCT02872558"
         ],
@@ -12235,7 +12283,7 @@
         ]
       },
       {
-        "Rank": 245,
+        "Rank": 246,
         "NCTId": [
           "NCT02852213"
         ],
@@ -12287,7 +12335,7 @@
         ]
       },
       {
-        "Rank": 246,
+        "Rank": 247,
         "NCTId": [
           "NCT02846272"
         ],
@@ -12336,7 +12384,7 @@
         ]
       },
       {
-        "Rank": 247,
+        "Rank": 248,
         "NCTId": [
           "NCT02824627"
         ],
@@ -12386,7 +12434,7 @@
         ]
       },
       {
-        "Rank": 248,
+        "Rank": 249,
         "NCTId": [
           "NCT02775643"
         ],
@@ -12433,7 +12481,7 @@
         ]
       },
       {
-        "Rank": 249,
+        "Rank": 250,
         "NCTId": [
           "NCT02769975"
         ],
@@ -12485,7 +12533,7 @@
         ]
       },
       {
-        "Rank": 250,
+        "Rank": 251,
         "NCTId": [
           "NCT02747849"
         ],
@@ -12536,7 +12584,7 @@
         ]
       },
       {
-        "Rank": 251,
+        "Rank": 252,
         "NCTId": [
           "NCT02742272"
         ],
@@ -12589,7 +12637,7 @@
         ]
       },
       {
-        "Rank": 252,
+        "Rank": 253,
         "NCTId": [
           "NCT02722486"
         ],
@@ -12637,7 +12685,7 @@
         ]
       },
       {
-        "Rank": 253,
+        "Rank": 254,
         "NCTId": [
           "NCT02703597"
         ],
@@ -12684,7 +12732,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 254,
+        "Rank": 255,
         "NCTId": [
           "NCT02699190"
         ],
@@ -12732,7 +12780,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 256,
         "NCTId": [
           "NCT02651493"
         ],
@@ -12783,7 +12831,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 257,
         "NCTId": [
           "NCT02616796"
         ],
@@ -12831,7 +12879,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 257,
+        "Rank": 258,
         "NCTId": [
           "NCT02610946"
         ],
@@ -12882,7 +12930,7 @@
         ]
       },
       {
-        "Rank": 258,
+        "Rank": 259,
         "NCTId": [
           "NCT02558010"
         ],
@@ -12936,7 +12984,7 @@
         ]
       },
       {
-        "Rank": 259,
+        "Rank": 260,
         "NCTId": [
           "NCT02535936"
         ],
@@ -12987,7 +13035,7 @@
         ]
       },
       {
-        "Rank": 260,
+        "Rank": 261,
         "NCTId": [
           "NCT02531893"
         ],
@@ -13035,7 +13083,7 @@
         ]
       },
       {
-        "Rank": 261,
+        "Rank": 262,
         "NCTId": [
           "NCT02512718"
         ],
@@ -13079,7 +13127,7 @@
         ]
       },
       {
-        "Rank": 262,
+        "Rank": 263,
         "NCTId": [
           "NCT02507791"
         ],
@@ -13130,7 +13178,7 @@
         ]
       },
       {
-        "Rank": 263,
+        "Rank": 264,
         "NCTId": [
           "NCT02498925"
         ],
@@ -13178,7 +13226,7 @@
         ]
       },
       {
-        "Rank": 264,
+        "Rank": 265,
         "NCTId": [
           "NCT02485418"
         ],
@@ -13225,7 +13273,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 265,
+        "Rank": 266,
         "NCTId": [
           "NCT02478788"
         ],
@@ -13275,7 +13323,7 @@
         ]
       },
       {
-        "Rank": 266,
+        "Rank": 267,
         "NCTId": [
           "NCT02453126"
         ],
@@ -13321,7 +13369,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 267,
+        "Rank": 268,
         "NCTId": [
           "NCT02398539"
         ],
@@ -13366,7 +13414,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 268,
+        "Rank": 269,
         "NCTId": [
           "NCT02395003"
         ],
@@ -13410,7 +13458,7 @@
         ]
       },
       {
-        "Rank": 269,
+        "Rank": 270,
         "NCTId": [
           "NCT02312635"
         ],
@@ -13462,7 +13510,7 @@
         ]
       },
       {
-        "Rank": 270,
+        "Rank": 271,
         "NCTId": [
           "NCT02305537"
         ],
@@ -13520,7 +13568,7 @@
         ]
       },
       {
-        "Rank": 271,
+        "Rank": 272,
         "NCTId": [
           "NCT02257229"
         ],
@@ -13567,7 +13615,7 @@
         ]
       },
       {
-        "Rank": 272,
+        "Rank": 273,
         "NCTId": [
           "NCT02245997"
         ],
@@ -13614,7 +13662,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 273,
+        "Rank": 274,
         "NCTId": [
           "NCT02202174"
         ],
@@ -13659,7 +13707,7 @@
         ]
       },
       {
-        "Rank": 274,
+        "Rank": 275,
         "NCTId": [
           "NCT02130180"
         ],
@@ -13707,7 +13755,7 @@
         ]
       },
       {
-        "Rank": 275,
+        "Rank": 276,
         "NCTId": [
           "NCT02127658"
         ],
@@ -13749,7 +13797,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 276,
+        "Rank": 277,
         "NCTId": [
           "NCT02117063"
         ],
@@ -13806,7 +13854,7 @@
         ]
       },
       {
-        "Rank": 277,
+        "Rank": 278,
         "NCTId": [
           "NCT02055105"
         ],
@@ -13854,7 +13902,7 @@
         ]
       },
       {
-        "Rank": 278,
+        "Rank": 279,
         "NCTId": [
           "NCT02021604"
         ],
@@ -13897,7 +13945,7 @@
         ]
       },
       {
-        "Rank": 279,
+        "Rank": 280,
         "NCTId": [
           "NCT01960166"
         ],
@@ -13939,7 +13987,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 280,
+        "Rank": 281,
         "NCTId": [
           "NCT01857791"
         ],
@@ -13986,7 +14034,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 281,
+        "Rank": 282,
         "NCTId": [
           "NCT01839747"
         ],
@@ -14035,7 +14083,7 @@
         ]
       },
       {
-        "Rank": 282,
+        "Rank": 283,
         "NCTId": [
           "NCT01724463"
         ],
@@ -14090,7 +14138,7 @@
         ]
       },
       {
-        "Rank": 283,
+        "Rank": 284,
         "NCTId": [
           "NCT01665326"
         ],
@@ -14140,7 +14188,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 285,
         "NCTId": [
           "NCT01629017"
         ],
@@ -14189,7 +14237,7 @@
         ]
       },
       {
-        "Rank": 285,
+        "Rank": 286,
         "NCTId": [
           "NCT01598766"
         ],
@@ -14241,7 +14289,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 286,
+        "Rank": 287,
         "NCTId": [
           "NCT01577810"
         ],
@@ -14292,7 +14340,7 @@
         ]
       },
       {
-        "Rank": 287,
+        "Rank": 288,
         "NCTId": [
           "NCT01567579"
         ],
@@ -14343,7 +14391,7 @@
         ]
       },
       {
-        "Rank": 288,
+        "Rank": 289,
         "NCTId": [
           "NCT01543438"
         ],
@@ -14390,7 +14438,7 @@
         ]
       },
       {
-        "Rank": 289,
+        "Rank": 290,
         "NCTId": [
           "NCT01504373"
         ],
@@ -14436,7 +14484,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 290,
+        "Rank": 291,
         "NCTId": [
           "NCT01422759"
         ],
@@ -14488,7 +14536,7 @@
         ]
       },
       {
-        "Rank": 291,
+        "Rank": 292,
         "NCTId": [
           "NCT01422746"
         ],
@@ -14538,7 +14586,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 292,
+        "Rank": 293,
         "NCTId": [
           "NCT01421810"
         ],
@@ -14589,7 +14637,7 @@
         ]
       },
       {
-        "Rank": 293,
+        "Rank": 294,
         "NCTId": [
           "NCT01421797"
         ],
@@ -14641,7 +14689,7 @@
         ]
       },
       {
-        "Rank": 294,
+        "Rank": 295,
         "NCTId": [
           "NCT01386736"
         ],
@@ -14690,7 +14738,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 295,
+        "Rank": 296,
         "NCTId": [
           "NCT01383915"
         ],
@@ -14739,7 +14787,7 @@
         ]
       },
       {
-        "Rank": 296,
+        "Rank": 297,
         "NCTId": [
           "NCT01304875"
         ],
@@ -14783,7 +14831,7 @@
         ]
       },
       {
-        "Rank": 297,
+        "Rank": 298,
         "NCTId": [
           "NCT01285531"
         ],
@@ -14840,7 +14888,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 299,
         "NCTId": [
           "NCT01122095"
         ],
@@ -14893,7 +14941,7 @@
         ]
       },
       {
-        "Rank": 299,
+        "Rank": 300,
         "NCTId": [
           "NCT00906906"
         ],
@@ -14944,7 +14992,7 @@
         ]
       },
       {
-        "Rank": 300,
+        "Rank": 301,
         "NCTId": [
           "NCT00814853"
         ],
@@ -14991,7 +15039,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 302,
         "NCTId": [
           "NCT00792415"
         ],
@@ -15039,7 +15087,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 302,
+        "Rank": 303,
         "NCTId": [
           "NCT00745394"
         ],
@@ -15086,7 +15134,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 304,
         "NCTId": [
           "NCT00616317"
         ],
@@ -15124,7 +15172,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 304,
+        "Rank": 305,
         "NCTId": [
           "NCT00494572"
         ],
@@ -15174,7 +15222,7 @@
         ]
       },
       {
-        "Rank": 305,
+        "Rank": 306,
         "NCTId": [
           "NCT00491946"
         ],
@@ -15219,7 +15267,7 @@
         ]
       },
       {
-        "Rank": 306,
+        "Rank": 307,
         "NCTId": [
           "NCT00465699"
         ],
@@ -15263,7 +15311,7 @@
         ]
       },
       {
-        "Rank": 307,
+        "Rank": 308,
         "NCTId": [
           "NCT00320086"
         ],
@@ -15311,7 +15359,7 @@
         ]
       },
       {
-        "Rank": 308,
+        "Rank": 309,
         "NCTId": [
           "NCT00292513"
         ],
@@ -15356,7 +15404,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 309,
+        "Rank": 310,
         "NCTId": [
           "NCT00182572"
         ],
@@ -15400,7 +15448,7 @@
         ]
       },
       {
-        "Rank": 310,
+        "Rank": 311,
         "NCTId": [
           "NCT00036712"
         ],
@@ -15457,7 +15505,7 @@
         ]
       },
       {
-        "Rank": 311,
+        "Rank": 312,
         "NCTId": [
           "NCT00012506"
         ],
@@ -15505,7 +15553,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 313,
         "NCTId": [
           "NCT00000112"
         ],
@@ -15546,7 +15594,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 313,
+        "Rank": 314,
         "NCTId": [
           "NCT04602325"
         ],
@@ -15598,7 +15646,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 315,
         "NCTId": [
           "NCT03266016"
         ],
@@ -15640,7 +15688,7 @@
         ]
       },
       {
-        "Rank": 315,
+        "Rank": 316,
         "NCTId": [
           "NCT02420990"
         ],
@@ -15686,56 +15734,6 @@
           "Attention-Deficit/Hyperactivity Disorder (ADHD) exists in 20-50% of the 3 million adolescents annually enrolled in outpatient mental health and substance use treatment. Adolescents with ADHD present deficits in attention, self-regulation, and social competence that significantly impede achievement of developmental and educational milestones. Currently there are only two evidence-based treatment options for this age group: academic training and stimulant medications. Both options remain vastly underutilized. Academic training is not available in most school settings and rarely implemented in clinical care. Similarly, ADHD medications are rarely utilized with adolescents in primary or specialty care for a host of reasons related to stigma, misinformation about effects and side effects, and adolescent autonomy issues. Moreover, the widespread fragmentation of pharmacological versus behavioral services prevents families from making informed treatment selections.\n\nThe primary objective of this randomized parametric trial is to compare the effectiveness of behavioral only versus integrated (behavioral plus medication decision-making) interventions for adolescents with ADHD in outpatient behavioral services. The behavioral intervention, Changing Academic Support in the Home for Adolescents with ADHD (CASH-AA), contains three components: ADHD psychoeducation, family-based motivational interventions, and academic training. The medication decision-making intervention, Medication Integration Protocol (MIP), contain three components: psychoeducation about ADHD medication, family decision-making, and medication management. The study will compare the effects of two legitimate treatment options for adolescents with ADHD on service utilization, behavioral symptoms, and quality of life. It will generate new evidence on patient-centered treatment selection that aligns with family-specific principles and treatment goals.\n\nThis parametric comparative trial will randomly assign 140 inner-city adolescents with ADHD to (1) CASH-AA Only or (2) CASH-AA + MIP. Treatment will occur in community behavioral health clinics. All participants will receive behavioral interventions (CASH-AA): family psychoeducation in ADHD symptoms, executive functioning, and developmental impacts; family-based motivation and ADHD accommodation interventions; and academic training focused on home environment support and organizational skills. Half of the participants will also receive medication decision-making interventions (MIP): ADHD medication psychoeducation, family decision-making interventions, and (for those who elect to start medication) coordinated medication management. Half of the sample will have comorbid substance use problems. Treatment will occur in three community clinics; therapists will be randomly assigned to study condition. Caregivers and adolescents will complete assessments at baseline, 3, 6, and 12-month follow-up. Multilevel modeling will compare the effectiveness of each condition on key patient and service use outcomes. Patient-centered analyses will explore differential treatment effects based on (a) Medication decision (yes/no); (b) Substance use comorbidity (yes/no); (c) Race/Ethnicity (Hispanic, African American).\n\nQuantitative outcome analyses will test for service use effects, symptom reduction, and quality of life improvements that are primary reasons for seeking clinical services. Qualitative interviews will document family-specific rationale for decisions about medication, compliance with behavioral and medication interventions, and suggestions for improving services and service integration. Note that families assigned to CASH-AA Only will retain the option of pursuing ADHD medication through treatment-as-usual procedures at their respective clinic. Similarly, families assigned to CASH-AA + MIP will not be required to start ADHD medication. Instead, they will receive informed-choice interventions and can choose when and if to start medication; the study will assess the impact of these decisions on clinical outcomes.\n\nIf proven efficacious, the CASH-AA and MIP protocols could be rapidly disseminated individually or as an integrated protocol into routine behavioral healthcare settings. The protocols can also be readily combined with other behavioral treatments to form a multicomponent treatment package for adolescents with co-occurring behavior problems. In addition, the family-based, patient-centered CASH-AA and MIP protocols could be delivered in conjunction with other family-based treatments or with individual approaches that flexibly include caregivers in multiple treatment sessions. This makes CASH-AA and MIP highly efficient clinical resources for addressing ADHD-related problems in any outpatient setting that serves adolescents and their families."
         ],
         "DetailedDescription": []
-      },
-      {
-        "Rank": 316,
-        "NCTId": [
-          "NCT04602728"
-        ],
-        "OfficialTitle": [
-          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
-        ],
-        "Condition": [
-          "Sickle Cell Disease"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
-        ],
-        "MinimumAge": [
-          "10 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Atlanta",
-          "Atlanta",
-          "Atlanta"
-        ],
-        "LocationFacility": [
-          "Children's Healthcare of Atlanta at Hugh Spalding",
-          "Chilldren's Healthcare of Atlanta",
-          "Emory Children's Center"
-        ],
-        "LocationState": [
-          "Georgia",
-          "Georgia",
-          "Georgia"
-        ],
-        "LocationZip": [
-          "30303",
-          "30322",
-          "30322"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
-        ],
-        "DetailedDescription": [
-          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
-        ]
       },
       {
         "Rank": 317,
@@ -15927,6 +15925,56 @@
       {
         "Rank": 320,
         "NCTId": [
+          "NCT04602728"
+        ],
+        "OfficialTitle": [
+          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
+        ],
+        "Condition": [
+          "Sickle Cell Disease"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
+        ],
+        "MinimumAge": [
+          "10 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Atlanta",
+          "Atlanta",
+          "Atlanta"
+        ],
+        "LocationFacility": [
+          "Children's Healthcare of Atlanta at Hugh Spalding",
+          "Chilldren's Healthcare of Atlanta",
+          "Emory Children's Center"
+        ],
+        "LocationState": [
+          "Georgia",
+          "Georgia",
+          "Georgia"
+        ],
+        "LocationZip": [
+          "30303",
+          "30322",
+          "30322"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
+        ],
+        "DetailedDescription": [
+          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
+        ]
+      },
+      {
+        "Rank": 321,
+        "NCTId": [
           "NCT03657771"
         ],
         "OfficialTitle": [
@@ -15996,7 +16044,7 @@
         ]
       },
       {
-        "Rank": 321,
+        "Rank": 322,
         "NCTId": [
           "NCT04718441"
         ],
@@ -16061,7 +16109,7 @@
         ]
       },
       {
-        "Rank": 322,
+        "Rank": 323,
         "NCTId": [
           "NCT04344899"
         ],
@@ -16122,7 +16170,7 @@
         ]
       },
       {
-        "Rank": 323,
+        "Rank": 324,
         "NCTId": [
           "NCT02260856"
         ],
@@ -16205,7 +16253,7 @@
         ]
       },
       {
-        "Rank": 324,
+        "Rank": 325,
         "NCTId": [
           "NCT02933008"
         ],
@@ -16251,7 +16299,7 @@
         ]
       },
       {
-        "Rank": 325,
+        "Rank": 326,
         "NCTId": [
           "NCT04998656"
         ],
@@ -16321,7 +16369,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 326,
+        "Rank": 327,
         "NCTId": [
           "NCT04933331"
         ],
@@ -16400,134 +16448,7 @@
         ]
       },
       {
-        "Rank": 327,
-        "NCTId": [
-          "NCT04625686"
-        ],
-        "OfficialTitle": [
-          "A Multi-Site, Non-Interventional Study to Compare the Outcomes of Psychiatric Treatment of Suicidal Adolescents in Different Treatment Settings"
-        ],
-        "Condition": [
-          "Suicidal Ideation"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAdolescents that are 12 through 18 years old.\nAdolescents that are brought to the Emergency Department for crisis evaluation due to suicidal thoughts or behaviors.\nRequire a higher level of care.\nThe presence of a legal guardian for consent.\nCapable of giving signed informed consent/assent, which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.\n\nExclusion Criteria:\n\nAdolescents with suicidal thoughts who had prior OCIC treatment in the past 12 months.\nAdolescents without the ability to answer survey questions.\nAdolescents that are non-English speaking due to the scales and surveys that are used for this study only being available in English."
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Queens",
-          "Cincinnati",
-          "Columbus",
-          "Dallas"
-        ],
-        "LocationFacility": [
-          "Northwell Health",
-          "Cincinnati Children's Hospital Medical Center",
-          "Nationwide Children's Hospital",
-          "UT Southwestern Medical Center"
-        ],
-        "LocationState": [
-          "New York",
-          "Ohio",
-          "Ohio",
-          "Texas"
-        ],
-        "LocationZip": [
-          "11004",
-          "45229",
-          "43205",
-          "75390"
-        ],
-        "LocationContactEMail": [
-          "nmathur@northwell.edu",
-          "jennifer.combs@cchmc.org",
-          "rosalie.hemphill@cchmc.org",
-          "jaclyn.tissue@nationwidechildrens.org",
-          "molly.michaels@utsouthwestern.edu"
-        ],
-        "LocationContactName": [
-          "Nandita Mathur",
-          "Jennifer Combs, LISW",
-          "Rosalie Hemphill, MSW",
-          "Jaclyn Tissue",
-          "Molly Michaels"
-        ],
-        "LocationContactPhone": [
-          "513-803-0007",
-          "(513) 517-7126",
-          "614-355-1529"
-        ],
-        "BriefSummary": [
-          "To address the unmet need of optimizing the treatment and management for adolescent suicidality, the investigators propose to evaluate the effectiveness and safety of telehealth services compared to inpatient and OCIC for suicidal adolescents in target population. To achieve this goal, the investigators propose a multi- site study to compare telehealth, OCIC, and inpatient care, and see which can lead to a lower risk of a suicidal event (primary outcome) as well as higher treatment satisfaction (TS) and satisfaction with life (SL) (secondary outcomes) of both the legal guardians/parents and patients."
-        ],
-        "DetailedDescription": [
-          "The investigators have proposed an observational design. Eligible individuals will be identified during a crisis assessment, either in the emergency department or during an emergency phone or telehealth assessment. Once the individual has been assessed and assigned to the clinician for treatment, study staff will assess if the patient is appropriate for the study using the study eligibility criteria. Individuals who receive treatment in one of the following treatment arms will be eligible for this observation study: inpatient, in-person OCIC or telehealth crisis intervention service. Eligible individuals will be contacted by study staff to introduce and offer the study. If patient and guardian agree, they will complete surveys at baseline and every 2 weeks for 6 months to evaluate outcomes."
-        ]
-      },
-      {
         "Rank": 328,
-        "NCTId": [
-          "NCT04621331"
-        ],
-        "OfficialTitle": [
-          "An Open-label, Multicenter Study Investigating the Efficacy, Safety and Pharmacokinetics of Roxadustat (FG-4592) for Treatment of Anemia in Pediatric Patients With Chronic Kidney Disease"
-        ],
-        "Condition": [
-          "Anemia Associated With Chronic Kidney Disease"
-        ],
-        "EligibilityCriteria": [
-          "Important Inclusion Criteria:\n\nClinically stable CKD in the opinion of the investigator.\nEstimated glomerular filtration rate (Bedside Schwartz formula) of < 60 ml/min/1.73 m2 (stage 3, 4 and 5 CKD) for non-dialysis patients, or patients who are receiving chronic dialysis (hemodialysis or peritoneal dialysis) for ESRD.\nFor ESA-naïve patients (either NDD or DD; ESA-naïve is defined as those patients whose total duration of prior ESA exposure is ≤ 3 weeks within the preceding 12 weeks at the time informed consent is obtained), mean of two most recent central laboratory Hb values during the screening period obtained at least 2 days apart must be < 11.0 g/dL. For patients currently receiving stable ESA dosing who will discontinue ESA and convert to roxadustat during study, mean of two most recent central laboratory Hb values during the screening period obtained at least 2 days apart must be ≥ 10.0 g/dL and ≤ 12.5 g/dL.\nFerritin >50 ng/mL and transferrin saturation >10% (obtained from screening visit).\nAlanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 2x upper limit of normal (ULN) and total bilirubin (Tbili) ≤1.5x ULN at randomization (obtained from screening visit).\nSerum folate and vitamin B12 > LLN (obtained from screening visit).\n\nImportant Exclusion Criteria:\n\nUncontrolled hypertension as judged by the principal investigator in the 2 weeks prior to screening.\nKnown hematologic disease other than anemia associated with CKD.\nKnown malignancy within the past 5 years before screening.\nAny prior organ transplant or any planned organ transplant during the study period.\nAny RBC transfusion during the past 8 weeks before screening.\nAny condition leading to significant blood loss (e.g., gastrointestinal bleeding, surgical procedures) within 8 weeks before screening or during the screening period.\nHistory of chronic liver disease.\nPure red cell aplasia (PRCA) or history of PRCA.\nHistory of epileptic seizures.\nHistory of hyperlipidemia or significant thrombotic/thromboembolic event (e.g., deep vein thrombosis, pulmonary embolism, stroke, myocardial infarction).\nHistory of thrombosis of an arteriovenous fistula/graft within 12 weeks prior to enrollment.\nAny active systemic or significant infection or episode of peritonitis within 30 days of screening.\nAny statin use within 30 days of screening.\nAny prior exposure to roxadustat or any other HIF-PH inhibitor."
-        ],
-        "MinimumAge": [
-          "2 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Chicago",
-          "Omaha",
-          "New York",
-          "San Antonio"
-        ],
-        "LocationFacility": [
-          "Ann and Robert H. Lurie Children's Hospital of Chicago",
-          "University of Nebraska Medical Center",
-          "Icahn School of Medicine at Mount Sinai (ISMMS) - The Mount Sinai Hospital (MSH)",
-          "Investigative site"
-        ],
-        "LocationState": [
-          "Illinois",
-          "Nebraska",
-          "New York",
-          "Texas"
-        ],
-        "LocationZip": [
-          "60611",
-          "68198",
-          "10029",
-          "78215"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Priya Verghese, MD",
-          "Melissa Muff-Luett, MD",
-          "Hilary Hotchkiss, MD",
-          "Beneta Parthiban"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "This open-labeled, multicenter study is designed to evaluate the efficacy, safety and PK/PD of roxadustat in ESA-naïve and ESA-treated pediatric patients with CKD Stages 3, 4, and 5, as well as end-stage renal disease (ESRD) who are receiving either hemodialysis (HD) or peritoneal dialysis (PD). The study will enroll patients between the ages of 2 to <18 years in two sequential cohorts, with the older cohort of ages 12 to <18 years enrolled first. Approximately 30 patients will be enrolled in each age-based cohort."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 329,
         "NCTId": [
           "NCT04251026"
         ],
@@ -16601,7 +16522,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 330,
+        "Rank": 329,
         "NCTId": [
           "NCT02044744"
         ],
@@ -16669,7 +16590,134 @@
         "DetailedDescription": []
       },
       {
+        "Rank": 330,
+        "NCTId": [
+          "NCT04625686"
+        ],
+        "OfficialTitle": [
+          "A Multi-Site, Non-Interventional Study to Compare the Outcomes of Psychiatric Treatment of Suicidal Adolescents in Different Treatment Settings"
+        ],
+        "Condition": [
+          "Suicidal Ideation"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nAdolescents that are 12 through 18 years old.\nAdolescents that are brought to the Emergency Department for crisis evaluation due to suicidal thoughts or behaviors.\nRequire a higher level of care.\nThe presence of a legal guardian for consent.\nCapable of giving signed informed consent/assent, which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.\n\nExclusion Criteria:\n\nAdolescents with suicidal thoughts who had prior OCIC treatment in the past 12 months.\nAdolescents without the ability to answer survey questions.\nAdolescents that are non-English speaking due to the scales and surveys that are used for this study only being available in English."
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Queens",
+          "Cincinnati",
+          "Columbus",
+          "Dallas"
+        ],
+        "LocationFacility": [
+          "Northwell Health",
+          "Cincinnati Children's Hospital Medical Center",
+          "Nationwide Children's Hospital",
+          "UT Southwestern Medical Center"
+        ],
+        "LocationState": [
+          "New York",
+          "Ohio",
+          "Ohio",
+          "Texas"
+        ],
+        "LocationZip": [
+          "11004",
+          "45229",
+          "43205",
+          "75390"
+        ],
+        "LocationContactEMail": [
+          "nmathur@northwell.edu",
+          "jennifer.combs@cchmc.org",
+          "rosalie.hemphill@cchmc.org",
+          "jaclyn.tissue@nationwidechildrens.org",
+          "molly.michaels@utsouthwestern.edu"
+        ],
+        "LocationContactName": [
+          "Nandita Mathur",
+          "Jennifer Combs, LISW",
+          "Rosalie Hemphill, MSW",
+          "Jaclyn Tissue",
+          "Molly Michaels"
+        ],
+        "LocationContactPhone": [
+          "513-803-0007",
+          "(513) 517-7126",
+          "614-355-1529"
+        ],
+        "BriefSummary": [
+          "To address the unmet need of optimizing the treatment and management for adolescent suicidality, the investigators propose to evaluate the effectiveness and safety of telehealth services compared to inpatient and OCIC for suicidal adolescents in target population. To achieve this goal, the investigators propose a multi- site study to compare telehealth, OCIC, and inpatient care, and see which can lead to a lower risk of a suicidal event (primary outcome) as well as higher treatment satisfaction (TS) and satisfaction with life (SL) (secondary outcomes) of both the legal guardians/parents and patients."
+        ],
+        "DetailedDescription": [
+          "The investigators have proposed an observational design. Eligible individuals will be identified during a crisis assessment, either in the emergency department or during an emergency phone or telehealth assessment. Once the individual has been assessed and assigned to the clinician for treatment, study staff will assess if the patient is appropriate for the study using the study eligibility criteria. Individuals who receive treatment in one of the following treatment arms will be eligible for this observation study: inpatient, in-person OCIC or telehealth crisis intervention service. Eligible individuals will be contacted by study staff to introduce and offer the study. If patient and guardian agree, they will complete surveys at baseline and every 2 weeks for 6 months to evaluate outcomes."
+        ]
+      },
+      {
         "Rank": 331,
+        "NCTId": [
+          "NCT04621331"
+        ],
+        "OfficialTitle": [
+          "An Open-label, Multicenter Study Investigating the Efficacy, Safety and Pharmacokinetics of Roxadustat (FG-4592) for Treatment of Anemia in Pediatric Patients With Chronic Kidney Disease"
+        ],
+        "Condition": [
+          "Anemia Associated With Chronic Kidney Disease"
+        ],
+        "EligibilityCriteria": [
+          "Important Inclusion Criteria:\n\nClinically stable CKD in the opinion of the investigator.\nEstimated glomerular filtration rate (Bedside Schwartz formula) of < 60 ml/min/1.73 m2 (stage 3, 4 and 5 CKD) for non-dialysis patients, or patients who are receiving chronic dialysis (hemodialysis or peritoneal dialysis) for ESRD.\nFor ESA-naïve patients (either NDD or DD; ESA-naïve is defined as those patients whose total duration of prior ESA exposure is ≤ 3 weeks within the preceding 12 weeks at the time informed consent is obtained), mean of two most recent central laboratory Hb values during the screening period obtained at least 2 days apart must be < 11.0 g/dL. For patients currently receiving stable ESA dosing who will discontinue ESA and convert to roxadustat during study, mean of two most recent central laboratory Hb values during the screening period obtained at least 2 days apart must be ≥ 10.0 g/dL and ≤ 12.5 g/dL.\nFerritin >50 ng/mL and transferrin saturation >10% (obtained from screening visit).\nAlanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 2x upper limit of normal (ULN) and total bilirubin (Tbili) ≤1.5x ULN at randomization (obtained from screening visit).\nSerum folate and vitamin B12 > LLN (obtained from screening visit).\n\nImportant Exclusion Criteria:\n\nUncontrolled hypertension as judged by the principal investigator in the 2 weeks prior to screening.\nKnown hematologic disease other than anemia associated with CKD.\nKnown malignancy within the past 5 years before screening.\nAny prior organ transplant or any planned organ transplant during the study period.\nAny RBC transfusion during the past 8 weeks before screening.\nAny condition leading to significant blood loss (e.g., gastrointestinal bleeding, surgical procedures) within 8 weeks before screening or during the screening period.\nHistory of chronic liver disease.\nPure red cell aplasia (PRCA) or history of PRCA.\nHistory of epileptic seizures.\nHistory of hyperlipidemia or significant thrombotic/thromboembolic event (e.g., deep vein thrombosis, pulmonary embolism, stroke, myocardial infarction).\nHistory of thrombosis of an arteriovenous fistula/graft within 12 weeks prior to enrollment.\nAny active systemic or significant infection or episode of peritonitis within 30 days of screening.\nAny statin use within 30 days of screening.\nAny prior exposure to roxadustat or any other HIF-PH inhibitor."
+        ],
+        "MinimumAge": [
+          "2 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Chicago",
+          "Omaha",
+          "New York",
+          "San Antonio"
+        ],
+        "LocationFacility": [
+          "Ann and Robert H. Lurie Children's Hospital of Chicago",
+          "University of Nebraska Medical Center",
+          "Icahn School of Medicine at Mount Sinai (ISMMS) - The Mount Sinai Hospital (MSH)",
+          "Investigative site"
+        ],
+        "LocationState": [
+          "Illinois",
+          "Nebraska",
+          "New York",
+          "Texas"
+        ],
+        "LocationZip": [
+          "60611",
+          "68198",
+          "10029",
+          "78215"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Priya Verghese, MD",
+          "Melissa Muff-Luett, MD",
+          "Hilary Hotchkiss, MD",
+          "Beneta Parthiban"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "This open-labeled, multicenter study is designed to evaluate the efficacy, safety and PK/PD of roxadustat in ESA-naïve and ESA-treated pediatric patients with CKD Stages 3, 4, and 5, as well as end-stage renal disease (ESRD) who are receiving either hemodialysis (HD) or peritoneal dialysis (PD). The study will enroll patients between the ages of 2 to <18 years in two sequential cohorts, with the older cohort of ages 12 to <18 years enrolled first. Approximately 30 patients will be enrolled in each age-based cohort."
+        ],
+        "DetailedDescription": []
+      },
+      {
+        "Rank": 332,
         "NCTId": [
           "NCT04074265"
         ],
@@ -16753,7 +16801,7 @@
         ]
       },
       {
-        "Rank": 332,
+        "Rank": 333,
         "NCTId": [
           "NCT03201874"
         ],
@@ -16820,7 +16868,7 @@
         ]
       },
       {
-        "Rank": 333,
+        "Rank": 334,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16889,7 +16937,7 @@
         ]
       },
       {
-        "Rank": 334,
+        "Rank": 335,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16959,7 +17007,7 @@
         ]
       },
       {
-        "Rank": 335,
+        "Rank": 336,
         "NCTId": [
           "NCT02914405"
         ],
@@ -17030,7 +17078,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 336,
+        "Rank": 337,
         "NCTId": [
           "NCT02391324"
         ],
@@ -17092,7 +17140,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 338,
         "NCTId": [
           "NCT02134782"
         ],
@@ -17156,7 +17204,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 339,
         "NCTId": [
           "NCT04333823"
         ],
@@ -17225,7 +17273,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 340,
         "NCTId": [
           "NCT03962894"
         ],
@@ -17305,7 +17353,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 340,
+        "Rank": 341,
         "NCTId": [
           "NCT03606980"
         ],
@@ -17369,7 +17417,7 @@
         ]
       },
       {
-        "Rank": 341,
+        "Rank": 342,
         "NCTId": [
           "NCT03240809"
         ],
@@ -17427,7 +17475,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 343,
         "NCTId": [
           "NCT04853316"
         ],
@@ -17504,7 +17552,7 @@
         ]
       },
       {
-        "Rank": 343,
+        "Rank": 344,
         "NCTId": [
           "NCT04060823"
         ],
@@ -17560,7 +17608,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 344,
+        "Rank": 345,
         "NCTId": [
           "NCT00005105"
         ],
@@ -17624,7 +17672,7 @@
         ]
       },
       {
-        "Rank": 345,
+        "Rank": 346,
         "NCTId": [
           "NCT04810481"
         ],
@@ -17698,7 +17746,7 @@
         ]
       },
       {
-        "Rank": 346,
+        "Rank": 347,
         "NCTId": [
           "NCT03505658"
         ],
@@ -17759,7 +17807,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 347,
+        "Rank": 348,
         "NCTId": [
           "NCT03989986"
         ],
@@ -17819,7 +17867,7 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 349,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17893,7 +17941,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 350,
         "NCTId": [
           "NCT03117751"
         ],
@@ -17983,7 +18031,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 351,
         "NCTId": [
           "NCT03910933"
         ],
@@ -18066,7 +18114,7 @@
         ]
       },
       {
-        "Rank": 351,
+        "Rank": 352,
         "NCTId": [
           "NCT04442295"
         ],
@@ -18195,7 +18243,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 353,
         "NCTId": [
           "NCT04431453"
         ],
@@ -18366,7 +18414,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 354,
         "NCTId": [
           "NCT04258943"
         ],
@@ -18682,7 +18730,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 355,
         "NCTId": [
           "NCT04203316"
         ],
@@ -18861,7 +18909,614 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 356,
+        "NCTId": [
+          "NCT04195399"
+        ],
+        "OfficialTitle": [
+          "A Safety, Pharmacokinetic and Efficacy Study of a y-Secretase Inhibitor, Nirogacestat (PF-03084014) in Children and Adolescents With Progressive, Surgically Unresectable Desmoid Tumors"
+        ],
+        "Condition": [
+          "Desmoid Fibromatosis",
+          "Recurrent Desmoid Fibromatosis",
+          "Unresectable Desmoid Fibromatosis"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPatients must have a body surface area of > 0.3 m^2 at the time of enrollment\n\nExisting or recurrent desmoid tumor that is deemed not amenable to surgery without significant morbidity and progressed by >= 10% as assessed by RECIST version (v)1.1 within the 6-month period prior to study enrollment\n\nPatients must have had histologic verification of the desmoid tumor\nPatients must have measurable disease by RECIST v1.1 criteria\nPatient must have received at least one prior course of systemic therapy for desmoid tumor\nPatients must have a Lansky (for patients =< 16 years of age) or Karnofsky (for patients > 16 years of age) performance status score of >= 50. Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing performance score\n\nPatients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, surgery or radiotherapy prior to entering this study. Patients may not be using or anticipate using these treatments after the observed progression or within the time period stated below\n\nCytotoxic chemotherapy: must not have received within 2 weeks of entry onto this study (4 weeks if prior nitrosourea)\nSmall molecule tyrosine kinase inhibitors (e.g., sorafenib, pazopanib, imatinib), rapalogs (e.g., temsirolimus, everolimus, sirolimus) or anti estrogen therapy (e.g., tamoxifen): may not have received within 28 days prior to the first dose of study treatment\nAntibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1\nBiologic (anti-neoplastic agent): at least 7 days since the completion of therapy with a biologic agent\nLocal regional tumor directed therapy, including, but not limited to small port radiation therapy (RT), radiofrequency ablation, cryotherapy, surgery: at least 2 weeks since these therapies and all toxicity must have resolved to grade =< 1. If prior craniospinal RT or if >= 50% radiation of pelvis then >= 6 months must have elapsed. If other substantial bone marrow (BM) radiation, then >= 6 weeks must have elapsed\nStem cell transplant (SCT): No evidence of active graft versus (vs.) host disease. For allogeneic SCT, >= 6 months must have elapsed\nNo prior gamma-secretase, Notch or beta-catenin inhibitor\nInvestigational drugs: must not have received investigational drug within 4 weeks of study entry, and all toxicities related to prior therapy must be resolved to grade =< 1 or baseline\n\nConcomitant Medication Restrictions\n\nSteroids: patients who are receiving dexamethasone must be on a stable or tapering dose for at least 2 weeks prior to study entry. Use of steroids for non-tumor indications (e.g., asthma or severe allergic reaction) is permitted\nGrowth factor(s): must not have received within 1 week of entry onto this study\nPatients who are currently receiving drugs that are strong inducers or moderate to strong inhibitors of CYP3A4 are not eligible. Strong inducers or moderate to strong inhibitors of CYP3A4 are not allowed from 14 days prior to enrollment to the end of protocol therapy. Note: CYP3A4 inducing anti-epileptic drugs on a stable dose, are allowed\nMust not be receiving non-steroidal anti-inflammatory drugs (NSAIDs) as treatment for desmoid tumor after the observed progression and patient agrees to not use NSAIDs while on study. Occasional use (defined as =< 3 times per week) for treatment of pain is permitted\nPeripheral absolute neutrophil count (ANC) >= 1000/uL (within 7 days prior to enrollment)\nPlatelet count >= 100,000/uL (transfusion independent) (within 7 days prior to enrollment)\nHemoglobin >= 9.0 g/dL (may receive red blood cell [RBC] transfusions) (within 7 days prior to enrollment)\n\nCreatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows (within 7 days prior to enrollment):\n\nAge: Maximum serum creatinine (mg/dL)\nAge: 1 to < 2 years; Maximum serum creatinine (mg/dL): 0.6 (male and female)\nAge: 2 to < 6 years; Maximum serum creatinine (mg/dL): 0.8 (male and female)\nAge: 6 to < 10 years; Maximum serum creatinine (mg/dL): 1 (male and female)\nAge: 10 to < 13 years; Maximum serum creatinine (mg/dL): 1.2 (male and female)\nAge: 13 to < 16 years; Maximum serum creatinine (mg/dL): 1.5 (male); 1.4 (female)\nAge: >= 16 years; Maximum serum creatinine (mg/dL): 1.7 (male); 1.4 (female)\nTotal bilirubin =< 1.5 x upper limit of normal (ULN) for age (unless secondary to previously diagnosed Gilbert's syndrome) (within 7 days prior to enrollment)\n\nSerum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 135 U/L\n\nNote: For the purpose of this study, the ULN for SGPT (ALT) has been set to the value of 45 U/L (within 7 days prior to enrollment)\n\nAdequate cardiac function defined as:\n\nCorrected QT (QTc) interval < 470 ms\nNo history of congenital or acquired prolonged QTc syndrome\nNo history of clinically significant cardiac arrhythmias, congestive heart failure, stroke or myocardial infarction within 6 months prior to study entry\nAll patients and/or their parents or legal guardians must sign a written informed consent\nAll institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met\n\nExclusion Criteria:\n\nActive or chronic infection within 7 days prior to study entry\nPatients with gastrointestinal conditions that might predispose for drug intolerability or poor drug absorption (e.g., inability to take oral medication, prior surgical procedures affecting absorption (e.g., gastric bypass), malabsorption syndrome, and active peptic ulcer disease)\nPatients with ulcerative colitis, inflammatory bowel disease, or a partial or complete small bowel obstruction\nKnown active infection with hepatitis B, hepatitis C or human immunodeficiency virus (HIV)\nPatients with a prior history of malignancy, with the exceptions of desmoid tumor(s) and non-melanoma skin cancer, who are not in remission for more than 3 years\nPatients who are unable to swallow tablets. Tablets must not be crushed or chewed. Administration of nirogacestat via gastrostomy tube or nasogastric tube is not allowed\nPatients who in the opinion of the investigator may not be able to comply with the safety monitoring requirements of the study\nSexually active female patients of reproductive potential who have not agreed to use 1 method of highly effective contraceptive (including copper-containing intrauterine device, condom with spermicidal foam/gel/film/cream/suppository, bilateral tubal ligation, established use of inserted, injected or implanted hormonal method of contraception, abstinence, or male sterilization) for the duration of their study participation and for at least 6 months after last dose of nirogacestat. A second form of contraception (i.e. barrier method) is required for patients who are using hormonal contraception as nirogacestat may reduce the efficacy of hormonal contraceptives\nSexually active male patients of reproductive potential who have not agreed to use a condom and their female partner who have not agreed to use one of the highly effective methods of contraception mentioned above during treatment and for at least 90 days after the last dose of nirogacestat\nFemale patients who are breastfeeding\nFemale patients who are pregnant. These patients are excluded because there is no available information regarding the effects of nirogacestat on the developing human fetus and inhibition of gamma-secretase is known to be teratogenic\nFemale patients of childbearing potential unless a negative pregnancy test result has been obtained"
+        ],
+        "MinimumAge": [
+          "12 Months"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Mobile",
+          "Little Rock",
+          "Downey",
+          "Los Angeles",
+          "Los Angeles",
+          "Oakland",
+          "Oakland",
+          "Palo Alto",
+          "Sacramento",
+          "San Francisco",
+          "Aurora",
+          "Denver",
+          "Hartford",
+          "Wilmington",
+          "Washington",
+          "Washington",
+          "Gainesville",
+          "Jacksonville",
+          "Orlando",
+          "Saint Petersburg",
+          "Atlanta",
+          "Honolulu",
+          "Boise",
+          "Chicago",
+          "Chicago",
+          "Peoria",
+          "Indianapolis",
+          "New Orleans",
+          "New Orleans",
+          "Baltimore",
+          "Bethesda",
+          "Boston",
+          "Ann Arbor",
+          "Grand Rapids",
+          "Kalamazoo",
+          "Jackson",
+          "Kansas City",
+          "Saint Louis",
+          "Saint Louis",
+          "Las Vegas",
+          "Las Vegas",
+          "Las Vegas",
+          "Las Vegas",
+          "Reno",
+          "Hackensack",
+          "Albany",
+          "Buffalo",
+          "New York",
+          "New York",
+          "Syracuse",
+          "Charlotte",
+          "Akron",
+          "Cincinnati",
+          "Cleveland",
+          "Columbus",
+          "Dayton",
+          "Oklahoma City",
+          "Portland",
+          "Philadelphia",
+          "Pittsburgh",
+          "Charleston",
+          "Knoxville",
+          "Memphis",
+          "Nashville",
+          "Nashville",
+          "Dallas",
+          "El Paso",
+          "Fort Worth",
+          "Houston",
+          "San Antonio",
+          "Salt Lake City",
+          "Norfolk",
+          "South Brisbane",
+          "Perth"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Alabama",
+          "USA Health Strada Patient Care Center",
+          "Arkansas Children's Hospital",
+          "Kaiser Permanente Downey Medical Center",
+          "Children's Hospital Los Angeles",
+          "Mattel Children's Hospital UCLA",
+          "UCSF Benioff Children's Hospital Oakland",
+          "Kaiser Permanente-Oakland",
+          "Lucile Packard Children's Hospital Stanford University",
+          "University of California Davis Comprehensive Cancer Center",
+          "UCSF Medical Center-Mission Bay",
+          "Children's Hospital Colorado",
+          "Rocky Mountain Hospital for Children-Presbyterian Saint Luke's Medical Center",
+          "Connecticut Children's Medical Center",
+          "Alfred I duPont Hospital for Children",
+          "MedStar Georgetown University Hospital",
+          "Children's National Medical Center",
+          "University of Florida Health Science Center - Gainesville",
+          "Nemours Children's Clinic-Jacksonville",
+          "Nemours Children's Hospital",
+          "Johns Hopkins All Children's Hospital",
+          "Children's Healthcare of Atlanta - Egleston",
+          "Kapiolani Medical Center for Women and Children",
+          "Saint Luke's Cancer Institute - Boise",
+          "Lurie Children's Hospital-Chicago",
+          "University of Chicago Comprehensive Cancer Center",
+          "Saint Jude Midwest Affiliate",
+          "Riley Hospital for Children",
+          "Children's Hospital New Orleans",
+          "Ochsner Medical Center Jefferson",
+          "Johns Hopkins University/Sidney Kimmel Cancer Center",
+          "Walter Reed National Military Medical Center",
+          "Dana-Farber Cancer Institute",
+          "C S Mott Children's Hospital",
+          "Helen DeVos Children's Hospital at Spectrum Health",
+          "Bronson Methodist Hospital",
+          "University of Mississippi Medical Center",
+          "Children's Mercy Hospitals and Clinics",
+          "Washington University School of Medicine",
+          "Mercy Hospital Saint Louis",
+          "University Medical Center of Southern Nevada",
+          "Sunrise Hospital and Medical Center",
+          "Alliance for Childhood Diseases/Cure 4 the Kids Foundation",
+          "Summerlin Hospital Medical Center",
+          "Renown Regional Medical Center",
+          "Hackensack University Medical Center",
+          "Albany Medical Center",
+          "Roswell Park Cancer Institute",
+          "NYP/Columbia University Medical Center/Herbert Irving Comprehensive Cancer Center",
+          "Memorial Sloan Kettering Cancer Center",
+          "State University of New York Upstate Medical University",
+          "Carolinas Medical Center/Levine Cancer Institute",
+          "Children's Hospital Medical Center of Akron",
+          "Cincinnati Children's Hospital Medical Center",
+          "Cleveland Clinic Foundation",
+          "Nationwide Children's Hospital",
+          "Dayton Children's Hospital",
+          "University of Oklahoma Health Sciences Center",
+          "Oregon Health and Science University",
+          "Children's Hospital of Philadelphia",
+          "Children's Hospital of Pittsburgh of UPMC",
+          "Medical University of South Carolina",
+          "East Tennessee Childrens Hospital",
+          "Saint Jude Children's Research Hospital",
+          "The Children's Hospital at TriStar Centennial",
+          "Vanderbilt University/Ingram Cancer Center",
+          "UT Southwestern/Simmons Cancer Center-Dallas",
+          "El Paso Children's Hospital",
+          "Cook Children's Medical Center",
+          "M D Anderson Cancer Center",
+          "University of Texas Health Science Center at San Antonio",
+          "Primary Children's Hospital",
+          "Children's Hospital of The King's Daughters",
+          "Queensland Children's Hospital",
+          "Perth Children's Hospital"
+        ],
+        "LocationState": [
+          "Alabama",
+          "Alabama",
+          "Arkansas",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "Colorado",
+          "Colorado",
+          "Connecticut",
+          "Delaware",
+          "District of Columbia",
+          "District of Columbia",
+          "Florida",
+          "Florida",
+          "Florida",
+          "Florida",
+          "Georgia",
+          "Hawaii",
+          "Idaho",
+          "Illinois",
+          "Illinois",
+          "Illinois",
+          "Indiana",
+          "Louisiana",
+          "Louisiana",
+          "Maryland",
+          "Maryland",
+          "Massachusetts",
+          "Michigan",
+          "Michigan",
+          "Michigan",
+          "Mississippi",
+          "Missouri",
+          "Missouri",
+          "Missouri",
+          "Nevada",
+          "Nevada",
+          "Nevada",
+          "Nevada",
+          "Nevada",
+          "New Jersey",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "North Carolina",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Oklahoma",
+          "Oregon",
+          "Pennsylvania",
+          "Pennsylvania",
+          "South Carolina",
+          "Tennessee",
+          "Tennessee",
+          "Tennessee",
+          "Tennessee",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Utah",
+          "Virginia",
+          "Queensland",
+          "Western Australia"
+        ],
+        "LocationZip": [
+          "35233",
+          "36604",
+          "72202-3591",
+          "90242",
+          "90027",
+          "90095",
+          "94609",
+          "94611",
+          "94304",
+          "95817",
+          "94158",
+          "80045",
+          "80218",
+          "06106",
+          "19803",
+          "20007",
+          "20010",
+          "32610",
+          "32207",
+          "32827",
+          "33701",
+          "30322",
+          "96826",
+          "83712",
+          "60611",
+          "60637",
+          "61637",
+          "46202",
+          "70118",
+          "70121",
+          "21287",
+          "20889-5600",
+          "02215",
+          "48109",
+          "49503",
+          "49007",
+          "39216",
+          "64108",
+          "63110",
+          "63141",
+          "89102",
+          "89109",
+          "89135",
+          "89144",
+          "89502",
+          "07601",
+          "12208",
+          "14263",
+          "10032",
+          "10065",
+          "13210",
+          "28203",
+          "44308",
+          "45229",
+          "44195",
+          "43205",
+          "45404",
+          "73104",
+          "97239",
+          "19104",
+          "15224",
+          "29425",
+          "37916",
+          "38105",
+          "37203",
+          "37232",
+          "75390",
+          "79905",
+          "76104",
+          "77030",
+          "78229",
+          "84113",
+          "23507",
+          "4101",
+          "6009"
+        ],
+        "LocationContactEMail": [
+          "oncologyresearch@peds.uab.edu",
+          "Carla.Golden@ucsf.edu",
+          "Kpoct@kp.org",
+          "ccto-office@stanford.edu",
+          "josh.b.gordon@nsmtp.kp.org",
+          "dperry@nemours.org",
+          "cancer-center@ufl.edu",
+          "Ashley.Repp@jhmi.edu",
+          "Leann.Schilling@choa.org",
+          "eslinget@slhs.org",
+          "cancerclinicaltrials@bsd.uchicago.edu",
+          "CHResearch@lcmchealth.org",
+          "Gregory.Johnstone@ochsner.org",
+          "jhcccro@jhmi.edu",
+          "crcwm-regulatory@crcwm.org",
+          "crcwm-regulatory@crcwm.org",
+          "rryan@cmh.edu",
+          "info@siteman.wustl.edu",
+          "research@sncrf.org",
+          "research@sncrf.org",
+          "research@sncrf.org",
+          "research@sncrf.org",
+          "research@sncrf.org",
+          "askroswell@roswellpark.org",
+          "nr2616@cumc.columbia.edu",
+          "cancer@cchmc.org",
+          "TaussigResearch@ccf.org",
+          "amy.yekisa@nationwidechildrens.org",
+          "ou-clinical-trials@ouhsc.edu",
+          "trials@ohsu.edu",
+          "CancerTrials@email.chop.edu",
+          "jean.tersak@chp.edu",
+          "hcc-clinical-trials@musc.edu",
+          "referralinfo@stjude.org",
+          "canceranswerline@UTSouthwestern.edu",
+          "lisa.hartman@ttuhsc.edu",
+          "CookChildrensResearch@cookchildrens.org",
+          "askmdanderson@mdanderson.org",
+          "phoresearchoffice@uthscsa.edu",
+          "CCBDCresearch@chkd.org",
+          "helpdesk@childrensoncologygroup.org"
+        ],
+        "LocationContactName": [
+          "Site Public Contact",
+          "Elizabeth D. Alva",
+          "Site Public Contact",
+          "Hamayun Imran",
+          "Site Public Contact",
+          "David L. Becton",
+          "Site Public Contact",
+          "Neha G. Vaghasia",
+          "Site Public Contact",
+          "Leo Mascarenhas",
+          "Site Public Contact",
+          "Noah C. Federman",
+          "Site Public Contact",
+          "Carla B. Golden",
+          "Site Public Contact",
+          "Laura A. Campbell",
+          "Site Public Contact",
+          "Jay Michael S. Balagtas",
+          "Site Public Contact",
+          "Marcio H. Malogolowkin",
+          "Site Public Contact",
+          "Arun A. Rangaswami",
+          "Site Public Contact",
+          "Timothy P. Garrington",
+          "Site Public Contact",
+          "Jennifer J. Clark",
+          "Site Public Contact",
+          "Michael S. Isakoff",
+          "Site Public Contact",
+          "Scott M. Bradfield",
+          "Site Public Contact",
+          "Jeffrey A. Toretsky",
+          "Site Public Contact",
+          "Jeffrey S. Dome",
+          "Site Public Contact",
+          "William B. Slayton",
+          "Site Public Contact",
+          "Scott M. Bradfield",
+          "Site Public Contact",
+          "Scott M. Bradfield",
+          "Site Public Contact",
+          "Jonathan L. Metts",
+          "Site Public Contact",
+          "William T. Cash",
+          "Site Public Contact",
+          "Wade T. Kyono",
+          "Site Public Contact",
+          "Eugenia Chang",
+          "Site Public Contact",
+          "David O. Walterhouse",
+          "Site Public Contact",
+          "Ami V. Desai",
+          "Site Public Contact",
+          "Jaime M. Libes",
+          "Site Public Contact",
+          "Sandeep Batra",
+          "Site Public Contact",
+          "Lolie C. Yu",
+          "Site Public Contact",
+          "Craig Lotterman",
+          "Site Public Contact",
+          "Brian H. Ladle",
+          "Site Public Contact",
+          "Rebecca O. Clark",
+          "Site Public Contact",
+          "Katherine A. Janeway",
+          "Site Public Contact",
+          "Rama Jasty",
+          "Site Public Contact",
+          "Kathleen J. Yost",
+          "Site Public Contact",
+          "Kathleen J. Yost",
+          "Site Public Contact",
+          "Anderson (Andy) B. Collier",
+          "Site Public Contact",
+          "Keith J. August",
+          "Site Public Contact",
+          "Frederick S. Huang",
+          "Site Public Contact",
+          "Robin D. Hanson",
+          "Site Public Contact",
+          "Alan K. Ikeda",
+          "Site Public Contact",
+          "Alan K. Ikeda",
+          "Site Public Contact",
+          "Alan K. Ikeda",
+          "Site Public Contact",
+          "Alan K. Ikeda",
+          "Site Public Contact",
+          "Alan K. Ikeda",
+          "Site Public Contact",
+          "Katharine Offer",
+          "Site Public Contact",
+          "Lauren R. Weintraub",
+          "Site Public Contact",
+          "Clare J. Twist",
+          "Site Public Contact",
+          "Justine M. Kahn",
+          "Site Public Contact",
+          "Julia L. Glade Bender",
+          "Site Public Contact",
+          "Philip M. Monteleone",
+          "Site Public Contact",
+          "Joel A. Kaplan",
+          "Site Public Contact",
+          "Steven J. Kuerbitz",
+          "Site Public Contact",
+          "Joseph G. Pressey",
+          "Site Public Contact",
+          "Rabi Hanna",
+          "Site Public Contact",
+          "Mark A. Ranalli",
+          "Site Public Contact",
+          "Mukund G. Dole",
+          "Site Public Contact",
+          "Rene Y. McNall-Knapp",
+          "Site Public Contact",
+          "Katrina Winsnes",
+          "Site Public Contact",
+          "Vandana Batra",
+          "Site Public Contact",
+          "Jean M. Tersak",
+          "Site Public Contact",
+          "Jacqueline M. Kraveka",
+          "Site Public Contact",
+          "Susan E. Spiller",
+          "Site Public Contact",
+          "Jessica Gartrell",
+          "Site Public Contact",
+          "Haydar A. Frangoul",
+          "Site Public Contact",
+          "Scott C. Borinstein",
+          "Site Public Contact",
+          "Matthew Campbell",
+          "Site Public Contact",
+          "Ranjan Bista",
+          "Site Public Contact",
+          "Kelly L. Vallance",
+          "Site Public Contact",
+          "Pooja Hingorani",
+          "Site Public Contact",
+          "Anne-Marie R. Langevin",
+          "Site Public Contact",
+          "Matthew Dietz",
+          "Site Public Contact",
+          "Eric J. Lowe",
+          "Site Public Contact",
+          "Marianne B. Phillips",
+          "Site Public Contact",
+          "Marianne B. Phillips"
+        ],
+        "LocationContactPhone": [
+          "205-638-9285",
+          "800-388-8721",
+          "501-364-7373",
+          "626-564-3455",
+          "323-361-4110",
+          "310-825-6708",
+          "510-428-3324",
+          "877-642-4691",
+          "800-694-0012",
+          "916-734-3089",
+          "877-827-3222",
+          "303-764-5056",
+          "303-839-6000",
+          "860-545-9981",
+          "302-651-6884",
+          "202-444-2223",
+          "202-884-2549",
+          "352-273-8010",
+          "904-697-3529",
+          "407-650-7715",
+          "727-767-4784",
+          "404-785-2025",
+          "808-983-6090",
+          "208-381-2774",
+          "773-880-4562",
+          "773-702-8222",
+          "888-226-4343",
+          "800-248-1199",
+          "504-703-8712",
+          "410-955-8804",
+          "301-319-2100",
+          "877-442-3324",
+          "800-865-1125",
+          "616-391-1230",
+          "616-391-1230",
+          "601-815-6700",
+          "816-302-6808",
+          "800-600-3606",
+          "314-251-7066",
+          "702-384-0013",
+          "702-384-0013",
+          "702-384-0013",
+          "702-384-0013",
+          "702-384-0013",
+          "201-996-2879",
+          "518-262-5513",
+          "800-767-9355",
+          "212-305-6361",
+          "212-639-7592",
+          "315-464-5476",
+          "800-804-9376",
+          "330-543-3193",
+          "513-636-2799",
+          "866-223-8100",
+          "614-072-2657",
+          "800-228-4055",
+          "405-271-8777",
+          "503-494-1080",
+          "267-425-5544",
+          "412-692-8570",
+          "843-792-9321",
+          "865-541-8266",
+          "888-226-4343",
+          "615-342-1919",
+          "800-811-8480",
+          "214-648-7097",
+          "915-298-5444",
+          "682-885-2103",
+          "877-632-6789",
+          "210-450-3800",
+          "801-585-5270",
+          "757-668-7243",
+          "61 7 3068 1111"
+        ],
+        "BriefSummary": [
+          "This phase II trial studies the side effects and how well nirogacestat works in treating patients patients less than 18 years of age with desmoid tumors that has grown after at least one form of treatment by mouth or in the vein that cannot be removed by surgery. Nirogacestat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth."
+        ],
+        "DetailedDescription": [
+          "PRIMARY OBJECTIVES:\n\nI. To estimate the 2-year progression-free survival (PFS) rate in patients with progressive, surgically unresectable desmoid tumor treated with nirogacestat.\n\nII. To describe the toxicities of nirogacestat in children and adolescents with desmoid tumor.\n\nIII. To characterize the pharmacokinetics (PK) of nirogacestat in children and adolescents.\n\nSECONDARY OBJECTIVE:\n\nI. To determine the objective tumor response rate (ORR) of nirogacestat in children and adolescents with progressive, surgically unresectable desmoid tumor.\n\nEXPLORATORY OBJECTIVES:\n\nI. To collect blood, archival tumor samples and on-study/post-treatment tumor samples (if available) from patients enrolled on this trial to correlate various CTNNB1 and APC gene mutations and genomic signatures with tumor response and PFS.\n\nII. To explore the effect of nirogacestat on immune cells and immunoglobulin levels in the peripheral blood.\n\nIII. To collect blood samples for banking at baseline, during treatment, and at the time of progression for future research.\n\nIV. To compare assessment of tumor response using Response Evaluation Criteria in Solid Tumors (RECIST), World Health Organization (WHO) criteria, and T2 and volumetric changes using magnetic resonance imaging (MRI).\n\nV. To utilize a tool developed to specifically assess patient reported outcomes (PROs) in adult patients with desmoid tumor (GOunder/DTRF DEsmoid Symptom/Impact Scale [GODDESS]) and the Patient Reported Outcomes Measurement Information System (PROMIS) to explore the relationship between PROs and tumor response and PFS.\n\nOUTLINE:\n\nPatients receive nirogacestat orally (PO) twice daily (BID) on days 1-28. Cycles repeats every 28 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days."
+        ]
+      },
+      {
+        "Rank": 357,
         "NCTId": [
           "NCT03199053"
         ],
@@ -19420,7 +20075,7 @@
         ]
       },
       {
-        "Rank": 356,
+        "Rank": 358,
         "NCTId": [
           "NCT02121132"
         ],
@@ -19598,7 +20253,7 @@
         ]
       },
       {
-        "Rank": 357,
+        "Rank": 359,
         "NCTId": [
           "NCT04318548"
         ],
@@ -19793,7 +20448,7 @@
         ]
       },
       {
-        "Rank": 358,
+        "Rank": 360,
         "NCTId": [
           "NCT03939637"
         ],
@@ -19976,7 +20631,7 @@
         ]
       },
       {
-        "Rank": 359,
+        "Rank": 361,
         "NCTId": [
           "NCT03522168"
         ],
@@ -20384,7 +21039,7 @@
         ]
       },
       {
-        "Rank": 360,
+        "Rank": 362,
         "NCTId": [
           "NCT02859896"
         ],
@@ -20549,7 +21204,7 @@
         ]
       },
       {
-        "Rank": 361,
+        "Rank": 363,
         "NCTId": [
           "NCT02205762"
         ],
@@ -20903,7 +21558,7 @@
         ]
       },
       {
-        "Rank": 362,
+        "Rank": 364,
         "NCTId": [
           "NCT03719339"
         ],
@@ -21067,611 +21722,7 @@
         ]
       },
       {
-        "Rank": 363,
-        "NCTId": [
-          "NCT04195399"
-        ],
-        "OfficialTitle": [
-          "A Safety, Pharmacokinetic and Efficacy Study of a y-Secretase Inhibitor, Nirogacestat (PF-03084014) in Children and Adolescents With Progressive, Surgically Unresectable Desmoid Tumors"
-        ],
-        "Condition": [
-          "Desmoid Fibromatosis",
-          "Recurrent Desmoid Fibromatosis",
-          "Unresectable Desmoid Fibromatosis"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPatients must have a body surface area of > 0.3 m^2 at the time of enrollment\n\nExisting or recurrent desmoid tumor that is deemed not amenable to surgery without significant morbidity and progressed by >= 10% as assessed by RECIST version (v)1.1 within the 6-month period prior to study enrollment\n\nPatients must have had histologic verification of the desmoid tumor\nPatients must have measurable disease by RECIST v1.1 criteria\nPatient must have received at least one prior course of systemic therapy for desmoid tumor\nPatients must have a Lansky (for patients =< 16 years of age) or Karnofsky (for patients > 16 years of age) performance status score of >= 50. Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing performance score\n\nPatients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, surgery or radiotherapy prior to entering this study. Patients may not be using or anticipate using these treatments after the observed progression or within the time period stated below\n\nCytotoxic chemotherapy: must not have received within 2 weeks of entry onto this study (4 weeks if prior nitrosourea)\nSmall molecule tyrosine kinase inhibitors (e.g., sorafenib, pazopanib, imatinib), rapalogs (e.g., temsirolimus, everolimus, sirolimus) or anti estrogen therapy (e.g., tamoxifen): may not have received within 28 days prior to the first dose of study treatment\nAntibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1\nBiologic (anti-neoplastic agent): at least 7 days since the completion of therapy with a biologic agent\nLocal regional tumor directed therapy, including, but not limited to small port radiation therapy (RT), radiofrequency ablation, cryotherapy, surgery: at least 2 weeks since these therapies and all toxicity must have resolved to grade =< 1. If prior craniospinal RT or if >= 50% radiation of pelvis then >= 6 months must have elapsed. If other substantial bone marrow (BM) radiation, then >= 6 weeks must have elapsed\nStem cell transplant (SCT): No evidence of active graft versus (vs.) host disease. For allogeneic SCT, >= 6 months must have elapsed\nNo prior gamma-secretase, Notch or beta-catenin inhibitor\nInvestigational drugs: must not have received investigational drug within 4 weeks of study entry, and all toxicities related to prior therapy must be resolved to grade =< 1 or baseline\n\nConcomitant Medication Restrictions\n\nSteroids: patients who are receiving dexamethasone must be on a stable or tapering dose for at least 2 weeks prior to study entry. Use of steroids for non-tumor indications (e.g., asthma or severe allergic reaction) is permitted\nGrowth factor(s): must not have received within 1 week of entry onto this study\nPatients who are currently receiving drugs that are strong inducers or moderate to strong inhibitors of CYP3A4 are not eligible. Strong inducers or moderate to strong inhibitors of CYP3A4 are not allowed from 14 days prior to enrollment to the end of protocol therapy. Note: CYP3A4 inducing anti-epileptic drugs on a stable dose, are allowed\nMust not be receiving non-steroidal anti-inflammatory drugs (NSAIDs) as treatment for desmoid tumor after the observed progression and patient agrees to not use NSAIDs while on study. Occasional use (defined as =< 3 times per week) for treatment of pain is permitted\nPeripheral absolute neutrophil count (ANC) >= 1000/uL (within 7 days prior to enrollment)\nPlatelet count >= 100,000/uL (transfusion independent) (within 7 days prior to enrollment)\nHemoglobin >= 9.0 g/dL (may receive red blood cell [RBC] transfusions) (within 7 days prior to enrollment)\n\nCreatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows (within 7 days prior to enrollment):\n\nAge: Maximum serum creatinine (mg/dL)\nAge: 1 to < 2 years; Maximum serum creatinine (mg/dL): 0.6 (male and female)\nAge: 2 to < 6 years; Maximum serum creatinine (mg/dL): 0.8 (male and female)\nAge: 6 to < 10 years; Maximum serum creatinine (mg/dL): 1 (male and female)\nAge: 10 to < 13 years; Maximum serum creatinine (mg/dL): 1.2 (male and female)\nAge: 13 to < 16 years; Maximum serum creatinine (mg/dL): 1.5 (male); 1.4 (female)\nAge: >= 16 years; Maximum serum creatinine (mg/dL): 1.7 (male); 1.4 (female)\nTotal bilirubin =< 1.5 x upper limit of normal (ULN) for age (unless secondary to previously diagnosed Gilbert's syndrome) (within 7 days prior to enrollment)\n\nSerum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 135 U/L\n\nNote: For the purpose of this study, the ULN for SGPT (ALT) has been set to the value of 45 U/L (within 7 days prior to enrollment)\n\nAdequate cardiac function defined as:\n\nCorrected QT (QTc) interval < 470 ms\nNo history of congenital or acquired prolonged QTc syndrome\nNo history of clinically significant cardiac arrhythmias, congestive heart failure, stroke or myocardial infarction within 6 months prior to study entry\nAll patients and/or their parents or legal guardians must sign a written informed consent\nAll institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met\n\nExclusion Criteria:\n\nActive or chronic infection within 7 days prior to study entry\nPatients with gastrointestinal conditions that might predispose for drug intolerability or poor drug absorption (e.g., inability to take oral medication, prior surgical procedures affecting absorption (e.g., gastric bypass), malabsorption syndrome, and active peptic ulcer disease)\nPatients with ulcerative colitis, inflammatory bowel disease, or a partial or complete small bowel obstruction\nKnown active infection with hepatitis B, hepatitis C or human immunodeficiency virus (HIV)\nPatients with a prior history of malignancy, with the exceptions of desmoid tumor(s) and non-melanoma skin cancer, who are not in remission for more than 3 years\nPatients who are unable to swallow tablets. Tablets must not be crushed or chewed. Administration of nirogacestat via gastrostomy tube or nasogastric tube is not allowed\nPatients who in the opinion of the investigator may not be able to comply with the safety monitoring requirements of the study\nSexually active female patients of reproductive potential who have not agreed to use 1 method of highly effective contraceptive (including copper-containing intrauterine device, condom with spermicidal foam/gel/film/cream/suppository, bilateral tubal ligation, established use of inserted, injected or implanted hormonal method of contraception, abstinence, or male sterilization) for the duration of their study participation and for at least 6 months after last dose of nirogacestat. A second form of contraception (i.e. barrier method) is required for patients who are using hormonal contraception as nirogacestat may reduce the efficacy of hormonal contraceptives\nSexually active male patients of reproductive potential who have not agreed to use a condom and their female partner who have not agreed to use one of the highly effective methods of contraception mentioned above during treatment and for at least 90 days after the last dose of nirogacestat\nFemale patients who are breastfeeding\nFemale patients who are pregnant. These patients are excluded because there is no available information regarding the effects of nirogacestat on the developing human fetus and inhibition of gamma-secretase is known to be teratogenic\nFemale patients of childbearing potential unless a negative pregnancy test result has been obtained"
-        ],
-        "MinimumAge": [
-          "12 Months"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Birmingham",
-          "Mobile",
-          "Little Rock",
-          "Downey",
-          "Los Angeles",
-          "Los Angeles",
-          "Oakland",
-          "Oakland",
-          "Palo Alto",
-          "Sacramento",
-          "San Francisco",
-          "Aurora",
-          "Denver",
-          "Hartford",
-          "Wilmington",
-          "Washington",
-          "Washington",
-          "Gainesville",
-          "Jacksonville",
-          "Orlando",
-          "Saint Petersburg",
-          "Atlanta",
-          "Honolulu",
-          "Boise",
-          "Chicago",
-          "Chicago",
-          "Peoria",
-          "Indianapolis",
-          "New Orleans",
-          "New Orleans",
-          "Baltimore",
-          "Bethesda",
-          "Boston",
-          "Ann Arbor",
-          "Grand Rapids",
-          "Kalamazoo",
-          "Jackson",
-          "Kansas City",
-          "Saint Louis",
-          "Saint Louis",
-          "Las Vegas",
-          "Las Vegas",
-          "Las Vegas",
-          "Las Vegas",
-          "Reno",
-          "Hackensack",
-          "Albany",
-          "Buffalo",
-          "New York",
-          "New York",
-          "Syracuse",
-          "Charlotte",
-          "Akron",
-          "Cincinnati",
-          "Cleveland",
-          "Columbus",
-          "Dayton",
-          "Oklahoma City",
-          "Portland",
-          "Philadelphia",
-          "Pittsburgh",
-          "Charleston",
-          "Knoxville",
-          "Memphis",
-          "Nashville",
-          "Nashville",
-          "Dallas",
-          "El Paso",
-          "Fort Worth",
-          "Houston",
-          "San Antonio",
-          "Salt Lake City",
-          "Norfolk",
-          "South Brisbane",
-          "Perth"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Alabama",
-          "USA Health Strada Patient Care Center",
-          "Arkansas Children's Hospital",
-          "Kaiser Permanente Downey Medical Center",
-          "Children's Hospital Los Angeles",
-          "Mattel Children's Hospital UCLA",
-          "UCSF Benioff Children's Hospital Oakland",
-          "Kaiser Permanente-Oakland",
-          "Lucile Packard Children's Hospital Stanford University",
-          "University of California Davis Comprehensive Cancer Center",
-          "UCSF Medical Center-Mission Bay",
-          "Children's Hospital Colorado",
-          "Rocky Mountain Hospital for Children-Presbyterian Saint Luke's Medical Center",
-          "Connecticut Children's Medical Center",
-          "Alfred I duPont Hospital for Children",
-          "MedStar Georgetown University Hospital",
-          "Children's National Medical Center",
-          "University of Florida Health Science Center - Gainesville",
-          "Nemours Children's Clinic-Jacksonville",
-          "Nemours Children's Hospital",
-          "Johns Hopkins All Children's Hospital",
-          "Children's Healthcare of Atlanta - Egleston",
-          "Kapiolani Medical Center for Women and Children",
-          "Saint Luke's Cancer Institute - Boise",
-          "Lurie Children's Hospital-Chicago",
-          "University of Chicago Comprehensive Cancer Center",
-          "Saint Jude Midwest Affiliate",
-          "Riley Hospital for Children",
-          "Children's Hospital New Orleans",
-          "Ochsner Medical Center Jefferson",
-          "Johns Hopkins University/Sidney Kimmel Cancer Center",
-          "Walter Reed National Military Medical Center",
-          "Dana-Farber Cancer Institute",
-          "C S Mott Children's Hospital",
-          "Helen DeVos Children's Hospital at Spectrum Health",
-          "Bronson Methodist Hospital",
-          "University of Mississippi Medical Center",
-          "Children's Mercy Hospitals and Clinics",
-          "Washington University School of Medicine",
-          "Mercy Hospital Saint Louis",
-          "University Medical Center of Southern Nevada",
-          "Sunrise Hospital and Medical Center",
-          "Alliance for Childhood Diseases/Cure 4 the Kids Foundation",
-          "Summerlin Hospital Medical Center",
-          "Renown Regional Medical Center",
-          "Hackensack University Medical Center",
-          "Albany Medical Center",
-          "Roswell Park Cancer Institute",
-          "NYP/Columbia University Medical Center/Herbert Irving Comprehensive Cancer Center",
-          "Memorial Sloan Kettering Cancer Center",
-          "State University of New York Upstate Medical University",
-          "Carolinas Medical Center/Levine Cancer Institute",
-          "Children's Hospital Medical Center of Akron",
-          "Cincinnati Children's Hospital Medical Center",
-          "Cleveland Clinic Foundation",
-          "Nationwide Children's Hospital",
-          "Dayton Children's Hospital",
-          "University of Oklahoma Health Sciences Center",
-          "Oregon Health and Science University",
-          "Children's Hospital of Philadelphia",
-          "Children's Hospital of Pittsburgh of UPMC",
-          "Medical University of South Carolina",
-          "East Tennessee Childrens Hospital",
-          "Saint Jude Children's Research Hospital",
-          "The Children's Hospital at TriStar Centennial",
-          "Vanderbilt University/Ingram Cancer Center",
-          "UT Southwestern/Simmons Cancer Center-Dallas",
-          "El Paso Children's Hospital",
-          "Cook Children's Medical Center",
-          "M D Anderson Cancer Center",
-          "University of Texas Health Science Center at San Antonio",
-          "Primary Children's Hospital",
-          "Children's Hospital of The King's Daughters",
-          "Queensland Children's Hospital",
-          "Perth Children's Hospital"
-        ],
-        "LocationState": [
-          "Alabama",
-          "Alabama",
-          "Arkansas",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "Colorado",
-          "Colorado",
-          "Connecticut",
-          "Delaware",
-          "District of Columbia",
-          "District of Columbia",
-          "Florida",
-          "Florida",
-          "Florida",
-          "Florida",
-          "Georgia",
-          "Hawaii",
-          "Idaho",
-          "Illinois",
-          "Illinois",
-          "Illinois",
-          "Indiana",
-          "Louisiana",
-          "Louisiana",
-          "Maryland",
-          "Maryland",
-          "Massachusetts",
-          "Michigan",
-          "Michigan",
-          "Michigan",
-          "Mississippi",
-          "Missouri",
-          "Missouri",
-          "Missouri",
-          "Nevada",
-          "Nevada",
-          "Nevada",
-          "Nevada",
-          "Nevada",
-          "New Jersey",
-          "New York",
-          "New York",
-          "New York",
-          "New York",
-          "New York",
-          "North Carolina",
-          "Ohio",
-          "Ohio",
-          "Ohio",
-          "Ohio",
-          "Ohio",
-          "Oklahoma",
-          "Oregon",
-          "Pennsylvania",
-          "Pennsylvania",
-          "South Carolina",
-          "Tennessee",
-          "Tennessee",
-          "Tennessee",
-          "Tennessee",
-          "Texas",
-          "Texas",
-          "Texas",
-          "Texas",
-          "Texas",
-          "Utah",
-          "Virginia",
-          "Queensland",
-          "Western Australia"
-        ],
-        "LocationZip": [
-          "35233",
-          "36604",
-          "72202-3591",
-          "90242",
-          "90027",
-          "90095",
-          "94609",
-          "94611",
-          "94304",
-          "95817",
-          "94158",
-          "80045",
-          "80218",
-          "06106",
-          "19803",
-          "20007",
-          "20010",
-          "32610",
-          "32207",
-          "32827",
-          "33701",
-          "30322",
-          "96826",
-          "83712",
-          "60611",
-          "60637",
-          "61637",
-          "46202",
-          "70118",
-          "70121",
-          "21287",
-          "20889-5600",
-          "02215",
-          "48109",
-          "49503",
-          "49007",
-          "39216",
-          "64108",
-          "63110",
-          "63141",
-          "89102",
-          "89109",
-          "89135",
-          "89144",
-          "89502",
-          "07601",
-          "12208",
-          "14263",
-          "10032",
-          "10065",
-          "13210",
-          "28203",
-          "44308",
-          "45229",
-          "44195",
-          "43205",
-          "45404",
-          "73104",
-          "97239",
-          "19104",
-          "15224",
-          "29425",
-          "37916",
-          "38105",
-          "37203",
-          "37232",
-          "75390",
-          "79905",
-          "76104",
-          "77030",
-          "78229",
-          "84113",
-          "23507",
-          "4101",
-          "6009"
-        ],
-        "LocationContactEMail": [
-          "oncologyresearch@peds.uab.edu",
-          "Carla.Golden@ucsf.edu",
-          "Kpoct@kp.org",
-          "ccto-office@stanford.edu",
-          "josh.b.gordon@nsmtp.kp.org",
-          "dperry@nemours.org",
-          "cancer-center@ufl.edu",
-          "Ashley.Repp@jhmi.edu",
-          "Leann.Schilling@choa.org",
-          "eslinget@slhs.org",
-          "cancerclinicaltrials@bsd.uchicago.edu",
-          "CHResearch@lcmchealth.org",
-          "Gregory.Johnstone@ochsner.org",
-          "jhcccro@jhmi.edu",
-          "crcwm-regulatory@crcwm.org",
-          "crcwm-regulatory@crcwm.org",
-          "rryan@cmh.edu",
-          "info@siteman.wustl.edu",
-          "research@sncrf.org",
-          "research@sncrf.org",
-          "research@sncrf.org",
-          "research@sncrf.org",
-          "research@sncrf.org",
-          "askroswell@roswellpark.org",
-          "nr2616@cumc.columbia.edu",
-          "cancer@cchmc.org",
-          "TaussigResearch@ccf.org",
-          "amy.yekisa@nationwidechildrens.org",
-          "ou-clinical-trials@ouhsc.edu",
-          "trials@ohsu.edu",
-          "CancerTrials@email.chop.edu",
-          "jean.tersak@chp.edu",
-          "hcc-clinical-trials@musc.edu",
-          "referralinfo@stjude.org",
-          "canceranswerline@UTSouthwestern.edu",
-          "lisa.hartman@ttuhsc.edu",
-          "CookChildrensResearch@cookchildrens.org",
-          "askmdanderson@mdanderson.org",
-          "phoresearchoffice@uthscsa.edu",
-          "CCBDCresearch@chkd.org",
-          "helpdesk@childrensoncologygroup.org"
-        ],
-        "LocationContactName": [
-          "Site Public Contact",
-          "Elizabeth D. Alva",
-          "Site Public Contact",
-          "Hamayun Imran",
-          "Site Public Contact",
-          "David L. Becton",
-          "Site Public Contact",
-          "Neha G. Vaghasia",
-          "Site Public Contact",
-          "Noah C. Federman",
-          "Site Public Contact",
-          "Carla B. Golden",
-          "Site Public Contact",
-          "Laura A. Campbell",
-          "Site Public Contact",
-          "Jay Michael S. Balagtas",
-          "Site Public Contact",
-          "Marcio H. Malogolowkin",
-          "Site Public Contact",
-          "Arun A. Rangaswami",
-          "Site Public Contact",
-          "Timothy P. Garrington",
-          "Site Public Contact",
-          "Jennifer J. Clark",
-          "Site Public Contact",
-          "Michael S. Isakoff",
-          "Site Public Contact",
-          "Scott M. Bradfield",
-          "Site Public Contact",
-          "Jeffrey A. Toretsky",
-          "Site Public Contact",
-          "Jeffrey S. Dome",
-          "Site Public Contact",
-          "William B. Slayton",
-          "Site Public Contact",
-          "Scott M. Bradfield",
-          "Site Public Contact",
-          "Scott M. Bradfield",
-          "Site Public Contact",
-          "Jonathan L. Metts",
-          "Site Public Contact",
-          "William T. Cash",
-          "Site Public Contact",
-          "Wade T. Kyono",
-          "Site Public Contact",
-          "Eugenia Chang",
-          "Site Public Contact",
-          "David O. Walterhouse",
-          "Site Public Contact",
-          "Ami V. Desai",
-          "Site Public Contact",
-          "Jaime M. Libes",
-          "Site Public Contact",
-          "Sandeep Batra",
-          "Site Public Contact",
-          "Lolie C. Yu",
-          "Site Public Contact",
-          "Craig Lotterman",
-          "Site Public Contact",
-          "Brian H. Ladle",
-          "Site Public Contact",
-          "Rebecca O. Clark",
-          "Site Public Contact",
-          "Katherine A. Janeway",
-          "Site Public Contact",
-          "Rama Jasty",
-          "Site Public Contact",
-          "Kathleen J. Yost",
-          "Site Public Contact",
-          "Kathleen J. Yost",
-          "Site Public Contact",
-          "Anderson (Andy) B. Collier",
-          "Site Public Contact",
-          "Keith J. August",
-          "Site Public Contact",
-          "Frederick S. Huang",
-          "Site Public Contact",
-          "Robin D. Hanson",
-          "Site Public Contact",
-          "Alan K. Ikeda",
-          "Site Public Contact",
-          "Alan K. Ikeda",
-          "Site Public Contact",
-          "Alan K. Ikeda",
-          "Site Public Contact",
-          "Alan K. Ikeda",
-          "Site Public Contact",
-          "Alan K. Ikeda",
-          "Site Public Contact",
-          "Katharine Offer",
-          "Site Public Contact",
-          "Lauren R. Weintraub",
-          "Site Public Contact",
-          "Clare J. Twist",
-          "Site Public Contact",
-          "Justine M. Kahn",
-          "Site Public Contact",
-          "Julia L. Glade Bender",
-          "Site Public Contact",
-          "Philip M. Monteleone",
-          "Site Public Contact",
-          "Joel A. Kaplan",
-          "Site Public Contact",
-          "Steven J. Kuerbitz",
-          "Site Public Contact",
-          "Joseph G. Pressey",
-          "Site Public Contact",
-          "Rabi Hanna",
-          "Site Public Contact",
-          "Mark A. Ranalli",
-          "Site Public Contact",
-          "Mukund G. Dole",
-          "Site Public Contact",
-          "Rene Y. McNall-Knapp",
-          "Site Public Contact",
-          "Katrina Winsnes",
-          "Site Public Contact",
-          "Vandana Batra",
-          "Site Public Contact",
-          "Jean M. Tersak",
-          "Site Public Contact",
-          "Jacqueline M. Kraveka",
-          "Site Public Contact",
-          "Susan E. Spiller",
-          "Site Public Contact",
-          "Jessica Gartrell",
-          "Site Public Contact",
-          "Haydar A. Frangoul",
-          "Site Public Contact",
-          "Scott C. Borinstein",
-          "Site Public Contact",
-          "Matthew Campbell",
-          "Site Public Contact",
-          "Ranjan Bista",
-          "Site Public Contact",
-          "Kelly L. Vallance",
-          "Site Public Contact",
-          "Pooja Hingorani",
-          "Site Public Contact",
-          "Anne-Marie R. Langevin",
-          "Site Public Contact",
-          "Matthew Dietz",
-          "Site Public Contact",
-          "Eric J. Lowe",
-          "Site Public Contact",
-          "Marianne B. Phillips",
-          "Site Public Contact",
-          "Marianne B. Phillips"
-        ],
-        "LocationContactPhone": [
-          "205-638-9285",
-          "800-388-8721",
-          "501-364-7373",
-          "626-564-3455",
-          "310-825-6708",
-          "510-428-3324",
-          "877-642-4691",
-          "800-694-0012",
-          "916-734-3089",
-          "877-827-3222",
-          "303-764-5056",
-          "303-839-6000",
-          "860-545-9981",
-          "302-651-6884",
-          "202-444-2223",
-          "202-884-2549",
-          "352-273-8010",
-          "904-697-3529",
-          "407-650-7715",
-          "727-767-4784",
-          "404-785-2025",
-          "808-983-6090",
-          "208-381-2774",
-          "773-880-4562",
-          "773-702-8222",
-          "888-226-4343",
-          "800-248-1199",
-          "504-703-8712",
-          "410-955-8804",
-          "301-319-2100",
-          "877-442-3324",
-          "800-865-1125",
-          "616-391-1230",
-          "616-391-1230",
-          "601-815-6700",
-          "816-302-6808",
-          "800-600-3606",
-          "314-251-7066",
-          "702-384-0013",
-          "702-384-0013",
-          "702-384-0013",
-          "702-384-0013",
-          "702-384-0013",
-          "201-996-2879",
-          "518-262-5513",
-          "800-767-9355",
-          "212-305-6361",
-          "212-639-7592",
-          "315-464-5476",
-          "800-804-9376",
-          "330-543-3193",
-          "513-636-2799",
-          "866-223-8100",
-          "614-072-2657",
-          "800-228-4055",
-          "405-271-8777",
-          "503-494-1080",
-          "267-425-5544",
-          "412-692-8570",
-          "843-792-9321",
-          "865-541-8266",
-          "888-226-4343",
-          "615-342-1919",
-          "800-811-8480",
-          "214-648-7097",
-          "915-298-5444",
-          "682-885-2103",
-          "877-632-6789",
-          "210-450-3800",
-          "801-585-5270",
-          "757-668-7243",
-          "61 7 3068 1111"
-        ],
-        "BriefSummary": [
-          "This phase II trial studies the side effects and how well nirogacestat works in treating patients patients less than 18 years of age with desmoid tumors that has grown after at least one form of treatment by mouth or in the vein that cannot be removed by surgery. Nirogacestat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth."
-        ],
-        "DetailedDescription": [
-          "PRIMARY OBJECTIVES:\n\nI. To estimate the 2-year progression-free survival (PFS) rate in patients with progressive, surgically unresectable desmoid tumor treated with nirogacestat.\n\nII. To describe the toxicities of nirogacestat in children and adolescents with desmoid tumor.\n\nIII. To characterize the pharmacokinetics (PK) of nirogacestat in children and adolescents.\n\nSECONDARY OBJECTIVE:\n\nI. To determine the objective tumor response rate (ORR) of nirogacestat in children and adolescents with progressive, surgically unresectable desmoid tumor.\n\nEXPLORATORY OBJECTIVES:\n\nI. To collect blood, archival tumor samples and on-study/post-treatment tumor samples (if available) from patients enrolled on this trial to correlate various CTNNB1 and APC gene mutations and genomic signatures with tumor response and PFS.\n\nII. To explore the effect of nirogacestat on immune cells and immunoglobulin levels in the peripheral blood.\n\nIII. To collect blood samples for banking at baseline, during treatment, and at the time of progression for future research.\n\nIV. To compare assessment of tumor response using Response Evaluation Criteria in Solid Tumors (RECIST), World Health Organization (WHO) criteria, and T2 and volumetric changes using magnetic resonance imaging (MRI).\n\nV. To utilize a tool developed to specifically assess patient reported outcomes (PROs) in adult patients with desmoid tumor (GOunder/DTRF DEsmoid Symptom/Impact Scale [GODDESS]) and the Patient Reported Outcomes Measurement Information System (PROMIS) to explore the relationship between PROs and tumor response and PFS.\n\nOUTLINE:\n\nPatients receive nirogacestat orally (PO) twice daily (BID) on days 1-28. Cycles repeats every 28 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days."
-        ]
-      },
-      {
-        "Rank": 364,
+        "Rank": 365,
         "NCTId": [
           "NCT04608019"
         ],
@@ -21822,7 +21873,7 @@
         ]
       },
       {
-        "Rank": 365,
+        "Rank": 366,
         "NCTId": [
           "NCT04378075"
         ],
@@ -21914,7 +21965,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 366,
+        "Rank": 367,
         "NCTId": [
           "NCT03633708"
         ],
@@ -22086,7 +22137,7 @@
         ]
       },
       {
-        "Rank": 367,
+        "Rank": 368,
         "NCTId": [
           "NCT01987882"
         ],
@@ -22199,7 +22250,7 @@
         ]
       },
       {
-        "Rank": 368,
+        "Rank": 369,
         "NCTId": [
           "NCT00670735"
         ],
@@ -22354,7 +22405,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 369,
+        "Rank": 370,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22447,7 +22498,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 370,
+        "Rank": 371,
         "NCTId": [
           "NCT03707158"
         ],
@@ -22548,7 +22599,7 @@
         ]
       },
       {
-        "Rank": 371,
+        "Rank": 372,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22651,7 +22702,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 372,
+        "Rank": 373,
         "NCTId": [
           "NCT03813238"
         ],
@@ -22940,7 +22991,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 373,
+        "Rank": 374,
         "NCTId": [
           "NCT04075266"
         ],
@@ -23063,7 +23114,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 374,
+        "Rank": 375,
         "NCTId": [
           "NCT03866798"
         ],
@@ -23127,7 +23178,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 375,
+        "Rank": 376,
         "NCTId": [
           "NCT03118986"
         ],
@@ -23218,7 +23269,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 376,
+        "Rank": 377,
         "NCTId": [
           "NCT03837899"
         ],
@@ -23332,7 +23383,7 @@
         ]
       },
       {
-        "Rank": 377,
+        "Rank": 378,
         "NCTId": [
           "NCT03441360"
         ],
@@ -23534,7 +23585,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 378,
+        "Rank": 379,
         "NCTId": [
           "NCT01148550"
         ],
@@ -23748,7 +23799,7 @@
         ]
       },
       {
-        "Rank": 379,
+        "Rank": 380,
         "NCTId": [
           "NCT02040714"
         ],
@@ -24164,7 +24215,7 @@
         ]
       },
       {
-        "Rank": 380,
+        "Rank": 381,
         "NCTId": [
           "NCT03268421"
         ],
@@ -24265,7 +24316,7 @@
         ]
       },
       {
-        "Rank": 381,
+        "Rank": 382,
         "NCTId": [
           "NCT03813407"
         ],
@@ -24425,7 +24476,7 @@
         ]
       },
       {
-        "Rank": 382,
+        "Rank": 383,
         "NCTId": [
           "NCT04114539"
         ],
@@ -24997,7 +25048,7 @@
         ]
       },
       {
-        "Rank": 383,
+        "Rank": 384,
         "NCTId": [
           "NCT04068012"
         ],
@@ -25075,7 +25126,7 @@
         ]
       },
       {
-        "Rank": 384,
+        "Rank": 385,
         "NCTId": [
           "NCT02840409"
         ],
@@ -25213,7 +25264,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 386,
         "NCTId": [
           "NCT02650401"
         ],
@@ -25396,7 +25447,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 386,
+        "Rank": 387,
         "NCTId": [
           "NCT04743141"
         ],
@@ -25716,7 +25767,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 387,
+        "Rank": 388,
         "NCTId": [
           "NCT03785405"
         ],
@@ -26010,7 +26061,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 388,
+        "Rank": 389,
         "NCTId": [
           "NCT03025698"
         ],
@@ -26193,7 +26244,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 389,
+        "Rank": 390,
         "NCTId": [
           "NCT04351893"
         ],
@@ -26293,7 +26344,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 390,
+        "Rank": 391,
         "NCTId": [
           "NCT04218851"
         ],
@@ -26479,7 +26530,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 391,
+        "Rank": 392,
         "NCTId": [
           "NCT04015141"
         ],
@@ -26661,7 +26712,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 392,
+        "Rank": 393,
         "NCTId": [
           "NCT02134301"
         ],
@@ -26752,7 +26803,7 @@
         ]
       },
       {
-        "Rank": 393,
+        "Rank": 394,
         "NCTId": [
           "NCT01500551"
         ],
@@ -27269,7 +27320,7 @@
         ]
       },
       {
-        "Rank": 394,
+        "Rank": 395,
         "NCTId": [
           "NCT04578756"
         ],
@@ -27412,7 +27463,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 395,
+        "Rank": 396,
         "NCTId": [
           "NCT04200352"
         ],
@@ -27535,7 +27586,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 396,
+        "Rank": 397,
         "NCTId": [
           "NCT03958877"
         ],
@@ -27775,7 +27826,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 397,
+        "Rank": 398,
         "NCTId": [
           "NCT02303431"
         ],
@@ -27960,7 +28011,7 @@
         ]
       },
       {
-        "Rank": 398,
+        "Rank": 399,
         "NCTId": [
           "NCT03275402"
         ],
@@ -28044,7 +28095,7 @@
         ]
       },
       {
-        "Rank": 399,
+        "Rank": 400,
         "NCTId": [
           "NCT04238819"
         ],
@@ -28161,7 +28212,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 400,
+        "Rank": 401,
         "NCTId": [
           "NCT03406507"
         ],
@@ -28217,7 +28268,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 401,
+        "Rank": 402,
         "NCTId": [
           "NCT02862132"
         ],
@@ -28331,7 +28382,7 @@
         ]
       },
       {
-        "Rank": 402,
+        "Rank": 403,
         "NCTId": [
           "NCT04143724"
         ],
