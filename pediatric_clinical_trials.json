@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:09:26 22:29:14.458",
+    "DataVrs": "2021:09:27 22:32:33.007",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 390644,
+    "NStudiesAvail": 390761,
     "NStudiesFound": 404,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -3778,6 +3778,58 @@
       {
         "Rank": 72,
         "NCTId": [
+          "NCT04602325"
+        ],
+        "OfficialTitle": [
+          "Systemic Biomarkers of Brain Injury From Hyperammonemia"
+        ],
+        "Condition": [
+          "Urea Cycle Disorder",
+          "Organic Acidemia",
+          "Maple Syrup Urine Disease",
+          "Glutaric Acidemia I",
+          "Fatty Acid Oxidation Disorder",
+          "Hypoxic-Ischemic Encephalopathy"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nInherited Hyperammonemias:\n\nA clinical diagnosis of 1 of 7 diagnosed urea cycle disorders:\n\nN-acetylglutamate Synthetase Deficiency (NAGS)\nCarbamyl Phosphate Synthetase Deficiency (CPSD)\nOrnithine Transcarbamylase Deficiency (OTCD)\nArgininosuccinate Synthetase Deficiency (ASD)\nArgininosuccinate Lyase Deficiency (ALD)\nArginase Deficiency (AD)\nHyperammonemia-Hyperornithinemia-Homocitrullinuria (HHH)\n\nA clinical diagnosis of 1 of 2 organic acidemias:\n\nPropionic Acidemia (PA)\nMethylmalonic Acidemia (MMA)\n\nAcute metabolic disorder without hyperammonemia, with neurological sequelae\n\nMaple Syrup Urine Disease (MSUD)\nGlutaric Acidemia (GA1)\n\nAcute metabolic disorder without hyperammonemia and without neurological sequelae\n\nFatty Acid Oxidation Disorders:\nMedium Chain-Acyl CoA Dehydrogenase Deficiency\nVery Long Chain-Acyl CoA Dehydrogenase Deficiency\nTrifunctional Protein Deficiency\nLong Chain Hydroxyacyl-CoA Dehydrogenase Deficiency\nCarnitine Palmitoyltransferase I or II Deficiency\nCarnitine/Acylcarnitine Translocase Deficiency\nPrimary Carnitine Transport Deficiency\nHypoxic-Ischemic Encephalopathy\n\nExclusion Criteria:\n\nPrior Solid-Organ Transplant\nUse of any other investigational drug, biologic, or therapy or any clinical or laboratory abnormality or medical condition that, as determined by the investigator, may interfere with or obscure the biomarker measurements"
+        ],
+        "MinimumAge": [
+          "7 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Washington"
+        ],
+        "LocationFacility": [
+          "Children's National Research Institute"
+        ],
+        "LocationState": [
+          "District of Columbia"
+        ],
+        "LocationZip": [
+          "20010"
+        ],
+        "LocationContactEMail": [
+          "krice3@childrensnational.org"
+        ],
+        "LocationContactName": [
+          "Katie Rice, MPH, CCRP",
+          "Nicholas Ah Mew, MD"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. High blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. The following aims are proposed:\n\nAim 1 of this study will be to determine the chronology of biomarkers of brain injury in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder.\n\nAim 2 will be to determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1)."
+        ],
+        "DetailedDescription": [
+          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. The onslaught of high blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. In addition, clinical hyperammonemia recurs at varying intervals, which can increase the cumulative damage to the brain and the chance of irreversible coma and death during a hyperammonemia episode due to vascular compromise or brain herniation. The threshold of tolerance for elevated blood ammonia is very low and concentrations above 100 µM can cause brain dysfunction manifested as nausea, vomiting, lethargy, and abnormal behavior; higher concentrations can cause coma and even death. Failure to remove ammonia can be due to inherited defects of the urea cycle, some defects in amino acid catabolism, and degradation of fatty acids.\n\nAim 1 - To determine the chronology of biomarkers of brain injury - S100B, NSE, and UCHL1 - in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder. We hypothesized that elevations of S100B, NSE, and UCHL1 will parallel the rise in blood ammonia. These biomarkers will be measured concurrently to ammonia levels throughout hospitalizations for HA until normalization of patient's blood ammonia and mental status.\n\nAim 2 - To determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism in which the primary pathology is neurological injury, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1). We hypothesize that neuronal and astroglial injury in these disorders may also result in increased levels of S100B, NSE, and UCHL1.\n\nMetabolic patients will be enrolled either during a hospitalization or in outpatient clinic, but outpatient enrollment is preferred. Metabolic patients typically have multiple laboratory tests performed at their outpatient visits. We will obtain the discarded blood samples from such laboratory tests in order to measure S100B, NSE, and UCHL1 levels at baseline (normal blood ammonia), which will provide data on biomarker levels following recovery from a hyperammonemic episode.\n\nDuring hospitalization for metabolic decompensation or for hypoxic-ischemic encephalopathy, sequential measurements of S100B, NSE and UCHL1 levels will be obtained from discarded blood samples. We will obtain S100B, NSE, and UCHL1 levels from collected discarded blood samples at all subjects' next outpatient visit following their hospitalization, to determine if levels return to baseline."
+        ]
+      },
+      {
+        "Rank": 73,
+        "NCTId": [
           "NCT04569708"
         ],
         "OfficialTitle": [
@@ -3832,7 +3884,7 @@
         ]
       },
       {
-        "Rank": 73,
+        "Rank": 74,
         "NCTId": [
           "NCT04562688"
         ],
@@ -3880,7 +3932,7 @@
         ]
       },
       {
-        "Rank": 74,
+        "Rank": 75,
         "NCTId": [
           "NCT04551482"
         ],
@@ -3927,7 +3979,7 @@
         ]
       },
       {
-        "Rank": 75,
+        "Rank": 76,
         "NCTId": [
           "NCT04537390"
         ],
@@ -3974,7 +4026,7 @@
         ]
       },
       {
-        "Rank": 76,
+        "Rank": 77,
         "NCTId": [
           "NCT04529707"
         ],
@@ -4022,7 +4074,7 @@
         ]
       },
       {
-        "Rank": 77,
+        "Rank": 78,
         "NCTId": [
           "NCT04526639"
         ],
@@ -4068,7 +4120,7 @@
         ]
       },
       {
-        "Rank": 78,
+        "Rank": 79,
         "NCTId": [
           "NCT04522778"
         ],
@@ -4120,7 +4172,7 @@
         ]
       },
       {
-        "Rank": 79,
+        "Rank": 80,
         "NCTId": [
           "NCT04518397"
         ],
@@ -4169,7 +4221,7 @@
         ]
       },
       {
-        "Rank": 80,
+        "Rank": 81,
         "NCTId": [
           "NCT04516694"
         ],
@@ -4217,7 +4269,7 @@
         ]
       },
       {
-        "Rank": 81,
+        "Rank": 82,
         "NCTId": [
           "NCT04516343"
         ],
@@ -4264,7 +4316,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 82,
+        "Rank": 83,
         "NCTId": [
           "NCT04488523"
         ],
@@ -4313,7 +4365,7 @@
         ]
       },
       {
-        "Rank": 83,
+        "Rank": 84,
         "NCTId": [
           "NCT04485416"
         ],
@@ -4364,7 +4416,7 @@
         ]
       },
       {
-        "Rank": 84,
+        "Rank": 85,
         "NCTId": [
           "NCT04482556"
         ],
@@ -4413,7 +4465,7 @@
         ]
       },
       {
-        "Rank": 85,
+        "Rank": 86,
         "NCTId": [
           "NCT04481243"
         ],
@@ -4459,7 +4511,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 86,
+        "Rank": 87,
         "NCTId": [
           "NCT04472286"
         ],
@@ -4522,7 +4574,7 @@
         ]
       },
       {
-        "Rank": 87,
+        "Rank": 88,
         "NCTId": [
           "NCT04462861"
         ],
@@ -4569,7 +4621,7 @@
         ]
       },
       {
-        "Rank": 88,
+        "Rank": 89,
         "NCTId": [
           "NCT04449042"
         ],
@@ -4614,7 +4666,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 89,
+        "Rank": 90,
         "NCTId": [
           "NCT04446910"
         ],
@@ -4662,7 +4714,7 @@
         ]
       },
       {
-        "Rank": 90,
+        "Rank": 91,
         "NCTId": [
           "NCT04403633"
         ],
@@ -4710,7 +4762,7 @@
         ]
       },
       {
-        "Rank": 91,
+        "Rank": 92,
         "NCTId": [
           "NCT04398862"
         ],
@@ -4760,7 +4812,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 92,
+        "Rank": 93,
         "NCTId": [
           "NCT04390035"
         ],
@@ -4808,7 +4860,7 @@
         ]
       },
       {
-        "Rank": 93,
+        "Rank": 94,
         "NCTId": [
           "NCT04365556"
         ],
@@ -4860,7 +4912,7 @@
         ]
       },
       {
-        "Rank": 94,
+        "Rank": 95,
         "NCTId": [
           "NCT04360395"
         ],
@@ -4909,7 +4961,7 @@
         ]
       },
       {
-        "Rank": 95,
+        "Rank": 96,
         "NCTId": [
           "NCT04357132"
         ],
@@ -4960,7 +5012,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 96,
+        "Rank": 97,
         "NCTId": [
           "NCT04351958"
         ],
@@ -5008,7 +5060,7 @@
         ]
       },
       {
-        "Rank": 97,
+        "Rank": 98,
         "NCTId": [
           "NCT04351776"
         ],
@@ -5059,7 +5111,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 98,
+        "Rank": 99,
         "NCTId": [
           "NCT04342000"
         ],
@@ -5110,7 +5162,7 @@
         ]
       },
       {
-        "Rank": 99,
+        "Rank": 100,
         "NCTId": [
           "NCT04338048"
         ],
@@ -5150,7 +5202,7 @@
         ]
       },
       {
-        "Rank": 100,
+        "Rank": 101,
         "NCTId": [
           "NCT04322734"
         ],
@@ -5204,7 +5256,7 @@
         ]
       },
       {
-        "Rank": 101,
+        "Rank": 102,
         "NCTId": [
           "NCT04317521"
         ],
@@ -5252,7 +5304,7 @@
         ]
       },
       {
-        "Rank": 102,
+        "Rank": 103,
         "NCTId": [
           "NCT04314635"
         ],
@@ -5298,7 +5350,7 @@
         ]
       },
       {
-        "Rank": 103,
+        "Rank": 104,
         "NCTId": [
           "NCT04313192"
         ],
@@ -5350,7 +5402,7 @@
         ]
       },
       {
-        "Rank": 104,
+        "Rank": 105,
         "NCTId": [
           "NCT04312919"
         ],
@@ -5397,7 +5449,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 105,
+        "Rank": 106,
         "NCTId": [
           "NCT04309786"
         ],
@@ -5448,7 +5500,7 @@
         ]
       },
       {
-        "Rank": 106,
+        "Rank": 107,
         "NCTId": [
           "NCT04299191"
         ],
@@ -5496,7 +5548,7 @@
         ]
       },
       {
-        "Rank": 107,
+        "Rank": 108,
         "NCTId": [
           "NCT04298203"
         ],
@@ -5544,7 +5596,7 @@
         ]
       },
       {
-        "Rank": 108,
+        "Rank": 109,
         "NCTId": [
           "NCT04298099"
         ],
@@ -5592,7 +5644,7 @@
         ]
       },
       {
-        "Rank": 109,
+        "Rank": 110,
         "NCTId": [
           "NCT04290754"
         ],
@@ -5643,7 +5695,7 @@
         ]
       },
       {
-        "Rank": 110,
+        "Rank": 111,
         "NCTId": [
           "NCT04288206"
         ],
@@ -5688,7 +5740,7 @@
         ]
       },
       {
-        "Rank": 111,
+        "Rank": 112,
         "NCTId": [
           "NCT04285879"
         ],
@@ -5738,7 +5790,7 @@
         ]
       },
       {
-        "Rank": 112,
+        "Rank": 113,
         "NCTId": [
           "NCT04264143"
         ],
@@ -5792,7 +5844,7 @@
         ]
       },
       {
-        "Rank": 113,
+        "Rank": 114,
         "NCTId": [
           "NCT04254796"
         ],
@@ -5836,7 +5888,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 114,
+        "Rank": 115,
         "NCTId": [
           "NCT04250844"
         ],
@@ -5882,7 +5934,7 @@
         ]
       },
       {
-        "Rank": 115,
+        "Rank": 116,
         "NCTId": [
           "NCT04247100"
         ],
@@ -5932,7 +5984,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 116,
+        "Rank": 117,
         "NCTId": [
           "NCT04246112"
         ],
@@ -5982,7 +6034,7 @@
         ]
       },
       {
-        "Rank": 117,
+        "Rank": 118,
         "NCTId": [
           "NCT04242602"
         ],
@@ -6030,7 +6082,7 @@
         ]
       },
       {
-        "Rank": 118,
+        "Rank": 119,
         "NCTId": [
           "NCT04222101"
         ],
@@ -6083,7 +6135,7 @@
         ]
       },
       {
-        "Rank": 119,
+        "Rank": 120,
         "NCTId": [
           "NCT04219995"
         ],
@@ -6132,7 +6184,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 120,
+        "Rank": 121,
         "NCTId": [
           "NCT04217694"
         ],
@@ -6182,7 +6234,7 @@
         ]
       },
       {
-        "Rank": 121,
+        "Rank": 122,
         "NCTId": [
           "NCT04211935"
         ],
@@ -6231,7 +6283,7 @@
         ]
       },
       {
-        "Rank": 122,
+        "Rank": 123,
         "NCTId": [
           "NCT04208256"
         ],
@@ -6281,7 +6333,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 123,
+        "Rank": 124,
         "NCTId": [
           "NCT04205604"
         ],
@@ -6325,7 +6377,7 @@
         ]
       },
       {
-        "Rank": 124,
+        "Rank": 125,
         "NCTId": [
           "NCT04201106"
         ],
@@ -6371,7 +6423,7 @@
         ]
       },
       {
-        "Rank": 125,
+        "Rank": 126,
         "NCTId": [
           "NCT04199247"
         ],
@@ -6424,7 +6476,7 @@
         ]
       },
       {
-        "Rank": 126,
+        "Rank": 127,
         "NCTId": [
           "NCT04190225"
         ],
@@ -6476,7 +6528,7 @@
         ]
       },
       {
-        "Rank": 127,
+        "Rank": 128,
         "NCTId": [
           "NCT04186429"
         ],
@@ -6526,7 +6578,7 @@
         ]
       },
       {
-        "Rank": 128,
+        "Rank": 129,
         "NCTId": [
           "NCT04180358"
         ],
@@ -6576,7 +6628,7 @@
         ]
       },
       {
-        "Rank": 129,
+        "Rank": 130,
         "NCTId": [
           "NCT04174001"
         ],
@@ -6622,7 +6674,7 @@
         ]
       },
       {
-        "Rank": 130,
+        "Rank": 131,
         "NCTId": [
           "NCT04170231"
         ],
@@ -6665,7 +6717,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 131,
+        "Rank": 132,
         "NCTId": [
           "NCT04166526"
         ],
@@ -6711,7 +6763,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 132,
+        "Rank": 133,
         "NCTId": [
           "NCT04164966"
         ],
@@ -6757,7 +6809,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 133,
+        "Rank": 134,
         "NCTId": [
           "NCT04158245"
         ],
@@ -6809,7 +6861,7 @@
         ]
       },
       {
-        "Rank": 134,
+        "Rank": 135,
         "NCTId": [
           "NCT04154865"
         ],
@@ -6857,7 +6909,7 @@
         ]
       },
       {
-        "Rank": 135,
+        "Rank": 136,
         "NCTId": [
           "NCT04153994"
         ],
@@ -6898,7 +6950,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 136,
+        "Rank": 137,
         "NCTId": [
           "NCT04148560"
         ],
@@ -6950,7 +7002,7 @@
         ]
       },
       {
-        "Rank": 137,
+        "Rank": 138,
         "NCTId": [
           "NCT04127331"
         ],
@@ -6996,7 +7048,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 138,
+        "Rank": 139,
         "NCTId": [
           "NCT04118712"
         ],
@@ -7041,7 +7093,7 @@
         ]
       },
       {
-        "Rank": 139,
+        "Rank": 140,
         "NCTId": [
           "NCT04111991"
         ],
@@ -7087,7 +7139,7 @@
         ]
       },
       {
-        "Rank": 140,
+        "Rank": 141,
         "NCTId": [
           "NCT04111471"
         ],
@@ -7127,7 +7179,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 141,
+        "Rank": 142,
         "NCTId": [
           "NCT04110730"
         ],
@@ -7176,7 +7228,7 @@
         ]
       },
       {
-        "Rank": 142,
+        "Rank": 143,
         "NCTId": [
           "NCT04108988"
         ],
@@ -7225,7 +7277,7 @@
         ]
       },
       {
-        "Rank": 143,
+        "Rank": 144,
         "NCTId": [
           "NCT04104841"
         ],
@@ -7276,7 +7328,7 @@
         ]
       },
       {
-        "Rank": 144,
+        "Rank": 145,
         "NCTId": [
           "NCT04099810"
         ],
@@ -7322,7 +7374,7 @@
         ]
       },
       {
-        "Rank": 145,
+        "Rank": 146,
         "NCTId": [
           "NCT04099797"
         ],
@@ -7376,7 +7428,7 @@
         ]
       },
       {
-        "Rank": 146,
+        "Rank": 147,
         "NCTId": [
           "NCT04089332"
         ],
@@ -7424,7 +7476,7 @@
         ]
       },
       {
-        "Rank": 147,
+        "Rank": 148,
         "NCTId": [
           "NCT04072159"
         ],
@@ -7466,7 +7518,7 @@
         ]
       },
       {
-        "Rank": 148,
+        "Rank": 149,
         "NCTId": [
           "NCT04064684"
         ],
@@ -7513,7 +7565,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 149,
+        "Rank": 150,
         "NCTId": [
           "NCT04060303"
         ],
@@ -7559,7 +7611,7 @@
         ]
       },
       {
-        "Rank": 150,
+        "Rank": 151,
         "NCTId": [
           "NCT04046562"
         ],
@@ -7609,7 +7661,7 @@
         ]
       },
       {
-        "Rank": 151,
+        "Rank": 152,
         "NCTId": [
           "NCT04039750"
         ],
@@ -7655,7 +7707,7 @@
         ]
       },
       {
-        "Rank": 152,
+        "Rank": 153,
         "NCTId": [
           "NCT04032990"
         ],
@@ -7703,7 +7755,7 @@
         ]
       },
       {
-        "Rank": 153,
+        "Rank": 154,
         "NCTId": [
           "NCT04017975"
         ],
@@ -7752,7 +7804,7 @@
         ]
       },
       {
-        "Rank": 154,
+        "Rank": 155,
         "NCTId": [
           "NCT04003012"
         ],
@@ -7798,7 +7850,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 155,
+        "Rank": 156,
         "NCTId": [
           "NCT03995394"
         ],
@@ -7846,7 +7898,7 @@
         ]
       },
       {
-        "Rank": 156,
+        "Rank": 157,
         "NCTId": [
           "NCT03992209"
         ],
@@ -7896,7 +7948,7 @@
         ]
       },
       {
-        "Rank": 157,
+        "Rank": 158,
         "NCTId": [
           "NCT03985020"
         ],
@@ -7940,7 +7992,7 @@
         ]
       },
       {
-        "Rank": 158,
+        "Rank": 159,
         "NCTId": [
           "NCT03961854"
         ],
@@ -7980,7 +8032,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 159,
+        "Rank": 160,
         "NCTId": [
           "NCT03961061"
         ],
@@ -8031,7 +8083,7 @@
         ]
       },
       {
-        "Rank": 160,
+        "Rank": 161,
         "NCTId": [
           "NCT03954223"
         ],
@@ -8079,7 +8131,7 @@
         ]
       },
       {
-        "Rank": 161,
+        "Rank": 162,
         "NCTId": [
           "NCT03945747"
         ],
@@ -8137,7 +8189,7 @@
         ]
       },
       {
-        "Rank": 162,
+        "Rank": 163,
         "NCTId": [
           "NCT03942952"
         ],
@@ -8190,7 +8242,7 @@
         ]
       },
       {
-        "Rank": 163,
+        "Rank": 164,
         "NCTId": [
           "NCT03922451"
         ],
@@ -8232,7 +8284,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 164,
+        "Rank": 165,
         "NCTId": [
           "NCT03911388"
         ],
@@ -8315,7 +8367,7 @@
         ]
       },
       {
-        "Rank": 165,
+        "Rank": 166,
         "NCTId": [
           "NCT03905031"
         ],
@@ -8375,7 +8427,7 @@
         ]
       },
       {
-        "Rank": 166,
+        "Rank": 167,
         "NCTId": [
           "NCT03896867"
         ],
@@ -8421,7 +8473,7 @@
         ]
       },
       {
-        "Rank": 167,
+        "Rank": 168,
         "NCTId": [
           "NCT03885154"
         ],
@@ -8463,7 +8515,7 @@
         ]
       },
       {
-        "Rank": 168,
+        "Rank": 169,
         "NCTId": [
           "NCT03882034"
         ],
@@ -8511,7 +8563,7 @@
         ]
       },
       {
-        "Rank": 169,
+        "Rank": 170,
         "NCTId": [
           "NCT03869749"
         ],
@@ -8560,7 +8612,7 @@
         ]
       },
       {
-        "Rank": 170,
+        "Rank": 171,
         "NCTId": [
           "NCT03866707"
         ],
@@ -8611,7 +8663,7 @@
         ]
       },
       {
-        "Rank": 171,
+        "Rank": 172,
         "NCTId": [
           "NCT03866460"
         ],
@@ -8658,7 +8710,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 172,
+        "Rank": 173,
         "NCTId": [
           "NCT03860311"
         ],
@@ -8711,7 +8763,7 @@
         ]
       },
       {
-        "Rank": 173,
+        "Rank": 174,
         "NCTId": [
           "NCT03855553"
         ],
@@ -8765,7 +8817,7 @@
         ]
       },
       {
-        "Rank": 174,
+        "Rank": 175,
         "NCTId": [
           "NCT03825341"
         ],
@@ -8815,7 +8867,7 @@
         ]
       },
       {
-        "Rank": 175,
+        "Rank": 176,
         "NCTId": [
           "NCT03812575"
         ],
@@ -8855,7 +8907,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 176,
+        "Rank": 177,
         "NCTId": [
           "NCT03812159"
         ],
@@ -8906,7 +8958,7 @@
         ]
       },
       {
-        "Rank": 177,
+        "Rank": 178,
         "NCTId": [
           "NCT03795818"
         ],
@@ -8957,7 +9009,7 @@
         ]
       },
       {
-        "Rank": 178,
+        "Rank": 179,
         "NCTId": [
           "NCT03781817"
         ],
@@ -9012,7 +9064,7 @@
         ]
       },
       {
-        "Rank": 179,
+        "Rank": 180,
         "NCTId": [
           "NCT03763591"
         ],
@@ -9055,7 +9107,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 180,
+        "Rank": 181,
         "NCTId": [
           "NCT03755687"
         ],
@@ -9100,7 +9152,7 @@
         ]
       },
       {
-        "Rank": 181,
+        "Rank": 182,
         "NCTId": [
           "NCT03730194"
         ],
@@ -9153,7 +9205,7 @@
         ]
       },
       {
-        "Rank": 182,
+        "Rank": 183,
         "NCTId": [
           "NCT03729999"
         ],
@@ -9198,7 +9250,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 183,
+        "Rank": 184,
         "NCTId": [
           "NCT03721068"
         ],
@@ -9245,7 +9297,7 @@
         ]
       },
       {
-        "Rank": 184,
+        "Rank": 185,
         "NCTId": [
           "NCT03718234"
         ],
@@ -9297,7 +9349,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 185,
+        "Rank": 186,
         "NCTId": [
           "NCT03711318"
         ],
@@ -9343,7 +9395,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 186,
+        "Rank": 187,
         "NCTId": [
           "NCT03709472"
         ],
@@ -9396,7 +9448,7 @@
         ]
       },
       {
-        "Rank": 187,
+        "Rank": 188,
         "NCTId": [
           "NCT03709199"
         ],
@@ -9446,7 +9498,7 @@
         ]
       },
       {
-        "Rank": 188,
+        "Rank": 189,
         "NCTId": [
           "NCT03687008"
         ],
@@ -9495,7 +9547,7 @@
         ]
       },
       {
-        "Rank": 189,
+        "Rank": 190,
         "NCTId": [
           "NCT03675321"
         ],
@@ -9541,7 +9593,7 @@
         ]
       },
       {
-        "Rank": 190,
+        "Rank": 191,
         "NCTId": [
           "NCT03670849"
         ],
@@ -9589,7 +9641,7 @@
         ]
       },
       {
-        "Rank": 191,
+        "Rank": 192,
         "NCTId": [
           "NCT03665337"
         ],
@@ -9634,7 +9686,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 192,
+        "Rank": 193,
         "NCTId": [
           "NCT03653013"
         ],
@@ -9677,7 +9729,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 193,
+        "Rank": 194,
         "NCTId": [
           "NCT03648450"
         ],
@@ -9726,7 +9778,7 @@
         ]
       },
       {
-        "Rank": 194,
+        "Rank": 195,
         "NCTId": [
           "NCT03625011"
         ],
@@ -9778,7 +9830,7 @@
         ]
       },
       {
-        "Rank": 195,
+        "Rank": 196,
         "NCTId": [
           "NCT03584399"
         ],
@@ -9820,7 +9872,7 @@
         ]
       },
       {
-        "Rank": 196,
+        "Rank": 197,
         "NCTId": [
           "NCT03559036"
         ],
@@ -9865,7 +9917,7 @@
         ]
       },
       {
-        "Rank": 197,
+        "Rank": 198,
         "NCTId": [
           "NCT03555708"
         ],
@@ -9918,7 +9970,7 @@
         ]
       },
       {
-        "Rank": 198,
+        "Rank": 199,
         "NCTId": [
           "NCT03553875"
         ],
@@ -9967,7 +10019,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 199,
+        "Rank": 200,
         "NCTId": [
           "NCT03539783"
         ],
@@ -10019,7 +10071,7 @@
         ]
       },
       {
-        "Rank": 200,
+        "Rank": 201,
         "NCTId": [
           "NCT03530852"
         ],
@@ -10068,7 +10120,7 @@
         ]
       },
       {
-        "Rank": 201,
+        "Rank": 202,
         "NCTId": [
           "NCT03528109"
         ],
@@ -10132,7 +10184,7 @@
         ]
       },
       {
-        "Rank": 202,
+        "Rank": 203,
         "NCTId": [
           "NCT03500835"
         ],
@@ -10182,7 +10234,7 @@
         ]
       },
       {
-        "Rank": 203,
+        "Rank": 204,
         "NCTId": [
           "NCT03498495"
         ],
@@ -10228,7 +10280,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 204,
+        "Rank": 205,
         "NCTId": [
           "NCT03496259"
         ],
@@ -10277,7 +10329,7 @@
         ]
       },
       {
-        "Rank": 205,
+        "Rank": 206,
         "NCTId": [
           "NCT03495388"
         ],
@@ -10330,7 +10382,7 @@
         ]
       },
       {
-        "Rank": 206,
+        "Rank": 207,
         "NCTId": [
           "NCT03492944"
         ],
@@ -10374,7 +10426,7 @@
         ]
       },
       {
-        "Rank": 207,
+        "Rank": 208,
         "NCTId": [
           "NCT03472768"
         ],
@@ -10420,7 +10472,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 208,
+        "Rank": 209,
         "NCTId": [
           "NCT03467750"
         ],
@@ -10470,7 +10522,7 @@
         ]
       },
       {
-        "Rank": 209,
+        "Rank": 210,
         "NCTId": [
           "NCT03462979"
         ],
@@ -10522,7 +10574,7 @@
         ]
       },
       {
-        "Rank": 210,
+        "Rank": 211,
         "NCTId": [
           "NCT03453541"
         ],
@@ -10581,7 +10633,7 @@
         ]
       },
       {
-        "Rank": 211,
+        "Rank": 212,
         "NCTId": [
           "NCT03451435"
         ],
@@ -10629,7 +10681,7 @@
         ]
       },
       {
-        "Rank": 212,
+        "Rank": 213,
         "NCTId": [
           "NCT03438656"
         ],
@@ -10678,7 +10730,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 213,
+        "Rank": 214,
         "NCTId": [
           "NCT03429114"
         ],
@@ -10726,7 +10778,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 214,
+        "Rank": 215,
         "NCTId": [
           "NCT03423940"
         ],
@@ -10778,7 +10830,7 @@
         ]
       },
       {
-        "Rank": 215,
+        "Rank": 216,
         "NCTId": [
           "NCT03419260"
         ],
@@ -10824,7 +10876,7 @@
         ]
       },
       {
-        "Rank": 216,
+        "Rank": 217,
         "NCTId": [
           "NCT03412162"
         ],
@@ -10874,7 +10926,7 @@
         ]
       },
       {
-        "Rank": 217,
+        "Rank": 218,
         "NCTId": [
           "NCT03384134"
         ],
@@ -10925,7 +10977,7 @@
         ]
       },
       {
-        "Rank": 218,
+        "Rank": 219,
         "NCTId": [
           "NCT03363919"
         ],
@@ -10977,7 +11029,7 @@
         ]
       },
       {
-        "Rank": 219,
+        "Rank": 220,
         "NCTId": [
           "NCT03337594"
         ],
@@ -11029,7 +11081,7 @@
         ]
       },
       {
-        "Rank": 220,
+        "Rank": 221,
         "NCTId": [
           "NCT03334942"
         ],
@@ -11084,7 +11136,7 @@
         ]
       },
       {
-        "Rank": 221,
+        "Rank": 222,
         "NCTId": [
           "NCT03318393"
         ],
@@ -11128,7 +11180,7 @@
         ]
       },
       {
-        "Rank": 222,
+        "Rank": 223,
         "NCTId": [
           "NCT03304574"
         ],
@@ -11183,7 +11235,7 @@
         ]
       },
       {
-        "Rank": 223,
+        "Rank": 224,
         "NCTId": [
           "NCT03297658"
         ],
@@ -11229,7 +11281,7 @@
         ]
       },
       {
-        "Rank": 224,
+        "Rank": 225,
         "NCTId": [
           "NCT03283033"
         ],
@@ -11278,7 +11330,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 225,
+        "Rank": 226,
         "NCTId": [
           "NCT03280628"
         ],
@@ -11318,7 +11370,49 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 227,
+        "NCTId": [
+          "NCT03266016"
+        ],
+        "OfficialTitle": [
+          "Identifying and Preventing Ventilator Induced Diaphragm Dysfunction in Children"
+        ],
+        "Condition": [
+          "Ventilation Therapy; Complications",
+          "Diaphragm Disease",
+          "Pediatric Respiratory Diseases"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nChildren > 1 month (>44 weeks CGA) and ≤ 18 years of age AND\nSupported on mechanical ventilation with pulmonary parenchymal disease (i.e., pneumonia, bronchiolitis, Pediatric Acute Respiratory Distress Syndrome (PARDS)) with Oxygen Saturation Index (OSI) ≥ 5 or Oxygenation Index (OI) ≥) AND\nWho are within 48 hours of initiation of invasive mechanical ventilation (allow for up to 72 hours for those transferred from another institution)\n\nExclusion Criteria:\n\nContraindications to use of an esophageal catheter (i.e. severe mucosal bleeding, nasal encephalocele, transphenoidal surgery) OR\nContraindications to use of RIP bands (i.e. omphalocele, chest immobilizer or cast) OR\nConditions precluding diaphragm ultrasound measurement (i.e. abdominal wall defects, pregnancy) OR\nConditions on enrollment that preclude conventional methods of weaning (i.e., status asthmaticus, severe lower airway obstruction, critical airway, intracranial hypertension, Extra Corporeal Life Support (ECLS), intubation for UAO, DNR, severe chronic respiratory failure, spinal cord injury above lumbar region, cyanotic heart disease (unrepaired or palliated)) OR\nPrimary Attending physician refuses (will be cleared with primary attending before approaching the patient)."
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Los Angeles"
+        ],
+        "LocationFacility": [
+          "Children's Hospital Los Angeles"
+        ],
+        "LocationState": [
+          "California"
+        ],
+        "LocationZip": [
+          "90027"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "This study is a Phase II controlled clinical trial that will obtain comprehensive, serial assessments of respiratory muscle strength and architecture to understand the evolution of ventilator-induced respiratory muscle weakness in critically ill children, and test whether a novel computer-based approach (Real-time Effort Driven ventilator management (REDvent)) can preserve respiratory muscle strength and reduce time on MV. REDvent offers systematic recommendations to reduce controlled ventilation during the acute phase of MV, and uses real-time measures from esophageal manometry to adjust supported ventilator pressures such that patient effort of breathing remains in a normal range during the ventilator weaning phase. This phase II clinical trial is expected to enroll 276 children with pulmonary parenchymal disease, anticipated to be ventilated > 48 hrs. Patients will be randomized to REDvent-acute vs. usual care for the acute phase of MV (interval from intubation to first spontaneous breathing trial (SBT)). Patients in either group who fail their first Spontaneous Breathing Trial (SBT), will also be randomized to REDvent-weaning vs. usual care for the weaning phase of MV (interval from first SBT to passing SBT). The primary clinical outcome is length of weaning (time from first SBT until successful passage of an SBT or extubation (whichever comes first)). Mechanistic outcomes surround multi-modal serial measures of respiratory muscle capacity (PiMax), load (resistance, compliance), effort (esophageal manometry), and architecture (ultrasound) throughout the course of MV. Upon completion, this study will provide important information on the pathogenesis and timing of respiratory muscle weakness during MV in children and whether this weakness can be mitigated by promoting more normal patient effort during MV via the use of REDvent. This will form the basis for a larger, Phase III multi-center study, powered for key clinical outcomes such as 28-day Ventilator Free Days."
+        ],
+        "DetailedDescription": [
+          "Study Aims:\n\nSA1: To determine if REDvent acute and/or weaning phase protocols can shorten the duration of weaning from MV (Primary outcome).\n\nSA2: To determine if changes to direct measures of respiratory muscle strength, load, effort, and architecture throughout the duration of MV are related to weaning outcomes.\n\nSA3: To determine if patient effort of breathing during both acute and weaning phases of MV is independently associated with the development of respiratory muscle weakness.\n\nStudy Design: Single-center randomized controlled trial (138 children per arm) using REDvent (intervention arm) as compared with usual care ventilator management including a standardized daily SBT (control arm). Acute phase randomization will occur upon study enrollment, and patients who fail the first SBT will undergo a weaning phase randomization. The investigators will obtain serial measurements of respiratory system capacity, load, effort of breathing, and diaphragm architecture throughout the course of MV.\n\nAcute Phase: The acute phase is defined as the time from intubation until the patient meets weaning criteria, passes the initial oxygenation test (decrease PEEP to 5 cmH2O and FiO2 to 0.5, maintains SpO2 > 90%), and undergoes a Spontaneous Breathing Trial (SBT).\n\nIntervention Arm (REDvent-acute): Patients will be managed with pressure control plus pressure support ventilation using a computerized decision support tool that will recommend changes to ventilator settings approximately every 4 hr (with or without a new blood gas). If the patient is spontaneously breathing, it will incorporate real-time measures of effort of breathing (esophageal manometry) to keep it in a target range.\nControl Arm (Control-acute): Ventilator management will be per usual care until the patient meets weaning criteria and passes the oxygenation test.\n\nWeaning Phase: The weaning phase is defined as the time from the first Spontaneous Breathing Trial (SBT) until the patient successfully passes an SBT or is extubated (whichever comes first). Patients who pass the initial SBT at the end of the acute phase will not undergo weaning phase randomization.\n\nIntervention Arm (REDvent-weaning): Patients will be managed in a pressure support/CPAP mode of ventilation with assessments or changes to the level of pressure support every 4 hours, targeting maintaining effort of breathing (esophageal manometry) in a normal range. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\nControl Arm (Control-weaning): Ventilator management will be per usual care. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\n\nAnalysis Plan and Sample Size Justification:\n\nAim 1: The primary outcome is weaning duration. Sample size has been determined to adequately power 3 separate comparative analyses: (a) REDvent-acute versus Acute Phase control (b) REDvent-weaning phase versus Weaning Phase control (c) REDvent both phases versus control both phases. Power is based on 2 planned methods for analysis: cox proportional hazard ratios for multivariable analysis and univariate analysis with an independent t-test using log transformation (as needed) to account for the expected distribution of weaning duration. For all three of the planned comparisons above, with the proposed sample size the investigators would be adequately powered (>0.8) to detect a difference in weaning duration of ≥ 1 day, or a hazard ratio of ≥ 1.4 between groups. The secondary outcomes are ventilator free days and extubation failure. Directly comparing control only patients to REDvent only patients, with an expected standard deviation for VFDs between 5 to 9 days, the investigators will be able to detect a 2-day change in VFDs between groups with a power between 0.35 and 0.82. Re-intubation rates are expected to be 10%, allowing the investigators to confirm that REDvent is not inferior to usual care in regards to re-intubation with a non-inferiority margin of 0.10 with a power of 0.8 and alpha of 0.05.\n\nAim 2: The primary outcome of this aim is weaning duration. For respiratory muscle strength the investigators will compare the first measured aPiMax (after resolution of the acute phase, before the first SBT), the trajectory and value of the daily aPiMax during the weaning phase prior to extubation, the lowest and highest measured aPiMax, and aPiMax on the day of extubation against weaning duration. For analysis, aPiMax will be dichotomized at 30 cmH2O, and weaning duration will be compared between patients with aPiMax > 30 versus ≤ 30 cmH2O using a t-test with or without log-transformation, or Mann-Whitney U test, depending on the distribution. From preliminary data, it is anticipated at least 35% of patients (n=84) will have aPiMax ≤ 30 cmH2O. Based on a similar power analysis as presented above, this would allow the investigators to determine whether low aPiMax is associated with a ≥ 1-day increase in weaning duration, with an alpha of 0.05 and power of 0.8. The investigators will perform identical analysis for ePiMax. Diaphragm Thickness analysis will compound daily ultrasound measures to detect the relative change in diaphragm thickness from study day 1 until passage of an SBT. The investigators will compare the change in thickness after resolution of the acute phase (on the day of the first SBT) against weaning duration, in a similar manner as proposed above for aPiMax. In addition to weaning duration, the investigators will also examine whether the respiratory measures taken just prior to or during each SBT are associated with the patient passing the SBT. For example with aPiMax and ePiMax, the investigators will examine if there is a dose response relationship between PiMax measured just before the SBT and the rate of passage of the subsequent SBT.\n\nAim 3: The primary outcome of this aim is aPiMax < 30 cmH2O.The analysis will focus on determining whether the degree of patient effort of breathing is independently associated with the development of respiratory muscle weakness. For the acute phase, the investigators will generate a time-weighted average PRP during the acute phase and graph it against aPiMax at the first SBT. They will subsequently dichotomize aPiMax at the first SBT and compare mean time weighted average PRP in the acute phase between aPiMax groups (> 30 vs. ≤ 30 cmH2O). For the weaning phase, the investigators will graph the changes in aPiMax throughout the weaning phase (from first failed SBT until successful SBT) against time-weighted average PRP, with the anticipation that low PRP will be associated with either further reductions in aPiMax, or no improvement, while PRP in the physiologic range of 150-400 will be associated with improvement in aPiMax. The investigators will subsequently dichotomize aPiMax (at 30 cm H2O) at the time of successful passage of an SBT and compare time-weighted average PRP in the weaning phase between aPiMax groups. Subsequently, the investigators will build a multivariable logistic regression model on the outcome of aPiMax ≤ 30 cmH2O to determine if time-weighted PRP in the acute phase, weaning phase or both have an independent association with preserving aPiMax, after controlling for confounding variables."
+        ]
+      },
+      {
+        "Rank": 228,
         "NCTId": [
           "NCT03239977"
         ],
@@ -11364,7 +11458,7 @@
         ]
       },
       {
-        "Rank": 227,
+        "Rank": 229,
         "NCTId": [
           "NCT03234309"
         ],
@@ -11413,7 +11507,7 @@
         ]
       },
       {
-        "Rank": 228,
+        "Rank": 230,
         "NCTId": [
           "NCT03229837"
         ],
@@ -11463,7 +11557,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 231,
         "NCTId": [
           "NCT03225014"
         ],
@@ -11512,7 +11606,7 @@
         ]
       },
       {
-        "Rank": 230,
+        "Rank": 232,
         "NCTId": [
           "NCT03222570"
         ],
@@ -11558,7 +11652,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 231,
+        "Rank": 233,
         "NCTId": [
           "NCT03202303"
         ],
@@ -11606,7 +11700,7 @@
         ]
       },
       {
-        "Rank": 232,
+        "Rank": 234,
         "NCTId": [
           "NCT03192566"
         ],
@@ -11658,7 +11752,7 @@
         ]
       },
       {
-        "Rank": 233,
+        "Rank": 235,
         "NCTId": [
           "NCT03166358"
         ],
@@ -11706,7 +11800,7 @@
         ]
       },
       {
-        "Rank": 234,
+        "Rank": 236,
         "NCTId": [
           "NCT03154359"
         ],
@@ -11757,7 +11851,7 @@
         ]
       },
       {
-        "Rank": 235,
+        "Rank": 237,
         "NCTId": [
           "NCT03132948"
         ],
@@ -11806,7 +11900,7 @@
         ]
       },
       {
-        "Rank": 236,
+        "Rank": 238,
         "NCTId": [
           "NCT03073070"
         ],
@@ -11858,7 +11952,7 @@
         ]
       },
       {
-        "Rank": 237,
+        "Rank": 239,
         "NCTId": [
           "NCT03072849"
         ],
@@ -11909,7 +12003,7 @@
         ]
       },
       {
-        "Rank": 238,
+        "Rank": 240,
         "NCTId": [
           "NCT03055533"
         ],
@@ -11958,7 +12052,7 @@
         ]
       },
       {
-        "Rank": 239,
+        "Rank": 241,
         "NCTId": [
           "NCT03052738"
         ],
@@ -12008,7 +12102,7 @@
         ]
       },
       {
-        "Rank": 240,
+        "Rank": 242,
         "NCTId": [
           "NCT03032328"
         ],
@@ -12059,7 +12153,7 @@
         ]
       },
       {
-        "Rank": 241,
+        "Rank": 243,
         "NCTId": [
           "NCT03023566"
         ],
@@ -12108,7 +12202,7 @@
         ]
       },
       {
-        "Rank": 242,
+        "Rank": 244,
         "NCTId": [
           "NCT03005951"
         ],
@@ -12159,7 +12253,7 @@
         ]
       },
       {
-        "Rank": 243,
+        "Rank": 245,
         "NCTId": [
           "NCT02952222"
         ],
@@ -12205,7 +12299,7 @@
         ]
       },
       {
-        "Rank": 244,
+        "Rank": 246,
         "NCTId": [
           "NCT02914067"
         ],
@@ -12258,7 +12352,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 245,
+        "Rank": 247,
         "NCTId": [
           "NCT02895711"
         ],
@@ -12307,7 +12401,7 @@
         ]
       },
       {
-        "Rank": 246,
+        "Rank": 248,
         "NCTId": [
           "NCT02889016"
         ],
@@ -12354,7 +12448,7 @@
         ]
       },
       {
-        "Rank": 247,
+        "Rank": 249,
         "NCTId": [
           "NCT02872558"
         ],
@@ -12405,7 +12499,7 @@
         ]
       },
       {
-        "Rank": 248,
+        "Rank": 250,
         "NCTId": [
           "NCT02852213"
         ],
@@ -12457,7 +12551,7 @@
         ]
       },
       {
-        "Rank": 249,
+        "Rank": 251,
         "NCTId": [
           "NCT02846272"
         ],
@@ -12506,7 +12600,7 @@
         ]
       },
       {
-        "Rank": 250,
+        "Rank": 252,
         "NCTId": [
           "NCT02824627"
         ],
@@ -12556,7 +12650,7 @@
         ]
       },
       {
-        "Rank": 251,
+        "Rank": 253,
         "NCTId": [
           "NCT02801136"
         ],
@@ -12607,7 +12701,7 @@
         ]
       },
       {
-        "Rank": 252,
+        "Rank": 254,
         "NCTId": [
           "NCT02775643"
         ],
@@ -12654,7 +12748,7 @@
         ]
       },
       {
-        "Rank": 253,
+        "Rank": 255,
         "NCTId": [
           "NCT02769975"
         ],
@@ -12706,7 +12800,7 @@
         ]
       },
       {
-        "Rank": 254,
+        "Rank": 256,
         "NCTId": [
           "NCT02747849"
         ],
@@ -12757,7 +12851,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 257,
         "NCTId": [
           "NCT02742272"
         ],
@@ -12810,7 +12904,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 258,
         "NCTId": [
           "NCT02722486"
         ],
@@ -12858,7 +12952,7 @@
         ]
       },
       {
-        "Rank": 257,
+        "Rank": 259,
         "NCTId": [
           "NCT02703597"
         ],
@@ -12905,7 +12999,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 258,
+        "Rank": 260,
         "NCTId": [
           "NCT02699190"
         ],
@@ -12953,7 +13047,7 @@
         ]
       },
       {
-        "Rank": 259,
+        "Rank": 261,
         "NCTId": [
           "NCT02651493"
         ],
@@ -13004,7 +13098,7 @@
         ]
       },
       {
-        "Rank": 260,
+        "Rank": 262,
         "NCTId": [
           "NCT02616796"
         ],
@@ -13052,7 +13146,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 261,
+        "Rank": 263,
         "NCTId": [
           "NCT02610946"
         ],
@@ -13103,7 +13197,7 @@
         ]
       },
       {
-        "Rank": 262,
+        "Rank": 264,
         "NCTId": [
           "NCT02558010"
         ],
@@ -13157,7 +13251,7 @@
         ]
       },
       {
-        "Rank": 263,
+        "Rank": 265,
         "NCTId": [
           "NCT02535936"
         ],
@@ -13208,7 +13302,7 @@
         ]
       },
       {
-        "Rank": 264,
+        "Rank": 266,
         "NCTId": [
           "NCT02512718"
         ],
@@ -13252,7 +13346,7 @@
         ]
       },
       {
-        "Rank": 265,
+        "Rank": 267,
         "NCTId": [
           "NCT02507791"
         ],
@@ -13303,7 +13397,7 @@
         ]
       },
       {
-        "Rank": 266,
+        "Rank": 268,
         "NCTId": [
           "NCT02498925"
         ],
@@ -13351,7 +13445,7 @@
         ]
       },
       {
-        "Rank": 267,
+        "Rank": 269,
         "NCTId": [
           "NCT02485418"
         ],
@@ -13398,7 +13492,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 268,
+        "Rank": 270,
         "NCTId": [
           "NCT02478788"
         ],
@@ -13448,7 +13542,7 @@
         ]
       },
       {
-        "Rank": 269,
+        "Rank": 271,
         "NCTId": [
           "NCT02453126"
         ],
@@ -13494,7 +13588,55 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 270,
+        "Rank": 272,
+        "NCTId": [
+          "NCT02420990"
+        ],
+        "OfficialTitle": [
+          "Randomized Comparison of Evidence-Based Protocols for Adolescents With ADHD in Specialty Care: Behavioral Only Versus Integrated Behavioral and Medication Interventions"
+        ],
+        "Condition": [
+          "ADHD",
+          "Substance Use Disorders"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPrimary caregiver able to participate in treatment\nAdolescent meets DSM-5 diagnostic criteria for ADHD\nAdolescents who are substance users (50% of sample) meet ASAM criteria for non-intensive outpatient services\nAdolescent not enrolled in any other behavioral treatment\nCaregiver expresses desire, and adolescent expresses willingness, to participate in outpatient treatment\nFamily has health benefits that meet the requirements of study treatment sites, all of which accept a broad range of insurance plans including Medicaid.\n\nExclusion Criteria:\n\nIntellectual Disability or Autism-Spectrum Disorder\nMedical/psychiatric illness requiring hospitalization\nCurrent psychotic symptoms; active suicidal ideation\nSevere substance use problems that require immediate relief (detox or residential placement)"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "New York"
+        ],
+        "LocationFacility": [
+          "The National Center on Addiction and Substance Abuse at Columbia University"
+        ],
+        "LocationState": [
+          "New York"
+        ],
+        "LocationZip": [
+          "10017"
+        ],
+        "LocationContactEMail": [
+          "leap@casacolumbia.org"
+        ],
+        "LocationContactName": [
+          "Jacqueline Fisher, Ph.D.",
+          "Aaron T Hogue, Ph.D."
+        ],
+        "LocationContactPhone": [
+          "212-841-5242"
+        ],
+        "BriefSummary": [
+          "Attention-Deficit/Hyperactivity Disorder (ADHD) exists in 20-50% of the 3 million adolescents annually enrolled in outpatient mental health and substance use treatment. Adolescents with ADHD present deficits in attention, self-regulation, and social competence that significantly impede achievement of developmental and educational milestones. Currently there are only two evidence-based treatment options for this age group: academic training and stimulant medications. Both options remain vastly underutilized. Academic training is not available in most school settings and rarely implemented in clinical care. Similarly, ADHD medications are rarely utilized with adolescents in primary or specialty care for a host of reasons related to stigma, misinformation about effects and side effects, and adolescent autonomy issues. Moreover, the widespread fragmentation of pharmacological versus behavioral services prevents families from making informed treatment selections.\n\nThe primary objective of this randomized parametric trial is to compare the effectiveness of behavioral only versus integrated (behavioral plus medication decision-making) interventions for adolescents with ADHD in outpatient behavioral services. The behavioral intervention, Changing Academic Support in the Home for Adolescents with ADHD (CASH-AA), contains three components: ADHD psychoeducation, family-based motivational interventions, and academic training. The medication decision-making intervention, Medication Integration Protocol (MIP), contain three components: psychoeducation about ADHD medication, family decision-making, and medication management. The study will compare the effects of two legitimate treatment options for adolescents with ADHD on service utilization, behavioral symptoms, and quality of life. It will generate new evidence on patient-centered treatment selection that aligns with family-specific principles and treatment goals.\n\nThis parametric comparative trial will randomly assign 140 inner-city adolescents with ADHD to (1) CASH-AA Only or (2) CASH-AA + MIP. Treatment will occur in community behavioral health clinics. All participants will receive behavioral interventions (CASH-AA): family psychoeducation in ADHD symptoms, executive functioning, and developmental impacts; family-based motivation and ADHD accommodation interventions; and academic training focused on home environment support and organizational skills. Half of the participants will also receive medication decision-making interventions (MIP): ADHD medication psychoeducation, family decision-making interventions, and (for those who elect to start medication) coordinated medication management. Half of the sample will have comorbid substance use problems. Treatment will occur in three community clinics; therapists will be randomly assigned to study condition. Caregivers and adolescents will complete assessments at baseline, 3, 6, and 12-month follow-up. Multilevel modeling will compare the effectiveness of each condition on key patient and service use outcomes. Patient-centered analyses will explore differential treatment effects based on (a) Medication decision (yes/no); (b) Substance use comorbidity (yes/no); (c) Race/Ethnicity (Hispanic, African American).\n\nQuantitative outcome analyses will test for service use effects, symptom reduction, and quality of life improvements that are primary reasons for seeking clinical services. Qualitative interviews will document family-specific rationale for decisions about medication, compliance with behavioral and medication interventions, and suggestions for improving services and service integration. Note that families assigned to CASH-AA Only will retain the option of pursuing ADHD medication through treatment-as-usual procedures at their respective clinic. Similarly, families assigned to CASH-AA + MIP will not be required to start ADHD medication. Instead, they will receive informed-choice interventions and can choose when and if to start medication; the study will assess the impact of these decisions on clinical outcomes.\n\nIf proven efficacious, the CASH-AA and MIP protocols could be rapidly disseminated individually or as an integrated protocol into routine behavioral healthcare settings. The protocols can also be readily combined with other behavioral treatments to form a multicomponent treatment package for adolescents with co-occurring behavior problems. In addition, the family-based, patient-centered CASH-AA and MIP protocols could be delivered in conjunction with other family-based treatments or with individual approaches that flexibly include caregivers in multiple treatment sessions. This makes CASH-AA and MIP highly efficient clinical resources for addressing ADHD-related problems in any outpatient setting that serves adolescents and their families."
+        ],
+        "DetailedDescription": []
+      },
+      {
+        "Rank": 273,
         "NCTId": [
           "NCT02398539"
         ],
@@ -13539,7 +13681,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 271,
+        "Rank": 274,
         "NCTId": [
           "NCT02395003"
         ],
@@ -13583,7 +13725,7 @@
         ]
       },
       {
-        "Rank": 272,
+        "Rank": 275,
         "NCTId": [
           "NCT02312635"
         ],
@@ -13635,7 +13777,7 @@
         ]
       },
       {
-        "Rank": 273,
+        "Rank": 276,
         "NCTId": [
           "NCT02257229"
         ],
@@ -13682,7 +13824,7 @@
         ]
       },
       {
-        "Rank": 274,
+        "Rank": 277,
         "NCTId": [
           "NCT02245997"
         ],
@@ -13729,7 +13871,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 275,
+        "Rank": 278,
         "NCTId": [
           "NCT02202174"
         ],
@@ -13774,7 +13916,7 @@
         ]
       },
       {
-        "Rank": 276,
+        "Rank": 279,
         "NCTId": [
           "NCT02130180"
         ],
@@ -13822,7 +13964,7 @@
         ]
       },
       {
-        "Rank": 277,
+        "Rank": 280,
         "NCTId": [
           "NCT02127658"
         ],
@@ -13864,7 +14006,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 278,
+        "Rank": 281,
         "NCTId": [
           "NCT02117063"
         ],
@@ -13921,7 +14063,7 @@
         ]
       },
       {
-        "Rank": 279,
+        "Rank": 282,
         "NCTId": [
           "NCT02055105"
         ],
@@ -13969,7 +14111,7 @@
         ]
       },
       {
-        "Rank": 280,
+        "Rank": 283,
         "NCTId": [
           "NCT02021604"
         ],
@@ -14012,7 +14154,7 @@
         ]
       },
       {
-        "Rank": 281,
+        "Rank": 284,
         "NCTId": [
           "NCT01960166"
         ],
@@ -14054,7 +14196,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 282,
+        "Rank": 285,
         "NCTId": [
           "NCT01857791"
         ],
@@ -14101,7 +14243,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 283,
+        "Rank": 286,
         "NCTId": [
           "NCT01839747"
         ],
@@ -14150,7 +14292,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 287,
         "NCTId": [
           "NCT01724463"
         ],
@@ -14205,7 +14347,7 @@
         ]
       },
       {
-        "Rank": 285,
+        "Rank": 288,
         "NCTId": [
           "NCT01665326"
         ],
@@ -14255,7 +14397,7 @@
         ]
       },
       {
-        "Rank": 286,
+        "Rank": 289,
         "NCTId": [
           "NCT01629017"
         ],
@@ -14304,7 +14446,7 @@
         ]
       },
       {
-        "Rank": 287,
+        "Rank": 290,
         "NCTId": [
           "NCT01598766"
         ],
@@ -14356,7 +14498,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 288,
+        "Rank": 291,
         "NCTId": [
           "NCT01577810"
         ],
@@ -14407,7 +14549,7 @@
         ]
       },
       {
-        "Rank": 289,
+        "Rank": 292,
         "NCTId": [
           "NCT01567579"
         ],
@@ -14458,7 +14600,7 @@
         ]
       },
       {
-        "Rank": 290,
+        "Rank": 293,
         "NCTId": [
           "NCT01543438"
         ],
@@ -14505,7 +14647,7 @@
         ]
       },
       {
-        "Rank": 291,
+        "Rank": 294,
         "NCTId": [
           "NCT01504373"
         ],
@@ -14551,7 +14693,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 292,
+        "Rank": 295,
         "NCTId": [
           "NCT01422759"
         ],
@@ -14603,7 +14745,7 @@
         ]
       },
       {
-        "Rank": 293,
+        "Rank": 296,
         "NCTId": [
           "NCT01422746"
         ],
@@ -14653,7 +14795,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 294,
+        "Rank": 297,
         "NCTId": [
           "NCT01421810"
         ],
@@ -14704,7 +14846,7 @@
         ]
       },
       {
-        "Rank": 295,
+        "Rank": 298,
         "NCTId": [
           "NCT01421797"
         ],
@@ -14756,7 +14898,7 @@
         ]
       },
       {
-        "Rank": 296,
+        "Rank": 299,
         "NCTId": [
           "NCT01386736"
         ],
@@ -14805,7 +14947,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 297,
+        "Rank": 300,
         "NCTId": [
           "NCT01383915"
         ],
@@ -14854,7 +14996,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 301,
         "NCTId": [
           "NCT01304875"
         ],
@@ -14898,7 +15040,7 @@
         ]
       },
       {
-        "Rank": 299,
+        "Rank": 302,
         "NCTId": [
           "NCT01285531"
         ],
@@ -14955,7 +15097,7 @@
         ]
       },
       {
-        "Rank": 300,
+        "Rank": 303,
         "NCTId": [
           "NCT01122095"
         ],
@@ -15008,7 +15150,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 304,
         "NCTId": [
           "NCT00906906"
         ],
@@ -15059,7 +15201,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 305,
         "NCTId": [
           "NCT00814853"
         ],
@@ -15106,7 +15248,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 306,
         "NCTId": [
           "NCT00792415"
         ],
@@ -15154,7 +15296,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 304,
+        "Rank": 307,
         "NCTId": [
           "NCT00745394"
         ],
@@ -15201,7 +15343,7 @@
         ]
       },
       {
-        "Rank": 305,
+        "Rank": 308,
         "NCTId": [
           "NCT00616317"
         ],
@@ -15239,7 +15381,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 306,
+        "Rank": 309,
         "NCTId": [
           "NCT00494572"
         ],
@@ -15289,7 +15431,7 @@
         ]
       },
       {
-        "Rank": 307,
+        "Rank": 310,
         "NCTId": [
           "NCT00491946"
         ],
@@ -15334,7 +15476,7 @@
         ]
       },
       {
-        "Rank": 308,
+        "Rank": 311,
         "NCTId": [
           "NCT00465699"
         ],
@@ -15378,7 +15520,7 @@
         ]
       },
       {
-        "Rank": 309,
+        "Rank": 312,
         "NCTId": [
           "NCT00320086"
         ],
@@ -15426,7 +15568,7 @@
         ]
       },
       {
-        "Rank": 310,
+        "Rank": 313,
         "NCTId": [
           "NCT00292513"
         ],
@@ -15471,7 +15613,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 311,
+        "Rank": 314,
         "NCTId": [
           "NCT00182572"
         ],
@@ -15515,7 +15657,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 315,
         "NCTId": [
           "NCT00036712"
         ],
@@ -15572,7 +15714,7 @@
         ]
       },
       {
-        "Rank": 313,
+        "Rank": 316,
         "NCTId": [
           "NCT00012506"
         ],
@@ -15620,7 +15762,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 317,
         "NCTId": [
           "NCT00000112"
         ],
@@ -15661,149 +15803,57 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 315,
+        "Rank": 318,
         "NCTId": [
-          "NCT04602325"
+          "NCT04602728"
         ],
         "OfficialTitle": [
-          "Systemic Biomarkers of Brain Injury From Hyperammonemia"
+          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
         ],
         "Condition": [
-          "Urea Cycle Disorder",
-          "Organic Acidemia",
-          "Maple Syrup Urine Disease",
-          "Glutaric Acidemia I",
-          "Fatty Acid Oxidation Disorder",
-          "Hypoxic-Ischemic Encephalopathy"
+          "Sickle Cell Disease"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nInherited Hyperammonemias:\n\nA clinical diagnosis of 1 of 7 diagnosed urea cycle disorders:\n\nN-acetylglutamate Synthetase Deficiency (NAGS)\nCarbamyl Phosphate Synthetase Deficiency (CPSD)\nOrnithine Transcarbamylase Deficiency (OTCD)\nArgininosuccinate Synthetase Deficiency (ASD)\nArgininosuccinate Lyase Deficiency (ALD)\nArginase Deficiency (AD)\nHyperammonemia-Hyperornithinemia-Homocitrullinuria (HHH)\n\nA clinical diagnosis of 1 of 2 organic acidemias:\n\nPropionic Acidemia (PA)\nMethylmalonic Acidemia (MMA)\n\nAcute metabolic disorder without hyperammonemia, with neurological sequelae\n\nMaple Syrup Urine Disease (MSUD)\nGlutaric Acidemia (GA1)\n\nAcute metabolic disorder without hyperammonemia and without neurological sequelae\n\nFatty Acid Oxidation Disorders:\nMedium Chain-Acyl CoA Dehydrogenase Deficiency\nVery Long Chain-Acyl CoA Dehydrogenase Deficiency\nTrifunctional Protein Deficiency\nLong Chain Hydroxyacyl-CoA Dehydrogenase Deficiency\nCarnitine Palmitoyltransferase I or II Deficiency\nCarnitine/Acylcarnitine Translocase Deficiency\nPrimary Carnitine Transport Deficiency\nHypoxic-Ischemic Encephalopathy\n\nExclusion Criteria:\n\nPrior Solid-Organ Transplant\nUse of any other investigational drug, biologic, or therapy or any clinical or laboratory abnormality or medical condition that, as determined by the investigator, may interfere with or obscure the biomarker measurements"
+          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
         ],
         "MinimumAge": [
-          "7 Years"
+          "10 Years"
         ],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "Washington"
+          "Atlanta",
+          "Atlanta",
+          "Atlanta"
         ],
         "LocationFacility": [
-          "Children's National Research Institute"
+          "Children's Healthcare of Atlanta at Hugh Spalding",
+          "Chilldren's Healthcare of Atlanta",
+          "Emory Children's Center"
         ],
         "LocationState": [
-          "District of Columbia"
+          "Georgia",
+          "Georgia",
+          "Georgia"
         ],
         "LocationZip": [
-          "20010"
-        ],
-        "LocationContactEMail": [
-          "krice3@childrensnational.org"
-        ],
-        "LocationContactName": [
-          "Katie Rice, MPH, CCRP",
-          "Nicholas Ah Mew, MD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. High blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. The following aims are proposed:\n\nAim 1 of this study will be to determine the chronology of biomarkers of brain injury in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder.\n\nAim 2 will be to determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1)."
-        ],
-        "DetailedDescription": [
-          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. The onslaught of high blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. In addition, clinical hyperammonemia recurs at varying intervals, which can increase the cumulative damage to the brain and the chance of irreversible coma and death during a hyperammonemia episode due to vascular compromise or brain herniation. The threshold of tolerance for elevated blood ammonia is very low and concentrations above 100 µM can cause brain dysfunction manifested as nausea, vomiting, lethargy, and abnormal behavior; higher concentrations can cause coma and even death. Failure to remove ammonia can be due to inherited defects of the urea cycle, some defects in amino acid catabolism, and degradation of fatty acids.\n\nAim 1 - To determine the chronology of biomarkers of brain injury - S100B, NSE, and UCHL1 - in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder. We hypothesized that elevations of S100B, NSE, and UCHL1 will parallel the rise in blood ammonia. These biomarkers will be measured concurrently to ammonia levels throughout hospitalizations for HA until normalization of patient's blood ammonia and mental status.\n\nAim 2 - To determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism in which the primary pathology is neurological injury, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1). We hypothesize that neuronal and astroglial injury in these disorders may also result in increased levels of S100B, NSE, and UCHL1.\n\nMetabolic patients will be enrolled either during a hospitalization or in outpatient clinic, but outpatient enrollment is preferred. Metabolic patients typically have multiple laboratory tests performed at their outpatient visits. We will obtain the discarded blood samples from such laboratory tests in order to measure S100B, NSE, and UCHL1 levels at baseline (normal blood ammonia), which will provide data on biomarker levels following recovery from a hyperammonemic episode.\n\nDuring hospitalization for metabolic decompensation or for hypoxic-ischemic encephalopathy, sequential measurements of S100B, NSE and UCHL1 levels will be obtained from discarded blood samples. We will obtain S100B, NSE, and UCHL1 levels from collected discarded blood samples at all subjects' next outpatient visit following their hospitalization, to determine if levels return to baseline."
-        ]
-      },
-      {
-        "Rank": 316,
-        "NCTId": [
-          "NCT03266016"
-        ],
-        "OfficialTitle": [
-          "Identifying and Preventing Ventilator Induced Diaphragm Dysfunction in Children"
-        ],
-        "Condition": [
-          "Ventilation Therapy; Complications",
-          "Diaphragm Disease",
-          "Pediatric Respiratory Diseases"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nChildren > 1 month (>44 weeks CGA) and ≤ 18 years of age AND\nSupported on mechanical ventilation with pulmonary parenchymal disease (i.e., pneumonia, bronchiolitis, Pediatric Acute Respiratory Distress Syndrome (PARDS)) with Oxygen Saturation Index (OSI) ≥ 5 or Oxygenation Index (OI) ≥) AND\nWho are within 48 hours of initiation of invasive mechanical ventilation (allow for up to 72 hours for those transferred from another institution)\n\nExclusion Criteria:\n\nContraindications to use of an esophageal catheter (i.e. severe mucosal bleeding, nasal encephalocele, transphenoidal surgery) OR\nContraindications to use of RIP bands (i.e. omphalocele, chest immobilizer or cast) OR\nConditions precluding diaphragm ultrasound measurement (i.e. abdominal wall defects, pregnancy) OR\nConditions on enrollment that preclude conventional methods of weaning (i.e., status asthmaticus, severe lower airway obstruction, critical airway, intracranial hypertension, Extra Corporeal Life Support (ECLS), intubation for UAO, DNR, severe chronic respiratory failure, spinal cord injury above lumbar region, cyanotic heart disease (unrepaired or palliated)) OR\nPrimary Attending physician refuses (will be cleared with primary attending before approaching the patient)."
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Los Angeles"
-        ],
-        "LocationFacility": [
-          "Children's Hospital Los Angeles"
-        ],
-        "LocationState": [
-          "California"
-        ],
-        "LocationZip": [
-          "90027"
+          "30303",
+          "30322",
+          "30322"
         ],
         "LocationContactEMail": [],
         "LocationContactName": [],
         "LocationContactPhone": [],
         "BriefSummary": [
-          "This study is a Phase II controlled clinical trial that will obtain comprehensive, serial assessments of respiratory muscle strength and architecture to understand the evolution of ventilator-induced respiratory muscle weakness in critically ill children, and test whether a novel computer-based approach (Real-time Effort Driven ventilator management (REDvent)) can preserve respiratory muscle strength and reduce time on MV. REDvent offers systematic recommendations to reduce controlled ventilation during the acute phase of MV, and uses real-time measures from esophageal manometry to adjust supported ventilator pressures such that patient effort of breathing remains in a normal range during the ventilator weaning phase. This phase II clinical trial is expected to enroll 276 children with pulmonary parenchymal disease, anticipated to be ventilated > 48 hrs. Patients will be randomized to REDvent-acute vs. usual care for the acute phase of MV (interval from intubation to first spontaneous breathing trial (SBT)). Patients in either group who fail their first Spontaneous Breathing Trial (SBT), will also be randomized to REDvent-weaning vs. usual care for the weaning phase of MV (interval from first SBT to passing SBT). The primary clinical outcome is length of weaning (time from first SBT until successful passage of an SBT or extubation (whichever comes first)). Mechanistic outcomes surround multi-modal serial measures of respiratory muscle capacity (PiMax), load (resistance, compliance), effort (esophageal manometry), and architecture (ultrasound) throughout the course of MV. Upon completion, this study will provide important information on the pathogenesis and timing of respiratory muscle weakness during MV in children and whether this weakness can be mitigated by promoting more normal patient effort during MV via the use of REDvent. This will form the basis for a larger, Phase III multi-center study, powered for key clinical outcomes such as 28-day Ventilator Free Days."
+          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
         ],
         "DetailedDescription": [
-          "Study Aims:\n\nSA1: To determine if REDvent acute and/or weaning phase protocols can shorten the duration of weaning from MV (Primary outcome).\n\nSA2: To determine if changes to direct measures of respiratory muscle strength, load, effort, and architecture throughout the duration of MV are related to weaning outcomes.\n\nSA3: To determine if patient effort of breathing during both acute and weaning phases of MV is independently associated with the development of respiratory muscle weakness.\n\nStudy Design: Single-center randomized controlled trial (138 children per arm) using REDvent (intervention arm) as compared with usual care ventilator management including a standardized daily SBT (control arm). Acute phase randomization will occur upon study enrollment, and patients who fail the first SBT will undergo a weaning phase randomization. The investigators will obtain serial measurements of respiratory system capacity, load, effort of breathing, and diaphragm architecture throughout the course of MV.\n\nAcute Phase: The acute phase is defined as the time from intubation until the patient meets weaning criteria, passes the initial oxygenation test (decrease PEEP to 5 cmH2O and FiO2 to 0.5, maintains SpO2 > 90%), and undergoes a Spontaneous Breathing Trial (SBT).\n\nIntervention Arm (REDvent-acute): Patients will be managed with pressure control plus pressure support ventilation using a computerized decision support tool that will recommend changes to ventilator settings approximately every 4 hr (with or without a new blood gas). If the patient is spontaneously breathing, it will incorporate real-time measures of effort of breathing (esophageal manometry) to keep it in a target range.\nControl Arm (Control-acute): Ventilator management will be per usual care until the patient meets weaning criteria and passes the oxygenation test.\n\nWeaning Phase: The weaning phase is defined as the time from the first Spontaneous Breathing Trial (SBT) until the patient successfully passes an SBT or is extubated (whichever comes first). Patients who pass the initial SBT at the end of the acute phase will not undergo weaning phase randomization.\n\nIntervention Arm (REDvent-weaning): Patients will be managed in a pressure support/CPAP mode of ventilation with assessments or changes to the level of pressure support every 4 hours, targeting maintaining effort of breathing (esophageal manometry) in a normal range. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\nControl Arm (Control-weaning): Ventilator management will be per usual care. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\n\nAnalysis Plan and Sample Size Justification:\n\nAim 1: The primary outcome is weaning duration. Sample size has been determined to adequately power 3 separate comparative analyses: (a) REDvent-acute versus Acute Phase control (b) REDvent-weaning phase versus Weaning Phase control (c) REDvent both phases versus control both phases. Power is based on 2 planned methods for analysis: cox proportional hazard ratios for multivariable analysis and univariate analysis with an independent t-test using log transformation (as needed) to account for the expected distribution of weaning duration. For all three of the planned comparisons above, with the proposed sample size the investigators would be adequately powered (>0.8) to detect a difference in weaning duration of ≥ 1 day, or a hazard ratio of ≥ 1.4 between groups. The secondary outcomes are ventilator free days and extubation failure. Directly comparing control only patients to REDvent only patients, with an expected standard deviation for VFDs between 5 to 9 days, the investigators will be able to detect a 2-day change in VFDs between groups with a power between 0.35 and 0.82. Re-intubation rates are expected to be 10%, allowing the investigators to confirm that REDvent is not inferior to usual care in regards to re-intubation with a non-inferiority margin of 0.10 with a power of 0.8 and alpha of 0.05.\n\nAim 2: The primary outcome of this aim is weaning duration. For respiratory muscle strength the investigators will compare the first measured aPiMax (after resolution of the acute phase, before the first SBT), the trajectory and value of the daily aPiMax during the weaning phase prior to extubation, the lowest and highest measured aPiMax, and aPiMax on the day of extubation against weaning duration. For analysis, aPiMax will be dichotomized at 30 cmH2O, and weaning duration will be compared between patients with aPiMax > 30 versus ≤ 30 cmH2O using a t-test with or without log-transformation, or Mann-Whitney U test, depending on the distribution. From preliminary data, it is anticipated at least 35% of patients (n=84) will have aPiMax ≤ 30 cmH2O. Based on a similar power analysis as presented above, this would allow the investigators to determine whether low aPiMax is associated with a ≥ 1-day increase in weaning duration, with an alpha of 0.05 and power of 0.8. The investigators will perform identical analysis for ePiMax. Diaphragm Thickness analysis will compound daily ultrasound measures to detect the relative change in diaphragm thickness from study day 1 until passage of an SBT. The investigators will compare the change in thickness after resolution of the acute phase (on the day of the first SBT) against weaning duration, in a similar manner as proposed above for aPiMax. In addition to weaning duration, the investigators will also examine whether the respiratory measures taken just prior to or during each SBT are associated with the patient passing the SBT. For example with aPiMax and ePiMax, the investigators will examine if there is a dose response relationship between PiMax measured just before the SBT and the rate of passage of the subsequent SBT.\n\nAim 3: The primary outcome of this aim is aPiMax < 30 cmH2O.The analysis will focus on determining whether the degree of patient effort of breathing is independently associated with the development of respiratory muscle weakness. For the acute phase, the investigators will generate a time-weighted average PRP during the acute phase and graph it against aPiMax at the first SBT. They will subsequently dichotomize aPiMax at the first SBT and compare mean time weighted average PRP in the acute phase between aPiMax groups (> 30 vs. ≤ 30 cmH2O). For the weaning phase, the investigators will graph the changes in aPiMax throughout the weaning phase (from first failed SBT until successful SBT) against time-weighted average PRP, with the anticipation that low PRP will be associated with either further reductions in aPiMax, or no improvement, while PRP in the physiologic range of 150-400 will be associated with improvement in aPiMax. The investigators will subsequently dichotomize aPiMax (at 30 cm H2O) at the time of successful passage of an SBT and compare time-weighted average PRP in the weaning phase between aPiMax groups. Subsequently, the investigators will build a multivariable logistic regression model on the outcome of aPiMax ≤ 30 cmH2O to determine if time-weighted PRP in the acute phase, weaning phase or both have an independent association with preserving aPiMax, after controlling for confounding variables."
+          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
         ]
       },
       {
-        "Rank": 317,
-        "NCTId": [
-          "NCT02420990"
-        ],
-        "OfficialTitle": [
-          "Randomized Comparison of Evidence-Based Protocols for Adolescents With ADHD in Specialty Care: Behavioral Only Versus Integrated Behavioral and Medication Interventions"
-        ],
-        "Condition": [
-          "ADHD",
-          "Substance Use Disorders"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPrimary caregiver able to participate in treatment\nAdolescent meets DSM-5 diagnostic criteria for ADHD\nAdolescents who are substance users (50% of sample) meet ASAM criteria for non-intensive outpatient services\nAdolescent not enrolled in any other behavioral treatment\nCaregiver expresses desire, and adolescent expresses willingness, to participate in outpatient treatment\nFamily has health benefits that meet the requirements of study treatment sites, all of which accept a broad range of insurance plans including Medicaid.\n\nExclusion Criteria:\n\nIntellectual Disability or Autism-Spectrum Disorder\nMedical/psychiatric illness requiring hospitalization\nCurrent psychotic symptoms; active suicidal ideation\nSevere substance use problems that require immediate relief (detox or residential placement)"
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "New York"
-        ],
-        "LocationFacility": [
-          "The National Center on Addiction and Substance Abuse at Columbia University"
-        ],
-        "LocationState": [
-          "New York"
-        ],
-        "LocationZip": [
-          "10017"
-        ],
-        "LocationContactEMail": [
-          "leap@casacolumbia.org"
-        ],
-        "LocationContactName": [
-          "Jacqueline Fisher, Ph.D.",
-          "Aaron T Hogue, Ph.D."
-        ],
-        "LocationContactPhone": [
-          "212-841-5242"
-        ],
-        "BriefSummary": [
-          "Attention-Deficit/Hyperactivity Disorder (ADHD) exists in 20-50% of the 3 million adolescents annually enrolled in outpatient mental health and substance use treatment. Adolescents with ADHD present deficits in attention, self-regulation, and social competence that significantly impede achievement of developmental and educational milestones. Currently there are only two evidence-based treatment options for this age group: academic training and stimulant medications. Both options remain vastly underutilized. Academic training is not available in most school settings and rarely implemented in clinical care. Similarly, ADHD medications are rarely utilized with adolescents in primary or specialty care for a host of reasons related to stigma, misinformation about effects and side effects, and adolescent autonomy issues. Moreover, the widespread fragmentation of pharmacological versus behavioral services prevents families from making informed treatment selections.\n\nThe primary objective of this randomized parametric trial is to compare the effectiveness of behavioral only versus integrated (behavioral plus medication decision-making) interventions for adolescents with ADHD in outpatient behavioral services. The behavioral intervention, Changing Academic Support in the Home for Adolescents with ADHD (CASH-AA), contains three components: ADHD psychoeducation, family-based motivational interventions, and academic training. The medication decision-making intervention, Medication Integration Protocol (MIP), contain three components: psychoeducation about ADHD medication, family decision-making, and medication management. The study will compare the effects of two legitimate treatment options for adolescents with ADHD on service utilization, behavioral symptoms, and quality of life. It will generate new evidence on patient-centered treatment selection that aligns with family-specific principles and treatment goals.\n\nThis parametric comparative trial will randomly assign 140 inner-city adolescents with ADHD to (1) CASH-AA Only or (2) CASH-AA + MIP. Treatment will occur in community behavioral health clinics. All participants will receive behavioral interventions (CASH-AA): family psychoeducation in ADHD symptoms, executive functioning, and developmental impacts; family-based motivation and ADHD accommodation interventions; and academic training focused on home environment support and organizational skills. Half of the participants will also receive medication decision-making interventions (MIP): ADHD medication psychoeducation, family decision-making interventions, and (for those who elect to start medication) coordinated medication management. Half of the sample will have comorbid substance use problems. Treatment will occur in three community clinics; therapists will be randomly assigned to study condition. Caregivers and adolescents will complete assessments at baseline, 3, 6, and 12-month follow-up. Multilevel modeling will compare the effectiveness of each condition on key patient and service use outcomes. Patient-centered analyses will explore differential treatment effects based on (a) Medication decision (yes/no); (b) Substance use comorbidity (yes/no); (c) Race/Ethnicity (Hispanic, African American).\n\nQuantitative outcome analyses will test for service use effects, symptom reduction, and quality of life improvements that are primary reasons for seeking clinical services. Qualitative interviews will document family-specific rationale for decisions about medication, compliance with behavioral and medication interventions, and suggestions for improving services and service integration. Note that families assigned to CASH-AA Only will retain the option of pursuing ADHD medication through treatment-as-usual procedures at their respective clinic. Similarly, families assigned to CASH-AA + MIP will not be required to start ADHD medication. Instead, they will receive informed-choice interventions and can choose when and if to start medication; the study will assess the impact of these decisions on clinical outcomes.\n\nIf proven efficacious, the CASH-AA and MIP protocols could be rapidly disseminated individually or as an integrated protocol into routine behavioral healthcare settings. The protocols can also be readily combined with other behavioral treatments to form a multicomponent treatment package for adolescents with co-occurring behavior problems. In addition, the family-based, patient-centered CASH-AA and MIP protocols could be delivered in conjunction with other family-based treatments or with individual approaches that flexibly include caregivers in multiple treatment sessions. This makes CASH-AA and MIP highly efficient clinical resources for addressing ADHD-related problems in any outpatient setting that serves adolescents and their families."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 318,
+        "Rank": 319,
         "NCTId": [
           "NCT04582682"
         ],
@@ -15868,7 +15918,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 320,
         "NCTId": [
           "NCT04465370"
         ],
@@ -15926,7 +15976,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 320,
+        "Rank": 321,
         "NCTId": [
           "NCT02505165"
         ],
@@ -15991,7 +16041,7 @@
         ]
       },
       {
-        "Rank": 321,
+        "Rank": 322,
         "NCTId": [
           "NCT01142882"
         ],
@@ -16052,56 +16102,6 @@
         ],
         "DetailedDescription": [
           "This trial will examine the comparative effectiveness and cost-effectiveness of a web-based HIV, hepatitis and STI prevention intervention when offered to youth in outpatient, community-based substance abuse treatment as directly compared to a traditional HIV (and infectious disease) prevention intervention. We will assess the comparative effectiveness and cost-effectiveness of these interventions by primarily examining changes from pre- to post-intervention in accurate HIV/disease prevention knowledge, intentions to engage in safer sex and HIV risk behavior. Additionally, we will examine the extent to which the interventions impact relevant skills acquisition (e.g., communication skills, negotiation skills and condom use skills), attitudes toward safer sex and self-reported substance use, as well as the acceptability of each intervention. We also plan to evaluate youth at both 1 and 3 month post-intervention to examine the durability of effects (including any differential durability of effects across intervention conditions). The web-delivered prevention intervention to be evaluated in this study has the potential to allow for a complex intervention to be delivered at a low cost, without increasing demands on staff time or training needs, and may thereby expand the reach of evidence-based prevention for youth in substance-abuse treatment.\n\nThis study will be conducted at three collaborating, community-based adolescent substance abuse treatment programs all of which are housed within the Daytop Village network of services and are located in New York City: (1) Daytop Village's Brooklyn Outreach Center; (2) Daytop Village's Bronx Outreach Center; and (3) Daytop Village's Queens Outreach Center. We expect to recruit approximately one third of the total number of participants from each site.\n\nA total of up to 160 (no fewer than 120) adolescent participants will be enrolled in this study. Participants will be randomly assigned to one of the two study conditions in an intent-to-treat design (n=60-80 per group): (1) computer-delivered intervention or (2) traditional (person-delivered intervention). Participants in the traditional prevention intervention condition will complete two sessions (of approx. one hour in duration) across the course of a week, conducted by a trained HIV (and infectious disease) prevention educator; these sessions will typically be conducted in small groups of 2-4 participants but may be offered individually. Participants in the computer-delivered intervention condition will complete an interactive, web-based HIV, hepatitis and STI prevention program instead of the traditional, person-delivered prevention intervention. Youth will be asked to complete a customized plan of approximately 2-4 hours in length using the web-based tool; participants will complete two 60-minute sessions per week until they complete their customized plan. Participants will access this intervention using dedicated computer stations set up at their substance abuse treatment program."
-        ]
-      },
-      {
-        "Rank": 322,
-        "NCTId": [
-          "NCT04602728"
-        ],
-        "OfficialTitle": [
-          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
-        ],
-        "Condition": [
-          "Sickle Cell Disease"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
-        ],
-        "MinimumAge": [
-          "10 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Atlanta",
-          "Atlanta",
-          "Atlanta"
-        ],
-        "LocationFacility": [
-          "Children's Healthcare of Atlanta at Hugh Spalding",
-          "Chilldren's Healthcare of Atlanta",
-          "Emory Children's Center"
-        ],
-        "LocationState": [
-          "Georgia",
-          "Georgia",
-          "Georgia"
-        ],
-        "LocationZip": [
-          "30303",
-          "30322",
-          "30322"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
-        ],
-        "DetailedDescription": [
-          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
         ]
       },
       {
@@ -16582,6 +16582,133 @@
       {
         "Rank": 330,
         "NCTId": [
+          "NCT04625686"
+        ],
+        "OfficialTitle": [
+          "A Multi-Site, Non-Interventional Study to Compare the Outcomes of Psychiatric Treatment of Suicidal Adolescents in Different Treatment Settings"
+        ],
+        "Condition": [
+          "Suicidal Ideation"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nAdolescents that are 12 through 18 years old.\nAdolescents that are brought to the Emergency Department for crisis evaluation due to suicidal thoughts or behaviors.\nRequire a higher level of care.\nThe presence of a legal guardian for consent.\nCapable of giving signed informed consent/assent, which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.\n\nExclusion Criteria:\n\nAdolescents with suicidal thoughts who had prior OCIC treatment in the past 12 months.\nAdolescents without the ability to answer survey questions.\nAdolescents that are non-English speaking due to the scales and surveys that are used for this study only being available in English."
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Queens",
+          "Cincinnati",
+          "Columbus",
+          "Dallas"
+        ],
+        "LocationFacility": [
+          "Northwell Health",
+          "Cincinnati Children's Hospital Medical Center",
+          "Nationwide Children's Hospital",
+          "UT Southwestern Medical Center"
+        ],
+        "LocationState": [
+          "New York",
+          "Ohio",
+          "Ohio",
+          "Texas"
+        ],
+        "LocationZip": [
+          "11004",
+          "45229",
+          "43205",
+          "75390"
+        ],
+        "LocationContactEMail": [
+          "nmathur@northwell.edu",
+          "jennifer.combs@cchmc.org",
+          "rosalie.hemphill@cchmc.org",
+          "jaclyn.tissue@nationwidechildrens.org",
+          "molly.michaels@utsouthwestern.edu"
+        ],
+        "LocationContactName": [
+          "Nandita Mathur",
+          "Jennifer Combs, LISW",
+          "Rosalie Hemphill, MSW",
+          "Jaclyn Tissue",
+          "Molly Michaels"
+        ],
+        "LocationContactPhone": [
+          "513-803-0007",
+          "(513) 517-7126",
+          "614-355-1529"
+        ],
+        "BriefSummary": [
+          "To address the unmet need of optimizing the treatment and management for adolescent suicidality, the investigators propose to evaluate the effectiveness and safety of telehealth services compared to inpatient and OCIC for suicidal adolescents in target population. To achieve this goal, the investigators propose a multi- site study to compare telehealth, OCIC, and inpatient care, and see which can lead to a lower risk of a suicidal event (primary outcome) as well as higher treatment satisfaction (TS) and satisfaction with life (SL) (secondary outcomes) of both the legal guardians/parents and patients."
+        ],
+        "DetailedDescription": [
+          "The investigators have proposed an observational design. Eligible individuals will be identified during a crisis assessment, either in the emergency department or during an emergency phone or telehealth assessment. Once the individual has been assessed and assigned to the clinician for treatment, study staff will assess if the patient is appropriate for the study using the study eligibility criteria. Individuals who receive treatment in one of the following treatment arms will be eligible for this observation study: inpatient, in-person OCIC or telehealth crisis intervention service. Eligible individuals will be contacted by study staff to introduce and offer the study. If patient and guardian agree, they will complete surveys at baseline and every 2 weeks for 6 months to evaluate outcomes."
+        ]
+      },
+      {
+        "Rank": 331,
+        "NCTId": [
+          "NCT04621331"
+        ],
+        "OfficialTitle": [
+          "An Open-label, Multicenter Study Investigating the Efficacy, Safety and Pharmacokinetics of Roxadustat (FG-4592) for Treatment of Anemia in Pediatric Patients With Chronic Kidney Disease"
+        ],
+        "Condition": [
+          "Anemia Associated With Chronic Kidney Disease"
+        ],
+        "EligibilityCriteria": [
+          "Important Inclusion Criteria:\n\nClinically stable CKD in the opinion of the investigator.\nEstimated glomerular filtration rate (Bedside Schwartz formula) of < 60 ml/min/1.73 m2 (stage 3, 4 and 5 CKD) for non-dialysis patients, or patients who are receiving chronic dialysis (hemodialysis or peritoneal dialysis) for ESRD.\nFor ESA-naïve patients (either NDD or DD; ESA-naïve is defined as those patients whose total duration of prior ESA exposure is ≤ 3 weeks within the preceding 12 weeks at the time informed consent is obtained), mean of two most recent central laboratory Hb values during the screening period obtained at least 2 days apart must be < 11.0 g/dL. For patients currently receiving stable ESA dosing who will discontinue ESA and convert to roxadustat during study, mean of two most recent central laboratory Hb values during the screening period obtained at least 2 days apart must be ≥ 10.0 g/dL and ≤ 12.5 g/dL.\nFerritin >50 ng/mL and transferrin saturation >10% (obtained from screening visit).\nAlanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 2x upper limit of normal (ULN) and total bilirubin (Tbili) ≤1.5x ULN at randomization (obtained from screening visit).\nSerum folate and vitamin B12 > LLN (obtained from screening visit).\n\nImportant Exclusion Criteria:\n\nUncontrolled hypertension as judged by the principal investigator in the 2 weeks prior to screening.\nKnown hematologic disease other than anemia associated with CKD.\nKnown malignancy within the past 5 years before screening.\nAny prior organ transplant or any planned organ transplant during the study period.\nAny RBC transfusion during the past 8 weeks before screening.\nAny condition leading to significant blood loss (e.g., gastrointestinal bleeding, surgical procedures) within 8 weeks before screening or during the screening period.\nHistory of chronic liver disease.\nPure red cell aplasia (PRCA) or history of PRCA.\nHistory of epileptic seizures.\nHistory of hyperlipidemia or significant thrombotic/thromboembolic event (e.g., deep vein thrombosis, pulmonary embolism, stroke, myocardial infarction).\nHistory of thrombosis of an arteriovenous fistula/graft within 12 weeks prior to enrollment.\nAny active systemic or significant infection or episode of peritonitis within 30 days of screening.\nAny statin use within 30 days of screening.\nAny prior exposure to roxadustat or any other HIF-PH inhibitor."
+        ],
+        "MinimumAge": [
+          "2 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Chicago",
+          "Omaha",
+          "New York",
+          "San Antonio"
+        ],
+        "LocationFacility": [
+          "Ann and Robert H. Lurie Children's Hospital of Chicago",
+          "University of Nebraska Medical Center",
+          "Icahn School of Medicine at Mount Sinai (ISMMS) - The Mount Sinai Hospital (MSH)",
+          "Investigative site"
+        ],
+        "LocationState": [
+          "Illinois",
+          "Nebraska",
+          "New York",
+          "Texas"
+        ],
+        "LocationZip": [
+          "60611",
+          "68198",
+          "10029",
+          "78215"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Priya Verghese, MD",
+          "Melissa Muff-Luett, MD",
+          "Hilary Hotchkiss, MD",
+          "Beneta Parthiban"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "This open-labeled, multicenter study is designed to evaluate the efficacy, safety and PK/PD of roxadustat in ESA-naïve and ESA-treated pediatric patients with CKD Stages 3, 4, and 5, as well as end-stage renal disease (ESRD) who are receiving either hemodialysis (HD) or peritoneal dialysis (PD). The study will enroll patients between the ages of 2 to <18 years in two sequential cohorts, with the older cohort of ages 12 to <18 years enrolled first. Approximately 30 patients will be enrolled in each age-based cohort."
+        ],
+        "DetailedDescription": []
+      },
+      {
+        "Rank": 332,
+        "NCTId": [
           "NCT04251026"
         ],
         "OfficialTitle": [
@@ -16654,7 +16781,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 331,
+        "Rank": 333,
         "NCTId": [
           "NCT02044744"
         ],
@@ -16718,133 +16845,6 @@
         ],
         "BriefSummary": [
           "The purpose of this study is to determine the impact of primary care referrals to community physical activity programs for overweight and obese youth aged 6-18 years on objectively measured physical activity and cardiorespiratory fitness, as well as other cardiovascular health indicators. We hypothesize that physical activity referrals will result in higher levels of physical activity and fitness."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 332,
-        "NCTId": [
-          "NCT04625686"
-        ],
-        "OfficialTitle": [
-          "A Multi-Site, Non-Interventional Study to Compare the Outcomes of Psychiatric Treatment of Suicidal Adolescents in Different Treatment Settings"
-        ],
-        "Condition": [
-          "Suicidal Ideation"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAdolescents that are 12 through 18 years old.\nAdolescents that are brought to the Emergency Department for crisis evaluation due to suicidal thoughts or behaviors.\nRequire a higher level of care.\nThe presence of a legal guardian for consent.\nCapable of giving signed informed consent/assent, which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.\n\nExclusion Criteria:\n\nAdolescents with suicidal thoughts who had prior OCIC treatment in the past 12 months.\nAdolescents without the ability to answer survey questions.\nAdolescents that are non-English speaking due to the scales and surveys that are used for this study only being available in English."
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Queens",
-          "Cincinnati",
-          "Columbus",
-          "Dallas"
-        ],
-        "LocationFacility": [
-          "Northwell Health",
-          "Cincinnati Children's Hospital Medical Center",
-          "Nationwide Children's Hospital",
-          "UT Southwestern Medical Center"
-        ],
-        "LocationState": [
-          "New York",
-          "Ohio",
-          "Ohio",
-          "Texas"
-        ],
-        "LocationZip": [
-          "11004",
-          "45229",
-          "43205",
-          "75390"
-        ],
-        "LocationContactEMail": [
-          "nmathur@northwell.edu",
-          "jennifer.combs@cchmc.org",
-          "rosalie.hemphill@cchmc.org",
-          "jaclyn.tissue@nationwidechildrens.org",
-          "molly.michaels@utsouthwestern.edu"
-        ],
-        "LocationContactName": [
-          "Nandita Mathur",
-          "Jennifer Combs, LISW",
-          "Rosalie Hemphill, MSW",
-          "Jaclyn Tissue",
-          "Molly Michaels"
-        ],
-        "LocationContactPhone": [
-          "513-803-0007",
-          "(513) 517-7126",
-          "614-355-1529"
-        ],
-        "BriefSummary": [
-          "To address the unmet need of optimizing the treatment and management for adolescent suicidality, the investigators propose to evaluate the effectiveness and safety of telehealth services compared to inpatient and OCIC for suicidal adolescents in target population. To achieve this goal, the investigators propose a multi- site study to compare telehealth, OCIC, and inpatient care, and see which can lead to a lower risk of a suicidal event (primary outcome) as well as higher treatment satisfaction (TS) and satisfaction with life (SL) (secondary outcomes) of both the legal guardians/parents and patients."
-        ],
-        "DetailedDescription": [
-          "The investigators have proposed an observational design. Eligible individuals will be identified during a crisis assessment, either in the emergency department or during an emergency phone or telehealth assessment. Once the individual has been assessed and assigned to the clinician for treatment, study staff will assess if the patient is appropriate for the study using the study eligibility criteria. Individuals who receive treatment in one of the following treatment arms will be eligible for this observation study: inpatient, in-person OCIC or telehealth crisis intervention service. Eligible individuals will be contacted by study staff to introduce and offer the study. If patient and guardian agree, they will complete surveys at baseline and every 2 weeks for 6 months to evaluate outcomes."
-        ]
-      },
-      {
-        "Rank": 333,
-        "NCTId": [
-          "NCT04621331"
-        ],
-        "OfficialTitle": [
-          "An Open-label, Multicenter Study Investigating the Efficacy, Safety and Pharmacokinetics of Roxadustat (FG-4592) for Treatment of Anemia in Pediatric Patients With Chronic Kidney Disease"
-        ],
-        "Condition": [
-          "Anemia Associated With Chronic Kidney Disease"
-        ],
-        "EligibilityCriteria": [
-          "Important Inclusion Criteria:\n\nClinically stable CKD in the opinion of the investigator.\nEstimated glomerular filtration rate (Bedside Schwartz formula) of < 60 ml/min/1.73 m2 (stage 3, 4 and 5 CKD) for non-dialysis patients, or patients who are receiving chronic dialysis (hemodialysis or peritoneal dialysis) for ESRD.\nFor ESA-naïve patients (either NDD or DD; ESA-naïve is defined as those patients whose total duration of prior ESA exposure is ≤ 3 weeks within the preceding 12 weeks at the time informed consent is obtained), mean of two most recent central laboratory Hb values during the screening period obtained at least 2 days apart must be < 11.0 g/dL. For patients currently receiving stable ESA dosing who will discontinue ESA and convert to roxadustat during study, mean of two most recent central laboratory Hb values during the screening period obtained at least 2 days apart must be ≥ 10.0 g/dL and ≤ 12.5 g/dL.\nFerritin >50 ng/mL and transferrin saturation >10% (obtained from screening visit).\nAlanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 2x upper limit of normal (ULN) and total bilirubin (Tbili) ≤1.5x ULN at randomization (obtained from screening visit).\nSerum folate and vitamin B12 > LLN (obtained from screening visit).\n\nImportant Exclusion Criteria:\n\nUncontrolled hypertension as judged by the principal investigator in the 2 weeks prior to screening.\nKnown hematologic disease other than anemia associated with CKD.\nKnown malignancy within the past 5 years before screening.\nAny prior organ transplant or any planned organ transplant during the study period.\nAny RBC transfusion during the past 8 weeks before screening.\nAny condition leading to significant blood loss (e.g., gastrointestinal bleeding, surgical procedures) within 8 weeks before screening or during the screening period.\nHistory of chronic liver disease.\nPure red cell aplasia (PRCA) or history of PRCA.\nHistory of epileptic seizures.\nHistory of hyperlipidemia or significant thrombotic/thromboembolic event (e.g., deep vein thrombosis, pulmonary embolism, stroke, myocardial infarction).\nHistory of thrombosis of an arteriovenous fistula/graft within 12 weeks prior to enrollment.\nAny active systemic or significant infection or episode of peritonitis within 30 days of screening.\nAny statin use within 30 days of screening.\nAny prior exposure to roxadustat or any other HIF-PH inhibitor."
-        ],
-        "MinimumAge": [
-          "2 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Chicago",
-          "Omaha",
-          "New York",
-          "San Antonio"
-        ],
-        "LocationFacility": [
-          "Ann and Robert H. Lurie Children's Hospital of Chicago",
-          "University of Nebraska Medical Center",
-          "Icahn School of Medicine at Mount Sinai (ISMMS) - The Mount Sinai Hospital (MSH)",
-          "Investigative site"
-        ],
-        "LocationState": [
-          "Illinois",
-          "Nebraska",
-          "New York",
-          "Texas"
-        ],
-        "LocationZip": [
-          "60611",
-          "68198",
-          "10029",
-          "78215"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Priya Verghese, MD",
-          "Melissa Muff-Luett, MD",
-          "Hilary Hotchkiss, MD",
-          "Beneta Parthiban"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "This open-labeled, multicenter study is designed to evaluate the efficacy, safety and PK/PD of roxadustat in ESA-naïve and ESA-treated pediatric patients with CKD Stages 3, 4, and 5, as well as end-stage renal disease (ESRD) who are receiving either hemodialysis (HD) or peritoneal dialysis (PD). The study will enroll patients between the ages of 2 to <18 years in two sequential cohorts, with the older cohort of ages 12 to <18 years enrolled first. Approximately 30 patients will be enrolled in each age-based cohort."
         ],
         "DetailedDescription": []
       },
@@ -21556,6 +21556,157 @@
       {
         "Rank": 366,
         "NCTId": [
+          "NCT04608019"
+        ],
+        "OfficialTitle": [
+          "Streamlined Treatment of Pulmonary Exacerbations in Pediatrics (Pilot)"
+        ],
+        "Condition": [
+          "Cystic Fibrosis"
+        ],
+        "EligibilityCriteria": [
+          "Enrollment Inclusion Criteria:\n\nAge 6 to <19 years\n\nDocumentation of a CF diagnosis as evidenced by one or more clinical features consistent with the CF phenotype and one or more of the following criteria:\n\nsweat chloride ≥ 60 mEq/liter\ntwo disease-causing variants in the cystic fibrosis transmembrane conductive regulator (CFTR) gene\nWritten informed consent (and assent when applicable) obtained from participant or participant's legal representative and ability of participant to comply with the requirements of the study\nAble to perform acceptable and reproducible spirometry\nFEV1 ≥ 50% predicted at enrollment based on the Global lung Initiative (GLI) reference equations\nAt least 1 course of oral or IV antibiotics for respiratory symptoms since January 1, 2019.\nAbility to receive text messages and access the internet\n\nEnrollment Exclusion Criteria:\n\nPresence of a condition or abnormality that in the opinion of the Investigator would compromise the safety of the patient or the quality of the data.\nPrevious randomization in the study\nReceiving antibiotics for a PEx at the time of enrollment or within the 21 days prior to enrollment. Individuals may be re-screened ≥21 days after completion of antibiotics if they are at their baseline state of health, per self-report.\nTreatment with systemic corticosteroids at enrollment. Individuals may be re- screened ≥21 days after completion of systemic corticosteroids if they are at their clinical baseline, per self-report.\nHistory of solid organ transplant\nHistory of positive culture for Mycobacterium abscessus in the 12 months prior to enrollment\nTreatment with antibiotics for any non-tuberculous mycobacteria (NTM) at enrollment\nThree or more IV antibiotic-treated PEx in the 12 months prior to enrollment\nTreatment with chronic oral antibiotics other than azithromycin at enrollment"
+        ],
+        "MinimumAge": [
+          "6 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Tucson",
+          "Aurora",
+          "Atlanta",
+          "Chicago",
+          "Indianapolis",
+          "Grand Rapids",
+          "Portland",
+          "Pittsburgh",
+          "Houston",
+          "Seattle"
+        ],
+        "LocationFacility": [
+          "Tucson Cystic Fibrosis Center",
+          "Children's Hospital of Colorado",
+          "Children's Healthcare of Atlanta",
+          "Lurie Children's Hospital of Chicago & Northwestern University",
+          "Riley Hospital for Children",
+          "Helen DeVos Children's Hospital",
+          "Oregon Health Sciences University",
+          "Children's Hospital of Pittsburgh of UPMC",
+          "Texas Children's Hospital and Baylor College of Medicine",
+          "Seattle Children's Hospital"
+        ],
+        "LocationState": [
+          "Arizona",
+          "Colorado",
+          "Georgia",
+          "Illinois",
+          "Indiana",
+          "Michigan",
+          "Oregon",
+          "Pennsylvania",
+          "Texas",
+          "Washington"
+        ],
+        "LocationZip": [
+          "85713",
+          "80045",
+          "30322",
+          "60611-2605",
+          "46202",
+          "49503",
+          "97239",
+          "15224",
+          "77030",
+          "98105"
+        ],
+        "LocationContactEMail": [
+          "elizabethryan@arizona.edu",
+          "jrpimentel@arizona.edu",
+          "Mary.Cross@childrenscolorado.org",
+          "dana.coyle@childrenscolorado.org",
+          "Akele.carter@choa.org",
+          "ashleigh.streby@emory.edu",
+          "yhwu@luriechildrens.org",
+          "lrugg@luriechildrens.org",
+          "misthomp@iupui.edu",
+          "lbendy@iu.edu",
+          "thomas.symington@spectrumhealth.org",
+          "Lindsey.Kamphuis@spectrumealth.org",
+          "hansoan@ohsu.edu",
+          "kleinb@ohsu.edu",
+          "Adrienne.Dericco2@upmc.edu",
+          "jennifer.nagg@chp.edu",
+          "rogeliog@bcm.edu",
+          "klhowe@texaschildrens.org",
+          "sharon.mcnamara@seattlechildrens.org",
+          "gracia.bridges@seattlechildrens.org"
+        ],
+        "LocationContactName": [
+          "Elizabeth (Lisa) Ryan",
+          "Jenna Pimentel",
+          "Cori Daines, MD",
+          "Mary Cross",
+          "Dana Coyle",
+          "Jordana Hoppe, MD",
+          "Akele Carter",
+          "Ashleigh Streby",
+          "Kevin Kirchner, MD",
+          "Irene Wu",
+          "Larissa Rugg",
+          "Maria Dowell, MD",
+          "Misty Thompson, B.S.",
+          "Lisa Bendy",
+          "D. B. Sanders, MD",
+          "Thomas Symington, RN",
+          "Lindsey Kamphuis, RN",
+          "Susan Millard, MD",
+          "Annie Hanson",
+          "Brendan Klein",
+          "Kelvin MacDonald, MD",
+          "Adrienne DeRicco",
+          "Jennifer Nagg, RN",
+          "Daniel Weiner, MD",
+          "Roger Hernandez",
+          "Katie Howe",
+          "Fadel Ruiz, MD",
+          "Sharon McNamara",
+          "Gracia Bridges",
+          "Margaret Rosenfeld, MD"
+        ],
+        "LocationContactPhone": [
+          "520-626-3125",
+          "520-621-1806",
+          "720-777-4645",
+          "720-777-6162",
+          "404-785-9011",
+          "404-727-0305",
+          "312-227-2473",
+          "312-227-6865",
+          "317-274-7768",
+          "317-948-7152",
+          "616-391-9366",
+          "616-267-2022",
+          "503-494-5487",
+          "503-418-8108",
+          "412-692-8069",
+          "(412) 692-5389",
+          "832-822-3389",
+          "(810) 429-1721",
+          "206-987-3921",
+          "206-987-2803"
+        ],
+        "BriefSummary": [
+          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population."
+        ],
+        "DetailedDescription": [
+          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population. The primary endpoint is the proportion of participants in the tailored arm who did not take any oral antibiotics in the 28 days following randomization.\n\nUltimately, we want to learn:\n\nWhat is the best way to treat pulmonary exacerbations?\nShould everyone with a pulmonary exacerbation take antibiotics?\nDo the benefits of starting antibiotics at the first signs of illness outweigh the possible risks, like side effects and antibiotic resistance?\n\nThis pilot study is designed to determine if an interventional study to help answer these questions is feasible. Up to 120 participants will be enrolled and followed through their well state of health, then for 28 days following their first randomized exacerbation. Enrollment will stop after 80 pulmonary exacerbation events have been randomized, even if this does not require 120 participants. Due to the nature of the study, the identity of treatment assignment will be known to investigators, research staff, and patients (ie, not blinded).\n\nTotal duration of this pilot study is expected to be approximately 18 months: 6 months for participant recruitment and 12 months for follow up. Participants could be monitored for up to 18 months if they do not have an exacerbation. However, it is anticipated that the majority of participants will experience a randomizable PEx event and therefore have a shorter follow up period."
+        ]
+      },
+      {
+        "Rank": 367,
+        "NCTId": [
           "NCT03633708"
         ],
         "OfficialTitle": [
@@ -21723,157 +21874,6 @@
         ],
         "DetailedDescription": [
           "SHPT is a common and serious co-morbidity that develops relatively early in the course of CKD, worsens with declining kidney function, and is associated with serious complications in children on dialysis. Children on dialysis experience a wide spectrum of bone abnormalities and growth retardation, in addition to increased risk for cardiovascular morbidity and mortality that manifests early in their adulthood. Traditional therapies for SHPT (eg, vitamin D sterols) are widely used in the pediatric dialysis population, and have the potential to aggravate complications of the disease by increasing serum calcium (Ca), serum phosphorus, and serum Ca times serum phosphorus product.\n\nEtelcalcetide has been shown to be safe and efficacious in treating adult CKD patients with SHPT by simultaneously controlling intact parathyroid hormone (iPTH), Ca, and phosphorus and has recently been approved for use in adult patients with SHPT treated with hemodialysis in both the United States and Europe. Although no previous studies have been conducted in pediatric patients with etelcalcetide (one single dose pharmacokinetic [PK] study is currently ongoing), Amgen anticipates minimal to moderate risk with a possibility of direct benefit to the pediatric subject in this study. The burden of complications of SHPT in the pediatric dialysis population and the limitations of current standard therapy, underscore the need for studies of etelcalcetide in these patients to address this unmet medical need and inform the pediatric nephrology community of the potential use of etelcalcetide in children on hemodialysis with critical safety and efficacy data."
-        ]
-      },
-      {
-        "Rank": 367,
-        "NCTId": [
-          "NCT04608019"
-        ],
-        "OfficialTitle": [
-          "Streamlined Treatment of Pulmonary Exacerbations in Pediatrics (Pilot)"
-        ],
-        "Condition": [
-          "Cystic Fibrosis"
-        ],
-        "EligibilityCriteria": [
-          "Enrollment Inclusion Criteria:\n\nAge 6 to <19 years\n\nDocumentation of a CF diagnosis as evidenced by one or more clinical features consistent with the CF phenotype and one or more of the following criteria:\n\nsweat chloride ≥ 60 mEq/liter\ntwo disease-causing variants in the cystic fibrosis transmembrane conductive regulator (CFTR) gene\nWritten informed consent (and assent when applicable) obtained from participant or participant's legal representative and ability of participant to comply with the requirements of the study\nAble to perform acceptable and reproducible spirometry\nFEV1 ≥ 50% predicted at enrollment based on the Global lung Initiative (GLI) reference equations\nAt least 1 course of oral or IV antibiotics for respiratory symptoms since January 1, 2019.\nAbility to receive text messages and access the internet\n\nEnrollment Exclusion Criteria:\n\nPresence of a condition or abnormality that in the opinion of the Investigator would compromise the safety of the patient or the quality of the data.\nPrevious randomization in the study\nReceiving antibiotics for a PEx at the time of enrollment or within the 21 days prior to enrollment. Individuals may be re-screened ≥21 days after completion of antibiotics if they are at their baseline state of health, per self-report.\nTreatment with systemic corticosteroids at enrollment. Individuals may be re- screened ≥21 days after completion of systemic corticosteroids if they are at their clinical baseline, per self-report.\nHistory of solid organ transplant\nHistory of positive culture for Mycobacterium abscessus in the 12 months prior to enrollment\nTreatment with antibiotics for any non-tuberculous mycobacteria (NTM) at enrollment\nThree or more IV antibiotic-treated PEx in the 12 months prior to enrollment\nTreatment with chronic oral antibiotics other than azithromycin at enrollment"
-        ],
-        "MinimumAge": [
-          "6 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Tucson",
-          "Aurora",
-          "Atlanta",
-          "Chicago",
-          "Indianapolis",
-          "Grand Rapids",
-          "Portland",
-          "Pittsburgh",
-          "Houston",
-          "Seattle"
-        ],
-        "LocationFacility": [
-          "Tucson Cystic Fibrosis Center",
-          "Children's Hospital of Colorado",
-          "Children's Healthcare of Atlanta",
-          "Lurie Children's Hospital of Chicago & Northwestern University",
-          "Riley Hospital for Children",
-          "Helen DeVos Children's Hospital",
-          "Oregon Health Sciences University",
-          "Children's Hospital of Pittsburgh of UPMC",
-          "Texas Children's Hospital and Baylor College of Medicine",
-          "Seattle Children's Hospital"
-        ],
-        "LocationState": [
-          "Arizona",
-          "Colorado",
-          "Georgia",
-          "Illinois",
-          "Indiana",
-          "Michigan",
-          "Oregon",
-          "Pennsylvania",
-          "Texas",
-          "Washington"
-        ],
-        "LocationZip": [
-          "85713",
-          "80045",
-          "30322",
-          "60611-2605",
-          "46202",
-          "49503",
-          "97239",
-          "15224",
-          "77030",
-          "98105"
-        ],
-        "LocationContactEMail": [
-          "elizabethryan@arizona.edu",
-          "jrpimentel@arizona.edu",
-          "Mary.Cross@childrenscolorado.org",
-          "dana.coyle@childrenscolorado.org",
-          "Akele.carter@choa.org",
-          "ashleigh.streby@emory.edu",
-          "yhwu@luriechildrens.org",
-          "lrugg@luriechildrens.org",
-          "misthomp@iupui.edu",
-          "lbendy@iu.edu",
-          "thomas.symington@spectrumhealth.org",
-          "Lindsey.Kamphuis@spectrumealth.org",
-          "hansoan@ohsu.edu",
-          "kleinb@ohsu.edu",
-          "Adrienne.Dericco2@upmc.edu",
-          "jennifer.nagg@chp.edu",
-          "rogeliog@bcm.edu",
-          "klhowe@texaschildrens.org",
-          "sharon.mcnamara@seattlechildrens.org",
-          "gracia.bridges@seattlechildrens.org"
-        ],
-        "LocationContactName": [
-          "Elizabeth (Lisa) Ryan",
-          "Jenna Pimentel",
-          "Cori Daines, MD",
-          "Mary Cross",
-          "Dana Coyle",
-          "Jordana Hoppe, MD",
-          "Akele Carter",
-          "Ashleigh Streby",
-          "Kevin Kirchner, MD",
-          "Irene Wu",
-          "Larissa Rugg",
-          "Maria Dowell, MD",
-          "Misty Thompson, B.S.",
-          "Lisa Bendy",
-          "D. B. Sanders, MD",
-          "Thomas Symington, RN",
-          "Lindsey Kamphuis, RN",
-          "Susan Millard, MD",
-          "Annie Hanson",
-          "Brendan Klein",
-          "Kelvin MacDonald, MD",
-          "Adrienne DeRicco",
-          "Jennifer Nagg, RN",
-          "Daniel Weiner, MD",
-          "Roger Hernandez",
-          "Katie Howe",
-          "Fadel Ruiz, MD",
-          "Sharon McNamara",
-          "Gracia Bridges",
-          "Margaret Rosenfeld, MD"
-        ],
-        "LocationContactPhone": [
-          "520-626-3125",
-          "520-621-1806",
-          "720-777-4645",
-          "720-777-6162",
-          "404-785-9011",
-          "404-727-0305",
-          "312-227-2473",
-          "312-227-6865",
-          "317-274-7768",
-          "317-948-7152",
-          "616-391-9366",
-          "616-267-2022",
-          "503-494-5487",
-          "503-418-8108",
-          "412-692-8069",
-          "(412) 692-5389",
-          "832-822-3389",
-          "(810) 429-1721",
-          "206-987-3921",
-          "206-987-2803"
-        ],
-        "BriefSummary": [
-          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population."
-        ],
-        "DetailedDescription": [
-          "STOP PEDS is a pilot study of children with CF ages 6-18 across 10 sites in North America. The primary goal is to assess the acceptability and feasibility of a multicenter randomized trial comparing immediate antibiotics versus tailored therapy for pulmonary exacerbation (PEx) treatment in this population. The primary endpoint is the proportion of participants in the tailored arm who did not take any oral antibiotics in the 28 days following randomization.\n\nUltimately, we want to learn:\n\nWhat is the best way to treat pulmonary exacerbations?\nShould everyone with a pulmonary exacerbation take antibiotics?\nDo the benefits of starting antibiotics at the first signs of illness outweigh the possible risks, like side effects and antibiotic resistance?\n\nThis pilot study is designed to determine if an interventional study to help answer these questions is feasible. Up to 120 participants will be enrolled and followed through their well state of health, then for 28 days following their first randomized exacerbation. Enrollment will stop after 80 pulmonary exacerbation events have been randomized, even if this does not require 120 participants. Due to the nature of the study, the identity of treatment assignment will be known to investigators, research staff, and patients (ie, not blinded).\n\nTotal duration of this pilot study is expected to be approximately 18 months: 6 months for participant recruitment and 12 months for follow up. Participants could be monitored for up to 18 months if they do not have an exacerbation. However, it is anticipated that the majority of participants will experience a randomizable PEx event and therefore have a shorter follow up period."
         ]
       },
       {
