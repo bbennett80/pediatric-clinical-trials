@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.03",
-    "DataVrs": "2021:10:10 22:49:48.209",
+    "DataVrs": "2021:10:11 23:00:08.963",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 391811,
+    "NStudiesAvail": 391946,
     "NStudiesFound": 406,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -1682,6 +1682,58 @@
       {
         "Rank": 30,
         "NCTId": [
+          "NCT05075395"
+        ],
+        "OfficialTitle": [
+          "Animal Assisted Interactions With an Animal Robot During Physical and Occupational Therapy Sessions in the Pediatric ICU: A Feasibility Study"
+        ],
+        "Condition": [
+          "Pediatric ALL",
+          "Critical Illness",
+          "Physical Therapy Modalities",
+          "Occupational Therapy",
+          "Animal Assisted Therapy"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nage 5-18\nadmitted to the PICU\nhave an available parent or guardian\nan active consult request for physical therapy or occupational therapy\nawake, alert, and able to follow commands\nable to understand English\nfree from significant vision or hearing deficits\nable to verbalize\n\nExclusion Criteria:\n\nhave a pacemaker\nhave droplet, enteric, or enhanced contact precautions\nhave open wounds without a covering dressing or a dressing that is visibly soiled\nhave known adverse psychological reactions to animals\nshow signs of acute agitation [yelling, screaming, moaning, or is otherwise inconsolable]\nhave excessive bodily secretions per primary bedside nurse\nreport feeling nauseated"
+        ],
+        "MinimumAge": [
+          "5 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Omaha"
+        ],
+        "LocationFacility": [
+          "Nebraska Medicine"
+        ],
+        "LocationState": [
+          "Nebraska"
+        ],
+        "LocationZip": [
+          "68105"
+        ],
+        "LocationContactEMail": [
+          "breanna.hetland@unmc.edu"
+        ],
+        "LocationContactName": [
+          "Breanna Hetland, PhD"
+        ],
+        "LocationContactPhone": [
+          "402-559-5460"
+        ],
+        "BriefSummary": [
+          "The purpose of this study is to:\n\nEstablish the feasibility and acceptability of a therapeutic robot, Paro, for critically ill patients admitted to the Pediatric Intensive Care Unit\nExplore safety considerations related to infection control [participant hospital-acquired infection (HAI) rates, screening for the presence of microbial contamination with real-time ATP testing\nExamine the therapeutic effect of Paro on patient psychological variables, physiological variables, and sedative and analgesic medication requirements."
+        ],
+        "DetailedDescription": [
+          "Admission to the PICU can be an extremely upsetting experience for children of all ages. In addition to physical symptoms such as pain, thirst and fatigue, patients in the PICU also experience a multitude of psychological symptoms. Symptoms like anxiety, spells of terror, social isolation, disturbed sleeping patterns, restlessness, fear, confusion and loss of control are exacerbated in the PICU because patients often have limited mobility, decreased capacity to communicate, and rely on healthcare providers for survival.\n\nLarge doses of sedative and analgesic medications are administered by nursing staff to help alleviate distressing symptoms. Overuse of sedative medications can cause a sequela of adverse effects, and therefore, recent recommendations call for reducing sedative use as much as possible. To minimize the overwhelming symptom burden of acute critical illness and promote lasting psychological well-being during recovery, it is imperative to identify effective non-pharmacological interventions that decrease psychological distress, but do not alter level of alertness during acute critical illness. Established evidence supports the use of a variety of non-pharmacological approaches that can be easily applied as adjuncts to sedative and analgesic medications in order to reduce dependence on these medications. Animal assisted interactions (AAI) are a promising integrative approach that can be used as an adjunct to sedative and analgesic medications in order to improve psychological symptoms and promote comfort, relaxation, and positive mood in critically ill patients.\n\nAAI are interventions that intentionally incorporate animals as part of a therapeutic process to promote human health, learning, and well-being. Domestic and farm animals such as dogs, cats, birds, equines, guinea pigs, rabbits, llamas, sheep, goats, and pigs are predominantly featured in AAI programs. Animals can be simply observed, touched, held, and petted, or more actively integrated into specific therapy activities such as brushing with different tools to exercise range of motion and fine motor coordination and tandem walking with the animal to encourage exercise. Recent literature indicates that AAI can improve reality orientation and attention span, eliminate the sense of isolation, reduce stress and anxiety, enhance communication, promote positive social interactions, and enhance overall quality of life. The use of AAI in the ICU has the potential to engage patients, family members, and healthcare staff in an innovative, holistic approach to symptom management."
+        ]
+      },
+      {
+        "Rank": 31,
+        "NCTId": [
           "NCT05068544"
         ],
         "OfficialTitle": [
@@ -1730,7 +1782,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 31,
+        "Rank": 32,
         "NCTId": [
           "NCT05066893"
         ],
@@ -1780,7 +1832,7 @@
         ]
       },
       {
-        "Rank": 32,
+        "Rank": 33,
         "NCTId": [
           "NCT05065528"
         ],
@@ -1827,7 +1879,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 33,
+        "Rank": 34,
         "NCTId": [
           "NCT05055336"
         ],
@@ -1875,7 +1927,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 34,
+        "Rank": 35,
         "NCTId": [
           "NCT05034913"
         ],
@@ -1926,7 +1978,7 @@
         ]
       },
       {
-        "Rank": 35,
+        "Rank": 36,
         "NCTId": [
           "NCT05031741"
         ],
@@ -1970,7 +2022,7 @@
         ]
       },
       {
-        "Rank": 36,
+        "Rank": 37,
         "NCTId": [
           "NCT05020314"
         ],
@@ -2018,7 +2070,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 37,
+        "Rank": 38,
         "NCTId": [
           "NCT04992611"
         ],
@@ -2071,7 +2123,7 @@
         ]
       },
       {
-        "Rank": 38,
+        "Rank": 39,
         "NCTId": [
           "NCT04991389"
         ],
@@ -2119,7 +2171,7 @@
         ]
       },
       {
-        "Rank": 39,
+        "Rank": 40,
         "NCTId": [
           "NCT04978571"
         ],
@@ -2165,7 +2217,7 @@
         ]
       },
       {
-        "Rank": 40,
+        "Rank": 41,
         "NCTId": [
           "NCT04977830"
         ],
@@ -2210,7 +2262,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 41,
+        "Rank": 42,
         "NCTId": [
           "NCT04974307"
         ],
@@ -2259,7 +2311,7 @@
         ]
       },
       {
-        "Rank": 42,
+        "Rank": 43,
         "NCTId": [
           "NCT04959097"
         ],
@@ -2307,7 +2359,7 @@
         ]
       },
       {
-        "Rank": 43,
+        "Rank": 44,
         "NCTId": [
           "NCT04941742"
         ],
@@ -2349,7 +2401,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 44,
+        "Rank": 45,
         "NCTId": [
           "NCT04927286"
         ],
@@ -2395,7 +2447,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 45,
+        "Rank": 46,
         "NCTId": [
           "NCT04919707"
         ],
@@ -2444,7 +2496,7 @@
         ]
       },
       {
-        "Rank": 46,
+        "Rank": 47,
         "NCTId": [
           "NCT04896502"
         ],
@@ -2494,7 +2546,7 @@
         ]
       },
       {
-        "Rank": 47,
+        "Rank": 48,
         "NCTId": [
           "NCT04848532"
         ],
@@ -2549,7 +2601,7 @@
         ]
       },
       {
-        "Rank": 48,
+        "Rank": 49,
         "NCTId": [
           "NCT04845932"
         ],
@@ -2597,7 +2649,7 @@
         ]
       },
       {
-        "Rank": 49,
+        "Rank": 50,
         "NCTId": [
           "NCT04825587"
         ],
@@ -2645,7 +2697,7 @@
         ]
       },
       {
-        "Rank": 50,
+        "Rank": 51,
         "NCTId": [
           "NCT04815239"
         ],
@@ -2697,7 +2749,7 @@
         ]
       },
       {
-        "Rank": 51,
+        "Rank": 52,
         "NCTId": [
           "NCT04812028"
         ],
@@ -2745,7 +2797,7 @@
         ]
       },
       {
-        "Rank": 52,
+        "Rank": 53,
         "NCTId": [
           "NCT04810130"
         ],
@@ -2798,7 +2850,7 @@
         ]
       },
       {
-        "Rank": 53,
+        "Rank": 54,
         "NCTId": [
           "NCT04798482"
         ],
@@ -2847,7 +2899,7 @@
         ]
       },
       {
-        "Rank": 54,
+        "Rank": 55,
         "NCTId": [
           "NCT04788524"
         ],
@@ -2896,7 +2948,7 @@
         ]
       },
       {
-        "Rank": 55,
+        "Rank": 56,
         "NCTId": [
           "NCT04786977"
         ],
@@ -2943,7 +2995,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 56,
+        "Rank": 57,
         "NCTId": [
           "NCT04784455"
         ],
@@ -2987,7 +3039,7 @@
         ]
       },
       {
-        "Rank": 57,
+        "Rank": 58,
         "NCTId": [
           "NCT04783506"
         ],
@@ -3036,7 +3088,7 @@
         ]
       },
       {
-        "Rank": 58,
+        "Rank": 59,
         "NCTId": [
           "NCT04771338"
         ],
@@ -3089,7 +3141,7 @@
         ]
       },
       {
-        "Rank": 59,
+        "Rank": 60,
         "NCTId": [
           "NCT04768634"
         ],
@@ -3132,7 +3184,7 @@
         ]
       },
       {
-        "Rank": 60,
+        "Rank": 61,
         "NCTId": [
           "NCT04756427"
         ],
@@ -3178,7 +3230,7 @@
         ]
       },
       {
-        "Rank": 61,
+        "Rank": 62,
         "NCTId": [
           "NCT04752501"
         ],
@@ -3228,7 +3280,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 62,
+        "Rank": 63,
         "NCTId": [
           "NCT04752293"
         ],
@@ -3298,7 +3350,7 @@
         ]
       },
       {
-        "Rank": 63,
+        "Rank": 64,
         "NCTId": [
           "NCT04738539"
         ],
@@ -3349,7 +3401,7 @@
         ]
       },
       {
-        "Rank": 64,
+        "Rank": 65,
         "NCTId": [
           "NCT04737460"
         ],
@@ -3398,7 +3450,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 65,
+        "Rank": 66,
         "NCTId": [
           "NCT04735874"
         ],
@@ -3447,7 +3499,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 66,
+        "Rank": 67,
         "NCTId": [
           "NCT04725305"
         ],
@@ -3507,7 +3559,7 @@
         ]
       },
       {
-        "Rank": 67,
+        "Rank": 68,
         "NCTId": [
           "NCT04706364"
         ],
@@ -3559,7 +3611,7 @@
         ]
       },
       {
-        "Rank": 68,
+        "Rank": 69,
         "NCTId": [
           "NCT04688255"
         ],
@@ -3615,7 +3667,7 @@
         ]
       },
       {
-        "Rank": 69,
+        "Rank": 70,
         "NCTId": [
           "NCT04685343"
         ],
@@ -3661,7 +3713,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 70,
+        "Rank": 71,
         "NCTId": [
           "NCT04675567"
         ],
@@ -3712,7 +3764,7 @@
         ]
       },
       {
-        "Rank": 71,
+        "Rank": 72,
         "NCTId": [
           "NCT04671186"
         ],
@@ -3763,7 +3815,7 @@
         ]
       },
       {
-        "Rank": 72,
+        "Rank": 73,
         "NCTId": [
           "NCT04654260"
         ],
@@ -3820,7 +3872,7 @@
         ]
       },
       {
-        "Rank": 73,
+        "Rank": 74,
         "NCTId": [
           "NCT04639336"
         ],
@@ -3870,7 +3922,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 74,
+        "Rank": 75,
         "NCTId": [
           "NCT04638595"
         ],
@@ -3919,7 +3971,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 75,
+        "Rank": 76,
         "NCTId": [
           "NCT04637802"
         ],
@@ -3970,7 +4022,7 @@
         ]
       },
       {
-        "Rank": 76,
+        "Rank": 77,
         "NCTId": [
           "NCT04602325"
         ],
@@ -4022,7 +4074,7 @@
         ]
       },
       {
-        "Rank": 77,
+        "Rank": 78,
         "NCTId": [
           "NCT04569708"
         ],
@@ -4078,7 +4130,7 @@
         ]
       },
       {
-        "Rank": 78,
+        "Rank": 79,
         "NCTId": [
           "NCT04562688"
         ],
@@ -4126,7 +4178,7 @@
         ]
       },
       {
-        "Rank": 79,
+        "Rank": 80,
         "NCTId": [
           "NCT04551482"
         ],
@@ -4173,7 +4225,7 @@
         ]
       },
       {
-        "Rank": 80,
+        "Rank": 81,
         "NCTId": [
           "NCT04537390"
         ],
@@ -4220,7 +4272,7 @@
         ]
       },
       {
-        "Rank": 81,
+        "Rank": 82,
         "NCTId": [
           "NCT04529707"
         ],
@@ -4268,7 +4320,7 @@
         ]
       },
       {
-        "Rank": 82,
+        "Rank": 83,
         "NCTId": [
           "NCT04526639"
         ],
@@ -4314,7 +4366,7 @@
         ]
       },
       {
-        "Rank": 83,
+        "Rank": 84,
         "NCTId": [
           "NCT04522778"
         ],
@@ -4366,7 +4418,7 @@
         ]
       },
       {
-        "Rank": 84,
+        "Rank": 85,
         "NCTId": [
           "NCT04518397"
         ],
@@ -4415,7 +4467,7 @@
         ]
       },
       {
-        "Rank": 85,
+        "Rank": 86,
         "NCTId": [
           "NCT04516694"
         ],
@@ -4463,7 +4515,7 @@
         ]
       },
       {
-        "Rank": 86,
+        "Rank": 87,
         "NCTId": [
           "NCT04516343"
         ],
@@ -4510,7 +4562,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 87,
+        "Rank": 88,
         "NCTId": [
           "NCT04485416"
         ],
@@ -4561,7 +4613,7 @@
         ]
       },
       {
-        "Rank": 88,
+        "Rank": 89,
         "NCTId": [
           "NCT04482556"
         ],
@@ -4610,7 +4662,7 @@
         ]
       },
       {
-        "Rank": 89,
+        "Rank": 90,
         "NCTId": [
           "NCT04481243"
         ],
@@ -4656,7 +4708,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 90,
+        "Rank": 91,
         "NCTId": [
           "NCT04472286"
         ],
@@ -4719,7 +4771,7 @@
         ]
       },
       {
-        "Rank": 91,
+        "Rank": 92,
         "NCTId": [
           "NCT04462861"
         ],
@@ -4766,7 +4818,7 @@
         ]
       },
       {
-        "Rank": 92,
+        "Rank": 93,
         "NCTId": [
           "NCT04449042"
         ],
@@ -4811,7 +4863,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 93,
+        "Rank": 94,
         "NCTId": [
           "NCT04446910"
         ],
@@ -4859,7 +4911,7 @@
         ]
       },
       {
-        "Rank": 94,
+        "Rank": 95,
         "NCTId": [
           "NCT04403633"
         ],
@@ -4907,7 +4959,7 @@
         ]
       },
       {
-        "Rank": 95,
+        "Rank": 96,
         "NCTId": [
           "NCT04398862"
         ],
@@ -4957,7 +5009,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 96,
+        "Rank": 97,
         "NCTId": [
           "NCT04390035"
         ],
@@ -5005,7 +5057,7 @@
         ]
       },
       {
-        "Rank": 97,
+        "Rank": 98,
         "NCTId": [
           "NCT04365556"
         ],
@@ -5057,7 +5109,7 @@
         ]
       },
       {
-        "Rank": 98,
+        "Rank": 99,
         "NCTId": [
           "NCT04360395"
         ],
@@ -5106,7 +5158,7 @@
         ]
       },
       {
-        "Rank": 99,
+        "Rank": 100,
         "NCTId": [
           "NCT04357132"
         ],
@@ -5157,7 +5209,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 100,
+        "Rank": 101,
         "NCTId": [
           "NCT04351958"
         ],
@@ -5205,7 +5257,7 @@
         ]
       },
       {
-        "Rank": 101,
+        "Rank": 102,
         "NCTId": [
           "NCT04351776"
         ],
@@ -5256,7 +5308,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 102,
+        "Rank": 103,
         "NCTId": [
           "NCT04342000"
         ],
@@ -5307,7 +5359,7 @@
         ]
       },
       {
-        "Rank": 103,
+        "Rank": 104,
         "NCTId": [
           "NCT04338048"
         ],
@@ -5347,7 +5399,7 @@
         ]
       },
       {
-        "Rank": 104,
+        "Rank": 105,
         "NCTId": [
           "NCT04322734"
         ],
@@ -5401,7 +5453,7 @@
         ]
       },
       {
-        "Rank": 105,
+        "Rank": 106,
         "NCTId": [
           "NCT04317521"
         ],
@@ -5449,7 +5501,7 @@
         ]
       },
       {
-        "Rank": 106,
+        "Rank": 107,
         "NCTId": [
           "NCT04314635"
         ],
@@ -5495,7 +5547,7 @@
         ]
       },
       {
-        "Rank": 107,
+        "Rank": 108,
         "NCTId": [
           "NCT04313192"
         ],
@@ -5547,7 +5599,7 @@
         ]
       },
       {
-        "Rank": 108,
+        "Rank": 109,
         "NCTId": [
           "NCT04312919"
         ],
@@ -5594,7 +5646,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 109,
+        "Rank": 110,
         "NCTId": [
           "NCT04309786"
         ],
@@ -5645,7 +5697,7 @@
         ]
       },
       {
-        "Rank": 110,
+        "Rank": 111,
         "NCTId": [
           "NCT04299191"
         ],
@@ -5693,7 +5745,7 @@
         ]
       },
       {
-        "Rank": 111,
+        "Rank": 112,
         "NCTId": [
           "NCT04298203"
         ],
@@ -5741,7 +5793,7 @@
         ]
       },
       {
-        "Rank": 112,
+        "Rank": 113,
         "NCTId": [
           "NCT04298099"
         ],
@@ -5789,7 +5841,7 @@
         ]
       },
       {
-        "Rank": 113,
+        "Rank": 114,
         "NCTId": [
           "NCT04290754"
         ],
@@ -5840,7 +5892,7 @@
         ]
       },
       {
-        "Rank": 114,
+        "Rank": 115,
         "NCTId": [
           "NCT04288206"
         ],
@@ -5885,7 +5937,7 @@
         ]
       },
       {
-        "Rank": 115,
+        "Rank": 116,
         "NCTId": [
           "NCT04285879"
         ],
@@ -5935,7 +5987,7 @@
         ]
       },
       {
-        "Rank": 116,
+        "Rank": 117,
         "NCTId": [
           "NCT04264143"
         ],
@@ -5987,50 +6039,6 @@
         "DetailedDescription": [
           "Diffuse midline gliomas (DMGs), constitute 10% of all pediatric central nervous system (CNS) tumors. Subjects with Diffuse Intrinsic Pontine Gliomas (DIPG) have a poor prognosis with a median survival that is usually reported to be 9 months, and nearly 90% of children die within 18 months from diagnosis. The mainstay of treatment is radiation to the primary tumor site. Surgical resection does not influence outcome and is often not feasible in this part of the central nervous system.\n\nMany promising drugs for central nervous system (CNS) disorders have failed to attain clinical success due to an intact blood brain barrier (BBB), limiting their access form the systemic circulation into the brain. Systemic administration of high doses may increase delivery to the brain, but this approach risks significant side effects and systemic toxicities. Direct delivery of the drugs to the brain by injection into the parenchyma bypasses the BBB, however, drug distribution form the site of injection tends to be limited. The convection-enhanced delivery (CED) of drugs describes the infusion of drugs under controlled pressure to the brain parenchyma via targeted microcatheter. This technique facilitates and deliver higher drug concentrations in brain tissue or tumor. The BBB can now operate to retain drug and to significantly reduce systemic side effects. In addition, the fact that panobinostat seems to be most efficacious clinically available drug against DIPG cells."
         ]
-      },
-      {
-        "Rank": 117,
-        "NCTId": [
-          "NCT04254796"
-        ],
-        "OfficialTitle": [
-          "Neural Mechanisms of Meditation Training in Healthy and Depressed Adolescents: An MRI Connectome Study"
-        ],
-        "Condition": [
-          "Healthy"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nHealthy female and male adolescents, 14-18 years old\nFluency in English\n\nExclusion Criteria:\n\nSubjects younger or older than 14-18 years old.\nSubjects who are not healthy. Subjects who are taking any psychotropic medication.\nMRI contraindications (ferromagnetic objects on or inside the body, e.g., braces) and pregnancy.\nNot allowable: Current mindfulness training (e.g. MBSR, MBCT, DBT) and/or practice with a typically sitting meditation or yoga of 20 or more minutes two or more times per week within 60 days prior to study entry.\nPotential adolescent subjects with current drug or alcohol use or dependence that, in the opinion of the site investigator, would interfere with adherence to the study requirements will be excluded and not allowed to enter the study.\nPotential subjects with an inability or unwillingness to give written informed assent or whose legal guardian/representative are unable or unwilling to give written informed consent will be excluded and not allowed to enter the study."
-        ],
-        "MinimumAge": [
-          "14 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "San Francisco"
-        ],
-        "LocationFacility": [
-          "UCSF"
-        ],
-        "LocationState": [
-          "California"
-        ],
-        "LocationZip": [
-          "94143"
-        ],
-        "LocationContactEMail": [
-          "olga.tymofiyeva@ucsf.edu"
-        ],
-        "LocationContactName": [
-          "Olga Tymofiyeva, PhD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The primary objective will be to study changes in putamen structural connectivity in healthy teens with meditation training. Hypothesis: Putamen structural node strength will increase in the training group compared to controls.\n\nR61 Go/No-Go Criteria. Detect an effect size (a threshold of Cohen's d > 0.20) in changes of the primary mechanistic outcome (Putamen structural node strength) by the described meditation training in 100 healthy adolescents that are 14-18 years old and retain at least 80% of randomized participants for primary outcome measurement at the end of the study regardless of adherence to the intervention.\n\nThe secondary objective will be to study changes in emotional problems in healthy teens with meditation training. Hypothesis: There will be a significant decrease in emotional problems measured with the Strengths and Difficulties Questionnaire (SDQ) in the training group compared to controls.\n\nDesign and Outcomes: The current research study design will utilize an individually randomized group treatment, open-label, waitlist-controlled clinical trial to test the efficacy and safety of the investigator's innovative mindfulness meditation intervention (Training for Awareness Resilience and Action [TARA]) on the primary outcome (Putamen structural node strength) and secondary outcome (emotional problems measured with the Strengths and Difficulties Questionnaire [SDQ]) in healthy adolescents between the ages of 14 to 18 years old."
-        ],
-        "DetailedDescription": []
       },
       {
         "Rank": 118,
