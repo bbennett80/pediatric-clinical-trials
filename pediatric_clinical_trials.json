@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.04",
-    "DataVrs": "2021:12:12 22:51:29.452",
+    "DataVrs": "2021:12:13 23:02:24.018",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 398101,
+    "NStudiesAvail": 398220,
     "NStudiesFound": 403,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -123,18 +123,16 @@
           "19104"
         ],
         "LocationContactEMail": [
-          "anadams@cmh.edu",
+          "wtkraly@cmh.edu",
           "ketterert@chop.edu"
         ],
         "LocationContactName": [
-          "Amber N Adams, MPH",
+          "Weston Kraly",
           "Melissa K Miller, MD, MsCr",
           "Tara Ketterer, MPH",
           "Cynthia Mollen, MD, MSCE"
         ],
-        "LocationContactPhone": [
-          "816-652-2344"
-        ],
+        "LocationContactPhone": [],
         "BriefSummary": [
           "A multi-site randomized trial. Adolescents enrolled in this Clinical Trial will be enrolled into one of two arms. Adolescents in both arms will receive motivational interviewing enhanced counseling and a referral for follow up care. Those randomized in the Multi-level intervention arm will be offered immediate Emergency Department based contraception in addition to receiving a warm referral (providing help with scheduling follow-up care)."
         ],
@@ -4447,55 +4445,6 @@
       {
         "Rank": 86,
         "NCTId": [
-          "NCT04634643"
-        ],
-        "OfficialTitle": [
-          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
-        ],
-        "Condition": [
-          "NAFLD"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "New Haven"
-        ],
-        "LocationFacility": [
-          "Yale New Haven Hospital"
-        ],
-        "LocationState": [
-          "Connecticut"
-        ],
-        "LocationZip": [
-          "06510"
-        ],
-        "LocationContactEMail": [
-          "jessica.lat@yale.edu",
-          "zhongyao.li@yale.edu"
-        ],
-        "LocationContactName": [
-          "Jessica Lat",
-          "Zhongyao Li",
-          "Nicola Santoro, MD, PhD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
-        ],
-        "DetailedDescription": [
-          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
-        ]
-      },
-      {
-        "Rank": 87,
-        "NCTId": [
           "NCT04602325"
         ],
         "OfficialTitle": [
@@ -4546,7 +4495,7 @@
         ]
       },
       {
-        "Rank": 88,
+        "Rank": 87,
         "NCTId": [
           "NCT04569708"
         ],
@@ -4602,7 +4551,7 @@
         ]
       },
       {
-        "Rank": 89,
+        "Rank": 88,
         "NCTId": [
           "NCT04562688"
         ],
@@ -4650,7 +4599,7 @@
         ]
       },
       {
-        "Rank": 90,
+        "Rank": 89,
         "NCTId": [
           "NCT04551482"
         ],
@@ -4697,7 +4646,7 @@
         ]
       },
       {
-        "Rank": 91,
+        "Rank": 90,
         "NCTId": [
           "NCT04540536"
         ],
@@ -4748,7 +4697,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 92,
+        "Rank": 91,
         "NCTId": [
           "NCT04537390"
         ],
@@ -4795,7 +4744,7 @@
         ]
       },
       {
-        "Rank": 93,
+        "Rank": 92,
         "NCTId": [
           "NCT04529707"
         ],
@@ -4843,7 +4792,7 @@
         ]
       },
       {
-        "Rank": 94,
+        "Rank": 93,
         "NCTId": [
           "NCT04526639"
         ],
@@ -4889,7 +4838,7 @@
         ]
       },
       {
-        "Rank": 95,
+        "Rank": 94,
         "NCTId": [
           "NCT04522778"
         ],
@@ -4941,7 +4890,7 @@
         ]
       },
       {
-        "Rank": 96,
+        "Rank": 95,
         "NCTId": [
           "NCT04518397"
         ],
@@ -4990,7 +4939,7 @@
         ]
       },
       {
-        "Rank": 97,
+        "Rank": 96,
         "NCTId": [
           "NCT04516694"
         ],
@@ -5038,7 +4987,7 @@
         ]
       },
       {
-        "Rank": 98,
+        "Rank": 97,
         "NCTId": [
           "NCT04516343"
         ],
@@ -5085,7 +5034,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 99,
+        "Rank": 98,
         "NCTId": [
           "NCT04485416"
         ],
@@ -5136,7 +5085,7 @@
         ]
       },
       {
-        "Rank": 100,
+        "Rank": 99,
         "NCTId": [
           "NCT04482556"
         ],
@@ -5185,7 +5134,7 @@
         ]
       },
       {
-        "Rank": 101,
+        "Rank": 100,
         "NCTId": [
           "NCT04481243"
         ],
@@ -5231,7 +5180,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 102,
+        "Rank": 101,
         "NCTId": [
           "NCT04472286"
         ],
@@ -5294,7 +5243,7 @@
         ]
       },
       {
-        "Rank": 103,
+        "Rank": 102,
         "NCTId": [
           "NCT04462861"
         ],
@@ -5341,7 +5290,7 @@
         ]
       },
       {
-        "Rank": 104,
+        "Rank": 103,
         "NCTId": [
           "NCT04446910"
         ],
@@ -5389,7 +5338,7 @@
         ]
       },
       {
-        "Rank": 105,
+        "Rank": 104,
         "NCTId": [
           "NCT04403633"
         ],
@@ -5437,7 +5386,7 @@
         ]
       },
       {
-        "Rank": 106,
+        "Rank": 105,
         "NCTId": [
           "NCT04398862"
         ],
@@ -5487,7 +5436,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 107,
+        "Rank": 106,
         "NCTId": [
           "NCT04390035"
         ],
@@ -5535,7 +5484,7 @@
         ]
       },
       {
-        "Rank": 108,
+        "Rank": 107,
         "NCTId": [
           "NCT04365556"
         ],
@@ -5587,7 +5536,7 @@
         ]
       },
       {
-        "Rank": 109,
+        "Rank": 108,
         "NCTId": [
           "NCT04360395"
         ],
@@ -5636,7 +5585,7 @@
         ]
       },
       {
-        "Rank": 110,
+        "Rank": 109,
         "NCTId": [
           "NCT04357132"
         ],
@@ -5687,7 +5636,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 111,
+        "Rank": 110,
         "NCTId": [
           "NCT04351958"
         ],
@@ -5735,7 +5684,7 @@
         ]
       },
       {
-        "Rank": 112,
+        "Rank": 111,
         "NCTId": [
           "NCT04351776"
         ],
@@ -5786,7 +5735,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 113,
+        "Rank": 112,
         "NCTId": [
           "NCT04342000"
         ],
@@ -5837,7 +5786,7 @@
         ]
       },
       {
-        "Rank": 114,
+        "Rank": 113,
         "NCTId": [
           "NCT04338048"
         ],
@@ -5877,7 +5826,7 @@
         ]
       },
       {
-        "Rank": 115,
+        "Rank": 114,
         "NCTId": [
           "NCT04322734"
         ],
@@ -5931,7 +5880,7 @@
         ]
       },
       {
-        "Rank": 116,
+        "Rank": 115,
         "NCTId": [
           "NCT04317521"
         ],
@@ -5979,7 +5928,7 @@
         ]
       },
       {
-        "Rank": 117,
+        "Rank": 116,
         "NCTId": [
           "NCT04314635"
         ],
@@ -6025,7 +5974,7 @@
         ]
       },
       {
-        "Rank": 118,
+        "Rank": 117,
         "NCTId": [
           "NCT04313192"
         ],
@@ -6077,7 +6026,7 @@
         ]
       },
       {
-        "Rank": 119,
+        "Rank": 118,
         "NCTId": [
           "NCT04312919"
         ],
@@ -6124,7 +6073,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 120,
+        "Rank": 119,
         "NCTId": [
           "NCT04309786"
         ],
@@ -6175,7 +6124,7 @@
         ]
       },
       {
-        "Rank": 121,
+        "Rank": 120,
         "NCTId": [
           "NCT04299191"
         ],
@@ -6223,7 +6172,7 @@
         ]
       },
       {
-        "Rank": 122,
+        "Rank": 121,
         "NCTId": [
           "NCT04298203"
         ],
@@ -6271,7 +6220,7 @@
         ]
       },
       {
-        "Rank": 123,
+        "Rank": 122,
         "NCTId": [
           "NCT04298099"
         ],
@@ -6319,7 +6268,7 @@
         ]
       },
       {
-        "Rank": 124,
+        "Rank": 123,
         "NCTId": [
           "NCT04290754"
         ],
@@ -6370,7 +6319,7 @@
         ]
       },
       {
-        "Rank": 125,
+        "Rank": 124,
         "NCTId": [
           "NCT04288206"
         ],
@@ -6415,7 +6364,7 @@
         ]
       },
       {
-        "Rank": 126,
+        "Rank": 125,
         "NCTId": [
           "NCT04285879"
         ],
@@ -6465,7 +6414,7 @@
         ]
       },
       {
-        "Rank": 127,
+        "Rank": 126,
         "NCTId": [
           "NCT04264143"
         ],
@@ -6519,7 +6468,7 @@
         ]
       },
       {
-        "Rank": 128,
+        "Rank": 127,
         "NCTId": [
           "NCT04250844"
         ],
@@ -6565,7 +6514,7 @@
         ]
       },
       {
-        "Rank": 129,
+        "Rank": 128,
         "NCTId": [
           "NCT04247100"
         ],
@@ -6615,7 +6564,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 130,
+        "Rank": 129,
         "NCTId": [
           "NCT04246112"
         ],
@@ -6665,7 +6614,7 @@
         ]
       },
       {
-        "Rank": 131,
+        "Rank": 130,
         "NCTId": [
           "NCT04242602"
         ],
@@ -6713,7 +6662,7 @@
         ]
       },
       {
-        "Rank": 132,
+        "Rank": 131,
         "NCTId": [
           "NCT04222101"
         ],
@@ -6766,7 +6715,7 @@
         ]
       },
       {
-        "Rank": 133,
+        "Rank": 132,
         "NCTId": [
           "NCT04219995"
         ],
@@ -6815,7 +6764,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 134,
+        "Rank": 133,
         "NCTId": [
           "NCT04217694"
         ],
@@ -6865,7 +6814,7 @@
         ]
       },
       {
-        "Rank": 135,
+        "Rank": 134,
         "NCTId": [
           "NCT04211935"
         ],
@@ -6914,7 +6863,7 @@
         ]
       },
       {
-        "Rank": 136,
+        "Rank": 135,
         "NCTId": [
           "NCT04208256"
         ],
@@ -6966,7 +6915,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 137,
+        "Rank": 136,
         "NCTId": [
           "NCT04205604"
         ],
@@ -7010,7 +6959,7 @@
         ]
       },
       {
-        "Rank": 138,
+        "Rank": 137,
         "NCTId": [
           "NCT04201106"
         ],
@@ -7056,7 +7005,7 @@
         ]
       },
       {
-        "Rank": 139,
+        "Rank": 138,
         "NCTId": [
           "NCT04199247"
         ],
@@ -7109,7 +7058,7 @@
         ]
       },
       {
-        "Rank": 140,
+        "Rank": 139,
         "NCTId": [
           "NCT04190225"
         ],
@@ -7161,7 +7110,7 @@
         ]
       },
       {
-        "Rank": 141,
+        "Rank": 140,
         "NCTId": [
           "NCT04186429"
         ],
@@ -7211,7 +7160,7 @@
         ]
       },
       {
-        "Rank": 142,
+        "Rank": 141,
         "NCTId": [
           "NCT04180358"
         ],
@@ -7261,7 +7210,7 @@
         ]
       },
       {
-        "Rank": 143,
+        "Rank": 142,
         "NCTId": [
           "NCT04174001"
         ],
@@ -7307,7 +7256,7 @@
         ]
       },
       {
-        "Rank": 144,
+        "Rank": 143,
         "NCTId": [
           "NCT04166526"
         ],
@@ -7353,7 +7302,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 145,
+        "Rank": 144,
         "NCTId": [
           "NCT04164966"
         ],
@@ -7399,7 +7348,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 146,
+        "Rank": 145,
         "NCTId": [
           "NCT04158245"
         ],
@@ -7451,7 +7400,7 @@
         ]
       },
       {
-        "Rank": 147,
+        "Rank": 146,
         "NCTId": [
           "NCT04154865"
         ],
@@ -7499,7 +7448,7 @@
         ]
       },
       {
-        "Rank": 148,
+        "Rank": 147,
         "NCTId": [
           "NCT04153994"
         ],
@@ -7540,7 +7489,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 149,
+        "Rank": 148,
         "NCTId": [
           "NCT04148560"
         ],
@@ -7592,7 +7541,7 @@
         ]
       },
       {
-        "Rank": 150,
+        "Rank": 149,
         "NCTId": [
           "NCT04127331"
         ],
@@ -7638,7 +7587,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 151,
+        "Rank": 150,
         "NCTId": [
           "NCT04118712"
         ],
@@ -7683,7 +7632,7 @@
         ]
       },
       {
-        "Rank": 152,
+        "Rank": 151,
         "NCTId": [
           "NCT04111991"
         ],
@@ -7729,7 +7678,7 @@
         ]
       },
       {
-        "Rank": 153,
+        "Rank": 152,
         "NCTId": [
           "NCT04111471"
         ],
@@ -7769,7 +7718,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 154,
+        "Rank": 153,
         "NCTId": [
           "NCT04110730"
         ],
@@ -7818,7 +7767,7 @@
         ]
       },
       {
-        "Rank": 155,
+        "Rank": 154,
         "NCTId": [
           "NCT04108988"
         ],
@@ -7867,7 +7816,7 @@
         ]
       },
       {
-        "Rank": 156,
+        "Rank": 155,
         "NCTId": [
           "NCT04104841"
         ],
@@ -7918,7 +7867,7 @@
         ]
       },
       {
-        "Rank": 157,
+        "Rank": 156,
         "NCTId": [
           "NCT04099810"
         ],
@@ -7964,7 +7913,7 @@
         ]
       },
       {
-        "Rank": 158,
+        "Rank": 157,
         "NCTId": [
           "NCT04099797"
         ],
@@ -8018,7 +7967,7 @@
         ]
       },
       {
-        "Rank": 159,
+        "Rank": 158,
         "NCTId": [
           "NCT04089332"
         ],
@@ -8066,7 +8015,7 @@
         ]
       },
       {
-        "Rank": 160,
+        "Rank": 159,
         "NCTId": [
           "NCT04064684"
         ],
@@ -8113,7 +8062,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 161,
+        "Rank": 160,
         "NCTId": [
           "NCT04060303"
         ],
@@ -8159,7 +8108,7 @@
         ]
       },
       {
-        "Rank": 162,
+        "Rank": 161,
         "NCTId": [
           "NCT04046562"
         ],
@@ -8209,7 +8158,7 @@
         ]
       },
       {
-        "Rank": 163,
+        "Rank": 162,
         "NCTId": [
           "NCT04039750"
         ],
@@ -8255,7 +8204,7 @@
         ]
       },
       {
-        "Rank": 164,
+        "Rank": 163,
         "NCTId": [
           "NCT04032990"
         ],
@@ -8303,7 +8252,7 @@
         ]
       },
       {
-        "Rank": 165,
+        "Rank": 164,
         "NCTId": [
           "NCT04017975"
         ],
@@ -8352,7 +8301,7 @@
         ]
       },
       {
-        "Rank": 166,
+        "Rank": 165,
         "NCTId": [
           "NCT04003012"
         ],
@@ -8398,7 +8347,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 167,
+        "Rank": 166,
         "NCTId": [
           "NCT03995394"
         ],
@@ -8446,7 +8395,7 @@
         ]
       },
       {
-        "Rank": 168,
+        "Rank": 167,
         "NCTId": [
           "NCT03992209"
         ],
@@ -8496,7 +8445,7 @@
         ]
       },
       {
-        "Rank": 169,
+        "Rank": 168,
         "NCTId": [
           "NCT03985020"
         ],
@@ -8540,7 +8489,7 @@
         ]
       },
       {
-        "Rank": 170,
+        "Rank": 169,
         "NCTId": [
           "NCT03961854"
         ],
@@ -8580,7 +8529,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 171,
+        "Rank": 170,
         "NCTId": [
           "NCT03961061"
         ],
@@ -8631,7 +8580,7 @@
         ]
       },
       {
-        "Rank": 172,
+        "Rank": 171,
         "NCTId": [
           "NCT03954223"
         ],
@@ -8679,7 +8628,7 @@
         ]
       },
       {
-        "Rank": 173,
+        "Rank": 172,
         "NCTId": [
           "NCT03945747"
         ],
@@ -8737,7 +8686,7 @@
         ]
       },
       {
-        "Rank": 174,
+        "Rank": 173,
         "NCTId": [
           "NCT03942952"
         ],
@@ -8790,7 +8739,7 @@
         ]
       },
       {
-        "Rank": 175,
+        "Rank": 174,
         "NCTId": [
           "NCT03922451"
         ],
@@ -8832,7 +8781,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 176,
+        "Rank": 175,
         "NCTId": [
           "NCT03911388"
         ],
@@ -8915,7 +8864,7 @@
         ]
       },
       {
-        "Rank": 177,
+        "Rank": 176,
         "NCTId": [
           "NCT03905031"
         ],
@@ -8975,7 +8924,7 @@
         ]
       },
       {
-        "Rank": 178,
+        "Rank": 177,
         "NCTId": [
           "NCT03896867"
         ],
@@ -9021,7 +8970,7 @@
         ]
       },
       {
-        "Rank": 179,
+        "Rank": 178,
         "NCTId": [
           "NCT03882034"
         ],
@@ -9069,7 +9018,7 @@
         ]
       },
       {
-        "Rank": 180,
+        "Rank": 179,
         "NCTId": [
           "NCT03869749"
         ],
@@ -9118,7 +9067,7 @@
         ]
       },
       {
-        "Rank": 181,
+        "Rank": 180,
         "NCTId": [
           "NCT03866707"
         ],
@@ -9169,7 +9118,7 @@
         ]
       },
       {
-        "Rank": 182,
+        "Rank": 181,
         "NCTId": [
           "NCT03866460"
         ],
@@ -9216,7 +9165,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 183,
+        "Rank": 182,
         "NCTId": [
           "NCT03860311"
         ],
@@ -9269,7 +9218,7 @@
         ]
       },
       {
-        "Rank": 184,
+        "Rank": 183,
         "NCTId": [
           "NCT03855553"
         ],
@@ -9323,7 +9272,7 @@
         ]
       },
       {
-        "Rank": 185,
+        "Rank": 184,
         "NCTId": [
           "NCT03825341"
         ],
@@ -9373,7 +9322,7 @@
         ]
       },
       {
-        "Rank": 186,
+        "Rank": 185,
         "NCTId": [
           "NCT03812159"
         ],
@@ -9424,7 +9373,7 @@
         ]
       },
       {
-        "Rank": 187,
+        "Rank": 186,
         "NCTId": [
           "NCT03795818"
         ],
@@ -9475,7 +9424,7 @@
         ]
       },
       {
-        "Rank": 188,
+        "Rank": 187,
         "NCTId": [
           "NCT03755687"
         ],
@@ -9520,7 +9469,7 @@
         ]
       },
       {
-        "Rank": 189,
+        "Rank": 188,
         "NCTId": [
           "NCT03730194"
         ],
@@ -9573,7 +9522,7 @@
         ]
       },
       {
-        "Rank": 190,
+        "Rank": 189,
         "NCTId": [
           "NCT03729999"
         ],
@@ -9618,7 +9567,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 191,
+        "Rank": 190,
         "NCTId": [
           "NCT03721068"
         ],
@@ -9665,7 +9614,7 @@
         ]
       },
       {
-        "Rank": 192,
+        "Rank": 191,
         "NCTId": [
           "NCT03718234"
         ],
@@ -9717,7 +9666,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 193,
+        "Rank": 192,
         "NCTId": [
           "NCT03711318"
         ],
@@ -9763,7 +9712,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 194,
+        "Rank": 193,
         "NCTId": [
           "NCT03709472"
         ],
@@ -9816,7 +9765,7 @@
         ]
       },
       {
-        "Rank": 195,
+        "Rank": 194,
         "NCTId": [
           "NCT03709199"
         ],
@@ -9866,7 +9815,7 @@
         ]
       },
       {
-        "Rank": 196,
+        "Rank": 195,
         "NCTId": [
           "NCT03687008"
         ],
@@ -9915,7 +9864,7 @@
         ]
       },
       {
-        "Rank": 197,
+        "Rank": 196,
         "NCTId": [
           "NCT03675321"
         ],
@@ -9961,7 +9910,7 @@
         ]
       },
       {
-        "Rank": 198,
+        "Rank": 197,
         "NCTId": [
           "NCT03670849"
         ],
@@ -10009,7 +9958,7 @@
         ]
       },
       {
-        "Rank": 199,
+        "Rank": 198,
         "NCTId": [
           "NCT03665337"
         ],
@@ -10054,7 +10003,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 200,
+        "Rank": 199,
         "NCTId": [
           "NCT03653013"
         ],
@@ -10097,7 +10046,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 201,
+        "Rank": 200,
         "NCTId": [
           "NCT03648450"
         ],
@@ -10146,7 +10095,7 @@
         ]
       },
       {
-        "Rank": 202,
+        "Rank": 201,
         "NCTId": [
           "NCT03625011"
         ],
@@ -10198,7 +10147,7 @@
         ]
       },
       {
-        "Rank": 203,
+        "Rank": 202,
         "NCTId": [
           "NCT03584399"
         ],
@@ -10240,7 +10189,7 @@
         ]
       },
       {
-        "Rank": 204,
+        "Rank": 203,
         "NCTId": [
           "NCT03559036"
         ],
@@ -10285,7 +10234,7 @@
         ]
       },
       {
-        "Rank": 205,
+        "Rank": 204,
         "NCTId": [
           "NCT03555708"
         ],
@@ -10338,7 +10287,7 @@
         ]
       },
       {
-        "Rank": 206,
+        "Rank": 205,
         "NCTId": [
           "NCT03553875"
         ],
@@ -10387,7 +10336,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 207,
+        "Rank": 206,
         "NCTId": [
           "NCT03539783"
         ],
@@ -10439,7 +10388,7 @@
         ]
       },
       {
-        "Rank": 208,
+        "Rank": 207,
         "NCTId": [
           "NCT03530852"
         ],
@@ -10488,7 +10437,7 @@
         ]
       },
       {
-        "Rank": 209,
+        "Rank": 208,
         "NCTId": [
           "NCT03528109"
         ],
@@ -10552,7 +10501,7 @@
         ]
       },
       {
-        "Rank": 210,
+        "Rank": 209,
         "NCTId": [
           "NCT03500835"
         ],
@@ -10602,7 +10551,7 @@
         ]
       },
       {
-        "Rank": 211,
+        "Rank": 210,
         "NCTId": [
           "NCT03498495"
         ],
@@ -10648,7 +10597,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 212,
+        "Rank": 211,
         "NCTId": [
           "NCT03496259"
         ],
@@ -10697,7 +10646,7 @@
         ]
       },
       {
-        "Rank": 213,
+        "Rank": 212,
         "NCTId": [
           "NCT03495388"
         ],
@@ -10750,7 +10699,7 @@
         ]
       },
       {
-        "Rank": 214,
+        "Rank": 213,
         "NCTId": [
           "NCT03492944"
         ],
@@ -10794,7 +10743,7 @@
         ]
       },
       {
-        "Rank": 215,
+        "Rank": 214,
         "NCTId": [
           "NCT03489434"
         ],
@@ -10838,7 +10787,7 @@
         ]
       },
       {
-        "Rank": 216,
+        "Rank": 215,
         "NCTId": [
           "NCT03472768"
         ],
@@ -10884,7 +10833,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 217,
+        "Rank": 216,
         "NCTId": [
           "NCT03467750"
         ],
@@ -10934,7 +10883,7 @@
         ]
       },
       {
-        "Rank": 218,
+        "Rank": 217,
         "NCTId": [
           "NCT03462979"
         ],
@@ -10986,7 +10935,7 @@
         ]
       },
       {
-        "Rank": 219,
+        "Rank": 218,
         "NCTId": [
           "NCT03453541"
         ],
@@ -11045,7 +10994,7 @@
         ]
       },
       {
-        "Rank": 220,
+        "Rank": 219,
         "NCTId": [
           "NCT03451435"
         ],
@@ -11093,7 +11042,7 @@
         ]
       },
       {
-        "Rank": 221,
+        "Rank": 220,
         "NCTId": [
           "NCT03438656"
         ],
@@ -11142,7 +11091,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 222,
+        "Rank": 221,
         "NCTId": [
           "NCT03429114"
         ],
@@ -11190,7 +11139,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 223,
+        "Rank": 222,
         "NCTId": [
           "NCT03423940"
         ],
@@ -11242,7 +11191,7 @@
         ]
       },
       {
-        "Rank": 224,
+        "Rank": 223,
         "NCTId": [
           "NCT03419260"
         ],
@@ -11288,7 +11237,7 @@
         ]
       },
       {
-        "Rank": 225,
+        "Rank": 224,
         "NCTId": [
           "NCT03384134"
         ],
@@ -11339,7 +11288,7 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 225,
         "NCTId": [
           "NCT03363919"
         ],
@@ -11391,7 +11340,7 @@
         ]
       },
       {
-        "Rank": 227,
+        "Rank": 226,
         "NCTId": [
           "NCT03337594"
         ],
@@ -11443,7 +11392,7 @@
         ]
       },
       {
-        "Rank": 228,
+        "Rank": 227,
         "NCTId": [
           "NCT03334942"
         ],
@@ -11498,7 +11447,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 228,
         "NCTId": [
           "NCT03318393"
         ],
@@ -11542,7 +11491,7 @@
         ]
       },
       {
-        "Rank": 230,
+        "Rank": 229,
         "NCTId": [
           "NCT03304574"
         ],
@@ -11597,7 +11546,7 @@
         ]
       },
       {
-        "Rank": 231,
+        "Rank": 230,
         "NCTId": [
           "NCT03297658"
         ],
@@ -11643,7 +11592,7 @@
         ]
       },
       {
-        "Rank": 232,
+        "Rank": 231,
         "NCTId": [
           "NCT03283033"
         ],
@@ -11692,7 +11641,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 233,
+        "Rank": 232,
         "NCTId": [
           "NCT03280628"
         ],
@@ -11732,7 +11681,7 @@
         ]
       },
       {
-        "Rank": 234,
+        "Rank": 233,
         "NCTId": [
           "NCT03266016"
         ],
@@ -11774,7 +11723,7 @@
         ]
       },
       {
-        "Rank": 235,
+        "Rank": 234,
         "NCTId": [
           "NCT03239977"
         ],
@@ -11820,7 +11769,7 @@
         ]
       },
       {
-        "Rank": 236,
+        "Rank": 235,
         "NCTId": [
           "NCT03229837"
         ],
@@ -11870,7 +11819,7 @@
         ]
       },
       {
-        "Rank": 237,
+        "Rank": 236,
         "NCTId": [
           "NCT03225014"
         ],
@@ -11919,7 +11868,7 @@
         ]
       },
       {
-        "Rank": 238,
+        "Rank": 237,
         "NCTId": [
           "NCT03222570"
         ],
@@ -11965,7 +11914,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 239,
+        "Rank": 238,
         "NCTId": [
           "NCT03202303"
         ],
@@ -12013,7 +11962,7 @@
         ]
       },
       {
-        "Rank": 240,
+        "Rank": 239,
         "NCTId": [
           "NCT03192566"
         ],
@@ -12065,7 +12014,7 @@
         ]
       },
       {
-        "Rank": 241,
+        "Rank": 240,
         "NCTId": [
           "NCT03166358"
         ],
@@ -12113,7 +12062,7 @@
         ]
       },
       {
-        "Rank": 242,
+        "Rank": 241,
         "NCTId": [
           "NCT03154359"
         ],
@@ -12164,7 +12113,7 @@
         ]
       },
       {
-        "Rank": 243,
+        "Rank": 242,
         "NCTId": [
           "NCT03132948"
         ],
@@ -12213,7 +12162,7 @@
         ]
       },
       {
-        "Rank": 244,
+        "Rank": 243,
         "NCTId": [
           "NCT03073070"
         ],
@@ -12265,7 +12214,7 @@
         ]
       },
       {
-        "Rank": 245,
+        "Rank": 244,
         "NCTId": [
           "NCT03072849"
         ],
@@ -12316,7 +12265,7 @@
         ]
       },
       {
-        "Rank": 246,
+        "Rank": 245,
         "NCTId": [
           "NCT03055533"
         ],
@@ -12365,7 +12314,7 @@
         ]
       },
       {
-        "Rank": 247,
+        "Rank": 246,
         "NCTId": [
           "NCT03032328"
         ],
@@ -12416,7 +12365,7 @@
         ]
       },
       {
-        "Rank": 248,
+        "Rank": 247,
         "NCTId": [
           "NCT03023566"
         ],
@@ -12465,7 +12414,7 @@
         ]
       },
       {
-        "Rank": 249,
+        "Rank": 248,
         "NCTId": [
           "NCT03005951"
         ],
@@ -12516,7 +12465,7 @@
         ]
       },
       {
-        "Rank": 250,
+        "Rank": 249,
         "NCTId": [
           "NCT02914067"
         ],
@@ -12569,7 +12518,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 251,
+        "Rank": 250,
         "NCTId": [
           "NCT02895711"
         ],
@@ -12618,7 +12567,7 @@
         ]
       },
       {
-        "Rank": 252,
+        "Rank": 251,
         "NCTId": [
           "NCT02889016"
         ],
@@ -12665,7 +12614,7 @@
         ]
       },
       {
-        "Rank": 253,
+        "Rank": 252,
         "NCTId": [
           "NCT02872558"
         ],
@@ -12716,7 +12665,7 @@
         ]
       },
       {
-        "Rank": 254,
+        "Rank": 253,
         "NCTId": [
           "NCT02846272"
         ],
@@ -12765,7 +12714,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 254,
         "NCTId": [
           "NCT02824627"
         ],
@@ -12815,7 +12764,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 255,
         "NCTId": [
           "NCT02801136"
         ],
@@ -12866,7 +12815,7 @@
         ]
       },
       {
-        "Rank": 257,
+        "Rank": 256,
         "NCTId": [
           "NCT02775643"
         ],
@@ -12913,7 +12862,7 @@
         ]
       },
       {
-        "Rank": 258,
+        "Rank": 257,
         "NCTId": [
           "NCT02769975"
         ],
@@ -12965,7 +12914,7 @@
         ]
       },
       {
-        "Rank": 259,
+        "Rank": 258,
         "NCTId": [
           "NCT02747849"
         ],
@@ -13016,7 +12965,7 @@
         ]
       },
       {
-        "Rank": 260,
+        "Rank": 259,
         "NCTId": [
           "NCT02742272"
         ],
@@ -13069,7 +13018,7 @@
         ]
       },
       {
-        "Rank": 261,
+        "Rank": 260,
         "NCTId": [
           "NCT02722486"
         ],
@@ -13117,7 +13066,7 @@
         ]
       },
       {
-        "Rank": 262,
+        "Rank": 261,
         "NCTId": [
           "NCT02703597"
         ],
@@ -13164,7 +13113,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 263,
+        "Rank": 262,
         "NCTId": [
           "NCT02699190"
         ],
@@ -13212,7 +13161,7 @@
         ]
       },
       {
-        "Rank": 264,
+        "Rank": 263,
         "NCTId": [
           "NCT02651493"
         ],
@@ -13263,7 +13212,7 @@
         ]
       },
       {
-        "Rank": 265,
+        "Rank": 264,
         "NCTId": [
           "NCT02616796"
         ],
@@ -13311,7 +13260,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 266,
+        "Rank": 265,
         "NCTId": [
           "NCT02610946"
         ],
@@ -13362,7 +13311,7 @@
         ]
       },
       {
-        "Rank": 267,
+        "Rank": 266,
         "NCTId": [
           "NCT02535936"
         ],
@@ -13413,7 +13362,7 @@
         ]
       },
       {
-        "Rank": 268,
+        "Rank": 267,
         "NCTId": [
           "NCT02512718"
         ],
@@ -13457,7 +13406,7 @@
         ]
       },
       {
-        "Rank": 269,
+        "Rank": 268,
         "NCTId": [
           "NCT02507791"
         ],
@@ -13508,7 +13457,7 @@
         ]
       },
       {
-        "Rank": 270,
+        "Rank": 269,
         "NCTId": [
           "NCT02498925"
         ],
@@ -13556,7 +13505,7 @@
         ]
       },
       {
-        "Rank": 271,
+        "Rank": 270,
         "NCTId": [
           "NCT02485418"
         ],
@@ -13603,7 +13552,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 272,
+        "Rank": 271,
         "NCTId": [
           "NCT02478788"
         ],
@@ -13653,7 +13602,7 @@
         ]
       },
       {
-        "Rank": 273,
+        "Rank": 272,
         "NCTId": [
           "NCT02453126"
         ],
@@ -13699,7 +13648,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 274,
+        "Rank": 273,
         "NCTId": [
           "NCT02420990"
         ],
@@ -13747,52 +13696,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 275,
-        "NCTId": [
-          "NCT02398539"
-        ],
-        "OfficialTitle": [
-          "Randomized Clinical Trial Comparing Silver Nitrate Application With Topical Corticosteroids for Hypergranulation Tissue at Gastrostomy Sites"
-        ],
-        "Condition": [
-          "Hypergranulation Tissue; Gastrostomy Tube Site"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPediatric patients <18\nEvaluated for hypergranulation at the G-tube site\nInpatient and out-patient\n\nExclusion Criteria:\n\nChildren not meeting the above criteia"
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Akron"
-        ],
-        "LocationFacility": [
-          "Akron Children's Hospital"
-        ],
-        "LocationState": [
-          "Ohio"
-        ],
-        "LocationZip": [
-          "44308"
-        ],
-        "LocationContactEMail": [
-          "elemon@chmca.org"
-        ],
-        "LocationContactName": [
-          "Eloise Lemon",
-          "Ana Frabotta, PNP"
-        ],
-        "LocationContactPhone": [
-          "330-543-3193"
-        ],
-        "BriefSummary": [
-          "This protocol describes a randomized, two arm clinical trial comparing two topical treatments in patients with hypergranulation tissue at gastrostomy tube sites. The subjects are randomized to either group 1or group 2 treatments:\n\nMaximum duration of therapy is 4 weeks. However, the therapy may be discontinued anytime at the discretion of the investigator or if there is resolution of the of the hypergranulation tissue."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 276,
+        "Rank": 274,
         "NCTId": [
           "NCT02395003"
         ],
@@ -13836,7 +13740,7 @@
         ]
       },
       {
-        "Rank": 277,
+        "Rank": 275,
         "NCTId": [
           "NCT02312635"
         ],
@@ -13888,7 +13792,7 @@
         ]
       },
       {
-        "Rank": 278,
+        "Rank": 276,
         "NCTId": [
           "NCT02257229"
         ],
@@ -13935,7 +13839,7 @@
         ]
       },
       {
-        "Rank": 279,
+        "Rank": 277,
         "NCTId": [
           "NCT02245997"
         ],
@@ -13982,7 +13886,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 280,
+        "Rank": 278,
         "NCTId": [
           "NCT02202174"
         ],
@@ -14027,7 +13931,7 @@
         ]
       },
       {
-        "Rank": 281,
+        "Rank": 279,
         "NCTId": [
           "NCT02130180"
         ],
@@ -14075,7 +13979,7 @@
         ]
       },
       {
-        "Rank": 282,
+        "Rank": 280,
         "NCTId": [
           "NCT02127658"
         ],
@@ -14117,7 +14021,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 283,
+        "Rank": 281,
         "NCTId": [
           "NCT02117063"
         ],
@@ -14174,7 +14078,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 282,
         "NCTId": [
           "NCT02055105"
         ],
@@ -14222,7 +14126,7 @@
         ]
       },
       {
-        "Rank": 285,
+        "Rank": 283,
         "NCTId": [
           "NCT02021604"
         ],
@@ -14265,7 +14169,7 @@
         ]
       },
       {
-        "Rank": 286,
+        "Rank": 284,
         "NCTId": [
           "NCT01960166"
         ],
@@ -14307,7 +14211,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 287,
+        "Rank": 285,
         "NCTId": [
           "NCT01857791"
         ],
@@ -14354,7 +14258,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 288,
+        "Rank": 286,
         "NCTId": [
           "NCT01839747"
         ],
@@ -14403,7 +14307,7 @@
         ]
       },
       {
-        "Rank": 289,
+        "Rank": 287,
         "NCTId": [
           "NCT01724463"
         ],
@@ -14458,7 +14362,7 @@
         ]
       },
       {
-        "Rank": 290,
+        "Rank": 288,
         "NCTId": [
           "NCT01665326"
         ],
@@ -14508,7 +14412,7 @@
         ]
       },
       {
-        "Rank": 291,
+        "Rank": 289,
         "NCTId": [
           "NCT01629017"
         ],
@@ -14557,7 +14461,7 @@
         ]
       },
       {
-        "Rank": 292,
+        "Rank": 290,
         "NCTId": [
           "NCT01598766"
         ],
@@ -14609,7 +14513,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 293,
+        "Rank": 291,
         "NCTId": [
           "NCT01577810"
         ],
@@ -14660,7 +14564,7 @@
         ]
       },
       {
-        "Rank": 294,
+        "Rank": 292,
         "NCTId": [
           "NCT01543438"
         ],
@@ -14707,7 +14611,7 @@
         ]
       },
       {
-        "Rank": 295,
+        "Rank": 293,
         "NCTId": [
           "NCT01504373"
         ],
@@ -14753,7 +14657,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 296,
+        "Rank": 294,
         "NCTId": [
           "NCT01422759"
         ],
@@ -14805,7 +14709,7 @@
         ]
       },
       {
-        "Rank": 297,
+        "Rank": 295,
         "NCTId": [
           "NCT01422746"
         ],
@@ -14855,7 +14759,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 298,
+        "Rank": 296,
         "NCTId": [
           "NCT01421810"
         ],
@@ -14906,7 +14810,7 @@
         ]
       },
       {
-        "Rank": 299,
+        "Rank": 297,
         "NCTId": [
           "NCT01421797"
         ],
@@ -14958,7 +14862,7 @@
         ]
       },
       {
-        "Rank": 300,
+        "Rank": 298,
         "NCTId": [
           "NCT01386736"
         ],
@@ -15007,7 +14911,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 301,
+        "Rank": 299,
         "NCTId": [
           "NCT01383915"
         ],
@@ -15056,7 +14960,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 300,
         "NCTId": [
           "NCT01304875"
         ],
@@ -15100,7 +15004,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 301,
         "NCTId": [
           "NCT01285531"
         ],
@@ -15157,7 +15061,7 @@
         ]
       },
       {
-        "Rank": 304,
+        "Rank": 302,
         "NCTId": [
           "NCT01122095"
         ],
@@ -15210,7 +15114,7 @@
         ]
       },
       {
-        "Rank": 305,
+        "Rank": 303,
         "NCTId": [
           "NCT00906906"
         ],
@@ -15261,7 +15165,7 @@
         ]
       },
       {
-        "Rank": 306,
+        "Rank": 304,
         "NCTId": [
           "NCT00814853"
         ],
@@ -15308,7 +15212,7 @@
         ]
       },
       {
-        "Rank": 307,
+        "Rank": 305,
         "NCTId": [
           "NCT00792415"
         ],
@@ -15356,7 +15260,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 308,
+        "Rank": 306,
         "NCTId": [
           "NCT00745394"
         ],
@@ -15403,7 +15307,7 @@
         ]
       },
       {
-        "Rank": 309,
+        "Rank": 307,
         "NCTId": [
           "NCT00616317"
         ],
@@ -15441,7 +15345,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 310,
+        "Rank": 308,
         "NCTId": [
           "NCT00494572"
         ],
@@ -15491,7 +15395,7 @@
         ]
       },
       {
-        "Rank": 311,
+        "Rank": 309,
         "NCTId": [
           "NCT00491946"
         ],
@@ -15536,7 +15440,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 310,
         "NCTId": [
           "NCT00465699"
         ],
@@ -15580,7 +15484,7 @@
         ]
       },
       {
-        "Rank": 313,
+        "Rank": 311,
         "NCTId": [
           "NCT00320086"
         ],
@@ -15628,7 +15532,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 312,
         "NCTId": [
           "NCT00292513"
         ],
@@ -15673,7 +15577,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 315,
+        "Rank": 313,
         "NCTId": [
           "NCT00182572"
         ],
@@ -15717,7 +15621,7 @@
         ]
       },
       {
-        "Rank": 316,
+        "Rank": 314,
         "NCTId": [
           "NCT00036712"
         ],
@@ -15774,7 +15678,7 @@
         ]
       },
       {
-        "Rank": 317,
+        "Rank": 315,
         "NCTId": [
           "NCT00012506"
         ],
@@ -15822,7 +15726,7 @@
         ]
       },
       {
-        "Rank": 318,
+        "Rank": 316,
         "NCTId": [
           "NCT00000112"
         ],
@@ -15859,6 +15763,100 @@
         "LocationContactPhone": [],
         "BriefSummary": [
           "The prevalence of obesity in children is reaching epidemic proportions. Excess adiposity is more than just a cosmetic problem, having substantial metabolic consequences. Insulin resistance, hyperinsulinemia, impaired glucose tolerance, and frank diabetes are often seen in obese children. In this study the prevalence of impaired glucose (carbohydrate) tolerance in lean children with a family history of diabetes and obese children with acanthosis nigricans with or without a family history of diabetes mellitus will be studied."
+        ],
+        "DetailedDescription": []
+      },
+      {
+        "Rank": 317,
+        "NCTId": [
+          "NCT04634643"
+        ],
+        "OfficialTitle": [
+          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
+        ],
+        "Condition": [
+          "NAFLD"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "New Haven"
+        ],
+        "LocationFacility": [
+          "Yale New Haven Hospital"
+        ],
+        "LocationState": [
+          "Connecticut"
+        ],
+        "LocationZip": [
+          "06510"
+        ],
+        "LocationContactEMail": [
+          "jessica.lat@yale.edu",
+          "zhongyao.li@yale.edu"
+        ],
+        "LocationContactName": [
+          "Jessica Lat",
+          "Zhongyao Li",
+          "Nicola Santoro, MD, PhD"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
+        ],
+        "DetailedDescription": [
+          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
+        ]
+      },
+      {
+        "Rank": 318,
+        "NCTId": [
+          "NCT02398539"
+        ],
+        "OfficialTitle": [
+          "Randomized Clinical Trial Comparing Silver Nitrate Application With Topical Corticosteroids for Hypergranulation Tissue at Gastrostomy Sites"
+        ],
+        "Condition": [
+          "Hypergranulation Tissue; Gastrostomy Tube Site"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPediatric patients <18\nEvaluated for hypergranulation at the G-tube site\nInpatient and out-patient\n\nExclusion Criteria:\n\nChildren not meeting the above criteia"
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Akron"
+        ],
+        "LocationFacility": [
+          "Akron Children's Hospital"
+        ],
+        "LocationState": [
+          "Ohio"
+        ],
+        "LocationZip": [
+          "44308"
+        ],
+        "LocationContactEMail": [
+          "elemon@chmca.org"
+        ],
+        "LocationContactName": [
+          "Eloise Lemon",
+          "Ana Frabotta, PNP"
+        ],
+        "LocationContactPhone": [
+          "330-543-3193"
+        ],
+        "BriefSummary": [
+          "This protocol describes a randomized, two arm clinical trial comparing two topical treatments in patients with hypergranulation tissue at gastrostomy tube sites. The subjects are randomized to either group 1or group 2 treatments:\n\nMaximum duration of therapy is 4 weeks. However, the therapy may be discontinued anytime at the discretion of the investigator or if there is resolution of the of the hypergranulation tissue."
         ],
         "DetailedDescription": []
       },
@@ -23518,93 +23516,6 @@
       {
         "Rank": 379,
         "NCTId": [
-          "NCT04614662"
-        ],
-        "OfficialTitle": [
-          "Symptom Screening Linked to Care Pathways for Children With Cancer: a Cluster Randomized Trial"
-        ],
-        "Condition": [
-          "Pediatric Cancer",
-          "Quality of Life"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\n8-18 years of age at enrollment\nEnglish or Spanish-speaking\nAny newly diagnosed cancer\nHave a plan for any chemotherapy, radiotherapy or surgery\nEnroll within 28 days after treatment initiation\n\nExclusion Criteria:\n\nCognitive disability (attending minimum second grade or equivalent)\nVisual impairment (cannot see SPARK even with corrective lens)"
-        ],
-        "MinimumAge": [
-          "8 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Hartford",
-          "Des Moines",
-          "New Orleans",
-          "Saint Louis",
-          "New York",
-          "Corpus Christi",
-          "Toronto"
-        ],
-        "LocationFacility": [
-          "Connecticut Children's Medical Center",
-          "Unity Point Health - Blank Children's Hospital",
-          "Children's Hospital",
-          "Washington University School of Medicine",
-          "The Trustees of Columbia University in the City of New York",
-          "Driscoll Children's Hospital",
-          "The Hospital for Sick Children"
-        ],
-        "LocationState": [
-          "Connecticut",
-          "Iowa",
-          "Louisiana",
-          "Missouri",
-          "New York",
-          "Texas",
-          "Ontario"
-        ],
-        "LocationZip": [
-          "06106",
-          "50309",
-          "70118",
-          "63110",
-          "10032",
-          "78411",
-          "M5G 1X8"
-        ],
-        "LocationContactEMail": [
-          "melias@connecticutchildrens.org",
-          "Elizabeth.mosby@unitypoint.org",
-          "Alyssa.lacour@lcmchealth.org",
-          "gemily@wustl.edu",
-          "Mb3579@cumc.columbia.edu",
-          "Crystal.DeLosSantos@dchstx.org"
-        ],
-        "LocationContactName": [
-          "Megan Elias",
-          "Andrea Orsey, MD",
-          "Elizabeth Mosby",
-          "Wendy Woods-Swafford, MD",
-          "Alyssa Lacour",
-          "Lolie Yu, MD",
-          "Emily Gibson",
-          "Allison King, MD",
-          "Michelle Bombacie",
-          "Melissa Beauchemin, PhD",
-          "Crystal De Los Santos",
-          "Farha Sherani, MD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Most children with cancer survive because they are given intensive treatments, but unfortunately, these treatments are associated with distressing symptoms. To address this problem, we developed the Symptom Screening in Pediatrics Tool (SSPedi) so that children receiving cancer treatments can communicate their bothersome symptoms, and Supportive care Prioritization, Assessment and Recommendations for Kids (SPARK), a web-based application that links identified symptoms to supportive care guidelines for symptom management. To establish that these tools improve the lives of children newly diagnosed with cancer, we will conduct a trial that randomizes 20 pediatric cancer institutions and measures the impact of three times weekly symptom screening, symptom feedback to healthcare providers and the development of care pathways for symptom management to improve total symptom burden, fatigue and quality of life."
-        ],
-        "DetailedDescription": [
-          "Aims 1 and 2: Among children with newly diagnosed cancer, to determine if symptom screening and feedback to healthcare providers at least three times weekly and locally-adapted symptom management care pathways, when compared to usual care:\n\nAim 1. Improves overall self-reported symptom scores (total SSPedi score), fatigue (PROMIS-Fatigue) and cancer-specific QoL (PedsQL 3.0 Acute Cancer Module) over 8 weeks Hypothesis: Symptom screening and care pathways will improve symptoms, fatigue and QoL\n\nAim 2. Improves symptom documentation, increases provision of interventions for symptoms, and reduces emergency department visits and unplanned clinic visits and hospitalizations over 8 weeks Hypotheses: Symptom screening and care pathways will increase symptom documentation and provision of interventions for symptoms, and will reduce healthcare utilization.\n\nAim 3: As an exploratory aim, we will evaluate key elements of the intervention related to the external validity and generalizability of the intervention effects using the RE-AIM framework.\n\nOverall Strategy This is a cluster randomized trial including 20 pediatric oncology sites. The coordinating center is The Hospital for Sick Children in Toronto, Canada. Sites will be randomized to either systematic symptom screening via SPARK with provision of symptom reports to healthcare providers containing links to care pathways for symptom management (intervention) or usual care (control).\n\nResearch Methods Eligibility: We will include children with cancer who: (1) are 8-18 years of age at enrollment (SSPedi is validated in this age range); (2) are English or Spanish-speaking (all PROs are validated in these languages in this age range); (3) have any newly diagnosed cancer; (4) have a plan for any chemotherapy, radiotherapy or surgery; and (5) enroll within 28 days after treatment initiation. Exclusion criteria will be cognitive disability (attending lower than second grade or equivalent) or visual impairment (cannot see SPARK even with corrective lens).\n\nProcedures: In this cluster randomized trial, we will randomize sites to either intervention or control groups. At both intervention and control sites, we will enroll participants within 28 days after treatment initiation. Eligible participants will be identified by site personnel and the study will be explained to them by trained research team members. Participant capacity to consent will be assessed by the clinical or research team according to institutional standards. After the study has been explained and sufficient time has been provided to ensure all questions have been answered, informed consent and assent will be obtained from participants and guardians as appropriate. For those who decline to contribute PROs, they will be given the option to only participate in a retrospective chart review to evaluate symptom documentation, intervention provision and healthcare utilization. Careful tracking of all newly diagnosed patients by site research personnel will occur to determine how many patients are approached and consented, and where possible, reasons for declining participation.\n\nFor all enrolled participants who will be contributing PROs (excluding those only involved in the retrospective chart review), a personal SPARK account will be created to allow SSPedi to be completed and symptom results to be recorded. At the 10 intervention sites, site-specific symptom management care pathways will be adapted from template care pathways for each of the 15 symptoms included in SSPedi. Enrolled participants will be prompted by text or email to complete symptom screening three times weekly via SPARK with corresponding feedback sent to their healthcare providers. Symptom reports will contain links to care pathways for symptom management. Active intervention will last for eight weeks starting from the date of enrollment. At the 10 control sites, participants will complete SSPedi to obtain the primary outcome at weeks 0, 4 and 8 but the scores will not be revealed to providers and will not be linked to care pathways. Usual care will be provided to participants at control sites and thus, there will be no study-requested routine, systematic symptom screening, symptom feedback to providers, or linkage to care pathways. If sites already routinely perform systematic symptom screening or use care pathways for symptom management, these may be continued but their use will be recorded.\n\nAt both intervention and control sites, demographic information including age, sex, race, ethnicity, diagnosis, cancer stage, family socioeconomic information and treatment plan will be collected at enrollment. The following PROs will be obtained by trained research staff at baseline, week 4 and week 8 for all participants: SSPedi, PROMIS Fatigue and the PedsQL 3.0 Acute Cancer Module (Aim 1). We will contact participants ahead of time to coordinate the week 4 and 8 PROs so that they can be completed in person during hospitalizations or clinic visits. If unable to arrange completion of these PROs in person, we will use their contact information to complete the questionnaires by email, text or over the phone. Data from health records (Aim 2) will be abstracted for all enrolled participants. Relapse and cancer treatment received information will be collected at the end of the study."
-        ]
-      },
-      {
-        "Rank": 380,
-        "NCTId": [
           "NCT03118986"
         ],
         "OfficialTitle": [
@@ -23692,6 +23603,93 @@
           "Chemotherapy-induced nausea and vomiting (CINV) are among the most bothersome symptoms during cancer treatment according to children and their parents. Most children receiving hematopoietic stem cell transplant (HSCT) conditioning experience CINV despite receiving antiemetic prophylaxis. Olanzapine improves CINV control in adult cancer patients, has a track record of safe use in children with psychiatric illness, does not interact with chemotherapy and is inexpensive. We hypothesize that the addition of olanzapine to standard antiemetics will improve chemotherapy-induced vomiting (CIV) control in children receiving chemotherapy for HSCT conditioning."
         ],
         "DetailedDescription": []
+      },
+      {
+        "Rank": 380,
+        "NCTId": [
+          "NCT04614662"
+        ],
+        "OfficialTitle": [
+          "Symptom Screening Linked to Care Pathways for Children With Cancer: a Cluster Randomized Trial"
+        ],
+        "Condition": [
+          "Pediatric Cancer",
+          "Quality of Life"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\n8-18 years of age at enrollment\nEnglish or Spanish-speaking\nAny newly diagnosed cancer\nHave a plan for any chemotherapy, radiotherapy or surgery\nEnroll within 28 days after treatment initiation\n\nExclusion Criteria:\n\nCognitive disability (attending minimum second grade or equivalent)\nVisual impairment (cannot see SPARK even with corrective lens)"
+        ],
+        "MinimumAge": [
+          "8 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Hartford",
+          "Des Moines",
+          "New Orleans",
+          "Saint Louis",
+          "New York",
+          "Corpus Christi",
+          "Toronto"
+        ],
+        "LocationFacility": [
+          "Connecticut Children's Medical Center",
+          "Unity Point Health - Blank Children's Hospital",
+          "Children's Hospital",
+          "Washington University School of Medicine",
+          "The Trustees of Columbia University in the City of New York",
+          "Driscoll Children's Hospital",
+          "The Hospital for Sick Children"
+        ],
+        "LocationState": [
+          "Connecticut",
+          "Iowa",
+          "Louisiana",
+          "Missouri",
+          "New York",
+          "Texas",
+          "Ontario"
+        ],
+        "LocationZip": [
+          "06106",
+          "50309",
+          "70118",
+          "63110",
+          "10032",
+          "78411",
+          "M5G 1X8"
+        ],
+        "LocationContactEMail": [
+          "melias@connecticutchildrens.org",
+          "Elizabeth.mosby@unitypoint.org",
+          "Alyssa.lacour@lcmchealth.org",
+          "gemily@wustl.edu",
+          "Mb3579@cumc.columbia.edu",
+          "Crystal.DeLosSantos@dchstx.org"
+        ],
+        "LocationContactName": [
+          "Megan Elias",
+          "Andrea Orsey, MD",
+          "Elizabeth Mosby",
+          "Wendy Woods-Swafford, MD",
+          "Alyssa Lacour",
+          "Lolie Yu, MD",
+          "Emily Gibson",
+          "Allison King, MD",
+          "Michelle Bombacie",
+          "Melissa Beauchemin, PhD",
+          "Crystal De Los Santos",
+          "Farha Sherani, MD"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Most children with cancer survive because they are given intensive treatments, but unfortunately, these treatments are associated with distressing symptoms. To address this problem, we developed the Symptom Screening in Pediatrics Tool (SSPedi) so that children receiving cancer treatments can communicate their bothersome symptoms, and Supportive care Prioritization, Assessment and Recommendations for Kids (SPARK), a web-based application that links identified symptoms to supportive care guidelines for symptom management. To establish that these tools improve the lives of children newly diagnosed with cancer, we will conduct a trial that randomizes 20 pediatric cancer institutions and measures the impact of three times weekly symptom screening, symptom feedback to healthcare providers and the development of care pathways for symptom management to improve total symptom burden, fatigue and quality of life."
+        ],
+        "DetailedDescription": [
+          "Aims 1 and 2: Among children with newly diagnosed cancer, to determine if symptom screening and feedback to healthcare providers at least three times weekly and locally-adapted symptom management care pathways, when compared to usual care:\n\nAim 1. Improves overall self-reported symptom scores (total SSPedi score), fatigue (PROMIS-Fatigue) and cancer-specific QoL (PedsQL 3.0 Acute Cancer Module) over 8 weeks Hypothesis: Symptom screening and care pathways will improve symptoms, fatigue and QoL\n\nAim 2. Improves symptom documentation, increases provision of interventions for symptoms, and reduces emergency department visits and unplanned clinic visits and hospitalizations over 8 weeks Hypotheses: Symptom screening and care pathways will increase symptom documentation and provision of interventions for symptoms, and will reduce healthcare utilization.\n\nAim 3: As an exploratory aim, we will evaluate key elements of the intervention related to the external validity and generalizability of the intervention effects using the RE-AIM framework.\n\nOverall Strategy This is a cluster randomized trial including 20 pediatric oncology sites. The coordinating center is The Hospital for Sick Children in Toronto, Canada. Sites will be randomized to either systematic symptom screening via SPARK with provision of symptom reports to healthcare providers containing links to care pathways for symptom management (intervention) or usual care (control).\n\nResearch Methods Eligibility: We will include children with cancer who: (1) are 8-18 years of age at enrollment (SSPedi is validated in this age range); (2) are English or Spanish-speaking (all PROs are validated in these languages in this age range); (3) have any newly diagnosed cancer; (4) have a plan for any chemotherapy, radiotherapy or surgery; and (5) enroll within 28 days after treatment initiation. Exclusion criteria will be cognitive disability (attending lower than second grade or equivalent) or visual impairment (cannot see SPARK even with corrective lens).\n\nProcedures: In this cluster randomized trial, we will randomize sites to either intervention or control groups. At both intervention and control sites, we will enroll participants within 28 days after treatment initiation. Eligible participants will be identified by site personnel and the study will be explained to them by trained research team members. Participant capacity to consent will be assessed by the clinical or research team according to institutional standards. After the study has been explained and sufficient time has been provided to ensure all questions have been answered, informed consent and assent will be obtained from participants and guardians as appropriate. For those who decline to contribute PROs, they will be given the option to only participate in a retrospective chart review to evaluate symptom documentation, intervention provision and healthcare utilization. Careful tracking of all newly diagnosed patients by site research personnel will occur to determine how many patients are approached and consented, and where possible, reasons for declining participation.\n\nFor all enrolled participants who will be contributing PROs (excluding those only involved in the retrospective chart review), a personal SPARK account will be created to allow SSPedi to be completed and symptom results to be recorded. At the 10 intervention sites, site-specific symptom management care pathways will be adapted from template care pathways for each of the 15 symptoms included in SSPedi. Enrolled participants will be prompted by text or email to complete symptom screening three times weekly via SPARK with corresponding feedback sent to their healthcare providers. Symptom reports will contain links to care pathways for symptom management. Active intervention will last for eight weeks starting from the date of enrollment. At the 10 control sites, participants will complete SSPedi to obtain the primary outcome at weeks 0, 4 and 8 but the scores will not be revealed to providers and will not be linked to care pathways. Usual care will be provided to participants at control sites and thus, there will be no study-requested routine, systematic symptom screening, symptom feedback to providers, or linkage to care pathways. If sites already routinely perform systematic symptom screening or use care pathways for symptom management, these may be continued but their use will be recorded.\n\nAt both intervention and control sites, demographic information including age, sex, race, ethnicity, diagnosis, cancer stage, family socioeconomic information and treatment plan will be collected at enrollment. The following PROs will be obtained by trained research staff at baseline, week 4 and week 8 for all participants: SSPedi, PROMIS Fatigue and the PedsQL 3.0 Acute Cancer Module (Aim 1). We will contact participants ahead of time to coordinate the week 4 and 8 PROs so that they can be completed in person during hospitalizations or clinic visits. If unable to arrange completion of these PROs in person, we will use their contact information to complete the questionnaires by email, text or over the phone. Data from health records (Aim 2) will be abstracted for all enrolled participants. Relapse and cancer treatment received information will be collected at the end of the study."
+        ]
       },
       {
         "Rank": 381,
