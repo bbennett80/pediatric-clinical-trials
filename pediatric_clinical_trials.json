@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.04",
-    "DataVrs": "2021:12:20 23:00:18.323",
+    "DataVrs": "2021:12:21 22:55:44.033",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 398921,
-    "NStudiesFound": 401,
+    "NStudiesAvail": 399046,
+    "NStudiesFound": 402,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 401,
+    "NStudiesReturned": 402,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -87,6 +87,48 @@
       {
         "Rank": 2,
         "NCTId": [
+          "NCT05112237"
+        ],
+        "OfficialTitle": [
+          "A Prospective and Retrospective Registry and Biomarker Study to Evaluate the Natural History of Pediatric Patients With Cardiomyopathy Due to MYBPC3 Mutations"
+        ],
+        "Condition": [
+          "Cardiomyopathy"
+        ],
+        "EligibilityCriteria": [
+          "Retrospective\n\nInclusion Criteria:\n\nData is available for patient <18 years of age.\nDocumented results of genotyping showing the presence of at least one pathogenic or likely pathogenic MYBPC3 mutation (heterozygous, homozygous, or compound heterozygous).\n\nExclusion Criteria:\n\nPatient received cardiac transplantation or died >10 years before study initiation.\n\nProspective\n\nInclusion Criteria:\n\nAge <18 at entry into the prospective study.\nDocumented results of genotyping identifying at least one pathogenic or likely pathogenic MYBPC3 mutation (heterozygous, homozygous, or compound heterozygous).\nInfants who are homozygous or compound heterozygous for the known pathogenic truncating MYBPC3 mutations are eligible.\nHeterozygous participants must have a diagnosis of Cardiomyopathy (CM: HCM, DCM, RCM, mixed CM, or LVNC.\n\nExclusion Criteria:\n\nConcurrent participation in an interventional clinical trial unless approved by the sponsor.\nSevere noncardiac disease is anticipated to significantly reduce life expectancy."
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Middlefield",
+          "Pittsburgh"
+        ],
+        "LocationFacility": [
+          "DDC Clinic Center for Special Needs Children",
+          "University of Pittsburgh Medical Center - Children's Hospital of Pittsburgh"
+        ],
+        "LocationState": [
+          "Ohio",
+          "Pennsylvania"
+        ],
+        "LocationZip": [
+          "44062",
+          "15224"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The objective of this study is to collect information on patients with cardiomyopathy (CM) due to mutations in the MYBPC3 gene, to evaluate their disease course, burden of illness, risk factors for this disease, and the quality of life (QoL). This study will also collect information on treatments, procedures and outcome in infants and children up to 18 yrs who have this mutation."
+        ],
+        "DetailedDescription": []
+      },
+      {
+        "Rank": 3,
+        "NCTId": [
           "NCT04744155"
         ],
         "OfficialTitle": [
@@ -141,7 +183,7 @@
         ]
       },
       {
-        "Rank": 3,
+        "Rank": 4,
         "NCTId": [
           "NCT04723654"
         ],
@@ -194,7 +236,7 @@
         ]
       },
       {
-        "Rank": 4,
+        "Rank": 5,
         "NCTId": [
           "NCT04479514"
         ],
@@ -253,7 +295,7 @@
         ]
       },
       {
-        "Rank": 5,
+        "Rank": 6,
         "NCTId": [
           "NCT04380311"
         ],
@@ -311,7 +353,7 @@
         ]
       },
       {
-        "Rank": 6,
+        "Rank": 7,
         "NCTId": [
           "NCT04342390"
         ],
@@ -369,7 +411,7 @@
         ]
       },
       {
-        "Rank": 7,
+        "Rank": 8,
         "NCTId": [
           "NCT04329117"
         ],
@@ -429,7 +471,7 @@
         ]
       },
       {
-        "Rank": 8,
+        "Rank": 9,
         "NCTId": [
           "NCT04276194"
         ],
@@ -488,7 +530,7 @@
         ]
       },
       {
-        "Rank": 9,
+        "Rank": 10,
         "NCTId": [
           "NCT04132999"
         ],
@@ -550,7 +592,7 @@
         ]
       },
       {
-        "Rank": 10,
+        "Rank": 11,
         "NCTId": [
           "NCT03929237"
         ],
@@ -603,7 +645,7 @@
         ]
       },
       {
-        "Rank": 11,
+        "Rank": 12,
         "NCTId": [
           "NCT03655574"
         ],
@@ -664,7 +706,7 @@
         ]
       },
       {
-        "Rank": 12,
+        "Rank": 13,
         "NCTId": [
           "NCT03655470"
         ],
@@ -722,7 +764,7 @@
         ]
       },
       {
-        "Rank": 13,
+        "Rank": 14,
         "NCTId": [
           "NCT03522233"
         ],
@@ -771,7 +813,7 @@
         ]
       },
       {
-        "Rank": 14,
+        "Rank": 15,
         "NCTId": [
           "NCT03325946"
         ],
@@ -835,7 +877,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 15,
+        "Rank": 16,
         "NCTId": [
           "NCT03281889"
         ],
@@ -891,7 +933,7 @@
         ]
       },
       {
-        "Rank": 16,
+        "Rank": 17,
         "NCTId": [
           "NCT02681211"
         ],
@@ -952,7 +994,7 @@
         ]
       },
       {
-        "Rank": 17,
+        "Rank": 18,
         "NCTId": [
           "NCT02572791"
         ],
@@ -1005,7 +1047,7 @@
         ]
       },
       {
-        "Rank": 18,
+        "Rank": 19,
         "NCTId": [
           "NCT02456376"
         ],
@@ -1059,7 +1101,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 19,
+        "Rank": 20,
         "NCTId": [
           "NCT01023139"
         ],
@@ -1119,7 +1161,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 20,
+        "Rank": 21,
         "NCTId": [
           "NCT04969003"
         ],
@@ -1176,7 +1218,7 @@
         ]
       },
       {
-        "Rank": 21,
+        "Rank": 22,
         "NCTId": [
           "NCT04528173"
         ],
@@ -1241,7 +1283,7 @@
         ]
       },
       {
-        "Rank": 22,
+        "Rank": 23,
         "NCTId": [
           "NCT04298281"
         ],
@@ -1297,7 +1339,7 @@
         ]
       },
       {
-        "Rank": 23,
+        "Rank": 24,
         "NCTId": [
           "NCT03694418"
         ],
@@ -1359,7 +1401,7 @@
         ]
       },
       {
-        "Rank": 24,
+        "Rank": 25,
         "NCTId": [
           "NCT04075877"
         ],
@@ -1422,7 +1464,7 @@
         ]
       },
       {
-        "Rank": 25,
+        "Rank": 26,
         "NCTId": [
           "NCT03940508"
         ],
@@ -1483,7 +1525,7 @@
         ]
       },
       {
-        "Rank": 26,
+        "Rank": 27,
         "NCTId": [
           "NCT05131659"
         ],
@@ -1536,7 +1578,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 27,
+        "Rank": 28,
         "NCTId": [
           "NCT03289351"
         ],
@@ -1587,7 +1629,7 @@
         ]
       },
       {
-        "Rank": 28,
+        "Rank": 29,
         "NCTId": [
           "NCT05154214"
         ],
@@ -1635,7 +1677,7 @@
         ]
       },
       {
-        "Rank": 29,
+        "Rank": 30,
         "NCTId": [
           "NCT05121142"
         ],
@@ -1677,44 +1719,6 @@
         ],
         "BriefSummary": [
           "While hematopoietic stem cell transplant (HSCT) is an effective therapy, graft versus host disease (GVHD) is the most significant complication after HSCT. Both acute GVHD and chronic GVHD are leading causes of non-relapse morbidity and mortality.\n\nAcute graft versus host disease usually occurs within the first 100 days of transplant and can involve the skin, gut, or liver. Chronic graft versus host disease usually occurs after the first 100 days of transplant and can involve skin, eyes, mouth, joints, liver, intestines commonly. These two diseases are different, but both happen due to the imbalance of the donor immune system in the host.\n\nThe purpose of this research is to learn more about ruxolitinib as a treatment for both acute and chronic GVHD. Specifically, the investigators would like to learn more about the pharmacokinetics (PK - the process of absorption, distribution, metabolism, and elimination from the body - meaning how the drug moves through the body) and the pharmacodynamics (PD - the body's biological response to the drug) of ruxolitinib."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 30,
-        "NCTId": [
-          "NCT05112237"
-        ],
-        "OfficialTitle": [
-          "A Prospective and Retrospective Registry and Biomarker Study to Evaluate the Natural History of Pediatric Patients With Cardiomyopathy Due to MYBPC3 Mutations"
-        ],
-        "Condition": [
-          "Cardiomyopathy"
-        ],
-        "EligibilityCriteria": [
-          "Retrospective\n\nInclusion Criteria:\n\nData is available for patient <18 years of age.\nDocumented results of genotyping showing the presence of at least one pathogenic or likely pathogenic MYBPC3 mutation (heterozygous, homozygous, or compound heterozygous).\n\nExclusion Criteria:\n\nPatient received cardiac transplantation or died >10 years before study initiation.\n\nProspective\n\nInclusion Criteria:\n\nAge <18 at entry into the prospective study.\nDocumented results of genotyping identifying at least one pathogenic or likely pathogenic MYBPC3 mutation (heterozygous, homozygous, or compound heterozygous).\nInfants who are homozygous or compound heterozygous for the known pathogenic truncating MYBPC3 mutations are eligible.\nHeterozygous participants must have a diagnosis of Cardiomyopathy (CM: HCM, DCM, RCM, mixed CM, or LVNC.\n\nExclusion Criteria:\n\nConcurrent participation in an interventional clinical trial unless approved by the sponsor.\nSevere noncardiac disease is anticipated to significantly reduce life expectancy."
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Middlefield"
-        ],
-        "LocationFacility": [
-          "DDC Clinic Center for Special Needs Children"
-        ],
-        "LocationState": [
-          "Ohio"
-        ],
-        "LocationZip": [
-          "44062"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The objective of this study is to collect information on patients with cardiomyopathy (CM) due to mutations in the MYBPC3 gene, to evaluate their disease course, burden of illness, risk factors for this disease, and the quality of life (QoL). This study will also collect information on treatments, procedures and outcome in infants and children up to 18 yrs who have this mutation."
         ],
         "DetailedDescription": []
       },
@@ -15767,6 +15771,71 @@
       {
         "Rank": 317,
         "NCTId": [
+          "NCT04582682"
+        ],
+        "OfficialTitle": [
+          "Poly-omic Predictors of Symptom Duration and Recovery for Adolescent Concussion"
+        ],
+        "Condition": [
+          "Concussion, Mild"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPresence of mTBI: defined by criteria from the Berlin Consensus Statement and WHO. Assessment for mTBI status be performed by a licensed clinician per the 2018 CDC guidelines.\nAge at enrollment: 13-18 years of age (inclusive).\n\nExclusion Criteria:\n\n> 48 hours after initial mTBI\nGlasgow Coma Scale score of 13 or less\nPrevious moderate-to-severe TBI requiring overnight hospitalization\nUnresolved symptoms from previous concussion, or any concussion within the last 3 months\nAbbreviated Injury Scale (AIS) score > 3 (to reduce confounding from poly-trauma)\nPsychiatric illness requiring previous hospitalization;\nNeurological condition (e.g. epilepsy, hydrocephalus) or abnormality on neuroimaging (if performed)\nIntellectual disability that prevents ability to provide informed assent\nPregnancy\nActive substance use/dependence\nPrevious neurosurgery\nNon-fluency in English\nUpper respiratory infection\nPeriodontal infection\nInjury to the oropharynx\nPreviously enrolled in the same study\nInability to complete follow-up assessments"
+        ],
+        "MinimumAge": [
+          "13 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Boston",
+          "Syracuse",
+          "Hershey"
+        ],
+        "LocationFacility": [
+          "Boston Children's Hosptial",
+          "SUNY Upstate Medical University",
+          "Penn State Milton S. Hershey Medical Center"
+        ],
+        "LocationState": [
+          "Massachusetts",
+          "New York",
+          "Pennsylvania"
+        ],
+        "LocationZip": [
+          "02115",
+          "13210",
+          "17033"
+        ],
+        "LocationContactEMail": [
+          "Sarah.Bonney@childrens.harvard.edu",
+          "John.Shultz@childrens.harvard.edu",
+          "PacelliL@upstate.edu",
+          "bharding@pennstatehealth.psu.edu"
+        ],
+        "LocationContactName": [
+          "Sarah Bonney",
+          "John Shultz",
+          "Rebekah Mannix, MD, MPH",
+          "Lauren Pacelli",
+          "Tyler Greenfield, DO",
+          "Brennen Harding, MS",
+          "Steven Hicks, MD, PhD"
+        ],
+        "LocationContactPhone": [
+          "717-531-0003"
+        ],
+        "BriefSummary": [
+          "The purpose of this study is to identify changes in salivary micro ribonucleic acid (miRNA) levels that are predictive of symptom duration and character following mild traumatic brain injury (mTBI) in children."
+        ],
+        "DetailedDescription": [
+          "The objective of this multi-center study is to refine and validate a saliva RNA assessment for adolescent concussion, yielding a non-invasive test that predicts duration and character of symptoms, and helps guide clinical decisions. To accomplish this goal, the study will enroll 750 adolescents with mTBI. Saliva RNA levels and symptoms will be assessed at <48 hours, 7 days, and 30 days post-injury. Aim 1 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 7) to predict PPCS 30 days after mTBI (defined by persistence of ≥3 symptoms on day 30, compared with pre-injury state on the Post-Concussion Symptom Inventory; PCSI). RNA accuracy will be compared to a validated clinical prediction tool (5p tool). Aim 2 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 30) to identify recovered participants on day 30. RNA accuracy will be compared to change in composite score on a standardized reaction time test (from <48hrs to day 30). Completion of these aims will yield an objective biologic test that can be used for prognosis at the time of mTBI, and to aid clinical decisions regarding return-to-learn or return-to-play."
+        ]
+      },
+      {
+        "Rank": 318,
+        "NCTId": [
           "NCT04465370"
         ],
         "OfficialTitle": [
@@ -15823,7 +15892,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 318,
+        "Rank": 319,
         "NCTId": [
           "NCT02505165"
         ],
@@ -15888,7 +15957,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 320,
         "NCTId": [
           "NCT01142882"
         ],
@@ -15952,7 +16021,7 @@
         ]
       },
       {
-        "Rank": 320,
+        "Rank": 321,
         "NCTId": [
           "NCT04602728"
         ],
@@ -15999,71 +16068,6 @@
         ],
         "DetailedDescription": [
           "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
-        ]
-      },
-      {
-        "Rank": 321,
-        "NCTId": [
-          "NCT04582682"
-        ],
-        "OfficialTitle": [
-          "Poly-omic Predictors of Symptom Duration and Recovery for Adolescent Concussion"
-        ],
-        "Condition": [
-          "Concussion, Mild"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPresence of mTBI: defined by criteria from the Berlin Consensus Statement and WHO. Assessment for mTBI status be performed by a licensed clinician per the 2018 CDC guidelines.\nAge at enrollment: 13-18 years of age (inclusive).\n\nExclusion Criteria:\n\n> 48 hours after initial mTBI\nGlasgow Coma Scale score of 13 or less\nPrevious moderate-to-severe TBI requiring overnight hospitalization\nUnresolved symptoms from previous concussion, or any concussion within the last 3 months\nAbbreviated Injury Scale (AIS) score > 3 (to reduce confounding from poly-trauma)\nPsychiatric illness requiring previous hospitalization;\nNeurological condition (e.g. epilepsy, hydrocephalus) or abnormality on neuroimaging (if performed)\nIntellectual disability that prevents ability to provide informed assent\nPregnancy\nActive substance use/dependence\nPrevious neurosurgery\nNon-fluency in English\nUpper respiratory infection\nPeriodontal infection\nInjury to the oropharynx\nPreviously enrolled in the same study\nInability to complete follow-up assessments"
-        ],
-        "MinimumAge": [
-          "13 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Boston",
-          "Syracuse",
-          "Hershey"
-        ],
-        "LocationFacility": [
-          "Boston Children's Hosptial",
-          "SUNY Upstate Medical University",
-          "Penn State Milton S. Hershey Medical Center"
-        ],
-        "LocationState": [
-          "Massachusetts",
-          "New York",
-          "Pennsylvania"
-        ],
-        "LocationZip": [
-          "02115",
-          "13210",
-          "17033"
-        ],
-        "LocationContactEMail": [
-          "Sarah.Bonney@childrens.harvard.edu",
-          "John.Shultz@childrens.harvard.edu",
-          "PacelliL@upstate.edu",
-          "bharding@pennstatehealth.psu.edu"
-        ],
-        "LocationContactName": [
-          "Sarah Bonney",
-          "John Shultz",
-          "Rebekah Mannix, MD, MPH",
-          "Lauren Pacelli",
-          "Tyler Greenfield, DO",
-          "Brennen Harding, MS",
-          "Steven Hicks, MD, PhD"
-        ],
-        "LocationContactPhone": [
-          "717-531-0003"
-        ],
-        "BriefSummary": [
-          "The purpose of this study is to identify changes in salivary micro ribonucleic acid (miRNA) levels that are predictive of symptom duration and character following mild traumatic brain injury (mTBI) in children."
-        ],
-        "DetailedDescription": [
-          "The objective of this multi-center study is to refine and validate a saliva RNA assessment for adolescent concussion, yielding a non-invasive test that predicts duration and character of symptoms, and helps guide clinical decisions. To accomplish this goal, the study will enroll 750 adolescents with mTBI. Saliva RNA levels and symptoms will be assessed at <48 hours, 7 days, and 30 days post-injury. Aim 1 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 7) to predict PPCS 30 days after mTBI (defined by persistence of ≥3 symptoms on day 30, compared with pre-injury state on the Post-Concussion Symptom Inventory; PCSI). RNA accuracy will be compared to a validated clinical prediction tool (5p tool). Aim 2 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 30) to identify recovered participants on day 30. RNA accuracy will be compared to change in composite score on a standardized reaction time test (from <48hrs to day 30). Completion of these aims will yield an objective biologic test that can be used for prognosis at the time of mTBI, and to aid clinical decisions regarding return-to-learn or return-to-play."
         ]
       },
       {
@@ -18057,6 +18061,400 @@
       {
         "Rank": 351,
         "NCTId": [
+          "NCT04816643"
+        ],
+        "OfficialTitle": [
+          "PHASE 1, OPEN-LABEL DOSE-FINDING STUDY TO EVALUATE SAFETY, TOLERABILITY, AND IMMUNOGENICITY AND PHASE 2/3 PLACEBO-CONTROLLED, OBSERVER-BLINDED SAFETY, TOLERABILITY, AND IMMUNOGENICITY STUDY OF A SARS-COV-2 RNA VACCINE CANDIDATE AGAINST COVID-19 IN HEALTHY CHILDREN and Young Adults"
+        ],
+        "Condition": [
+          "SARS-CoV-2 Infection, COVID-19"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria\n\nMale or female participants ≥6 months to <12 years of age, at the time of randomization, at Visit 1 for the dose-finding/selected-dose evaluation and for participants ≥5 to <30 years of age, at the time of randomization, at Visit 1 for the lower-dose evaluation. For the obtaining-serum-samples-for-potential-troponin I-testing portion of the study: Male or female participants between ≥5 and <16 years of age.\nParticipants' parent(s)/legal guardian(s) and participants, as age appropriate, who are willing and able to comply with all scheduled visits, treatment plan, laboratory tests, lifestyle considerations, and other study procedures.\n\nHealthy participants who are determined by medical history, physical examination, and clinical judgment of the investigator to be eligible for inclusion in the study.\n\nNote: Healthy participants with preexisting stable disease, defined as disease not requiring significant change in the therapy or hospitalization for worsening disease during the 6 weeks before enrollment, can be included.\n\nParticipants are expected to be available for the duration of the study and whose parent(s)/legal guardian can be contacted by telephone during study participation.\nNegative urine pregnancy test for female participants who are biologically capable of having children.\nFemale participant of childbearing potential or male participant able to father children who is willing to use a highly effective method of contraception as outlined in this protocol for at least 28 days after the last dose of study intervention if at risk of pregnancy with her/his partner; or female participant not of childbearing potential or male participant not able to father children.\nThe participant or participant's parent(s)/legal guardian is capable of giving signed informed consent, which includes compliance with the requirements and restrictions listed in the ICD and in this protocol. Depending on the age of the participant and according to local requirements, participants will also be asked to provide assent as appropriate (verbal or written).\n\nExclusion Criteria\n\nPhase 1 only: Past clinical (based on COVID-19 symptoms/signs alone, if a SARS CoV 2 NAAT result was not available) or microbiological (based on COVID-19 symptoms/signs and a positive SARS-CoV-2 NAAT result) diagnosis of COVID 19.\nPhase 1 only: Known infection with HIV, HCV, or HBV.\nReceipt of medications intended to prevent COVID-19.\nPrevious or current diagnosis of MIS-C.\nOther medical or psychiatric condition including recent (within the past year) or active suicidal ideation/behavior or laboratory abnormality that may increase the risk of study participation or, in the investigator's judgment, make the participant inappropriate for the study. Note: This includes both conditions that may increase the risk associated with study intervention administration or a condition that may interfere with the interpretation of study results\nHistory of severe adverse reaction associated with a vaccine and/or severe allergic reaction (eg, anaphylaxis) to any component of the study intervention(s).\nImmunocompromised individuals with known or suspected immunodeficiency, as determined by history and/or laboratory/physical examination.\nIndividuals with a history of autoimmune disease or an active autoimmune disease requiring therapeutic intervention, including but not limited to systemic lupus erythematosus. Note: Stable type 1 diabetes and hypothyroidism are permitted.\nBleeding diathesis or condition associated with prolonged bleeding that would, in the opinion of the investigator, contraindicate intramuscular injection.\nFemale who is pregnant or breastfeeding.\nPrevious vaccination with any coronavirus vaccine.\nIndividuals who receive treatment with immunosuppressive therapy, including cytotoxic agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or planned receipt throughout the study. If systemic corticosteroids have been administered short term (<14 days) for treatment of an acute illness, participants should not be enrolled into the study until corticosteroid therapy has been discontinued for at least 28 days before study intervention administration. Inhaled/nebulized, intra-articular, intrabursal, or topical (skin or eyes) corticosteroids are permitted.\nReceipt of blood/plasma products, immunoglobulin, or monoclonal antibodies, from 60 days before study intervention administration, or receipt of any passive antibody therapy specific to COVID-19 from 90 days before study intervention administration, or planned receipt throughout the study.\nParticipation in other studies involving study intervention within 28 days prior to study entry and/or during study participation.\nPrevious participation in other studies involving study intervention containing LNPs.\nParticipants who are direct descendants (child or grandchild) of investigational site staff members or Pfizer/BioNTech employees directly involved in the conduct of the study, site staff otherwise supervised by the investigator, and their respective family members."
+        ],
+        "MinimumAge": [
+          "6 Months"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Oakland",
+          "Palo Alto",
+          "Paramount",
+          "Paramount",
+          "Rolling Hills Estates",
+          "Sacramento",
+          "Santa Clara",
+          "Valley Village",
+          "Aurora",
+          "New Haven",
+          "Washington",
+          "Miami",
+          "Orlando",
+          "Atlanta",
+          "Atlanta",
+          "Atlanta",
+          "Atlanta",
+          "Macon",
+          "Idaho Falls",
+          "Meridian",
+          "Newton",
+          "Wichita",
+          "Bardstown",
+          "Louisville",
+          "New Orleans",
+          "Shreveport",
+          "Baltimore",
+          "Boston",
+          "Chesterfield",
+          "Kansas City",
+          "Hastings",
+          "Omaha",
+          "Omaha",
+          "New Brunswick",
+          "Binghamton",
+          "Commack",
+          "East Setauket",
+          "Rochester",
+          "Rochester",
+          "Stony Brook",
+          "Syracuse",
+          "Durham",
+          "Durham",
+          "Cincinnati",
+          "Cincinnati",
+          "Columbus",
+          "Dayton",
+          "South Euclid",
+          "Erie",
+          "Warwick",
+          "Memphis",
+          "Nashville",
+          "Austin",
+          "Corpus Christi",
+          "Houston",
+          "Houston",
+          "Houston",
+          "Houston",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Charlottesville",
+          "Charlottesville",
+          "Midlothian",
+          "Seattle",
+          "Tampere",
+          "Oulu",
+          "Helsinki",
+          "Espoo",
+          "Helsinki",
+          "Helsinki",
+          "Jarvenpaa",
+          "Kokkola",
+          "Pori",
+          "Seinajoki",
+          "Turku",
+          "Bydgoszcz",
+          "Krakow",
+          "Lodz",
+          "Lodz",
+          "Lubon",
+          "Siemianowice Slaskie",
+          "Torun",
+          "Warszawa",
+          "Santiago de Compostela",
+          "Centelles",
+          "Esplugues De Llobregrat",
+          "Sant Cugat del Valles",
+          "Boadilla del Monte",
+          "Antequera",
+          "Malaga",
+          "Madrid",
+          "Mostoles",
+          "Sevilla"
+        ],
+        "LocationFacility": [
+          "University of Alabama at Birmingham - School of Medicine",
+          "Kaiser Permanente Oakland",
+          "Clinical & Translational Research Unit (CTRU) & Spectrum BioBank, Stanford University",
+          "Center for Clinical Trials, LLC",
+          "Center for Clinical Trials",
+          "Peninsula Research Associates",
+          "Kaiser Permanente Sacramento",
+          "Kaiser Permanente Santa Clara",
+          "Bayview Research Group, LLC",
+          "Children's Hospital Colorado",
+          "Yale Center for Clinical Investigation",
+          "Children's National Medical Center",
+          "Acevedo Clinical Research Associates",
+          "Clinical Neuroscience Solutions",
+          "Emory Children's Center Illness POD",
+          "Emory Clinic Investigational Drug Services",
+          "Emory University School of Medicine",
+          "Atlanta Center for Medical Research",
+          "Meridian Clinical Research, LLC",
+          "Clinical Research Prime",
+          "Solaris Clinical Research",
+          "Alliance for Multispecialty Research, LLC",
+          "Alliance for Multispecialty Research, LLC",
+          "Kentucky Pediatric/ Adult Research",
+          "Novak Center for Children's Health",
+          "Ochsner Clinic Foundation",
+          "Louisiana State University Health Sciences Shreveport",
+          "Center for Immunization Research Inpatient Unit",
+          "Boston Medical Center",
+          "Clinical Research Professionals",
+          "Children's Mercy Hospital",
+          "Meridian Clinical Research, LLC",
+          "Children's Hospital & Medical Center",
+          "Children's Physician's Clinic, Spring Valley",
+          "Rutgers University",
+          "Meridian Clinical Research, LLC",
+          "Advanced Specialty Care",
+          "Clinical Research Center",
+          "Rochester Clinical Research, Inc.",
+          "University of Rochester Medical Center",
+          "Stony Brook University",
+          "SUNY Upstate Medical University",
+          "Duke Vaccine and Trials Unit",
+          "Clinical Research Pickett Road",
+          "Cincinnati Children's Hospital Medical Center",
+          "Cincinnati Childrens Hospital Medical Center",
+          "Aventiv Research Inc.",
+          "PriMed Clinical Research",
+          "Senders Pediatrics",
+          "Allegheny Health and Wellness Pavilion",
+          "Velocity Clinical Research-Providence",
+          "St. Jude Children's Research Hospital",
+          "Clinical Research Associates Inc",
+          "ARC Clinical Research at Wilson Parke",
+          "Driscoll Children's Hospital",
+          "Van Tran Family Practice",
+          "Ventavia Research Group, LLC",
+          "Texas Children's Hospital - Clinical Research Center",
+          "West Houston Clinical Research Service",
+          "J. Lewis Research, Inc. / Foothill Family Clinic",
+          "J. Lewis Research, Inc. / Foothill Family Clinic South",
+          "Pediatric Associates of Charlottesville, PLC (Private Pediatric Practice)",
+          "Pediatric Research of Charlottesville, LLC",
+          "Virginia Research Center",
+          "Seattle Children's Hospital",
+          "Tampere Vaccine Research Clinic",
+          "Tampere university/ Oulu vaccine research clinic",
+          "Helsinki East Vaccine Research Clinic",
+          "Espoo Vaccine Research Clinic",
+          "Helsinki South Vaccine Research Clinic",
+          "MeVac, Meilahti Vaccine Research Center",
+          "Jarvenpaa Vaccine Research Center",
+          "Kokkola Vaccine Research Clinic",
+          "Pori Vaccine Research Clinic",
+          "Seinäjoki Vaccine Research Clinic",
+          "Turku Vaccine Research Clinic",
+          "IN VIVO Spolka z ograniczona odpowiedzialnoscia",
+          "Centrum Badań Klinicznych Jagiellońskie Centrum Innowacji sp. z o.o.",
+          "Osrodek Badan Klinicznych Appletreeclinics",
+          "GRAVITA Diagnostyka i Leczenie nieplodnosci",
+          "Rodzinne Centrum Medyczne LUBMED",
+          "Niepubliczny Zaklad Lecznictwa Ambulatoryjnego Michalkowice Jarosz i Partnerzy Spolka Lekarska",
+          "Nasz Lekarz Osrodek Badan Klinicznych",
+          "Provita 001",
+          "CHUS - Hospital Clinico Universitario",
+          "EAP Centelles",
+          "Hospital Sant Joan de Deu",
+          "Hospital Universitari General de Catalunya",
+          "Hospital Universitario HM Monteprincipe",
+          "Hospital de Antequera",
+          "Grupo Pediatrico Uncibay",
+          "Hospital Universitario 12 de Octubre",
+          "Hospital HM Puerta del Sur",
+          "Instituto Hispalense de Pediatria"
+        ],
+        "LocationState": [
+          "Alabama",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "Colorado",
+          "Connecticut",
+          "District of Columbia",
+          "Florida",
+          "Florida",
+          "Georgia",
+          "Georgia",
+          "Georgia",
+          "Georgia",
+          "Georgia",
+          "Idaho",
+          "Idaho",
+          "Kansas",
+          "Kansas",
+          "Kentucky",
+          "Kentucky",
+          "Louisiana",
+          "Louisiana",
+          "Maryland",
+          "Massachusetts",
+          "Missouri",
+          "Missouri",
+          "Nebraska",
+          "Nebraska",
+          "Nebraska",
+          "New Jersey",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "North Carolina",
+          "North Carolina",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Pennsylvania",
+          "Rhode Island",
+          "Tennessee",
+          "Tennessee",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Utah",
+          "Utah",
+          "Virginia",
+          "Virginia",
+          "Virginia",
+          "Washington",
+          "Pirkanmaa",
+          "Pohjois-pohjanmaa",
+          "Uusimaa",
+          "A Coruna",
+          "Barcelona",
+          "Barcelona",
+          "Barcelona",
+          "Madrid",
+          "Malaga",
+          "Málaga"
+        ],
+        "LocationZip": [
+          "35233",
+          "94611",
+          "94304",
+          "90723",
+          "90723",
+          "90274",
+          "95815",
+          "95051",
+          "91607",
+          "80045",
+          "06519",
+          "20010",
+          "33142",
+          "32801",
+          "30322",
+          "30322",
+          "30322",
+          "30331",
+          "31210",
+          "83404",
+          "83646",
+          "67114",
+          "67207",
+          "40004",
+          "40202",
+          "70121",
+          "71101",
+          "21224",
+          "02118",
+          "63005",
+          "64108",
+          "68901",
+          "68114",
+          "68117",
+          "08901",
+          "13901",
+          "11725",
+          "11733",
+          "14609",
+          "14642",
+          "11794",
+          "13210",
+          "27703",
+          "27705",
+          "45206",
+          "45229",
+          "43213",
+          "45419",
+          "44121",
+          "16506",
+          "02886",
+          "38105",
+          "37203",
+          "78726",
+          "78411",
+          "77008",
+          "77008",
+          "77030",
+          "77055",
+          "84109",
+          "84121",
+          "22902",
+          "22902",
+          "23114",
+          "98105",
+          "33100",
+          "90220",
+          "00930",
+          "02230",
+          "00100",
+          "00290",
+          "67100",
+          "28100",
+          "60100",
+          "20520",
+          "85-048",
+          "30-348",
+          "90-349",
+          "91-347",
+          "62-030",
+          "41-103",
+          "87-100",
+          "02-647",
+          "15706",
+          "08540",
+          "08950",
+          "08195",
+          "28660",
+          "29200",
+          "29015",
+          "28041",
+          "28938",
+          "41012"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "This is a Phase 1/2/3 study in healthy children and young adults.\n\nDependent upon safety and/or immunogenicity data generated during the course of this study, and the resulting assessment of benefit-risk, the safety, tolerability, and immunogenicity of BNT162b2 in participants <6 months of age may subsequently be evaluated."
+        ],
+        "DetailedDescription": [
+          "Phase 1 Dose-Finding\n\nIs the open-label dose-finding portion of the study that will evaluate safety, tolerability, and immunogenicity of BNT162b2 administered on a 2-dose (separated by approximately 21 days) schedule in up to 3 age groups (participants ≥5 to <12 years, ≥2 to <5 years, and ≥6 months to <2 years of age).\n\nDose finding is being initiated in this study in participants ≥5 to <12 years of age based on the acceptable blinded safety assessment of the 30-µg dose in 12- to 15-year-olds in the C4591001 study.\n\nThe purpose of Phase 1 is to identify preferred dose level(s) of BNT162b2 from up to 3 different dose levels in each age group.\n\nDependent upon safety and/or immunogenicity data generated during the course of this study, it is possible that dose levels may not be started, may be terminated early, and/or may be added with dose levels below the lowest stated dose.\n\nParticipants will have blood drawn prior to both Dose 1 and Dose 2 and 7 days after Dose 2 to assess for immunogenicity to determine the final BNT162b2 dose level for the Phase 2/3.\n\nPhase 1 Lower-Dose Evaluation\n\nIs the open-label lower-dose evaluation portion of the study that will evaluate safety, tolerability, and immunogenicity of BNT162b2 on a 2-dose (separated by approximately 21 days) schedule in up to 3 age groups (participants ≥5 to <12 years, 12 to <16 years, and 16 to <30 years of age).\n\nThe purpose of the Phase 1 lower-dose evaluation is to evaluate safety and immunogenicity of BNT162b2 from up to 2 different dose levels in each age group.\n\nParticipants will have blood drawn prior to both Dose 1 and Dose 2 and 7 days after Dose 2 to assess immunogenicity to determine the selected BNT162b2 dose level for the Phase 2/3 lower-dose evaluation portion of the study.\n\nPhase 2/3 Selected-Dose\n\nIs the portion of the study that will evaluate the safety, tolerability, and immunogenicity of the selected dose level in each age group at the selected dose level from Phase 1 dose finding, with a total of approximately 6750 participants as an additional 2250 participants will be included to enlarge the size of the pediatric safety database. Participants will be randomized in a 2:1 ratio to receive active vaccine or placebo.\n\nApproximately 450 participants (300 in the active vaccine group and 150 in the placebo group) randomized in each age group in this phase will contribute to the immunobridging analysis at 1 month after Dose 2 and will contribute to the overall analysis of the persistence of immune response at 6 months after Dose 2. These participants will be enrolled from both US and EU sites to ensure this subset is representative of the whole study.\n\nFor the persistence time points of 12 and 24 months after Dose 2, approximately 70 participants from each age group in the original BNT162b2 group will have an immunogenicity blood draw in order to contribute to the analysis. All approximately 6750 participants will contribute to the VE analysis for conditional VE and asymptomatic infection. Efficacy will be evaluated within or across age groups in which immunobridging is successful, depending on accrual of a sufficient number of cases in those age groups.\n\nAt designated US sites, an additional optional whole blood sample of approximately 10 mL will be obtained prior to Dose 1 and at 7 days and 6 months after Dose 2 from up to approximately 60 participants ≥10 years of age. These samples will be used on an exploratory basis to investigate the postvaccination cell-mediated immune response at these time points.\n\nPhase 2/3 Lower-Dose Evaluation\n\nIs the open-label portion of the study that will evaluate the safety, tolerability, and immunogenicity of the selected dose level in each age group from the Phase 1 lower-dose evaluation, with a total of approximately 900 active participants.\n\nApproximately 300 active participants in each age group in this phase will contribute to the immunobridging analysis at 1 month after Dose 2 and the overall analysis of the persistence of immune response at 6 months after Dose 2. These participants will be enrolled from both US and EU sites to ensure this subset is representative of the whole study.\n\nPhase 2/3 Obtaining Serum Samples for Potential Troponin I Testing\n\nIf testing of troponin I levels in individuals who did not receive BNT162b2 indicates that troponin I level could be a reliable indicator of potential subclinical myocarditis, obtaining serum samples for potential troponin I testing during the period of increased risk of clinical myocarditis may help characterize the absence/presence and frequency of subclinical myocarditis. To assess, an additional group of participants will be included: 5 to <12 years: 750 participants randomized 2:1 to receive BNT162b2 10 µg or placebo, and 500 participants 12 to <16 years of age: open-label receipt of BNT162b2 30 µg."
+        ]
+      },
+      {
+        "Rank": 352,
+        "NCTId": [
           "NCT04442295"
         ],
         "OfficialTitle": [
@@ -18184,7 +18582,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 353,
         "NCTId": [
           "NCT04318548"
         ],
@@ -18445,7 +18843,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 354,
         "NCTId": [
           "NCT04258943"
         ],
@@ -18804,7 +19202,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 355,
         "NCTId": [
           "NCT04203316"
         ],
@@ -18983,7 +19381,7 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 356,
         "NCTId": [
           "NCT04195399"
         ],
@@ -19627,7 +20025,7 @@
         ]
       },
       {
-        "Rank": 356,
+        "Rank": 357,
         "NCTId": [
           "NCT03199053"
         ],
@@ -20186,7 +20584,7 @@
         ]
       },
       {
-        "Rank": 357,
+        "Rank": 358,
         "NCTId": [
           "NCT02121132"
         ],
@@ -20364,7 +20762,7 @@
         ]
       },
       {
-        "Rank": 358,
+        "Rank": 359,
         "NCTId": [
           "NCT03939637"
         ],
@@ -20547,7 +20945,7 @@
         ]
       },
       {
-        "Rank": 359,
+        "Rank": 360,
         "NCTId": [
           "NCT02205762"
         ],
@@ -20901,7 +21299,7 @@
         ]
       },
       {
-        "Rank": 360,
+        "Rank": 361,
         "NCTId": [
           "NCT03719339"
         ],
@@ -21067,7 +21465,7 @@
         ]
       },
       {
-        "Rank": 361,
+        "Rank": 362,
         "NCTId": [
           "NCT04378075"
         ],
@@ -21179,7 +21577,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 362,
+        "Rank": 363,
         "NCTId": [
           "NCT02859896"
         ],
@@ -21343,7 +21741,7 @@
         ]
       },
       {
-        "Rank": 363,
+        "Rank": 364,
         "NCTId": [
           "NCT03633708"
         ],
@@ -21515,7 +21913,7 @@
         ]
       },
       {
-        "Rank": 364,
+        "Rank": 365,
         "NCTId": [
           "NCT04608019"
         ],
@@ -21666,7 +22064,7 @@
         ]
       },
       {
-        "Rank": 365,
+        "Rank": 366,
         "NCTId": [
           "NCT05041712"
         ],
@@ -21754,7 +22152,7 @@
         ]
       },
       {
-        "Rank": 366,
+        "Rank": 367,
         "NCTId": [
           "NCT01987882"
         ],
@@ -21867,7 +22265,7 @@
         ]
       },
       {
-        "Rank": 367,
+        "Rank": 368,
         "NCTId": [
           "NCT00670735"
         ],
@@ -22022,7 +22420,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 368,
+        "Rank": 369,
         "NCTId": [
           "NCT04743141"
         ],
@@ -22422,7 +22820,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 369,
+        "Rank": 370,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22515,7 +22913,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 370,
+        "Rank": 371,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22583,7 +22981,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 371,
+        "Rank": 372,
         "NCTId": [
           "NCT03707158"
         ],
@@ -22684,7 +23082,7 @@
         ]
       },
       {
-        "Rank": 372,
+        "Rank": 373,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22787,7 +23185,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 373,
+        "Rank": 374,
         "NCTId": [
           "NCT04075266"
         ],
@@ -22910,7 +23308,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 374,
+        "Rank": 375,
         "NCTId": [
           "NCT03962894"
         ],
@@ -23002,7 +23400,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 375,
+        "Rank": 376,
         "NCTId": [
           "NCT05049330"
         ],
@@ -23138,7 +23536,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 376,
+        "Rank": 377,
         "NCTId": [
           "NCT03813238"
         ],
@@ -23431,93 +23829,6 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 377,
-        "NCTId": [
-          "NCT04614662"
-        ],
-        "OfficialTitle": [
-          "Symptom Screening Linked to Care Pathways for Children With Cancer: a Cluster Randomized Trial"
-        ],
-        "Condition": [
-          "Pediatric Cancer",
-          "Quality of Life"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\n8-18 years of age at enrollment\nEnglish or Spanish-speaking\nAny newly diagnosed cancer\nHave a plan for any chemotherapy, radiotherapy or surgery\nEnroll within 28 days after treatment initiation\n\nExclusion Criteria:\n\nCognitive disability (attending minimum second grade or equivalent)\nVisual impairment (cannot see SPARK even with corrective lens)"
-        ],
-        "MinimumAge": [
-          "8 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Hartford",
-          "Des Moines",
-          "New Orleans",
-          "Saint Louis",
-          "New York",
-          "Corpus Christi",
-          "Toronto"
-        ],
-        "LocationFacility": [
-          "Connecticut Children's Medical Center",
-          "Unity Point Health - Blank Children's Hospital",
-          "Children's Hospital",
-          "Washington University School of Medicine",
-          "The Trustees of Columbia University in the City of New York",
-          "Driscoll Children's Hospital",
-          "The Hospital for Sick Children"
-        ],
-        "LocationState": [
-          "Connecticut",
-          "Iowa",
-          "Louisiana",
-          "Missouri",
-          "New York",
-          "Texas",
-          "Ontario"
-        ],
-        "LocationZip": [
-          "06106",
-          "50309",
-          "70118",
-          "63110",
-          "10032",
-          "78411",
-          "M5G 1X8"
-        ],
-        "LocationContactEMail": [
-          "melias@connecticutchildrens.org",
-          "Elizabeth.mosby@unitypoint.org",
-          "Alyssa.lacour@lcmchealth.org",
-          "gemily@wustl.edu",
-          "Mb3579@cumc.columbia.edu",
-          "Crystal.DeLosSantos@dchstx.org"
-        ],
-        "LocationContactName": [
-          "Megan Elias",
-          "Andrea Orsey, MD",
-          "Elizabeth Mosby",
-          "Wendy Woods-Swafford, MD",
-          "Alyssa Lacour",
-          "Lolie Yu, MD",
-          "Emily Gibson",
-          "Allison King, MD",
-          "Michelle Bombacie",
-          "Melissa Beauchemin, PhD",
-          "Crystal De Los Santos",
-          "Farha Sherani, MD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Most children with cancer survive because they are given intensive treatments, but unfortunately, these treatments are associated with distressing symptoms. To address this problem, we developed the Symptom Screening in Pediatrics Tool (SSPedi) so that children receiving cancer treatments can communicate their bothersome symptoms, and Supportive care Prioritization, Assessment and Recommendations for Kids (SPARK), a web-based application that links identified symptoms to supportive care guidelines for symptom management. To establish that these tools improve the lives of children newly diagnosed with cancer, we will conduct a trial that randomizes 20 pediatric cancer institutions and measures the impact of three times weekly symptom screening, symptom feedback to healthcare providers and the development of care pathways for symptom management to improve total symptom burden, fatigue and quality of life."
-        ],
-        "DetailedDescription": [
-          "Aims 1 and 2: Among children with newly diagnosed cancer, to determine if symptom screening and feedback to healthcare providers at least three times weekly and locally-adapted symptom management care pathways, when compared to usual care:\n\nAim 1. Improves overall self-reported symptom scores (total SSPedi score), fatigue (PROMIS-Fatigue) and cancer-specific QoL (PedsQL 3.0 Acute Cancer Module) over 8 weeks Hypothesis: Symptom screening and care pathways will improve symptoms, fatigue and QoL\n\nAim 2. Improves symptom documentation, increases provision of interventions for symptoms, and reduces emergency department visits and unplanned clinic visits and hospitalizations over 8 weeks Hypotheses: Symptom screening and care pathways will increase symptom documentation and provision of interventions for symptoms, and will reduce healthcare utilization.\n\nAim 3: As an exploratory aim, we will evaluate key elements of the intervention related to the external validity and generalizability of the intervention effects using the RE-AIM framework.\n\nOverall Strategy This is a cluster randomized trial including 20 pediatric oncology sites. The coordinating center is The Hospital for Sick Children in Toronto, Canada. Sites will be randomized to either systematic symptom screening via SPARK with provision of symptom reports to healthcare providers containing links to care pathways for symptom management (intervention) or usual care (control).\n\nResearch Methods Eligibility: We will include children with cancer who: (1) are 8-18 years of age at enrollment (SSPedi is validated in this age range); (2) are English or Spanish-speaking (all PROs are validated in these languages in this age range); (3) have any newly diagnosed cancer; (4) have a plan for any chemotherapy, radiotherapy or surgery; and (5) enroll within 28 days after treatment initiation. Exclusion criteria will be cognitive disability (attending lower than second grade or equivalent) or visual impairment (cannot see SPARK even with corrective lens).\n\nProcedures: In this cluster randomized trial, we will randomize sites to either intervention or control groups. At both intervention and control sites, we will enroll participants within 28 days after treatment initiation. Eligible participants will be identified by site personnel and the study will be explained to them by trained research team members. Participant capacity to consent will be assessed by the clinical or research team according to institutional standards. After the study has been explained and sufficient time has been provided to ensure all questions have been answered, informed consent and assent will be obtained from participants and guardians as appropriate. For those who decline to contribute PROs, they will be given the option to only participate in a retrospective chart review to evaluate symptom documentation, intervention provision and healthcare utilization. Careful tracking of all newly diagnosed patients by site research personnel will occur to determine how many patients are approached and consented, and where possible, reasons for declining participation.\n\nFor all enrolled participants who will be contributing PROs (excluding those only involved in the retrospective chart review), a personal SPARK account will be created to allow SSPedi to be completed and symptom results to be recorded. At the 10 intervention sites, site-specific symptom management care pathways will be adapted from template care pathways for each of the 15 symptoms included in SSPedi. Enrolled participants will be prompted by text or email to complete symptom screening three times weekly via SPARK with corresponding feedback sent to their healthcare providers. Symptom reports will contain links to care pathways for symptom management. Active intervention will last for eight weeks starting from the date of enrollment. At the 10 control sites, participants will complete SSPedi to obtain the primary outcome at weeks 0, 4 and 8 but the scores will not be revealed to providers and will not be linked to care pathways. Usual care will be provided to participants at control sites and thus, there will be no study-requested routine, systematic symptom screening, symptom feedback to providers, or linkage to care pathways. If sites already routinely perform systematic symptom screening or use care pathways for symptom management, these may be continued but their use will be recorded.\n\nAt both intervention and control sites, demographic information including age, sex, race, ethnicity, diagnosis, cancer stage, family socioeconomic information and treatment plan will be collected at enrollment. The following PROs will be obtained by trained research staff at baseline, week 4 and week 8 for all participants: SSPedi, PROMIS Fatigue and the PedsQL 3.0 Acute Cancer Module (Aim 1). We will contact participants ahead of time to coordinate the week 4 and 8 PROs so that they can be completed in person during hospitalizations or clinic visits. If unable to arrange completion of these PROs in person, we will use their contact information to complete the questionnaires by email, text or over the phone. Data from health records (Aim 2) will be abstracted for all enrolled participants. Relapse and cancer treatment received information will be collected at the end of the study."
-        ]
-      },
-      {
         "Rank": 378,
         "NCTId": [
           "NCT03118986"
@@ -23610,6 +23921,93 @@
       },
       {
         "Rank": 379,
+        "NCTId": [
+          "NCT04614662"
+        ],
+        "OfficialTitle": [
+          "Symptom Screening Linked to Care Pathways for Children With Cancer: a Cluster Randomized Trial"
+        ],
+        "Condition": [
+          "Pediatric Cancer",
+          "Quality of Life"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\n8-18 years of age at enrollment\nEnglish or Spanish-speaking\nAny newly diagnosed cancer\nHave a plan for any chemotherapy, radiotherapy or surgery\nEnroll within 28 days after treatment initiation\n\nExclusion Criteria:\n\nCognitive disability (attending minimum second grade or equivalent)\nVisual impairment (cannot see SPARK even with corrective lens)"
+        ],
+        "MinimumAge": [
+          "8 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Hartford",
+          "Des Moines",
+          "New Orleans",
+          "Saint Louis",
+          "New York",
+          "Corpus Christi",
+          "Toronto"
+        ],
+        "LocationFacility": [
+          "Connecticut Children's Medical Center",
+          "Unity Point Health - Blank Children's Hospital",
+          "Children's Hospital",
+          "Washington University School of Medicine",
+          "The Trustees of Columbia University in the City of New York",
+          "Driscoll Children's Hospital",
+          "The Hospital for Sick Children"
+        ],
+        "LocationState": [
+          "Connecticut",
+          "Iowa",
+          "Louisiana",
+          "Missouri",
+          "New York",
+          "Texas",
+          "Ontario"
+        ],
+        "LocationZip": [
+          "06106",
+          "50309",
+          "70118",
+          "63110",
+          "10032",
+          "78411",
+          "M5G 1X8"
+        ],
+        "LocationContactEMail": [
+          "melias@connecticutchildrens.org",
+          "Elizabeth.mosby@unitypoint.org",
+          "Alyssa.lacour@lcmchealth.org",
+          "gemily@wustl.edu",
+          "Mb3579@cumc.columbia.edu",
+          "Crystal.DeLosSantos@dchstx.org"
+        ],
+        "LocationContactName": [
+          "Megan Elias",
+          "Andrea Orsey, MD",
+          "Elizabeth Mosby",
+          "Wendy Woods-Swafford, MD",
+          "Alyssa Lacour",
+          "Lolie Yu, MD",
+          "Emily Gibson",
+          "Allison King, MD",
+          "Michelle Bombacie",
+          "Melissa Beauchemin, PhD",
+          "Crystal De Los Santos",
+          "Farha Sherani, MD"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Most children with cancer survive because they are given intensive treatments, but unfortunately, these treatments are associated with distressing symptoms. To address this problem, we developed the Symptom Screening in Pediatrics Tool (SSPedi) so that children receiving cancer treatments can communicate their bothersome symptoms, and Supportive care Prioritization, Assessment and Recommendations for Kids (SPARK), a web-based application that links identified symptoms to supportive care guidelines for symptom management. To establish that these tools improve the lives of children newly diagnosed with cancer, we will conduct a trial that randomizes 20 pediatric cancer institutions and measures the impact of three times weekly symptom screening, symptom feedback to healthcare providers and the development of care pathways for symptom management to improve total symptom burden, fatigue and quality of life."
+        ],
+        "DetailedDescription": [
+          "Aims 1 and 2: Among children with newly diagnosed cancer, to determine if symptom screening and feedback to healthcare providers at least three times weekly and locally-adapted symptom management care pathways, when compared to usual care:\n\nAim 1. Improves overall self-reported symptom scores (total SSPedi score), fatigue (PROMIS-Fatigue) and cancer-specific QoL (PedsQL 3.0 Acute Cancer Module) over 8 weeks Hypothesis: Symptom screening and care pathways will improve symptoms, fatigue and QoL\n\nAim 2. Improves symptom documentation, increases provision of interventions for symptoms, and reduces emergency department visits and unplanned clinic visits and hospitalizations over 8 weeks Hypotheses: Symptom screening and care pathways will increase symptom documentation and provision of interventions for symptoms, and will reduce healthcare utilization.\n\nAim 3: As an exploratory aim, we will evaluate key elements of the intervention related to the external validity and generalizability of the intervention effects using the RE-AIM framework.\n\nOverall Strategy This is a cluster randomized trial including 20 pediatric oncology sites. The coordinating center is The Hospital for Sick Children in Toronto, Canada. Sites will be randomized to either systematic symptom screening via SPARK with provision of symptom reports to healthcare providers containing links to care pathways for symptom management (intervention) or usual care (control).\n\nResearch Methods Eligibility: We will include children with cancer who: (1) are 8-18 years of age at enrollment (SSPedi is validated in this age range); (2) are English or Spanish-speaking (all PROs are validated in these languages in this age range); (3) have any newly diagnosed cancer; (4) have a plan for any chemotherapy, radiotherapy or surgery; and (5) enroll within 28 days after treatment initiation. Exclusion criteria will be cognitive disability (attending lower than second grade or equivalent) or visual impairment (cannot see SPARK even with corrective lens).\n\nProcedures: In this cluster randomized trial, we will randomize sites to either intervention or control groups. At both intervention and control sites, we will enroll participants within 28 days after treatment initiation. Eligible participants will be identified by site personnel and the study will be explained to them by trained research team members. Participant capacity to consent will be assessed by the clinical or research team according to institutional standards. After the study has been explained and sufficient time has been provided to ensure all questions have been answered, informed consent and assent will be obtained from participants and guardians as appropriate. For those who decline to contribute PROs, they will be given the option to only participate in a retrospective chart review to evaluate symptom documentation, intervention provision and healthcare utilization. Careful tracking of all newly diagnosed patients by site research personnel will occur to determine how many patients are approached and consented, and where possible, reasons for declining participation.\n\nFor all enrolled participants who will be contributing PROs (excluding those only involved in the retrospective chart review), a personal SPARK account will be created to allow SSPedi to be completed and symptom results to be recorded. At the 10 intervention sites, site-specific symptom management care pathways will be adapted from template care pathways for each of the 15 symptoms included in SSPedi. Enrolled participants will be prompted by text or email to complete symptom screening three times weekly via SPARK with corresponding feedback sent to their healthcare providers. Symptom reports will contain links to care pathways for symptom management. Active intervention will last for eight weeks starting from the date of enrollment. At the 10 control sites, participants will complete SSPedi to obtain the primary outcome at weeks 0, 4 and 8 but the scores will not be revealed to providers and will not be linked to care pathways. Usual care will be provided to participants at control sites and thus, there will be no study-requested routine, systematic symptom screening, symptom feedback to providers, or linkage to care pathways. If sites already routinely perform systematic symptom screening or use care pathways for symptom management, these may be continued but their use will be recorded.\n\nAt both intervention and control sites, demographic information including age, sex, race, ethnicity, diagnosis, cancer stage, family socioeconomic information and treatment plan will be collected at enrollment. The following PROs will be obtained by trained research staff at baseline, week 4 and week 8 for all participants: SSPedi, PROMIS Fatigue and the PedsQL 3.0 Acute Cancer Module (Aim 1). We will contact participants ahead of time to coordinate the week 4 and 8 PROs so that they can be completed in person during hospitalizations or clinic visits. If unable to arrange completion of these PROs in person, we will use their contact information to complete the questionnaires by email, text or over the phone. Data from health records (Aim 2) will be abstracted for all enrolled participants. Relapse and cancer treatment received information will be collected at the end of the study."
+        ]
+      },
+      {
+        "Rank": 380,
         "NCTId": [
           "NCT03837899"
         ],
@@ -23723,7 +24121,7 @@
         ]
       },
       {
-        "Rank": 380,
+        "Rank": 381,
         "NCTId": [
           "NCT01148550"
         ],
@@ -23937,7 +24335,7 @@
         ]
       },
       {
-        "Rank": 381,
+        "Rank": 382,
         "NCTId": [
           "NCT03268421"
         ],
@@ -24038,7 +24436,7 @@
         ]
       },
       {
-        "Rank": 382,
+        "Rank": 383,
         "NCTId": [
           "NCT03813407"
         ],
@@ -24198,7 +24596,7 @@
         ]
       },
       {
-        "Rank": 383,
+        "Rank": 384,
         "NCTId": [
           "NCT04068012"
         ],
@@ -24276,7 +24674,7 @@
         ]
       },
       {
-        "Rank": 384,
+        "Rank": 385,
         "NCTId": [
           "NCT02840409"
         ],
@@ -24414,7 +24812,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 386,
         "NCTId": [
           "NCT04431453"
         ],
@@ -24585,7 +24983,7 @@
         ]
       },
       {
-        "Rank": 386,
+        "Rank": 387,
         "NCTId": [
           "NCT02650401"
         ],
@@ -24761,7 +25159,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 387,
+        "Rank": 388,
         "NCTId": [
           "NCT03785405"
         ],
@@ -25075,7 +25473,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 388,
+        "Rank": 389,
         "NCTId": [
           "NCT04351893"
         ],
@@ -25175,7 +25573,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 389,
+        "Rank": 390,
         "NCTId": [
           "NCT04218851"
         ],
@@ -25366,7 +25764,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 390,
+        "Rank": 391,
         "NCTId": [
           "NCT04200352"
         ],
@@ -25502,7 +25900,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 391,
+        "Rank": 392,
         "NCTId": [
           "NCT04015141"
         ],
@@ -25684,7 +26082,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 392,
+        "Rank": 393,
         "NCTId": [
           "NCT02134301"
         ],
@@ -25775,7 +26173,7 @@
         ]
       },
       {
-        "Rank": 393,
+        "Rank": 394,
         "NCTId": [
           "NCT01500551"
         ],
@@ -26304,7 +26702,7 @@
         ]
       },
       {
-        "Rank": 394,
+        "Rank": 395,
         "NCTId": [
           "NCT04114539"
         ],
@@ -26648,7 +27046,7 @@
         ]
       },
       {
-        "Rank": 395,
+        "Rank": 396,
         "NCTId": [
           "NCT03958877"
         ],
@@ -26888,7 +27286,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 396,
+        "Rank": 397,
         "NCTId": [
           "NCT04238819"
         ],
@@ -27006,7 +27404,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 397,
+        "Rank": 398,
         "NCTId": [
           "NCT03275402"
         ],
@@ -27090,7 +27488,7 @@
         ]
       },
       {
-        "Rank": 398,
+        "Rank": 399,
         "NCTId": [
           "NCT03406507"
         ],
@@ -27146,7 +27544,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 399,
+        "Rank": 400,
         "NCTId": [
           "NCT02862132"
         ],
@@ -27269,7 +27667,7 @@
         ]
       },
       {
-        "Rank": 400,
+        "Rank": 401,
         "NCTId": [
           "NCT02871297"
         ],
@@ -27564,7 +27962,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 401,
+        "Rank": 402,
         "NCTId": [
           "NCT04143724"
         ],
