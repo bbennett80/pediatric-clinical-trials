@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.04",
-    "DataVrs": "2022:01:25 23:00:18.324",
+    "DataVrs": "2022:01:26 23:04:49.887",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 402248,
-    "NStudiesFound": 399,
+    "NStudiesAvail": 402440,
+    "NStudiesFound": 400,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 399,
+    "NStudiesReturned": 400,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -1589,6 +1589,61 @@
       {
         "Rank": 28,
         "NCTId": [
+          "NCT05212129"
+        ],
+        "OfficialTitle": [
+          "Hypermobile Ehlers-Danlos Syndrome: Efficacy of Non-invasive Vagal Nerve Stimulation and Effects on Brain-Gut Physiology"
+        ],
+        "Condition": [
+          "Functional Gastrointestinal Disorders",
+          "Hypermobile Ehlers-Danlos Syndrome",
+          "Postural Orthostatic Tachycardia Syndrome",
+          "Autonomic Nervous System Disease",
+          "Autonomic Nervous System Imbalance"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nChildren aged 10-18 years old\nChildren with functional upper GI complaints and clinical suspicion for hEDS or HSD as well as a Beighton score of at least 4/9\nChildren with functional upper GI complaints and clinical suspicion for ANS dysfunction\nDe-identified data from our prior studies (IRB #689519 and IRB #1064187) of patients with functional GI disorders who do NOT meet criteria for hEDS will be used as a comparison group\nChildren who are English-speaking and lack other explanation for symptoms\nChildren willing to participate and consent to this study (for children, have a parent willing to participate)\n\nExclusion Criteria:\n\nA) Exclusion Criteria applying to all participants:\n\nMedically complex children or those who take a medication or suffer from a disease that can explain symptoms will be excluded from participation in the study.\nAdult subjects, children or their parents who have significant developmental delay (will be excluded due to difficulties in accurately completing the questionnaires and assessing symptoms)\nPatients with findings of organic disease such as peptic ulcer disease, H.pylori gastritis, celiac disease, inflammatory bowel disease, allergic disorders, metabolic disorder or any other chronic condition or medication that may cause chronic GI symptoms will be excluded from the study.\nPatients who are treated with a new drug affecting the central nervous system in the two weeks prior to enrollment will also be excluded.\nPregnancy (evaluating MD screens patients as they normally would during a clinic visit (by questioning) and would only perform urine pregnancy test if clinically indicated (absence of menstrual period or other symptoms concerning for pregnancy)\nChronic alcohol/illicit drug use and/or smoking.\n\nB) Exclusion Criteria for subjects undergoing pVNS therapy:\n\nSevere dermatological condition or active infection of external or middle ear\nImplanted electrical device\n\nC) Exclusion Criteria for subjects undergoing aVNS therapy:\n\nHearing impaired\nSight impaired without correction\nSeizure disorder\n\nD) Exclusion Criteria for subjects undergoing gastric motor function sub-study:\n\nPatients with pacemakers, metal clips used in previous surgery or other device which are not compatible with MRI scanning\nClaustrophobia or inability to lie still in the scanner\nOrthodontic braces or permanent retainers\nPatients who are unable to tolerate noise produced by the MRI\nEgg allergy or anticipated inability to complete a standardized egg meal\n\nE) Exclusion Criteria for subjects undergoing HepGI Biobank specimen collection sub-study:\n\nBleeding disorder for the specific biopsies\nRecent antibiotic usage for fecal sample\nSignificant anemia or clinical status which will not allow safe blood draw required for blood collection\nRefusal of blood collection or to provide DNA sample\nInability or unwillingness on the individual (or parent/legal guardian) to provide clinical or family history."
+        ],
+        "MinimumAge": [
+          "10 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Milwaukee"
+        ],
+        "LocationFacility": [
+          "Medical College of Wisconsin"
+        ],
+        "LocationState": [
+          "Wisconsin"
+        ],
+        "LocationZip": [
+          "53226"
+        ],
+        "LocationContactEMail": [
+          "mgrimm@mcw.edu"
+        ],
+        "LocationContactName": [
+          "Monica Grimm, BA",
+          "Katja Kovacic, MD",
+          "Donald Basel, MD",
+          "Matthew Plunk, MD"
+        ],
+        "LocationContactPhone": [
+          "414-266-6111"
+        ],
+        "BriefSummary": [
+          "Hypermobile Ehlers-Danlos Syndrome (hEDS) is a connective tissue disorder characterized by hyperextensible skin, joint hypermobility and additional connective tissue manifestations. For unclear reasons, hEDS is associated with many gastrointestinal (GI) and autonomic nervous system (ANS) complaints such as postural orthostatic tachycardia syndrome (POTS). This study will address the clinical relationship between hEDS/Hypermobile Spectrum Disorders and autonomic regulation and see if there is a benefit of two forms of non-invasive vagal nerve stimulation therapies to reduce GI symptoms in hEDS and POTS. The study will also investigate plausible effects of these nerve stimulation therapies on gastric function and autonomic signaling."
+        ],
+        "DetailedDescription": [
+          "Hypermobile Ehlers-Danlos Syndrome (hEDS) is a connective tissue disorder characterized by hyperextensible skin, joint hypermobility and additional connective tissue manifestations. For unclear reasons, hEDS and Hypermobile Spectrum Disorders are associated with many gastrointestinal (GI) and autonomic nervous system (ANS) complaints such as postural orthostatic tachycardia syndrome (POTS). Symptoms are often disabling and associated with poor quality of life and high health care costs. The proposed research will address the following understudied areas: 1) the clinical relationship between hEDS and autonomic regulation, 2) the potential benefit of two forms of non-invasive vagal nerve stimulation (VNS) therapies in reducing functional GI symptoms in hEDS and POTS, and 3) plausible effects of these VNS therapies on gastric motor function and neurohormonal signaling.\n\nClinical reports document a high co-morbidity between autonomic disorders and hEDS. This prospective study will focus on three major clinical questions: 1) Are there reliable neurophysiological markers associated with hEDS that can provide insights into the 'neural mechanisms' resulting in multisystem co-morbidities? 2) Will innovative intervention techniques designed to enhance autonomic regulation via two non-invasive vagal nerve stimulation techniques (e.g., auricular and acoustic VNS) provide substantial symptom reduction and improve the hEDS patients' quality of life? 3) Can a novel gastric MRI technique capture gastric motor function abnormalities in adolescents with hEDS?"
+        ]
+      },
+      {
+        "Rank": 29,
+        "NCTId": [
           "NCT05208359"
         ],
         "OfficialTitle": [
@@ -1635,7 +1690,7 @@
         ]
       },
       {
-        "Rank": 29,
+        "Rank": 30,
         "NCTId": [
           "NCT05154214"
         ],
@@ -1683,7 +1738,7 @@
         ]
       },
       {
-        "Rank": 30,
+        "Rank": 31,
         "NCTId": [
           "NCT05121142"
         ],
@@ -1729,7 +1784,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 31,
+        "Rank": 32,
         "NCTId": [
           "NCT05110729"
         ],
@@ -1774,7 +1829,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 32,
+        "Rank": 33,
         "NCTId": [
           "NCT05098366"
         ],
@@ -1820,7 +1875,7 @@
         ]
       },
       {
-        "Rank": 33,
+        "Rank": 34,
         "NCTId": [
           "NCT05096273"
         ],
@@ -1871,7 +1926,7 @@
         ]
       },
       {
-        "Rank": 34,
+        "Rank": 35,
         "NCTId": [
           "NCT05075395"
         ],
@@ -1923,7 +1978,7 @@
         ]
       },
       {
-        "Rank": 35,
+        "Rank": 36,
         "NCTId": [
           "NCT05068544"
         ],
@@ -1973,7 +2028,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 36,
+        "Rank": 37,
         "NCTId": [
           "NCT05066893"
         ],
@@ -2023,7 +2078,7 @@
         ]
       },
       {
-        "Rank": 37,
+        "Rank": 38,
         "NCTId": [
           "NCT05065528"
         ],
@@ -2070,7 +2125,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 38,
+        "Rank": 39,
         "NCTId": [
           "NCT05055336"
         ],
@@ -2118,7 +2173,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 39,
+        "Rank": 40,
         "NCTId": [
           "NCT05034913"
         ],
@@ -2169,7 +2224,7 @@
         ]
       },
       {
-        "Rank": 40,
+        "Rank": 41,
         "NCTId": [
           "NCT05031741"
         ],
@@ -2213,7 +2268,7 @@
         ]
       },
       {
-        "Rank": 41,
+        "Rank": 42,
         "NCTId": [
           "NCT05020327"
         ],
@@ -2260,7 +2315,7 @@
         ]
       },
       {
-        "Rank": 42,
+        "Rank": 43,
         "NCTId": [
           "NCT05020314"
         ],
@@ -2308,7 +2363,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 43,
+        "Rank": 44,
         "NCTId": [
           "NCT05010304"
         ],
@@ -2356,7 +2411,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 44,
+        "Rank": 45,
         "NCTId": [
           "NCT04992611"
         ],
@@ -2409,7 +2464,7 @@
         ]
       },
       {
-        "Rank": 45,
+        "Rank": 46,
         "NCTId": [
           "NCT04991389"
         ],
@@ -2457,7 +2512,7 @@
         ]
       },
       {
-        "Rank": 46,
+        "Rank": 47,
         "NCTId": [
           "NCT04978571"
         ],
@@ -2503,7 +2558,7 @@
         ]
       },
       {
-        "Rank": 47,
+        "Rank": 48,
         "NCTId": [
           "NCT04977830"
         ],
@@ -2548,7 +2603,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 48,
+        "Rank": 49,
         "NCTId": [
           "NCT04974307"
         ],
@@ -2597,7 +2652,7 @@
         ]
       },
       {
-        "Rank": 49,
+        "Rank": 50,
         "NCTId": [
           "NCT04959097"
         ],
@@ -2645,7 +2700,7 @@
         ]
       },
       {
-        "Rank": 50,
+        "Rank": 51,
         "NCTId": [
           "NCT04943848"
         ],
@@ -2698,7 +2753,7 @@
         ]
       },
       {
-        "Rank": 51,
+        "Rank": 52,
         "NCTId": [
           "NCT04941742"
         ],
@@ -2740,7 +2795,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 52,
+        "Rank": 53,
         "NCTId": [
           "NCT04931927"
         ],
@@ -2791,7 +2846,7 @@
         ]
       },
       {
-        "Rank": 53,
+        "Rank": 54,
         "NCTId": [
           "NCT04927286"
         ],
@@ -2837,7 +2892,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 54,
+        "Rank": 55,
         "NCTId": [
           "NCT04896645"
         ],
@@ -2885,7 +2940,7 @@
         ]
       },
       {
-        "Rank": 55,
+        "Rank": 56,
         "NCTId": [
           "NCT04848532"
         ],
@@ -2940,7 +2995,7 @@
         ]
       },
       {
-        "Rank": 56,
+        "Rank": 57,
         "NCTId": [
           "NCT04845932"
         ],
@@ -2988,7 +3043,7 @@
         ]
       },
       {
-        "Rank": 57,
+        "Rank": 58,
         "NCTId": [
           "NCT04825587"
         ],
@@ -3033,58 +3088,6 @@
         ],
         "DetailedDescription": [
           "Studies have reported a rising incidence of anterior cruciate ligament (ACL) injuries in children and adolescents. Beck et al reported a 2.3% annual increase between 1994 and 2013. In New York State, the rate of pediatric ACL reconstruction climbed from 17.6/100,000 in 1990 to 50.9/100,000 by 2009. Other reports echo these findings. After ACL reconstruction, children are known to be at a higher risk for complications than adults. For example, while the rate of postoperative graft failure in adults was 3% to 4% in large national registries, as many as 12% to 19% of pediatric patients may sustain graft rupture. This can have substantial medical, financial, and psychosocial implications on the patient and family. Additionally, the results of revision ACL reconstruction are, on average, worse than after index surgery. Exploration of treatments that may lower the rate of re-injury is paramount in this population that is at highest risk.\n\nIn the adult population, a growing number of studies have suggested that concomitant reconstruction of the anterolateral ligament (ALL) with the ACL may help lower this risk. The ALL was likely first characterized in 1879 by the French surgeon Segond, who commented on the presence of a \"pearly, resistant, fibrous band\" in the lateral aspect of the knee. However, only in 2012 was the structure given the name \"anterolateral ligament\" after it was consistently identified in cadaveric specimens. Some studies suggest that the ALL is damaged during anterior cruciate ligament (ACL) injury, implying that it may supplement the ACL in providing rotational and translational stability. Biomechanical studies have confirmed that it likely plays a role in rotational stability.\n\nA number of ALL reconstruction techniques have been developed with the hope of lowering the rate of re-injury after ACL reconstruction. Early literature in the adult population suggests that this may indeed be the case. Early case series suggested that concomitant ALL reconstruction resulted in high rates of return to sport and a low ACL graft failure rate (2.6%). Comparative retrospective studies in adults suggest better patient reported outcome scores, meniscal repair healing, and rates of return to sports when the ALL is reconstructed with the ACL compared to isolated ACL reconstruction. Finally, a prospective cohort study of adults reported that hamstring autograft ACL reconstruction with concomitant ALL reconstruction resulted in 3.1 times lower odds of graft failure than isolated hamstring ACL reconstruction and 2.5 times lower odds of failure than isolated patellar tendon ACL reconstruction.\n\nThe hypotheses to be tested in this study have never been evaluated in the pediatric population. Furthermore, the proposed investigation is a randomized controlled trial, which will allow it to provide novel results with high-level evidence. The results of such a study have the potential to change practice in a meaningful, tangible way and affect the outcomes of thousands of children annually. In addition to the medical and functional impact, there could also be important financial and psychosocial implications."
-        ]
-      },
-      {
-        "Rank": 58,
-        "NCTId": [
-          "NCT04815239"
-        ],
-        "OfficialTitle": [
-          "Early Intervention for Youth At-Risk for Bipolar Disorder"
-        ],
-        "Condition": [
-          "Bipolar Disorder"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAge 12-18 years\nA parent with a diagnosis of BP I or II\nBaseline Risk Calculator score>0.05;\nAble/willing to give informed consent/assent\n\nExclusion Criteria:\n\nA lifetime BP spectrum disorder\nCurrent unstabilized psychiatric symptoms\nEvidence of developmental disorder or central nervous system disorder"
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Pittsburgh"
-        ],
-        "LocationFacility": [
-          "Western Psychiatric Hospital"
-        ],
-        "LocationState": [
-          "Pennsylvania"
-        ],
-        "LocationZip": [
-          "15213"
-        ],
-        "LocationContactEMail": [
-          "monkk@upmc.edu",
-          "pylep2@upmc.edu"
-        ],
-        "LocationContactName": [
-          "Kelly Monk, BSN",
-          "Pamala Pyle",
-          "Tina R Goldstein, PhD"
-        ],
-        "LocationContactPhone": [
-          "412-246-5796",
-          "412-246-5686"
-        ],
-        "BriefSummary": [
-          "Investigators will conduct a confirmatory efficacy trial of Interpersonal and Social Rhythm Therapy (IPSRT) delivered via telehealth for offspring of bipolar parents (OBP; age 12-18, n=120) at elevated risk for BP onset via risk calculator score. All participants receive a baseline clinical assessment of psychiatric symptoms and sleep disturbance (via objective and subjective methods), followed by a feedback session. Youth are then randomized to receive 8 sessions of IPSRT or a manualized Healthy Lifestyle Behaviors Program (HL) delivered via secure videoconference. As clinically indicated, youth are offered Community Treatment Referral (CTR) for any psychiatric symptoms/disorders identified at intake. Primary outcome domains over 18 months include subthreshold mania and affective lability. Investigators will also further investigate the hypothesized mechanism underlying IPSRT (i.e., sleep/circadian disruption) across levels of analysis, and the contribution of interpersonal stress to sleep/circadian disruptions. Application of Implementation Science methods throughout maximizes ultimate scalability and feasibility if efficacious. Investigators will also examine whether passive cellphone sensing may serve as a portable, cost-effective measure of mechanisms and outcomes to enhance ultimate dissemination."
-        ],
-        "DetailedDescription": [
-          "The most potent risk factor for the development of bipolar disorder (BP) is a first-degree family member with the illness; individuals with family history typically experience early BP onset and severe course. Up to 25% of offspring of parents with BP (OBP) develop BP by young adulthood. Using longitudinal data from the Pittsburgh Bipolar Offspring Study (BIOS MH60952), investigators developed a clinical tool (\"risk calculator\") that reliably predicts an individual OBP's 5-year risk for BP using a subset of demographic and clinical variables. This innovation offers the ideal opportunity to identify OBP at greatest risk and deliver indicated preventive interventions. Yet, to date, there is no evidence-based intervention for OBP who have not already developed mood disorder. Per the experimental therapeutics framework, promising approaches should be informed by, and target, factors that cause and sustain illness. Evidence suggests the pathway to develop BP among biologically vulnerable youth involves sleep and circadian disturbances. Investigators adapted Interpersonal and Social Rhythm Therapy (IPSRT), an evidence-based treatment for BP adults that helps stabilize sleep/ circadian patterns, for adolescent OBP. In an open pilot and subsequent R34 randomized trial (MH091177), Investigators established a preliminary efficacy signal for IPSRT with OBP. Investigators' data further indicate IPSRT, but not Community Treatment Referral (CTR), engages and alters the hypothesized mechanism of action--sleep/ circadian disturbance, although practical barriers impacted treatment attendance. This proposal represents a vital next step in this program of research: a confirmatory efficacy trial of IPSRT delivered via telehealth for OBP (age 12-18, n=120) at elevated risk for BP onset via risk calculator score. All participants receive a baseline clinical assessment of psychiatric symptoms and sleep disturbance (via objective and subjective methods), followed by a feedback session. Youth are then randomized to receive 8 sessions of IPSRT or a manualized Healthy Lifestyle Behaviors Program (HL) delivered via secure videoconference to enhance attendance and reach. As clinically indicated, youth are offered CTR for any psychiatric symptoms/disorders identified at intake. Primary outcome domains over 18 months include subthreshold mania and affective lability--2 potent near-term predictors of BP in OBP that are themselves associated with morbidity and impairment. Investigators will also further investigate the hypothesized mechanism underlying IPSRT-sleep/circadian disruption--across levels of analysis using reliable, cost-effective methods (actigraphy and daily diary ratings), and the contribution of interpersonal stress to sleep/circadian disruptions. Application of Implementation Science methods throughout maximizes ultimate scalability and feasibility if efficacious. Investigators will also examine whether passive cellphone sensing may serve as a portable, cost-effective measure of mechanisms and outcomes to enhance ultimate dissemination. Research in this area has the potential to prevent, delay, or ameliorate the progression of this chronic and devastating illness in those at highest risk."
         ]
       },
       {
@@ -4019,53 +4022,50 @@
       {
         "Rank": 77,
         "NCTId": [
-          "NCT04602325"
+          "NCT04634643"
         ],
         "OfficialTitle": [
-          "Systemic Biomarkers of Brain Injury From Hyperammonemia"
+          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
         ],
         "Condition": [
-          "Urea Cycle Disorder",
-          "Organic Acidemia",
-          "Maple Syrup Urine Disease",
-          "Glutaric Acidemia I",
-          "Fatty Acid Oxidation Disorder",
-          "Hypoxic-Ischemic Encephalopathy"
+          "NAFLD"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nInherited Hyperammonemias:\n\nA clinical diagnosis of 1 of 7 diagnosed urea cycle disorders:\n\nN-acetylglutamate Synthetase Deficiency (NAGS)\nCarbamyl Phosphate Synthetase Deficiency (CPSD)\nOrnithine Transcarbamylase Deficiency (OTCD)\nArgininosuccinate Synthetase Deficiency (ASD)\nArgininosuccinate Lyase Deficiency (ALD)\nArginase Deficiency (AD)\nHyperammonemia-Hyperornithinemia-Homocitrullinuria (HHH)\n\nA clinical diagnosis of 1 of 2 organic acidemias:\n\nPropionic Acidemia (PA)\nMethylmalonic Acidemia (MMA)\n\nAcute metabolic disorder without hyperammonemia, with neurological sequelae\n\nMaple Syrup Urine Disease (MSUD)\nGlutaric Acidemia (GA1)\n\nAcute metabolic disorder without hyperammonemia and without neurological sequelae\n\nFatty Acid Oxidation Disorders:\nMedium Chain-Acyl CoA Dehydrogenase Deficiency\nVery Long Chain-Acyl CoA Dehydrogenase Deficiency\nTrifunctional Protein Deficiency\nLong Chain Hydroxyacyl-CoA Dehydrogenase Deficiency\nCarnitine Palmitoyltransferase I or II Deficiency\nCarnitine/Acylcarnitine Translocase Deficiency\nPrimary Carnitine Transport Deficiency\nHypoxic-Ischemic Encephalopathy\n\nExclusion Criteria:\n\nPrior Solid-Organ Transplant\nUse of any other investigational drug, biologic, or therapy or any clinical or laboratory abnormality or medical condition that, as determined by the investigator, may interfere with or obscure the biomarker measurements"
+          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
         ],
         "MinimumAge": [
-          "7 Years"
+          "12 Years"
         ],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "Washington"
+          "New Haven"
         ],
         "LocationFacility": [
-          "Children's National Research Institute"
+          "Yale New Haven Hospital"
         ],
         "LocationState": [
-          "District of Columbia"
+          "Connecticut"
         ],
         "LocationZip": [
-          "20010"
+          "06510"
         ],
         "LocationContactEMail": [
-          "krice3@childrensnational.org"
+          "jessica.lat@yale.edu",
+          "zhongyao.li@yale.edu"
         ],
         "LocationContactName": [
-          "Katie Rice, MPH, CCRP",
-          "Nicholas Ah Mew, MD"
+          "Jessica Lat",
+          "Zhongyao Li",
+          "Nicola Santoro, MD, PhD"
         ],
         "LocationContactPhone": [],
         "BriefSummary": [
-          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. High blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. The following aims are proposed:\n\nAim 1 of this study will be to determine the chronology of biomarkers of brain injury in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder.\n\nAim 2 will be to determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1)."
+          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
         ],
         "DetailedDescription": [
-          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. The onslaught of high blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. In addition, clinical hyperammonemia recurs at varying intervals, which can increase the cumulative damage to the brain and the chance of irreversible coma and death during a hyperammonemia episode due to vascular compromise or brain herniation. The threshold of tolerance for elevated blood ammonia is very low and concentrations above 100 µM can cause brain dysfunction manifested as nausea, vomiting, lethargy, and abnormal behavior; higher concentrations can cause coma and even death. Failure to remove ammonia can be due to inherited defects of the urea cycle, some defects in amino acid catabolism, and degradation of fatty acids.\n\nAim 1 - To determine the chronology of biomarkers of brain injury - S100B, NSE, and UCHL1 - in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder. We hypothesized that elevations of S100B, NSE, and UCHL1 will parallel the rise in blood ammonia. These biomarkers will be measured concurrently to ammonia levels throughout hospitalizations for HA until normalization of patient's blood ammonia and mental status.\n\nAim 2 - To determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism in which the primary pathology is neurological injury, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1). We hypothesize that neuronal and astroglial injury in these disorders may also result in increased levels of S100B, NSE, and UCHL1.\n\nMetabolic patients will be enrolled either during a hospitalization or in outpatient clinic, but outpatient enrollment is preferred. Metabolic patients typically have multiple laboratory tests performed at their outpatient visits. We will obtain the discarded blood samples from such laboratory tests in order to measure S100B, NSE, and UCHL1 levels at baseline (normal blood ammonia), which will provide data on biomarker levels following recovery from a hyperammonemic episode.\n\nDuring hospitalization for metabolic decompensation or for hypoxic-ischemic encephalopathy, sequential measurements of S100B, NSE and UCHL1 levels will be obtained from discarded blood samples. We will obtain S100B, NSE, and UCHL1 levels from collected discarded blood samples at all subjects' next outpatient visit following their hospitalization, to determine if levels return to baseline."
+          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
         ]
       },
       {
@@ -4925,7 +4925,7 @@
           "Dysphagia, Oropharyngeal"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nChildren aged 3 to 18 years, inclusive, at time of consent\nDiagnosis of Down syndrome/trisomy 21 or mosaicism\nAble to walk\nHad a swallow study (video fluoroscopic swallow study or fiberoptic endoscopic evaluation of swallowing) performed within 2 years of consent date\n\nExclusion Criteria:\n\nPregnant or lactating\nNonambulatory\nHave a tracheostomy or other known severe glottic or subglottic obstruction that would significantly affect the results of testing\nHave a significant acute respiratory illness, defined as treatment with steroids, antibiotics, or an increase in supplemental oxygen\nhave a medical illness that would a)increase the risk the participate would incur by participating in the study, b) interfere with the outcomes of the study, or c) interfere with the performance of study participants\nHave a severe behavioral problem that would interfere with the performance of study procedures"
+          "Inclusion Criteria:\n\nChildren aged 3 to 18 years, inclusive, at time of consent\nDiagnosis of Down syndrome/trisomy 21 or mosaicism\nAble to walk\nHad a swallow study (video fluoroscopic swallow study or fiberoptic endoscopic evaluation of swallowing) performed within 5 years of consent date\n\nExclusion Criteria:\n\nPregnant or lactating\nNonambulatory\nHave a tracheostomy or other known severe glottic or subglottic obstruction that would significantly affect the results of testing\nHave a significant acute respiratory illness, defined as treatment with steroids, antibiotics, or an increase in supplemental oxygen\nhave a medical illness that would a)increase the risk the participate would incur by participating in the study, b) interfere with the outcomes of the study, or c) interfere with the performance of study participants\nHave a severe behavioral problem that would interfere with the performance of study procedures"
         ],
         "MinimumAge": [
           "3 Years"
@@ -14902,6 +14902,58 @@
       {
         "Rank": 299,
         "NCTId": [
+          "NCT04815239"
+        ],
+        "OfficialTitle": [
+          "Early Intervention for Youth At-Risk for Bipolar Disorder"
+        ],
+        "Condition": [
+          "Bipolar Disorder"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nAge 12-18 years\nA parent with a diagnosis of BP I or II\nBaseline Risk Calculator score>0.05;\nAble/willing to give informed consent/assent\n\nExclusion Criteria:\n\nA lifetime BP spectrum disorder\nCurrent unstabilized psychiatric symptoms\nEvidence of developmental disorder or central nervous system disorder"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Pittsburgh"
+        ],
+        "LocationFacility": [
+          "Western Psychiatric Hospital"
+        ],
+        "LocationState": [
+          "Pennsylvania"
+        ],
+        "LocationZip": [
+          "15213"
+        ],
+        "LocationContactEMail": [
+          "monkk@upmc.edu",
+          "pylep2@upmc.edu"
+        ],
+        "LocationContactName": [
+          "Kelly Monk, BSN",
+          "Pamala Pyle",
+          "Tina R Goldstein, PhD"
+        ],
+        "LocationContactPhone": [
+          "412-246-5796",
+          "412-246-5686"
+        ],
+        "BriefSummary": [
+          "Investigators will conduct a confirmatory efficacy trial of Interpersonal and Social Rhythm Therapy (IPSRT) delivered via telehealth for offspring of bipolar parents (OBP; age 12-18, n=120) at elevated risk for BP onset via risk calculator score. All participants receive a baseline clinical assessment of psychiatric symptoms and sleep disturbance (via objective and subjective methods), followed by a feedback session. Youth are then randomized to receive 8 sessions of IPSRT or a manualized Healthy Lifestyle Behaviors Program (HL) delivered via secure videoconference. As clinically indicated, youth are offered Community Treatment Referral (CTR) for any psychiatric symptoms/disorders identified at intake. Primary outcome domains over 18 months include subthreshold mania and affective lability. Investigators will also further investigate the hypothesized mechanism underlying IPSRT (i.e., sleep/circadian disruption) across levels of analysis, and the contribution of interpersonal stress to sleep/circadian disruptions. Application of Implementation Science methods throughout maximizes ultimate scalability and feasibility if efficacious. Investigators will also examine whether passive cellphone sensing may serve as a portable, cost-effective measure of mechanisms and outcomes to enhance ultimate dissemination."
+        ],
+        "DetailedDescription": [
+          "The most potent risk factor for the development of bipolar disorder (BP) is a first-degree family member with the illness; individuals with family history typically experience early BP onset and severe course. Up to 25% of offspring of parents with BP (OBP) develop BP by young adulthood. Using longitudinal data from the Pittsburgh Bipolar Offspring Study (BIOS MH60952), investigators developed a clinical tool (\"risk calculator\") that reliably predicts an individual OBP's 5-year risk for BP using a subset of demographic and clinical variables. This innovation offers the ideal opportunity to identify OBP at greatest risk and deliver indicated preventive interventions. Yet, to date, there is no evidence-based intervention for OBP who have not already developed mood disorder. Per the experimental therapeutics framework, promising approaches should be informed by, and target, factors that cause and sustain illness. Evidence suggests the pathway to develop BP among biologically vulnerable youth involves sleep and circadian disturbances. Investigators adapted Interpersonal and Social Rhythm Therapy (IPSRT), an evidence-based treatment for BP adults that helps stabilize sleep/ circadian patterns, for adolescent OBP. In an open pilot and subsequent R34 randomized trial (MH091177), Investigators established a preliminary efficacy signal for IPSRT with OBP. Investigators' data further indicate IPSRT, but not Community Treatment Referral (CTR), engages and alters the hypothesized mechanism of action--sleep/ circadian disturbance, although practical barriers impacted treatment attendance. This proposal represents a vital next step in this program of research: a confirmatory efficacy trial of IPSRT delivered via telehealth for OBP (age 12-18, n=120) at elevated risk for BP onset via risk calculator score. All participants receive a baseline clinical assessment of psychiatric symptoms and sleep disturbance (via objective and subjective methods), followed by a feedback session. Youth are then randomized to receive 8 sessions of IPSRT or a manualized Healthy Lifestyle Behaviors Program (HL) delivered via secure videoconference to enhance attendance and reach. As clinically indicated, youth are offered CTR for any psychiatric symptoms/disorders identified at intake. Primary outcome domains over 18 months include subthreshold mania and affective lability--2 potent near-term predictors of BP in OBP that are themselves associated with morbidity and impairment. Investigators will also further investigate the hypothesized mechanism underlying IPSRT-sleep/circadian disruption--across levels of analysis using reliable, cost-effective methods (actigraphy and daily diary ratings), and the contribution of interpersonal stress to sleep/circadian disruptions. Application of Implementation Science methods throughout maximizes ultimate scalability and feasibility if efficacious. Investigators will also examine whether passive cellphone sensing may serve as a portable, cost-effective measure of mechanisms and outcomes to enhance ultimate dissemination. Research in this area has the potential to prevent, delay, or ameliorate the progression of this chronic and devastating illness in those at highest risk."
+        ]
+      },
+      {
+        "Rank": 300,
+        "NCTId": [
           "NCT04812028"
         ],
         "OfficialTitle": [
@@ -14948,7 +15000,7 @@
         ]
       },
       {
-        "Rank": 300,
+        "Rank": 301,
         "NCTId": [
           "NCT04810130"
         ],
@@ -15001,7 +15053,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 302,
         "NCTId": [
           "NCT04798482"
         ],
@@ -15050,7 +15102,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 303,
         "NCTId": [
           "NCT04797559"
         ],
@@ -15099,7 +15151,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 304,
         "NCTId": [
           "NCT04795674"
         ],
@@ -15151,7 +15203,7 @@
         ]
       },
       {
-        "Rank": 304,
+        "Rank": 305,
         "NCTId": [
           "NCT04788524"
         ],
@@ -15200,7 +15252,7 @@
         ]
       },
       {
-        "Rank": 305,
+        "Rank": 306,
         "NCTId": [
           "NCT04786977"
         ],
@@ -15247,7 +15299,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 306,
+        "Rank": 307,
         "NCTId": [
           "NCT04784455"
         ],
@@ -15291,7 +15343,7 @@
         ]
       },
       {
-        "Rank": 307,
+        "Rank": 308,
         "NCTId": [
           "NCT04783506"
         ],
@@ -15340,7 +15392,7 @@
         ]
       },
       {
-        "Rank": 308,
+        "Rank": 309,
         "NCTId": [
           "NCT04771338"
         ],
@@ -15393,7 +15445,7 @@
         ]
       },
       {
-        "Rank": 309,
+        "Rank": 310,
         "NCTId": [
           "NCT04768634"
         ],
@@ -15436,56 +15488,59 @@
         ]
       },
       {
-        "Rank": 310,
+        "Rank": 311,
         "NCTId": [
-          "NCT04634643"
+          "NCT04602325"
         ],
         "OfficialTitle": [
-          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
+          "Systemic Biomarkers of Brain Injury From Hyperammonemia"
         ],
         "Condition": [
-          "NAFLD"
+          "Urea Cycle Disorder",
+          "Organic Acidemia",
+          "Maple Syrup Urine Disease",
+          "Glutaric Acidemia I",
+          "Fatty Acid Oxidation Disorder",
+          "Hypoxic-Ischemic Encephalopathy"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
+          "Inclusion Criteria:\n\nInherited Hyperammonemias:\n\nA clinical diagnosis of 1 of 7 diagnosed urea cycle disorders:\n\nN-acetylglutamate Synthetase Deficiency (NAGS)\nCarbamyl Phosphate Synthetase Deficiency (CPSD)\nOrnithine Transcarbamylase Deficiency (OTCD)\nArgininosuccinate Synthetase Deficiency (ASD)\nArgininosuccinate Lyase Deficiency (ALD)\nArginase Deficiency (AD)\nHyperammonemia-Hyperornithinemia-Homocitrullinuria (HHH)\n\nA clinical diagnosis of 1 of 2 organic acidemias:\n\nPropionic Acidemia (PA)\nMethylmalonic Acidemia (MMA)\n\nAcute metabolic disorder without hyperammonemia, with neurological sequelae\n\nMaple Syrup Urine Disease (MSUD)\nGlutaric Acidemia (GA1)\n\nAcute metabolic disorder without hyperammonemia and without neurological sequelae\n\nFatty Acid Oxidation Disorders:\nMedium Chain-Acyl CoA Dehydrogenase Deficiency\nVery Long Chain-Acyl CoA Dehydrogenase Deficiency\nTrifunctional Protein Deficiency\nLong Chain Hydroxyacyl-CoA Dehydrogenase Deficiency\nCarnitine Palmitoyltransferase I or II Deficiency\nCarnitine/Acylcarnitine Translocase Deficiency\nPrimary Carnitine Transport Deficiency\nHypoxic-Ischemic Encephalopathy\n\nExclusion Criteria:\n\nPrior Solid-Organ Transplant\nUse of any other investigational drug, biologic, or therapy or any clinical or laboratory abnormality or medical condition that, as determined by the investigator, may interfere with or obscure the biomarker measurements"
         ],
         "MinimumAge": [
-          "12 Years"
+          "7 Years"
         ],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "New Haven"
+          "Washington"
         ],
         "LocationFacility": [
-          "Yale New Haven Hospital"
+          "Children's National Research Institute"
         ],
         "LocationState": [
-          "Connecticut"
+          "District of Columbia"
         ],
         "LocationZip": [
-          "06510"
+          "20010"
         ],
         "LocationContactEMail": [
-          "jessica.lat@yale.edu",
-          "zhongyao.li@yale.edu"
+          "krice3@childrensnational.org"
         ],
         "LocationContactName": [
-          "Jessica Lat",
-          "Zhongyao Li",
-          "Nicola Santoro, MD, PhD"
+          "Katie Rice, MPH, CCRP",
+          "Nicholas Ah Mew, MD"
         ],
         "LocationContactPhone": [],
         "BriefSummary": [
-          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
+          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. High blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. The following aims are proposed:\n\nAim 1 of this study will be to determine the chronology of biomarkers of brain injury in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder.\n\nAim 2 will be to determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1)."
         ],
         "DetailedDescription": [
-          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
+          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. The onslaught of high blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. In addition, clinical hyperammonemia recurs at varying intervals, which can increase the cumulative damage to the brain and the chance of irreversible coma and death during a hyperammonemia episode due to vascular compromise or brain herniation. The threshold of tolerance for elevated blood ammonia is very low and concentrations above 100 µM can cause brain dysfunction manifested as nausea, vomiting, lethargy, and abnormal behavior; higher concentrations can cause coma and even death. Failure to remove ammonia can be due to inherited defects of the urea cycle, some defects in amino acid catabolism, and degradation of fatty acids.\n\nAim 1 - To determine the chronology of biomarkers of brain injury - S100B, NSE, and UCHL1 - in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder. We hypothesized that elevations of S100B, NSE, and UCHL1 will parallel the rise in blood ammonia. These biomarkers will be measured concurrently to ammonia levels throughout hospitalizations for HA until normalization of patient's blood ammonia and mental status.\n\nAim 2 - To determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism in which the primary pathology is neurological injury, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1). We hypothesize that neuronal and astroglial injury in these disorders may also result in increased levels of S100B, NSE, and UCHL1.\n\nMetabolic patients will be enrolled either during a hospitalization or in outpatient clinic, but outpatient enrollment is preferred. Metabolic patients typically have multiple laboratory tests performed at their outpatient visits. We will obtain the discarded blood samples from such laboratory tests in order to measure S100B, NSE, and UCHL1 levels at baseline (normal blood ammonia), which will provide data on biomarker levels following recovery from a hyperammonemic episode.\n\nDuring hospitalization for metabolic decompensation or for hypoxic-ischemic encephalopathy, sequential measurements of S100B, NSE and UCHL1 levels will be obtained from discarded blood samples. We will obtain S100B, NSE, and UCHL1 levels from collected discarded blood samples at all subjects' next outpatient visit following their hospitalization, to determine if levels return to baseline."
         ]
       },
       {
-        "Rank": 311,
+        "Rank": 312,
         "NCTId": [
           "NCT03266016"
         ],
@@ -15527,7 +15582,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 313,
         "NCTId": [
           "NCT02420990"
         ],
@@ -15575,7 +15630,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 313,
+        "Rank": 314,
         "NCTId": [
           "NCT05124210"
         ],
@@ -15645,7 +15700,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 314,
+        "Rank": 315,
         "NCTId": [
           "NCT05112237"
         ],
@@ -15691,122 +15746,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 315,
-        "NCTId": [
-          "NCT04602728"
-        ],
-        "OfficialTitle": [
-          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
-        ],
-        "Condition": [
-          "Sickle Cell Disease"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
-        ],
-        "MinimumAge": [
-          "10 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Atlanta",
-          "Atlanta",
-          "Atlanta"
-        ],
-        "LocationFacility": [
-          "Children's Healthcare of Atlanta at Hugh Spalding",
-          "Chilldren's Healthcare of Atlanta",
-          "Emory Children's Center"
-        ],
-        "LocationState": [
-          "Georgia",
-          "Georgia",
-          "Georgia"
-        ],
-        "LocationZip": [
-          "30303",
-          "30322",
-          "30322"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
-        ],
-        "DetailedDescription": [
-          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
-        ]
-      },
-      {
         "Rank": 316,
-        "NCTId": [
-          "NCT04582682"
-        ],
-        "OfficialTitle": [
-          "Poly-omic Predictors of Symptom Duration and Recovery for Adolescent Concussion"
-        ],
-        "Condition": [
-          "Concussion, Mild"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPresence of mTBI: defined by criteria from the Berlin Consensus Statement and WHO. Assessment for mTBI status be performed by a licensed clinician per the 2018 CDC guidelines.\nAge at enrollment: 13-18 years of age (inclusive).\n\nExclusion Criteria:\n\n> 48 hours after initial mTBI\nGlasgow Coma Scale score of 13 or less\nPrevious moderate-to-severe TBI requiring overnight hospitalization\nUnresolved symptoms from previous concussion, or any concussion within the last 3 months\nAbbreviated Injury Scale (AIS) score > 3 (to reduce confounding from poly-trauma)\nPsychiatric illness requiring previous hospitalization;\nNeurological condition (e.g. epilepsy, hydrocephalus) or abnormality on neuroimaging (if performed)\nIntellectual disability that prevents ability to provide informed assent\nPregnancy\nActive substance use/dependence\nPrevious neurosurgery\nNon-fluency in English\nUpper respiratory infection\nPeriodontal infection\nInjury to the oropharynx\nPreviously enrolled in the same study\nInability to complete follow-up assessments"
-        ],
-        "MinimumAge": [
-          "13 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Boston",
-          "Syracuse",
-          "Hershey"
-        ],
-        "LocationFacility": [
-          "Boston Children's Hosptial",
-          "SUNY Upstate Medical University",
-          "Penn State Milton S. Hershey Medical Center"
-        ],
-        "LocationState": [
-          "Massachusetts",
-          "New York",
-          "Pennsylvania"
-        ],
-        "LocationZip": [
-          "02115",
-          "13210",
-          "17033"
-        ],
-        "LocationContactEMail": [
-          "Sarah.Bonney@childrens.harvard.edu",
-          "John.Shultz@childrens.harvard.edu",
-          "PacelliL@upstate.edu",
-          "bharding@pennstatehealth.psu.edu"
-        ],
-        "LocationContactName": [
-          "Sarah Bonney",
-          "John Shultz",
-          "Rebekah Mannix, MD, MPH",
-          "Lauren Pacelli",
-          "Tyler Greenfield, DO",
-          "Brennen Harding, MS",
-          "Steven Hicks, MD, PhD"
-        ],
-        "LocationContactPhone": [
-          "717-531-0003"
-        ],
-        "BriefSummary": [
-          "The purpose of this study is to identify changes in salivary micro ribonucleic acid (miRNA) levels that are predictive of symptom duration and character following mild traumatic brain injury (mTBI) in children."
-        ],
-        "DetailedDescription": [
-          "The objective of this multi-center study is to refine and validate a saliva RNA assessment for adolescent concussion, yielding a non-invasive test that predicts duration and character of symptoms, and helps guide clinical decisions. To accomplish this goal, the study will enroll 750 adolescents with mTBI. Saliva RNA levels and symptoms will be assessed at <48 hours, 7 days, and 30 days post-injury. Aim 1 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 7) to predict PPCS 30 days after mTBI (defined by persistence of ≥3 symptoms on day 30, compared with pre-injury state on the Post-Concussion Symptom Inventory; PCSI). RNA accuracy will be compared to a validated clinical prediction tool (5p tool). Aim 2 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 30) to identify recovered participants on day 30. RNA accuracy will be compared to change in composite score on a standardized reaction time test (from <48hrs to day 30). Completion of these aims will yield an objective biologic test that can be used for prognosis at the time of mTBI, and to aid clinical decisions regarding return-to-learn or return-to-play."
-        ]
-      },
-      {
-        "Rank": 317,
         "NCTId": [
           "NCT04465370"
         ],
@@ -15864,7 +15804,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 318,
+        "Rank": 317,
         "NCTId": [
           "NCT02505165"
         ],
@@ -15929,7 +15869,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 318,
         "NCTId": [
           "NCT01142882"
         ],
@@ -15993,7 +15933,122 @@
         ]
       },
       {
+        "Rank": 319,
+        "NCTId": [
+          "NCT04602728"
+        ],
+        "OfficialTitle": [
+          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
+        ],
+        "Condition": [
+          "Sickle Cell Disease"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
+        ],
+        "MinimumAge": [
+          "10 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Atlanta",
+          "Atlanta",
+          "Atlanta"
+        ],
+        "LocationFacility": [
+          "Children's Healthcare of Atlanta at Hugh Spalding",
+          "Chilldren's Healthcare of Atlanta",
+          "Emory Children's Center"
+        ],
+        "LocationState": [
+          "Georgia",
+          "Georgia",
+          "Georgia"
+        ],
+        "LocationZip": [
+          "30303",
+          "30322",
+          "30322"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
+        ],
+        "DetailedDescription": [
+          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
+        ]
+      },
+      {
         "Rank": 320,
+        "NCTId": [
+          "NCT04582682"
+        ],
+        "OfficialTitle": [
+          "Poly-omic Predictors of Symptom Duration and Recovery for Adolescent Concussion"
+        ],
+        "Condition": [
+          "Concussion, Mild"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPresence of mTBI: defined by criteria from the Berlin Consensus Statement and WHO. Assessment for mTBI status be performed by a licensed clinician per the 2018 CDC guidelines.\nAge at enrollment: 13-18 years of age (inclusive).\n\nExclusion Criteria:\n\n> 48 hours after initial mTBI\nGlasgow Coma Scale score of 13 or less\nPrevious moderate-to-severe TBI requiring overnight hospitalization\nUnresolved symptoms from previous concussion, or any concussion within the last 3 months\nAbbreviated Injury Scale (AIS) score > 3 (to reduce confounding from poly-trauma)\nPsychiatric illness requiring previous hospitalization;\nNeurological condition (e.g. epilepsy, hydrocephalus) or abnormality on neuroimaging (if performed)\nIntellectual disability that prevents ability to provide informed assent\nPregnancy\nActive substance use/dependence\nPrevious neurosurgery\nNon-fluency in English\nUpper respiratory infection\nPeriodontal infection\nInjury to the oropharynx\nPreviously enrolled in the same study\nInability to complete follow-up assessments"
+        ],
+        "MinimumAge": [
+          "13 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Boston",
+          "Syracuse",
+          "Hershey"
+        ],
+        "LocationFacility": [
+          "Boston Children's Hosptial",
+          "SUNY Upstate Medical University",
+          "Penn State Milton S. Hershey Medical Center"
+        ],
+        "LocationState": [
+          "Massachusetts",
+          "New York",
+          "Pennsylvania"
+        ],
+        "LocationZip": [
+          "02115",
+          "13210",
+          "17033"
+        ],
+        "LocationContactEMail": [
+          "Sarah.Bonney@childrens.harvard.edu",
+          "John.Shultz@childrens.harvard.edu",
+          "PacelliL@upstate.edu",
+          "bharding@pennstatehealth.psu.edu"
+        ],
+        "LocationContactName": [
+          "Sarah Bonney",
+          "John Shultz",
+          "Rebekah Mannix, MD, MPH",
+          "Lauren Pacelli",
+          "Tyler Greenfield, DO",
+          "Brennen Harding, MS",
+          "Steven Hicks, MD, PhD"
+        ],
+        "LocationContactPhone": [
+          "717-531-0003"
+        ],
+        "BriefSummary": [
+          "The purpose of this study is to identify changes in salivary micro ribonucleic acid (miRNA) levels that are predictive of symptom duration and character following mild traumatic brain injury (mTBI) in children."
+        ],
+        "DetailedDescription": [
+          "The objective of this multi-center study is to refine and validate a saliva RNA assessment for adolescent concussion, yielding a non-invasive test that predicts duration and character of symptoms, and helps guide clinical decisions. To accomplish this goal, the study will enroll 750 adolescents with mTBI. Saliva RNA levels and symptoms will be assessed at <48 hours, 7 days, and 30 days post-injury. Aim 1 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 7) to predict PPCS 30 days after mTBI (defined by persistence of ≥3 symptoms on day 30, compared with pre-injury state on the Post-Concussion Symptom Inventory; PCSI). RNA accuracy will be compared to a validated clinical prediction tool (5p tool). Aim 2 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 30) to identify recovered participants on day 30. RNA accuracy will be compared to change in composite score on a standardized reaction time test (from <48hrs to day 30). Completion of these aims will yield an objective biologic test that can be used for prognosis at the time of mTBI, and to aid clinical decisions regarding return-to-learn or return-to-play."
+        ]
+      },
+      {
+        "Rank": 321,
         "NCTId": [
           "NCT03657771"
         ],
@@ -16064,7 +16119,7 @@
         ]
       },
       {
-        "Rank": 321,
+        "Rank": 322,
         "NCTId": [
           "NCT04718441"
         ],
@@ -16129,7 +16184,7 @@
         ]
       },
       {
-        "Rank": 322,
+        "Rank": 323,
         "NCTId": [
           "NCT03412162"
         ],
@@ -16185,7 +16240,7 @@
         ]
       },
       {
-        "Rank": 323,
+        "Rank": 324,
         "NCTId": [
           "NCT04344899"
         ],
@@ -16246,7 +16301,7 @@
         ]
       },
       {
-        "Rank": 324,
+        "Rank": 325,
         "NCTId": [
           "NCT02260856"
         ],
@@ -16329,7 +16384,7 @@
         ]
       },
       {
-        "Rank": 325,
+        "Rank": 326,
         "NCTId": [
           "NCT04156347"
         ],
@@ -16381,7 +16436,7 @@
         ]
       },
       {
-        "Rank": 326,
+        "Rank": 327,
         "NCTId": [
           "NCT04998656"
         ],
@@ -16451,7 +16506,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 327,
+        "Rank": 328,
         "NCTId": [
           "NCT04625686"
         ],
@@ -16521,7 +16576,7 @@
         ]
       },
       {
-        "Rank": 328,
+        "Rank": 329,
         "NCTId": [
           "NCT04621331"
         ],
@@ -16578,7 +16633,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 329,
+        "Rank": 330,
         "NCTId": [
           "NCT04074265"
         ],
@@ -16662,7 +16717,7 @@
         ]
       },
       {
-        "Rank": 330,
+        "Rank": 331,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16731,7 +16786,7 @@
         ]
       },
       {
-        "Rank": 331,
+        "Rank": 332,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16801,7 +16856,7 @@
         ]
       },
       {
-        "Rank": 332,
+        "Rank": 333,
         "NCTId": [
           "NCT02914405"
         ],
@@ -16872,7 +16927,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 333,
+        "Rank": 334,
         "NCTId": [
           "NCT02391324"
         ],
@@ -16934,7 +16989,7 @@
         ]
       },
       {
-        "Rank": 334,
+        "Rank": 335,
         "NCTId": [
           "NCT02134782"
         ],
@@ -16998,7 +17053,7 @@
         ]
       },
       {
-        "Rank": 335,
+        "Rank": 336,
         "NCTId": [
           "NCT04333823"
         ],
@@ -17067,7 +17122,7 @@
         ]
       },
       {
-        "Rank": 336,
+        "Rank": 337,
         "NCTId": [
           "NCT03606980"
         ],
@@ -17131,7 +17186,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 338,
         "NCTId": [
           "NCT03240809"
         ],
@@ -17189,7 +17244,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 339,
         "NCTId": [
           "NCT04903314"
         ],
@@ -17263,7 +17318,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 340,
         "NCTId": [
           "NCT04853316"
         ],
@@ -17340,7 +17395,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 341,
         "NCTId": [
           "NCT04251026"
         ],
@@ -17422,7 +17477,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 341,
+        "Rank": 342,
         "NCTId": [
           "NCT00005105"
         ],
@@ -17486,7 +17541,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 343,
         "NCTId": [
           "NCT04810481"
         ],
@@ -17560,7 +17615,7 @@
         ]
       },
       {
-        "Rank": 343,
+        "Rank": 344,
         "NCTId": [
           "NCT03505658"
         ],
@@ -17621,7 +17676,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 344,
+        "Rank": 345,
         "NCTId": [
           "NCT03989986"
         ],
@@ -17681,7 +17736,7 @@
         ]
       },
       {
-        "Rank": 345,
+        "Rank": 346,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17752,7 +17807,7 @@
         ]
       },
       {
-        "Rank": 346,
+        "Rank": 347,
         "NCTId": [
           "NCT03117751"
         ],
@@ -17842,7 +17897,7 @@
         ]
       },
       {
-        "Rank": 347,
+        "Rank": 348,
         "NCTId": [
           "NCT05203198"
         ],
@@ -17951,7 +18006,7 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 349,
         "NCTId": [
           "NCT03910933"
         ],
@@ -18034,7 +18089,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 350,
         "NCTId": [
           "NCT04816643"
         ],
@@ -18428,7 +18483,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 351,
         "NCTId": [
           "NCT04442295"
         ],
@@ -18557,7 +18612,7 @@
         ]
       },
       {
-        "Rank": 351,
+        "Rank": 352,
         "NCTId": [
           "NCT04431453"
         ],
@@ -18728,7 +18783,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 353,
         "NCTId": [
           "NCT04258943"
         ],
@@ -19087,7 +19142,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 354,
         "NCTId": [
           "NCT04203316"
         ],
@@ -19266,7 +19321,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 355,
         "NCTId": [
           "NCT04195399"
         ],
@@ -19910,7 +19965,7 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 356,
         "NCTId": [
           "NCT02121132"
         ],
@@ -20088,7 +20143,7 @@
         ]
       },
       {
-        "Rank": 356,
+        "Rank": 357,
         "NCTId": [
           "NCT04318548"
         ],
@@ -20349,7 +20404,7 @@
         ]
       },
       {
-        "Rank": 357,
+        "Rank": 358,
         "NCTId": [
           "NCT03939637"
         ],
@@ -20532,7 +20587,7 @@
         ]
       },
       {
-        "Rank": 358,
+        "Rank": 359,
         "NCTId": [
           "NCT02205762"
         ],
@@ -20886,7 +20941,7 @@
         ]
       },
       {
-        "Rank": 359,
+        "Rank": 360,
         "NCTId": [
           "NCT03719339"
         ],
@@ -21052,7 +21107,7 @@
         ]
       },
       {
-        "Rank": 360,
+        "Rank": 361,
         "NCTId": [
           "NCT04378075"
         ],
@@ -21164,7 +21219,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 361,
+        "Rank": 362,
         "NCTId": [
           "NCT03633708"
         ],
@@ -21336,7 +21391,7 @@
         ]
       },
       {
-        "Rank": 362,
+        "Rank": 363,
         "NCTId": [
           "NCT05041712"
         ],
@@ -21424,7 +21479,7 @@
         ]
       },
       {
-        "Rank": 363,
+        "Rank": 364,
         "NCTId": [
           "NCT01987882"
         ],
@@ -21537,7 +21592,7 @@
         ]
       },
       {
-        "Rank": 364,
+        "Rank": 365,
         "NCTId": [
           "NCT00670735"
         ],
@@ -21692,7 +21747,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 365,
+        "Rank": 366,
         "NCTId": [
           "NCT04743141"
         ],
@@ -22092,7 +22147,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 366,
+        "Rank": 367,
         "NCTId": [
           "NCT02859896"
         ],
@@ -22252,7 +22307,7 @@
         ]
       },
       {
-        "Rank": 367,
+        "Rank": 368,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22345,7 +22400,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 368,
+        "Rank": 369,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22413,7 +22468,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 369,
+        "Rank": 370,
         "NCTId": [
           "NCT03707158"
         ],
@@ -22514,7 +22569,7 @@
         ]
       },
       {
-        "Rank": 370,
+        "Rank": 371,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22617,7 +22672,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 371,
+        "Rank": 372,
         "NCTId": [
           "NCT04075266"
         ],
@@ -22740,7 +22795,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 372,
+        "Rank": 373,
         "NCTId": [
           "NCT03962894"
         ],
@@ -22832,7 +22887,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 373,
+        "Rank": 374,
         "NCTId": [
           "NCT05049330"
         ],
@@ -22968,7 +23023,94 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 374,
+        "Rank": 375,
+        "NCTId": [
+          "NCT04614662"
+        ],
+        "OfficialTitle": [
+          "Symptom Screening Linked to Care Pathways for Children With Cancer: a Cluster Randomized Trial"
+        ],
+        "Condition": [
+          "Pediatric Cancer",
+          "Quality of Life"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\n8-18 years of age at enrollment\nEnglish or Spanish-speaking\nAny newly diagnosed cancer\nHave a plan for any chemotherapy, radiotherapy or surgery\nEnroll within 28 days after treatment initiation\n\nExclusion Criteria:\n\nCognitive disability (attending minimum second grade or equivalent)\nVisual impairment (cannot see SPARK even with corrective lens)"
+        ],
+        "MinimumAge": [
+          "8 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Hartford",
+          "Des Moines",
+          "New Orleans",
+          "Saint Louis",
+          "New York",
+          "Corpus Christi",
+          "Toronto"
+        ],
+        "LocationFacility": [
+          "Connecticut Children's Medical Center",
+          "Unity Point Health - Blank Children's Hospital",
+          "Children's Hospital",
+          "Washington University School of Medicine",
+          "The Trustees of Columbia University in the City of New York",
+          "Driscoll Children's Hospital",
+          "The Hospital for Sick Children"
+        ],
+        "LocationState": [
+          "Connecticut",
+          "Iowa",
+          "Louisiana",
+          "Missouri",
+          "New York",
+          "Texas",
+          "Ontario"
+        ],
+        "LocationZip": [
+          "06106",
+          "50309",
+          "70118",
+          "63110",
+          "10032",
+          "78411",
+          "M5G 1X8"
+        ],
+        "LocationContactEMail": [
+          "melias@connecticutchildrens.org",
+          "Elizabeth.mosby@unitypoint.org",
+          "Alyssa.lacour@lcmchealth.org",
+          "gemily@wustl.edu",
+          "Mb3579@cumc.columbia.edu",
+          "Crystal.DeLosSantos@dchstx.org"
+        ],
+        "LocationContactName": [
+          "Megan Elias",
+          "Andrea Orsey, MD",
+          "Elizabeth Mosby",
+          "Wendy Woods-Swafford, MD",
+          "Alyssa Lacour",
+          "Lolie Yu, MD",
+          "Emily Gibson",
+          "Allison King, MD",
+          "Michelle Bombacie",
+          "Melissa Beauchemin, PhD",
+          "Crystal De Los Santos",
+          "Farha Sherani, MD"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Most children with cancer survive because they are given intensive treatments, but unfortunately, these treatments are associated with distressing symptoms. To address this problem, we developed the Symptom Screening in Pediatrics Tool (SSPedi) so that children receiving cancer treatments can communicate their bothersome symptoms, and Supportive care Prioritization, Assessment and Recommendations for Kids (SPARK), a web-based application that links identified symptoms to supportive care guidelines for symptom management. To establish that these tools improve the lives of children newly diagnosed with cancer, we will conduct a trial that randomizes 20 pediatric cancer institutions and measures the impact of three times weekly symptom screening, symptom feedback to healthcare providers and the development of care pathways for symptom management to improve total symptom burden, fatigue and quality of life."
+        ],
+        "DetailedDescription": [
+          "Aims 1 and 2: Among children with newly diagnosed cancer, to determine if symptom screening and feedback to healthcare providers at least three times weekly and locally-adapted symptom management care pathways, when compared to usual care:\n\nAim 1. Improves overall self-reported symptom scores (total SSPedi score), fatigue (PROMIS-Fatigue) and cancer-specific QoL (PedsQL 3.0 Acute Cancer Module) over 8 weeks Hypothesis: Symptom screening and care pathways will improve symptoms, fatigue and QoL\n\nAim 2. Improves symptom documentation, increases provision of interventions for symptoms, and reduces emergency department visits and unplanned clinic visits and hospitalizations over 8 weeks Hypotheses: Symptom screening and care pathways will increase symptom documentation and provision of interventions for symptoms, and will reduce healthcare utilization.\n\nAim 3: As an exploratory aim, we will evaluate key elements of the intervention related to the external validity and generalizability of the intervention effects using the RE-AIM framework.\n\nOverall Strategy This is a cluster randomized trial including 20 pediatric oncology sites. The coordinating center is The Hospital for Sick Children in Toronto, Canada. Sites will be randomized to either systematic symptom screening via SPARK with provision of symptom reports to healthcare providers containing links to care pathways for symptom management (intervention) or usual care (control).\n\nResearch Methods Eligibility: We will include children with cancer who: (1) are 8-18 years of age at enrollment (SSPedi is validated in this age range); (2) are English or Spanish-speaking (all PROs are validated in these languages in this age range); (3) have any newly diagnosed cancer; (4) have a plan for any chemotherapy, radiotherapy or surgery; and (5) enroll within 28 days after treatment initiation. Exclusion criteria will be cognitive disability (attending lower than second grade or equivalent) or visual impairment (cannot see SPARK even with corrective lens).\n\nProcedures: In this cluster randomized trial, we will randomize sites to either intervention or control groups. At both intervention and control sites, we will enroll participants within 28 days after treatment initiation. Eligible participants will be identified by site personnel and the study will be explained to them by trained research team members. Participant capacity to consent will be assessed by the clinical or research team according to institutional standards. After the study has been explained and sufficient time has been provided to ensure all questions have been answered, informed consent and assent will be obtained from participants and guardians as appropriate. For those who decline to contribute PROs, they will be given the option to only participate in a retrospective chart review to evaluate symptom documentation, intervention provision and healthcare utilization. Careful tracking of all newly diagnosed patients by site research personnel will occur to determine how many patients are approached and consented, and where possible, reasons for declining participation.\n\nFor all enrolled participants who will be contributing PROs (excluding those only involved in the retrospective chart review), a personal SPARK account will be created to allow SSPedi to be completed and symptom results to be recorded. At the 10 intervention sites, site-specific symptom management care pathways will be adapted from template care pathways for each of the 15 symptoms included in SSPedi. Enrolled participants will be prompted by text or email to complete symptom screening three times weekly via SPARK with corresponding feedback sent to their healthcare providers. Symptom reports will contain links to care pathways for symptom management. Active intervention will last for eight weeks starting from the date of enrollment. At the 10 control sites, participants will complete SSPedi to obtain the primary outcome at weeks 0, 4 and 8 but the scores will not be revealed to providers and will not be linked to care pathways. Usual care will be provided to participants at control sites and thus, there will be no study-requested routine, systematic symptom screening, symptom feedback to providers, or linkage to care pathways. If sites already routinely perform systematic symptom screening or use care pathways for symptom management, these may be continued but their use will be recorded.\n\nAt both intervention and control sites, demographic information including age, sex, race, ethnicity, diagnosis, cancer stage, family socioeconomic information and treatment plan will be collected at enrollment. The following PROs will be obtained by trained research staff at baseline, week 4 and week 8 for all participants: SSPedi, PROMIS Fatigue and the PedsQL 3.0 Acute Cancer Module (Aim 1). We will contact participants ahead of time to coordinate the week 4 and 8 PROs so that they can be completed in person during hospitalizations or clinic visits. If unable to arrange completion of these PROs in person, we will use their contact information to complete the questionnaires by email, text or over the phone. Data from health records (Aim 2) will be abstracted for all enrolled participants. Relapse and cancer treatment received information will be collected at the end of the study."
+        ]
+      },
+      {
+        "Rank": 376,
         "NCTId": [
           "NCT03118986"
         ],
@@ -23059,94 +23201,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 375,
-        "NCTId": [
-          "NCT04614662"
-        ],
-        "OfficialTitle": [
-          "Symptom Screening Linked to Care Pathways for Children With Cancer: a Cluster Randomized Trial"
-        ],
-        "Condition": [
-          "Pediatric Cancer",
-          "Quality of Life"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\n8-18 years of age at enrollment\nEnglish or Spanish-speaking\nAny newly diagnosed cancer\nHave a plan for any chemotherapy, radiotherapy or surgery\nEnroll within 28 days after treatment initiation\n\nExclusion Criteria:\n\nCognitive disability (attending minimum second grade or equivalent)\nVisual impairment (cannot see SPARK even with corrective lens)"
-        ],
-        "MinimumAge": [
-          "8 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Hartford",
-          "Des Moines",
-          "New Orleans",
-          "Saint Louis",
-          "New York",
-          "Corpus Christi",
-          "Toronto"
-        ],
-        "LocationFacility": [
-          "Connecticut Children's Medical Center",
-          "Unity Point Health - Blank Children's Hospital",
-          "Children's Hospital",
-          "Washington University School of Medicine",
-          "The Trustees of Columbia University in the City of New York",
-          "Driscoll Children's Hospital",
-          "The Hospital for Sick Children"
-        ],
-        "LocationState": [
-          "Connecticut",
-          "Iowa",
-          "Louisiana",
-          "Missouri",
-          "New York",
-          "Texas",
-          "Ontario"
-        ],
-        "LocationZip": [
-          "06106",
-          "50309",
-          "70118",
-          "63110",
-          "10032",
-          "78411",
-          "M5G 1X8"
-        ],
-        "LocationContactEMail": [
-          "melias@connecticutchildrens.org",
-          "Elizabeth.mosby@unitypoint.org",
-          "Alyssa.lacour@lcmchealth.org",
-          "gemily@wustl.edu",
-          "Mb3579@cumc.columbia.edu",
-          "Crystal.DeLosSantos@dchstx.org"
-        ],
-        "LocationContactName": [
-          "Megan Elias",
-          "Andrea Orsey, MD",
-          "Elizabeth Mosby",
-          "Wendy Woods-Swafford, MD",
-          "Alyssa Lacour",
-          "Lolie Yu, MD",
-          "Emily Gibson",
-          "Allison King, MD",
-          "Michelle Bombacie",
-          "Melissa Beauchemin, PhD",
-          "Crystal De Los Santos",
-          "Farha Sherani, MD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Most children with cancer survive because they are given intensive treatments, but unfortunately, these treatments are associated with distressing symptoms. To address this problem, we developed the Symptom Screening in Pediatrics Tool (SSPedi) so that children receiving cancer treatments can communicate their bothersome symptoms, and Supportive care Prioritization, Assessment and Recommendations for Kids (SPARK), a web-based application that links identified symptoms to supportive care guidelines for symptom management. To establish that these tools improve the lives of children newly diagnosed with cancer, we will conduct a trial that randomizes 20 pediatric cancer institutions and measures the impact of three times weekly symptom screening, symptom feedback to healthcare providers and the development of care pathways for symptom management to improve total symptom burden, fatigue and quality of life."
-        ],
-        "DetailedDescription": [
-          "Aims 1 and 2: Among children with newly diagnosed cancer, to determine if symptom screening and feedback to healthcare providers at least three times weekly and locally-adapted symptom management care pathways, when compared to usual care:\n\nAim 1. Improves overall self-reported symptom scores (total SSPedi score), fatigue (PROMIS-Fatigue) and cancer-specific QoL (PedsQL 3.0 Acute Cancer Module) over 8 weeks Hypothesis: Symptom screening and care pathways will improve symptoms, fatigue and QoL\n\nAim 2. Improves symptom documentation, increases provision of interventions for symptoms, and reduces emergency department visits and unplanned clinic visits and hospitalizations over 8 weeks Hypotheses: Symptom screening and care pathways will increase symptom documentation and provision of interventions for symptoms, and will reduce healthcare utilization.\n\nAim 3: As an exploratory aim, we will evaluate key elements of the intervention related to the external validity and generalizability of the intervention effects using the RE-AIM framework.\n\nOverall Strategy This is a cluster randomized trial including 20 pediatric oncology sites. The coordinating center is The Hospital for Sick Children in Toronto, Canada. Sites will be randomized to either systematic symptom screening via SPARK with provision of symptom reports to healthcare providers containing links to care pathways for symptom management (intervention) or usual care (control).\n\nResearch Methods Eligibility: We will include children with cancer who: (1) are 8-18 years of age at enrollment (SSPedi is validated in this age range); (2) are English or Spanish-speaking (all PROs are validated in these languages in this age range); (3) have any newly diagnosed cancer; (4) have a plan for any chemotherapy, radiotherapy or surgery; and (5) enroll within 28 days after treatment initiation. Exclusion criteria will be cognitive disability (attending lower than second grade or equivalent) or visual impairment (cannot see SPARK even with corrective lens).\n\nProcedures: In this cluster randomized trial, we will randomize sites to either intervention or control groups. At both intervention and control sites, we will enroll participants within 28 days after treatment initiation. Eligible participants will be identified by site personnel and the study will be explained to them by trained research team members. Participant capacity to consent will be assessed by the clinical or research team according to institutional standards. After the study has been explained and sufficient time has been provided to ensure all questions have been answered, informed consent and assent will be obtained from participants and guardians as appropriate. For those who decline to contribute PROs, they will be given the option to only participate in a retrospective chart review to evaluate symptom documentation, intervention provision and healthcare utilization. Careful tracking of all newly diagnosed patients by site research personnel will occur to determine how many patients are approached and consented, and where possible, reasons for declining participation.\n\nFor all enrolled participants who will be contributing PROs (excluding those only involved in the retrospective chart review), a personal SPARK account will be created to allow SSPedi to be completed and symptom results to be recorded. At the 10 intervention sites, site-specific symptom management care pathways will be adapted from template care pathways for each of the 15 symptoms included in SSPedi. Enrolled participants will be prompted by text or email to complete symptom screening three times weekly via SPARK with corresponding feedback sent to their healthcare providers. Symptom reports will contain links to care pathways for symptom management. Active intervention will last for eight weeks starting from the date of enrollment. At the 10 control sites, participants will complete SSPedi to obtain the primary outcome at weeks 0, 4 and 8 but the scores will not be revealed to providers and will not be linked to care pathways. Usual care will be provided to participants at control sites and thus, there will be no study-requested routine, systematic symptom screening, symptom feedback to providers, or linkage to care pathways. If sites already routinely perform systematic symptom screening or use care pathways for symptom management, these may be continued but their use will be recorded.\n\nAt both intervention and control sites, demographic information including age, sex, race, ethnicity, diagnosis, cancer stage, family socioeconomic information and treatment plan will be collected at enrollment. The following PROs will be obtained by trained research staff at baseline, week 4 and week 8 for all participants: SSPedi, PROMIS Fatigue and the PedsQL 3.0 Acute Cancer Module (Aim 1). We will contact participants ahead of time to coordinate the week 4 and 8 PROs so that they can be completed in person during hospitalizations or clinic visits. If unable to arrange completion of these PROs in person, we will use their contact information to complete the questionnaires by email, text or over the phone. Data from health records (Aim 2) will be abstracted for all enrolled participants. Relapse and cancer treatment received information will be collected at the end of the study."
-        ]
-      },
-      {
-        "Rank": 376,
+        "Rank": 377,
         "NCTId": [
           "NCT03837899"
         ],
@@ -23260,7 +23315,7 @@
         ]
       },
       {
-        "Rank": 377,
+        "Rank": 378,
         "NCTId": [
           "NCT01148550"
         ],
@@ -23474,7 +23529,7 @@
         ]
       },
       {
-        "Rank": 378,
+        "Rank": 379,
         "NCTId": [
           "NCT03268421"
         ],
@@ -23575,7 +23630,7 @@
         ]
       },
       {
-        "Rank": 379,
+        "Rank": 380,
         "NCTId": [
           "NCT03813407"
         ],
@@ -23735,7 +23790,7 @@
         ]
       },
       {
-        "Rank": 380,
+        "Rank": 381,
         "NCTId": [
           "NCT04068012"
         ],
@@ -23813,7 +23868,7 @@
         ]
       },
       {
-        "Rank": 381,
+        "Rank": 382,
         "NCTId": [
           "NCT02840409"
         ],
@@ -23951,7 +24006,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 383,
         "NCTId": [
           "NCT03813238"
         ],
@@ -24248,7 +24303,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 383,
+        "Rank": 384,
         "NCTId": [
           "NCT02650401"
         ],
@@ -24424,7 +24479,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 384,
+        "Rank": 385,
         "NCTId": [
           "NCT03785405"
         ],
@@ -24738,7 +24793,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 386,
         "NCTId": [
           "NCT05074420"
         ],
@@ -24890,7 +24945,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 386,
+        "Rank": 387,
         "NCTId": [
           "NCT04351893"
         ],
@@ -24990,7 +25045,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 387,
+        "Rank": 388,
         "NCTId": [
           "NCT04218851"
         ],
@@ -25181,7 +25236,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 388,
+        "Rank": 389,
         "NCTId": [
           "NCT04200352"
         ],
@@ -25317,7 +25372,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 389,
+        "Rank": 390,
         "NCTId": [
           "NCT04015141"
         ],
@@ -25499,7 +25554,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 390,
+        "Rank": 391,
         "NCTId": [
           "NCT02134301"
         ],
@@ -25590,7 +25645,7 @@
         ]
       },
       {
-        "Rank": 391,
+        "Rank": 392,
         "NCTId": [
           "NCT01500551"
         ],
@@ -26123,7 +26178,7 @@
         ]
       },
       {
-        "Rank": 392,
+        "Rank": 393,
         "NCTId": [
           "NCT04114539"
         ],
@@ -26467,7 +26522,7 @@
         ]
       },
       {
-        "Rank": 393,
+        "Rank": 394,
         "NCTId": [
           "NCT03958877"
         ],
@@ -26707,7 +26762,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 394,
+        "Rank": 395,
         "NCTId": [
           "NCT04238819"
         ],
@@ -26826,7 +26881,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 395,
+        "Rank": 396,
         "NCTId": [
           "NCT03275402"
         ],
@@ -26910,7 +26965,7 @@
         ]
       },
       {
-        "Rank": 396,
+        "Rank": 397,
         "NCTId": [
           "NCT03406507"
         ],
@@ -26966,7 +27021,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 397,
+        "Rank": 398,
         "NCTId": [
           "NCT02862132"
         ],
@@ -27089,7 +27144,7 @@
         ]
       },
       {
-        "Rank": 398,
+        "Rank": 399,
         "NCTId": [
           "NCT05081180"
         ],
@@ -27171,7 +27226,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 399,
+        "Rank": 400,
         "NCTId": [
           "NCT04143724"
         ],
