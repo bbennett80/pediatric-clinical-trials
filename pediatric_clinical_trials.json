@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.05",
-    "DataVrs": "2022:01:31 23:02:41.433",
+    "DataVrs": "2022:02:01 22:59:08.892",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 402977,
+    "NStudiesAvail": 403139,
     "NStudiesFound": 401,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -3093,6 +3093,59 @@
       {
         "Rank": 59,
         "NCTId": [
+          "NCT04771338"
+        ],
+        "OfficialTitle": [
+          "Examining the Effects of a Job Entry Intervention"
+        ],
+        "Condition": [
+          "Autism Spectrum Disorder",
+          "Autism",
+          "ASD"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nDiagnoses of ASD\nor am a typically developing adolescent\nAble to speak and read English fluently\n\nExclusion Criteria:\n\nHistory of stroke, traumatic brain injury, or any other neurological injury or disease\nHistory of significant psychiatric illness (bipolar, schizophrenia or psychosis)\nUncontrolled seizures\nAny other unstable medical complications"
+        ],
+        "MinimumAge": [
+          "16 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "East Hanover"
+        ],
+        "LocationFacility": [
+          "Kessler Foundation"
+        ],
+        "LocationState": [
+          "New Jersey"
+        ],
+        "LocationZip": [
+          "07936"
+        ],
+        "LocationContactEMail": [
+          "mdibenedetto@kesslerfoundation.org",
+          "nbmoore@kesslerfoundation.org"
+        ],
+        "LocationContactName": [
+          "Michael Di Benedetto, MA",
+          "Nancy Moore, MA"
+        ],
+        "LocationContactPhone": [
+          "973-324-8391",
+          "973-324-8450"
+        ],
+        "BriefSummary": [
+          "The current study will examine the efficacy of a virtual reality (VR) intervention entitled \"Virtual Reality Job Interview Training (VR-JIT)\" as well as a newly developed Kessler Foundation STRength IDentification and Expression tool (VR-STRIDE) with adolescents diagnosed with autism spectrum disorder."
+        ],
+        "DetailedDescription": [
+          "The current study will examine the efficacy of a virtual reality (VR) intervention entitled \"IMPRoving Expression of Skills and Strengths In Interviewing in a Virtual Environment\" (IMPRESSIVE) which targets social competency skills needed for successful job interviewing. Specifically, 2 VR tools are utilized in the IMPRESSIVE intervention. The first tool is VR-Job Interview Training (VR-JIT), a VR program which offers the opportunity for repeated practice with a virtual human interviewer. Preliminary evidence suggests that the VR-JIT is successful in adults with ASD1 and schizophrenia14 in improving interview abilities. However, the efficacy of VR-JIT has not been evaluated in adolescents with ASD. This represents a significant void in our knowledge, as we do not know whether this program is effective for youth. In addition to VR-JIT, a newly developed VR tool is included in the currently proposed intervention: the Kessler Foundation STRength IDentification and Expression tool (VR-STRIDE). KF-STRIDE is focused on improving the ability to express personal strengths during the job interview, a skill that is not taught with VR-JIT. The proposed IMPRESSIVE intervention, which combines the learning of 2 critical abilities (social skills and strength identification), has never been examined in individuals with ASD. Thus, the current proposal will be the first to examine the efficacy of these 2 combined tools in this at-risk population."
+        ]
+      },
+      {
+        "Rank": 60,
+        "NCTId": [
           "NCT04768634"
         ],
         "OfficialTitle": [
@@ -3134,7 +3187,7 @@
         ]
       },
       {
-        "Rank": 60,
+        "Rank": 61,
         "NCTId": [
           "NCT04756427"
         ],
@@ -3180,7 +3233,7 @@
         ]
       },
       {
-        "Rank": 61,
+        "Rank": 62,
         "NCTId": [
           "NCT04752501"
         ],
@@ -3230,7 +3283,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 62,
+        "Rank": 63,
         "NCTId": [
           "NCT04752293"
         ],
@@ -3300,7 +3353,7 @@
         ]
       },
       {
-        "Rank": 63,
+        "Rank": 64,
         "NCTId": [
           "NCT04741139"
         ],
@@ -3348,7 +3401,7 @@
         ]
       },
       {
-        "Rank": 64,
+        "Rank": 65,
         "NCTId": [
           "NCT04738539"
         ],
@@ -3399,7 +3452,7 @@
         ]
       },
       {
-        "Rank": 65,
+        "Rank": 66,
         "NCTId": [
           "NCT04737460"
         ],
@@ -3448,7 +3501,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 66,
+        "Rank": 67,
         "NCTId": [
           "NCT04735874"
         ],
@@ -3497,7 +3550,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 67,
+        "Rank": 68,
         "NCTId": [
           "NCT04725305"
         ],
@@ -3559,7 +3612,7 @@
         ]
       },
       {
-        "Rank": 68,
+        "Rank": 69,
         "NCTId": [
           "NCT04706364"
         ],
@@ -3608,7 +3661,7 @@
         ]
       },
       {
-        "Rank": 69,
+        "Rank": 70,
         "NCTId": [
           "NCT04697966"
         ],
@@ -3652,7 +3705,7 @@
         ]
       },
       {
-        "Rank": 70,
+        "Rank": 71,
         "NCTId": [
           "NCT04688255"
         ],
@@ -3708,7 +3761,7 @@
         ]
       },
       {
-        "Rank": 71,
+        "Rank": 72,
         "NCTId": [
           "NCT04685343"
         ],
@@ -3754,7 +3807,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 72,
+        "Rank": 73,
         "NCTId": [
           "NCT04675567"
         ],
@@ -3805,7 +3858,7 @@
         ]
       },
       {
-        "Rank": 73,
+        "Rank": 74,
         "NCTId": [
           "NCT04671186"
         ],
@@ -3856,7 +3909,7 @@
         ]
       },
       {
-        "Rank": 74,
+        "Rank": 75,
         "NCTId": [
           "NCT04654260"
         ],
@@ -3913,7 +3966,7 @@
         ]
       },
       {
-        "Rank": 75,
+        "Rank": 76,
         "NCTId": [
           "NCT04639336"
         ],
@@ -3963,7 +4016,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 76,
+        "Rank": 77,
         "NCTId": [
           "NCT04638595"
         ],
@@ -4012,7 +4065,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 77,
+        "Rank": 78,
         "NCTId": [
           "NCT04637802"
         ],
@@ -4063,7 +4116,7 @@
         ]
       },
       {
-        "Rank": 78,
+        "Rank": 79,
         "NCTId": [
           "NCT04634643"
         ],
@@ -4112,7 +4165,7 @@
         ]
       },
       {
-        "Rank": 79,
+        "Rank": 80,
         "NCTId": [
           "NCT04569708"
         ],
@@ -4168,7 +4221,7 @@
         ]
       },
       {
-        "Rank": 80,
+        "Rank": 81,
         "NCTId": [
           "NCT04562688"
         ],
@@ -4216,7 +4269,7 @@
         ]
       },
       {
-        "Rank": 81,
+        "Rank": 82,
         "NCTId": [
           "NCT04540536"
         ],
@@ -4267,7 +4320,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 82,
+        "Rank": 83,
         "NCTId": [
           "NCT04537390"
         ],
@@ -4314,7 +4367,7 @@
         ]
       },
       {
-        "Rank": 83,
+        "Rank": 84,
         "NCTId": [
           "NCT04529707"
         ],
@@ -4362,7 +4415,7 @@
         ]
       },
       {
-        "Rank": 84,
+        "Rank": 85,
         "NCTId": [
           "NCT04526639"
         ],
@@ -4408,7 +4461,7 @@
         ]
       },
       {
-        "Rank": 85,
+        "Rank": 86,
         "NCTId": [
           "NCT04522778"
         ],
@@ -4460,7 +4513,7 @@
         ]
       },
       {
-        "Rank": 86,
+        "Rank": 87,
         "NCTId": [
           "NCT04518397"
         ],
@@ -4509,7 +4562,7 @@
         ]
       },
       {
-        "Rank": 87,
+        "Rank": 88,
         "NCTId": [
           "NCT04516694"
         ],
@@ -4557,7 +4610,7 @@
         ]
       },
       {
-        "Rank": 88,
+        "Rank": 89,
         "NCTId": [
           "NCT04516343"
         ],
@@ -4604,7 +4657,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 89,
+        "Rank": 90,
         "NCTId": [
           "NCT04485416"
         ],
@@ -4655,7 +4708,7 @@
         ]
       },
       {
-        "Rank": 90,
+        "Rank": 91,
         "NCTId": [
           "NCT04482556"
         ],
@@ -4704,7 +4757,7 @@
         ]
       },
       {
-        "Rank": 91,
+        "Rank": 92,
         "NCTId": [
           "NCT04481243"
         ],
@@ -4750,7 +4803,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 92,
+        "Rank": 93,
         "NCTId": [
           "NCT04472286"
         ],
@@ -4813,7 +4866,7 @@
         ]
       },
       {
-        "Rank": 93,
+        "Rank": 94,
         "NCTId": [
           "NCT04462861"
         ],
@@ -4860,7 +4913,7 @@
         ]
       },
       {
-        "Rank": 94,
+        "Rank": 95,
         "NCTId": [
           "NCT04446910"
         ],
@@ -4908,7 +4961,7 @@
         ]
       },
       {
-        "Rank": 95,
+        "Rank": 96,
         "NCTId": [
           "NCT04403633"
         ],
@@ -4956,7 +5009,7 @@
         ]
       },
       {
-        "Rank": 96,
+        "Rank": 97,
         "NCTId": [
           "NCT04398862"
         ],
@@ -5006,7 +5059,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 97,
+        "Rank": 98,
         "NCTId": [
           "NCT04390035"
         ],
@@ -5054,7 +5107,7 @@
         ]
       },
       {
-        "Rank": 98,
+        "Rank": 99,
         "NCTId": [
           "NCT04365556"
         ],
@@ -5106,7 +5159,7 @@
         ]
       },
       {
-        "Rank": 99,
+        "Rank": 100,
         "NCTId": [
           "NCT04360395"
         ],
@@ -5155,7 +5208,7 @@
         ]
       },
       {
-        "Rank": 100,
+        "Rank": 101,
         "NCTId": [
           "NCT04357132"
         ],
@@ -5206,7 +5259,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 101,
+        "Rank": 102,
         "NCTId": [
           "NCT04351958"
         ],
@@ -5254,7 +5307,7 @@
         ]
       },
       {
-        "Rank": 102,
+        "Rank": 103,
         "NCTId": [
           "NCT04351776"
         ],
@@ -5305,7 +5358,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 103,
+        "Rank": 104,
         "NCTId": [
           "NCT04342000"
         ],
@@ -5356,7 +5409,7 @@
         ]
       },
       {
-        "Rank": 104,
+        "Rank": 105,
         "NCTId": [
           "NCT04338048"
         ],
@@ -5396,7 +5449,7 @@
         ]
       },
       {
-        "Rank": 105,
+        "Rank": 106,
         "NCTId": [
           "NCT04322734"
         ],
@@ -5450,7 +5503,7 @@
         ]
       },
       {
-        "Rank": 106,
+        "Rank": 107,
         "NCTId": [
           "NCT04317521"
         ],
@@ -5498,7 +5551,7 @@
         ]
       },
       {
-        "Rank": 107,
+        "Rank": 108,
         "NCTId": [
           "NCT04314635"
         ],
@@ -5544,7 +5597,7 @@
         ]
       },
       {
-        "Rank": 108,
+        "Rank": 109,
         "NCTId": [
           "NCT04313192"
         ],
@@ -5596,7 +5649,7 @@
         ]
       },
       {
-        "Rank": 109,
+        "Rank": 110,
         "NCTId": [
           "NCT04312919"
         ],
@@ -5643,7 +5696,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 110,
+        "Rank": 111,
         "NCTId": [
           "NCT04309786"
         ],
@@ -5694,7 +5747,7 @@
         ]
       },
       {
-        "Rank": 111,
+        "Rank": 112,
         "NCTId": [
           "NCT04299191"
         ],
@@ -5742,7 +5795,7 @@
         ]
       },
       {
-        "Rank": 112,
+        "Rank": 113,
         "NCTId": [
           "NCT04298203"
         ],
@@ -5790,7 +5843,7 @@
         ]
       },
       {
-        "Rank": 113,
+        "Rank": 114,
         "NCTId": [
           "NCT04298099"
         ],
@@ -5838,7 +5891,7 @@
         ]
       },
       {
-        "Rank": 114,
+        "Rank": 115,
         "NCTId": [
           "NCT04290754"
         ],
@@ -5889,7 +5942,7 @@
         ]
       },
       {
-        "Rank": 115,
+        "Rank": 116,
         "NCTId": [
           "NCT04288206"
         ],
@@ -5934,7 +5987,7 @@
         ]
       },
       {
-        "Rank": 116,
+        "Rank": 117,
         "NCTId": [
           "NCT04285879"
         ],
@@ -5984,7 +6037,7 @@
         ]
       },
       {
-        "Rank": 117,
+        "Rank": 118,
         "NCTId": [
           "NCT04264143"
         ],
@@ -6038,7 +6091,7 @@
         ]
       },
       {
-        "Rank": 118,
+        "Rank": 119,
         "NCTId": [
           "NCT04250844"
         ],
@@ -6084,7 +6137,7 @@
         ]
       },
       {
-        "Rank": 119,
+        "Rank": 120,
         "NCTId": [
           "NCT04246112"
         ],
@@ -6134,7 +6187,7 @@
         ]
       },
       {
-        "Rank": 120,
+        "Rank": 121,
         "NCTId": [
           "NCT04242602"
         ],
@@ -6182,7 +6235,7 @@
         ]
       },
       {
-        "Rank": 121,
+        "Rank": 122,
         "NCTId": [
           "NCT04219995"
         ],
@@ -6231,7 +6284,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 122,
+        "Rank": 123,
         "NCTId": [
           "NCT04217694"
         ],
@@ -6281,7 +6334,7 @@
         ]
       },
       {
-        "Rank": 123,
+        "Rank": 124,
         "NCTId": [
           "NCT04211935"
         ],
@@ -6330,7 +6383,7 @@
         ]
       },
       {
-        "Rank": 124,
+        "Rank": 125,
         "NCTId": [
           "NCT04208256"
         ],
@@ -6382,7 +6435,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 125,
+        "Rank": 126,
         "NCTId": [
           "NCT04205604"
         ],
@@ -6426,7 +6479,7 @@
         ]
       },
       {
-        "Rank": 126,
+        "Rank": 127,
         "NCTId": [
           "NCT04201106"
         ],
@@ -6472,7 +6525,7 @@
         ]
       },
       {
-        "Rank": 127,
+        "Rank": 128,
         "NCTId": [
           "NCT04199247"
         ],
@@ -6525,7 +6578,7 @@
         ]
       },
       {
-        "Rank": 128,
+        "Rank": 129,
         "NCTId": [
           "NCT04190225"
         ],
@@ -6577,7 +6630,7 @@
         ]
       },
       {
-        "Rank": 129,
+        "Rank": 130,
         "NCTId": [
           "NCT04186429"
         ],
@@ -6627,7 +6680,7 @@
         ]
       },
       {
-        "Rank": 130,
+        "Rank": 131,
         "NCTId": [
           "NCT04180358"
         ],
@@ -6677,7 +6730,7 @@
         ]
       },
       {
-        "Rank": 131,
+        "Rank": 132,
         "NCTId": [
           "NCT04174001"
         ],
@@ -6723,7 +6776,7 @@
         ]
       },
       {
-        "Rank": 132,
+        "Rank": 133,
         "NCTId": [
           "NCT04166526"
         ],
@@ -6769,7 +6822,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 133,
+        "Rank": 134,
         "NCTId": [
           "NCT04164966"
         ],
@@ -6815,7 +6868,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 134,
+        "Rank": 135,
         "NCTId": [
           "NCT04158245"
         ],
@@ -6867,7 +6920,7 @@
         ]
       },
       {
-        "Rank": 135,
+        "Rank": 136,
         "NCTId": [
           "NCT04154865"
         ],
@@ -6915,7 +6968,7 @@
         ]
       },
       {
-        "Rank": 136,
+        "Rank": 137,
         "NCTId": [
           "NCT04153994"
         ],
@@ -6956,7 +7009,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 137,
+        "Rank": 138,
         "NCTId": [
           "NCT04148560"
         ],
@@ -7008,7 +7061,7 @@
         ]
       },
       {
-        "Rank": 138,
+        "Rank": 139,
         "NCTId": [
           "NCT04127331"
         ],
@@ -7054,7 +7107,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 139,
+        "Rank": 140,
         "NCTId": [
           "NCT04118712"
         ],
@@ -7099,7 +7152,7 @@
         ]
       },
       {
-        "Rank": 140,
+        "Rank": 141,
         "NCTId": [
           "NCT04111991"
         ],
@@ -7145,7 +7198,7 @@
         ]
       },
       {
-        "Rank": 141,
+        "Rank": 142,
         "NCTId": [
           "NCT04111471"
         ],
@@ -7185,7 +7238,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 142,
+        "Rank": 143,
         "NCTId": [
           "NCT04110730"
         ],
@@ -7234,7 +7287,7 @@
         ]
       },
       {
-        "Rank": 143,
+        "Rank": 144,
         "NCTId": [
           "NCT04108988"
         ],
@@ -7283,7 +7336,7 @@
         ]
       },
       {
-        "Rank": 144,
+        "Rank": 145,
         "NCTId": [
           "NCT04104841"
         ],
@@ -7334,7 +7387,7 @@
         ]
       },
       {
-        "Rank": 145,
+        "Rank": 146,
         "NCTId": [
           "NCT04099810"
         ],
@@ -7380,7 +7433,7 @@
         ]
       },
       {
-        "Rank": 146,
+        "Rank": 147,
         "NCTId": [
           "NCT04099797"
         ],
@@ -7434,7 +7487,7 @@
         ]
       },
       {
-        "Rank": 147,
+        "Rank": 148,
         "NCTId": [
           "NCT04089332"
         ],
@@ -7482,7 +7535,7 @@
         ]
       },
       {
-        "Rank": 148,
+        "Rank": 149,
         "NCTId": [
           "NCT04060303"
         ],
@@ -7528,7 +7581,7 @@
         ]
       },
       {
-        "Rank": 149,
+        "Rank": 150,
         "NCTId": [
           "NCT04046562"
         ],
@@ -7578,7 +7631,7 @@
         ]
       },
       {
-        "Rank": 150,
+        "Rank": 151,
         "NCTId": [
           "NCT04039750"
         ],
@@ -7624,7 +7677,7 @@
         ]
       },
       {
-        "Rank": 151,
+        "Rank": 152,
         "NCTId": [
           "NCT04032990"
         ],
@@ -7672,7 +7725,7 @@
         ]
       },
       {
-        "Rank": 152,
+        "Rank": 153,
         "NCTId": [
           "NCT04017975"
         ],
@@ -7721,7 +7774,7 @@
         ]
       },
       {
-        "Rank": 153,
+        "Rank": 154,
         "NCTId": [
           "NCT04003012"
         ],
@@ -7767,7 +7820,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 154,
+        "Rank": 155,
         "NCTId": [
           "NCT03995394"
         ],
@@ -7815,7 +7868,7 @@
         ]
       },
       {
-        "Rank": 155,
+        "Rank": 156,
         "NCTId": [
           "NCT03992209"
         ],
@@ -7865,7 +7918,7 @@
         ]
       },
       {
-        "Rank": 156,
+        "Rank": 157,
         "NCTId": [
           "NCT03985020"
         ],
@@ -7909,7 +7962,7 @@
         ]
       },
       {
-        "Rank": 157,
+        "Rank": 158,
         "NCTId": [
           "NCT03961854"
         ],
@@ -7949,7 +8002,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 158,
+        "Rank": 159,
         "NCTId": [
           "NCT03961061"
         ],
@@ -8000,7 +8053,7 @@
         ]
       },
       {
-        "Rank": 159,
+        "Rank": 160,
         "NCTId": [
           "NCT03954223"
         ],
@@ -8048,7 +8101,7 @@
         ]
       },
       {
-        "Rank": 160,
+        "Rank": 161,
         "NCTId": [
           "NCT03945747"
         ],
@@ -8106,7 +8159,7 @@
         ]
       },
       {
-        "Rank": 161,
+        "Rank": 162,
         "NCTId": [
           "NCT03942952"
         ],
@@ -8159,7 +8212,7 @@
         ]
       },
       {
-        "Rank": 162,
+        "Rank": 163,
         "NCTId": [
           "NCT03922451"
         ],
@@ -8201,7 +8254,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 163,
+        "Rank": 164,
         "NCTId": [
           "NCT03911388"
         ],
@@ -8284,7 +8337,7 @@
         ]
       },
       {
-        "Rank": 164,
+        "Rank": 165,
         "NCTId": [
           "NCT03905031"
         ],
@@ -8344,7 +8397,7 @@
         ]
       },
       {
-        "Rank": 165,
+        "Rank": 166,
         "NCTId": [
           "NCT03896867"
         ],
@@ -8390,7 +8443,7 @@
         ]
       },
       {
-        "Rank": 166,
+        "Rank": 167,
         "NCTId": [
           "NCT03882034"
         ],
@@ -8438,7 +8491,7 @@
         ]
       },
       {
-        "Rank": 167,
+        "Rank": 168,
         "NCTId": [
           "NCT03869749"
         ],
@@ -8487,7 +8540,7 @@
         ]
       },
       {
-        "Rank": 168,
+        "Rank": 169,
         "NCTId": [
           "NCT03866707"
         ],
@@ -8538,7 +8591,7 @@
         ]
       },
       {
-        "Rank": 169,
+        "Rank": 170,
         "NCTId": [
           "NCT03866460"
         ],
@@ -8585,7 +8638,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 170,
+        "Rank": 171,
         "NCTId": [
           "NCT03860311"
         ],
@@ -8638,7 +8691,7 @@
         ]
       },
       {
-        "Rank": 171,
+        "Rank": 172,
         "NCTId": [
           "NCT03855553"
         ],
@@ -8692,7 +8745,7 @@
         ]
       },
       {
-        "Rank": 172,
+        "Rank": 173,
         "NCTId": [
           "NCT03825341"
         ],
@@ -8742,7 +8795,7 @@
         ]
       },
       {
-        "Rank": 173,
+        "Rank": 174,
         "NCTId": [
           "NCT03812159"
         ],
@@ -8793,7 +8846,7 @@
         ]
       },
       {
-        "Rank": 174,
+        "Rank": 175,
         "NCTId": [
           "NCT03795818"
         ],
@@ -8844,7 +8897,7 @@
         ]
       },
       {
-        "Rank": 175,
+        "Rank": 176,
         "NCTId": [
           "NCT03730194"
         ],
@@ -8897,7 +8950,7 @@
         ]
       },
       {
-        "Rank": 176,
+        "Rank": 177,
         "NCTId": [
           "NCT03729999"
         ],
@@ -8942,7 +8995,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 177,
+        "Rank": 178,
         "NCTId": [
           "NCT03721068"
         ],
@@ -8989,7 +9042,7 @@
         ]
       },
       {
-        "Rank": 178,
+        "Rank": 179,
         "NCTId": [
           "NCT03718234"
         ],
@@ -9041,7 +9094,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 179,
+        "Rank": 180,
         "NCTId": [
           "NCT03711318"
         ],
@@ -9087,7 +9140,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 180,
+        "Rank": 181,
         "NCTId": [
           "NCT03709472"
         ],
@@ -9140,7 +9193,7 @@
         ]
       },
       {
-        "Rank": 181,
+        "Rank": 182,
         "NCTId": [
           "NCT03709199"
         ],
@@ -9190,7 +9243,7 @@
         ]
       },
       {
-        "Rank": 182,
+        "Rank": 183,
         "NCTId": [
           "NCT03687008"
         ],
@@ -9239,7 +9292,7 @@
         ]
       },
       {
-        "Rank": 183,
+        "Rank": 184,
         "NCTId": [
           "NCT03675321"
         ],
@@ -9285,7 +9338,7 @@
         ]
       },
       {
-        "Rank": 184,
+        "Rank": 185,
         "NCTId": [
           "NCT03670849"
         ],
@@ -9333,7 +9386,7 @@
         ]
       },
       {
-        "Rank": 185,
+        "Rank": 186,
         "NCTId": [
           "NCT03665337"
         ],
@@ -9378,7 +9431,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 186,
+        "Rank": 187,
         "NCTId": [
           "NCT03653013"
         ],
@@ -9421,7 +9474,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 187,
+        "Rank": 188,
         "NCTId": [
           "NCT03648450"
         ],
@@ -9470,7 +9523,7 @@
         ]
       },
       {
-        "Rank": 188,
+        "Rank": 189,
         "NCTId": [
           "NCT03625011"
         ],
@@ -9522,7 +9575,7 @@
         ]
       },
       {
-        "Rank": 189,
+        "Rank": 190,
         "NCTId": [
           "NCT03584399"
         ],
@@ -9564,7 +9617,7 @@
         ]
       },
       {
-        "Rank": 190,
+        "Rank": 191,
         "NCTId": [
           "NCT03559036"
         ],
@@ -9609,7 +9662,7 @@
         ]
       },
       {
-        "Rank": 191,
+        "Rank": 192,
         "NCTId": [
           "NCT03555708"
         ],
@@ -9662,7 +9715,7 @@
         ]
       },
       {
-        "Rank": 192,
+        "Rank": 193,
         "NCTId": [
           "NCT03553875"
         ],
@@ -9711,7 +9764,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 193,
+        "Rank": 194,
         "NCTId": [
           "NCT03539783"
         ],
@@ -9763,7 +9816,7 @@
         ]
       },
       {
-        "Rank": 194,
+        "Rank": 195,
         "NCTId": [
           "NCT03530852"
         ],
@@ -9812,7 +9865,7 @@
         ]
       },
       {
-        "Rank": 195,
+        "Rank": 196,
         "NCTId": [
           "NCT03528109"
         ],
@@ -9876,7 +9929,7 @@
         ]
       },
       {
-        "Rank": 196,
+        "Rank": 197,
         "NCTId": [
           "NCT03500835"
         ],
@@ -9926,7 +9979,7 @@
         ]
       },
       {
-        "Rank": 197,
+        "Rank": 198,
         "NCTId": [
           "NCT03498495"
         ],
@@ -9972,7 +10025,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 198,
+        "Rank": 199,
         "NCTId": [
           "NCT03496259"
         ],
@@ -10021,7 +10074,7 @@
         ]
       },
       {
-        "Rank": 199,
+        "Rank": 200,
         "NCTId": [
           "NCT03495388"
         ],
@@ -10074,7 +10127,7 @@
         ]
       },
       {
-        "Rank": 200,
+        "Rank": 201,
         "NCTId": [
           "NCT03492944"
         ],
@@ -10118,7 +10171,7 @@
         ]
       },
       {
-        "Rank": 201,
+        "Rank": 202,
         "NCTId": [
           "NCT03489434"
         ],
@@ -10162,7 +10215,7 @@
         ]
       },
       {
-        "Rank": 202,
+        "Rank": 203,
         "NCTId": [
           "NCT03472768"
         ],
@@ -10208,7 +10261,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 203,
+        "Rank": 204,
         "NCTId": [
           "NCT03467750"
         ],
@@ -10258,7 +10311,7 @@
         ]
       },
       {
-        "Rank": 204,
+        "Rank": 205,
         "NCTId": [
           "NCT03453541"
         ],
@@ -10317,7 +10370,7 @@
         ]
       },
       {
-        "Rank": 205,
+        "Rank": 206,
         "NCTId": [
           "NCT03451435"
         ],
@@ -10365,7 +10418,7 @@
         ]
       },
       {
-        "Rank": 206,
+        "Rank": 207,
         "NCTId": [
           "NCT03438656"
         ],
@@ -10414,7 +10467,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 207,
+        "Rank": 208,
         "NCTId": [
           "NCT03429114"
         ],
@@ -10462,7 +10515,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 208,
+        "Rank": 209,
         "NCTId": [
           "NCT03423940"
         ],
@@ -10514,7 +10567,7 @@
         ]
       },
       {
-        "Rank": 209,
+        "Rank": 210,
         "NCTId": [
           "NCT03419260"
         ],
@@ -10560,7 +10613,7 @@
         ]
       },
       {
-        "Rank": 210,
+        "Rank": 211,
         "NCTId": [
           "NCT03384134"
         ],
@@ -10611,7 +10664,7 @@
         ]
       },
       {
-        "Rank": 211,
+        "Rank": 212,
         "NCTId": [
           "NCT03363919"
         ],
@@ -10663,7 +10716,7 @@
         ]
       },
       {
-        "Rank": 212,
+        "Rank": 213,
         "NCTId": [
           "NCT03337594"
         ],
@@ -10715,7 +10768,7 @@
         ]
       },
       {
-        "Rank": 213,
+        "Rank": 214,
         "NCTId": [
           "NCT03334942"
         ],
@@ -10770,7 +10823,7 @@
         ]
       },
       {
-        "Rank": 214,
+        "Rank": 215,
         "NCTId": [
           "NCT03318393"
         ],
@@ -10814,7 +10867,7 @@
         ]
       },
       {
-        "Rank": 215,
+        "Rank": 216,
         "NCTId": [
           "NCT03304574"
         ],
@@ -10869,7 +10922,7 @@
         ]
       },
       {
-        "Rank": 216,
+        "Rank": 217,
         "NCTId": [
           "NCT03297658"
         ],
@@ -10915,7 +10968,7 @@
         ]
       },
       {
-        "Rank": 217,
+        "Rank": 218,
         "NCTId": [
           "NCT03283033"
         ],
@@ -10964,7 +11017,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 218,
+        "Rank": 219,
         "NCTId": [
           "NCT03280628"
         ],
@@ -11004,7 +11057,7 @@
         ]
       },
       {
-        "Rank": 219,
+        "Rank": 220,
         "NCTId": [
           "NCT03239977"
         ],
@@ -11050,7 +11103,7 @@
         ]
       },
       {
-        "Rank": 220,
+        "Rank": 221,
         "NCTId": [
           "NCT03229837"
         ],
@@ -11100,7 +11153,7 @@
         ]
       },
       {
-        "Rank": 221,
+        "Rank": 222,
         "NCTId": [
           "NCT03225014"
         ],
@@ -11149,7 +11202,7 @@
         ]
       },
       {
-        "Rank": 222,
+        "Rank": 223,
         "NCTId": [
           "NCT03222570"
         ],
@@ -11195,7 +11248,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 223,
+        "Rank": 224,
         "NCTId": [
           "NCT03202303"
         ],
@@ -11243,7 +11296,7 @@
         ]
       },
       {
-        "Rank": 224,
+        "Rank": 225,
         "NCTId": [
           "NCT03192566"
         ],
@@ -11295,7 +11348,7 @@
         ]
       },
       {
-        "Rank": 225,
+        "Rank": 226,
         "NCTId": [
           "NCT03166358"
         ],
@@ -11343,7 +11396,7 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 227,
         "NCTId": [
           "NCT03154359"
         ],
@@ -11394,7 +11447,7 @@
         ]
       },
       {
-        "Rank": 227,
+        "Rank": 228,
         "NCTId": [
           "NCT03132948"
         ],
@@ -11443,7 +11496,7 @@
         ]
       },
       {
-        "Rank": 228,
+        "Rank": 229,
         "NCTId": [
           "NCT03073070"
         ],
@@ -11495,7 +11548,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 230,
         "NCTId": [
           "NCT03072849"
         ],
@@ -11546,7 +11599,7 @@
         ]
       },
       {
-        "Rank": 230,
+        "Rank": 231,
         "NCTId": [
           "NCT03055533"
         ],
@@ -11595,7 +11648,7 @@
         ]
       },
       {
-        "Rank": 231,
+        "Rank": 232,
         "NCTId": [
           "NCT03032328"
         ],
@@ -11646,7 +11699,7 @@
         ]
       },
       {
-        "Rank": 232,
+        "Rank": 233,
         "NCTId": [
           "NCT03023566"
         ],
@@ -11695,7 +11748,7 @@
         ]
       },
       {
-        "Rank": 233,
+        "Rank": 234,
         "NCTId": [
           "NCT03005951"
         ],
@@ -11746,7 +11799,7 @@
         ]
       },
       {
-        "Rank": 234,
+        "Rank": 235,
         "NCTId": [
           "NCT02914067"
         ],
@@ -11799,7 +11852,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 235,
+        "Rank": 236,
         "NCTId": [
           "NCT02895711"
         ],
@@ -11848,7 +11901,7 @@
         ]
       },
       {
-        "Rank": 236,
+        "Rank": 237,
         "NCTId": [
           "NCT02889016"
         ],
@@ -11895,7 +11948,7 @@
         ]
       },
       {
-        "Rank": 237,
+        "Rank": 238,
         "NCTId": [
           "NCT02846272"
         ],
@@ -11944,7 +11997,7 @@
         ]
       },
       {
-        "Rank": 238,
+        "Rank": 239,
         "NCTId": [
           "NCT02824627"
         ],
@@ -11994,7 +12047,7 @@
         ]
       },
       {
-        "Rank": 239,
+        "Rank": 240,
         "NCTId": [
           "NCT02801136"
         ],
@@ -12045,7 +12098,7 @@
         ]
       },
       {
-        "Rank": 240,
+        "Rank": 241,
         "NCTId": [
           "NCT02775643"
         ],
@@ -12092,7 +12145,7 @@
         ]
       },
       {
-        "Rank": 241,
+        "Rank": 242,
         "NCTId": [
           "NCT02769975"
         ],
@@ -12144,7 +12197,7 @@
         ]
       },
       {
-        "Rank": 242,
+        "Rank": 243,
         "NCTId": [
           "NCT02742272"
         ],
@@ -12197,7 +12250,7 @@
         ]
       },
       {
-        "Rank": 243,
+        "Rank": 244,
         "NCTId": [
           "NCT02722486"
         ],
@@ -12245,7 +12298,7 @@
         ]
       },
       {
-        "Rank": 244,
+        "Rank": 245,
         "NCTId": [
           "NCT02703597"
         ],
@@ -12292,7 +12345,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 245,
+        "Rank": 246,
         "NCTId": [
           "NCT02699190"
         ],
@@ -12340,7 +12393,7 @@
         ]
       },
       {
-        "Rank": 246,
+        "Rank": 247,
         "NCTId": [
           "NCT02651493"
         ],
@@ -12391,7 +12444,7 @@
         ]
       },
       {
-        "Rank": 247,
+        "Rank": 248,
         "NCTId": [
           "NCT02616796"
         ],
@@ -12439,7 +12492,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 248,
+        "Rank": 249,
         "NCTId": [
           "NCT02610946"
         ],
@@ -12490,7 +12543,7 @@
         ]
       },
       {
-        "Rank": 249,
+        "Rank": 250,
         "NCTId": [
           "NCT02535936"
         ],
@@ -12541,7 +12594,7 @@
         ]
       },
       {
-        "Rank": 250,
+        "Rank": 251,
         "NCTId": [
           "NCT02512718"
         ],
@@ -12585,7 +12638,7 @@
         ]
       },
       {
-        "Rank": 251,
+        "Rank": 252,
         "NCTId": [
           "NCT02507791"
         ],
@@ -12636,7 +12689,7 @@
         ]
       },
       {
-        "Rank": 252,
+        "Rank": 253,
         "NCTId": [
           "NCT02498925"
         ],
@@ -12684,7 +12737,7 @@
         ]
       },
       {
-        "Rank": 253,
+        "Rank": 254,
         "NCTId": [
           "NCT02485418"
         ],
@@ -12731,7 +12784,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 254,
+        "Rank": 255,
         "NCTId": [
           "NCT02478788"
         ],
@@ -12781,7 +12834,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 256,
         "NCTId": [
           "NCT02453126"
         ],
@@ -12827,7 +12880,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 256,
+        "Rank": 257,
         "NCTId": [
           "NCT02398539"
         ],
@@ -12872,7 +12925,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 257,
+        "Rank": 258,
         "NCTId": [
           "NCT02395003"
         ],
@@ -12916,7 +12969,7 @@
         ]
       },
       {
-        "Rank": 258,
+        "Rank": 259,
         "NCTId": [
           "NCT02312635"
         ],
@@ -12968,7 +13021,7 @@
         ]
       },
       {
-        "Rank": 259,
+        "Rank": 260,
         "NCTId": [
           "NCT02257229"
         ],
@@ -13015,7 +13068,7 @@
         ]
       },
       {
-        "Rank": 260,
+        "Rank": 261,
         "NCTId": [
           "NCT02245997"
         ],
@@ -13062,7 +13115,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 261,
+        "Rank": 262,
         "NCTId": [
           "NCT02202174"
         ],
@@ -13107,7 +13160,7 @@
         ]
       },
       {
-        "Rank": 262,
+        "Rank": 263,
         "NCTId": [
           "NCT02130180"
         ],
@@ -13155,7 +13208,7 @@
         ]
       },
       {
-        "Rank": 263,
+        "Rank": 264,
         "NCTId": [
           "NCT02127658"
         ],
@@ -13197,7 +13250,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 264,
+        "Rank": 265,
         "NCTId": [
           "NCT02117063"
         ],
@@ -13254,7 +13307,7 @@
         ]
       },
       {
-        "Rank": 265,
+        "Rank": 266,
         "NCTId": [
           "NCT02055105"
         ],
@@ -13302,7 +13355,7 @@
         ]
       },
       {
-        "Rank": 266,
+        "Rank": 267,
         "NCTId": [
           "NCT02021604"
         ],
@@ -13345,7 +13398,7 @@
         ]
       },
       {
-        "Rank": 267,
+        "Rank": 268,
         "NCTId": [
           "NCT01960166"
         ],
@@ -13387,7 +13440,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 268,
+        "Rank": 269,
         "NCTId": [
           "NCT01857791"
         ],
@@ -13434,7 +13487,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 269,
+        "Rank": 270,
         "NCTId": [
           "NCT01839747"
         ],
@@ -13483,7 +13536,7 @@
         ]
       },
       {
-        "Rank": 270,
+        "Rank": 271,
         "NCTId": [
           "NCT01724463"
         ],
@@ -13538,7 +13591,7 @@
         ]
       },
       {
-        "Rank": 271,
+        "Rank": 272,
         "NCTId": [
           "NCT01665326"
         ],
@@ -13588,7 +13641,7 @@
         ]
       },
       {
-        "Rank": 272,
+        "Rank": 273,
         "NCTId": [
           "NCT01629017"
         ],
@@ -13637,7 +13690,7 @@
         ]
       },
       {
-        "Rank": 273,
+        "Rank": 274,
         "NCTId": [
           "NCT01598766"
         ],
@@ -13689,7 +13742,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 274,
+        "Rank": 275,
         "NCTId": [
           "NCT01577810"
         ],
@@ -13740,7 +13793,7 @@
         ]
       },
       {
-        "Rank": 275,
+        "Rank": 276,
         "NCTId": [
           "NCT01543438"
         ],
@@ -13787,7 +13840,7 @@
         ]
       },
       {
-        "Rank": 276,
+        "Rank": 277,
         "NCTId": [
           "NCT01504373"
         ],
@@ -13833,7 +13886,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 277,
+        "Rank": 278,
         "NCTId": [
           "NCT01422759"
         ],
@@ -13885,7 +13938,7 @@
         ]
       },
       {
-        "Rank": 278,
+        "Rank": 279,
         "NCTId": [
           "NCT01422746"
         ],
@@ -13935,7 +13988,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 279,
+        "Rank": 280,
         "NCTId": [
           "NCT01421810"
         ],
@@ -13986,7 +14039,7 @@
         ]
       },
       {
-        "Rank": 280,
+        "Rank": 281,
         "NCTId": [
           "NCT01421797"
         ],
@@ -14038,7 +14091,7 @@
         ]
       },
       {
-        "Rank": 281,
+        "Rank": 282,
         "NCTId": [
           "NCT01386736"
         ],
@@ -14087,7 +14140,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 282,
+        "Rank": 283,
         "NCTId": [
           "NCT01383915"
         ],
@@ -14136,7 +14189,7 @@
         ]
       },
       {
-        "Rank": 283,
+        "Rank": 284,
         "NCTId": [
           "NCT01304875"
         ],
@@ -14180,7 +14233,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 285,
         "NCTId": [
           "NCT01285531"
         ],
@@ -14237,7 +14290,7 @@
         ]
       },
       {
-        "Rank": 285,
+        "Rank": 286,
         "NCTId": [
           "NCT01122095"
         ],
@@ -14290,7 +14343,7 @@
         ]
       },
       {
-        "Rank": 286,
+        "Rank": 287,
         "NCTId": [
           "NCT00906906"
         ],
@@ -14341,7 +14394,7 @@
         ]
       },
       {
-        "Rank": 287,
+        "Rank": 288,
         "NCTId": [
           "NCT00814853"
         ],
@@ -14388,7 +14441,7 @@
         ]
       },
       {
-        "Rank": 288,
+        "Rank": 289,
         "NCTId": [
           "NCT00792415"
         ],
@@ -14436,7 +14489,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 289,
+        "Rank": 290,
         "NCTId": [
           "NCT00745394"
         ],
@@ -14483,7 +14536,7 @@
         ]
       },
       {
-        "Rank": 290,
+        "Rank": 291,
         "NCTId": [
           "NCT00616317"
         ],
@@ -14521,7 +14574,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 291,
+        "Rank": 292,
         "NCTId": [
           "NCT00494572"
         ],
@@ -14571,7 +14624,7 @@
         ]
       },
       {
-        "Rank": 292,
+        "Rank": 293,
         "NCTId": [
           "NCT00491946"
         ],
@@ -14616,7 +14669,7 @@
         ]
       },
       {
-        "Rank": 293,
+        "Rank": 294,
         "NCTId": [
           "NCT00465699"
         ],
@@ -14660,7 +14713,7 @@
         ]
       },
       {
-        "Rank": 294,
+        "Rank": 295,
         "NCTId": [
           "NCT00320086"
         ],
@@ -14708,7 +14761,7 @@
         ]
       },
       {
-        "Rank": 295,
+        "Rank": 296,
         "NCTId": [
           "NCT00292513"
         ],
@@ -14753,7 +14806,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 296,
+        "Rank": 297,
         "NCTId": [
           "NCT00182572"
         ],
@@ -14797,7 +14850,7 @@
         ]
       },
       {
-        "Rank": 297,
+        "Rank": 298,
         "NCTId": [
           "NCT00036712"
         ],
@@ -14854,7 +14907,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 299,
         "NCTId": [
           "NCT00012506"
         ],
@@ -14902,7 +14955,7 @@
         ]
       },
       {
-        "Rank": 299,
+        "Rank": 300,
         "NCTId": [
           "NCT00000112"
         ],
@@ -14943,7 +14996,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 300,
+        "Rank": 301,
         "NCTId": [
           "NCT04815239"
         ],
@@ -14995,7 +15048,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 302,
         "NCTId": [
           "NCT04812028"
         ],
@@ -15043,7 +15096,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 303,
         "NCTId": [
           "NCT04810130"
         ],
@@ -15096,7 +15149,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 304,
         "NCTId": [
           "NCT04798482"
         ],
@@ -15145,7 +15198,7 @@
         ]
       },
       {
-        "Rank": 304,
+        "Rank": 305,
         "NCTId": [
           "NCT04797559"
         ],
@@ -15194,7 +15247,7 @@
         ]
       },
       {
-        "Rank": 305,
+        "Rank": 306,
         "NCTId": [
           "NCT04795674"
         ],
@@ -15246,7 +15299,7 @@
         ]
       },
       {
-        "Rank": 306,
+        "Rank": 307,
         "NCTId": [
           "NCT04788524"
         ],
@@ -15295,7 +15348,7 @@
         ]
       },
       {
-        "Rank": 307,
+        "Rank": 308,
         "NCTId": [
           "NCT04786977"
         ],
@@ -15342,7 +15395,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 308,
+        "Rank": 309,
         "NCTId": [
           "NCT04784455"
         ],
@@ -15386,7 +15439,7 @@
         ]
       },
       {
-        "Rank": 309,
+        "Rank": 310,
         "NCTId": [
           "NCT04783506"
         ],
@@ -15432,59 +15485,6 @@
         ],
         "DetailedDescription": [
           "The purpose of this study is to map inflammatory dysfunction to suicidal behavior and establish a reliable immune signature of suicide risk that can 1) guide future research into fundamental pathophysiology and 2) identify targets for drug development and guide clinical screening and risk management.\n\nBackground: In previous research, the investigators have identified targets of clinical utility for both suicide-risk identification and novel therapeutic development. Specifically, a state of immune hyper-reactivity that predisposes to suicidal behavior can be corrected by use of immunomodulatory agents.\n\nBlood tests screening for presence of autoantibodies may be implemented as diagnostic tests to predict future suicide risk. Monoclonal antibodies have gained recent attention for their use in CNS disorders (such as multiple sclerosis and migraine) and have been shown to be effective for some patients with depression.\n\nHowever, the utility of anti-inflammatory treatments for depression has been limited by a lack of biomarkers to guide their use. Thus, presence of autoantibodies may identify a sub-group of adolescents and young adults with suicidality who are candidates for treatment with monoclonal antibodies.\n\nThe investigators specifically hypothesize that depressed youths with suicide behavior have immune hyper-reactivity, as reflected in dysfunctional cells mediating both innate and adaptive immune response.\n\nStudy Items: Since this is an observational study, investigators will explore a comprehensive panel of carefully selected participant specific parameters: socio-demographic (age, ethnicity, economic); symptom severity measures (depressive symptoms, mood, and feelings); clinical (medical history, anxious depression, early life trauma), biological (biomarkers in blood), behavioral (cognitive, emotional), with the goal to develop the most robust predictive models of treatment response and of depression outcomes. There is no medication or non-medication treatment or intervention provided by this study."
-        ]
-      },
-      {
-        "Rank": 310,
-        "NCTId": [
-          "NCT04771338"
-        ],
-        "OfficialTitle": [
-          "Examining the Effects of a Job Entry Intervention"
-        ],
-        "Condition": [
-          "Autism Spectrum Disorder",
-          "Autism",
-          "ASD"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nDiagnoses of ASD\nor am a typically developing adolescent\nAble to speak and read English fluently\n\nExclusion Criteria:\n\nHistory of stroke, traumatic brain injury, or any other neurological injury or disease\nHistory of significant psychiatric illness (bipolar, schizophrenia or psychosis)\nUncontrolled seizures\nAny other unstable medical complications"
-        ],
-        "MinimumAge": [
-          "16 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "East Hanover"
-        ],
-        "LocationFacility": [
-          "Kessler Foundation"
-        ],
-        "LocationState": [
-          "New Jersey"
-        ],
-        "LocationZip": [
-          "07936"
-        ],
-        "LocationContactEMail": [
-          "mdibenedetto@kesslerfoundation.org",
-          "nbmoore@kesslerfoundation.org"
-        ],
-        "LocationContactName": [
-          "Michael Di Benedetto, MA",
-          "Nancy Moore, MA"
-        ],
-        "LocationContactPhone": [
-          "973-324-8391",
-          "973-324-8450"
-        ],
-        "BriefSummary": [
-          "The current study will examine the efficacy of a virtual reality (VR) intervention entitled \"Virtual Reality Job Interview Training (VR-JIT)\" as well as a newly developed Kessler Foundation STRength IDentification and Expression tool (VR-STRIDE) with adolescents diagnosed with autism spectrum disorder."
-        ],
-        "DetailedDescription": [
-          "The current study will examine the efficacy of a virtual reality (VR) intervention entitled \"IMPRoving Expression of Skills and Strengths In Interviewing in a Virtual Environment\" (IMPRESSIVE) which targets social competency skills needed for successful job interviewing. Specifically, 2 VR tools are utilized in the IMPRESSIVE intervention. The first tool is VR-Job Interview Training (VR-JIT), a VR program which offers the opportunity for repeated practice with a virtual human interviewer. Preliminary evidence suggests that the VR-JIT is successful in adults with ASD1 and schizophrenia14 in improving interview abilities. However, the efficacy of VR-JIT has not been evaluated in adolescents with ASD. This represents a significant void in our knowledge, as we do not know whether this program is effective for youth. In addition to VR-JIT, a newly developed VR tool is included in the currently proposed intervention: the Kessler Foundation STRength IDentification and Expression tool (VR-STRIDE). KF-STRIDE is focused on improving the ability to express personal strengths during the job interview, a skill that is not taught with VR-JIT. The proposed IMPRESSIVE intervention, which combines the learning of 2 critical abilities (social skills and strength identification), has never been examined in individuals with ASD. Thus, the current proposal will be the first to examine the efficacy of these 2 combined tools in this at-risk population."
         ]
       },
       {
@@ -17809,96 +17809,6 @@
       {
         "Rank": 347,
         "NCTId": [
-          "NCT03117751"
-        ],
-        "OfficialTitle": [
-          "Total Therapy XVII for Newly Diagnosed Patients With Acute Lymphoblastic Leukemia and Lymphoma"
-        ],
-        "Condition": [
-          "Acute Lymphoblastic Leukemia",
-          "Acute Lymphoblastic Lymphoma"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nDiagnosis of B- or T-ALL or LLy by immunophenotyping:\nLLy participants must have < 25% tumor cells in bone marrow and peripheral blood by morphology and flow cytometry. If any of these show ≥25% blasts, patient will be considered to have leukemia. Patients with MPAL are eligible.\nAge 1-18 years (inclusive).\nNo prior therapy, or limited prior therapy, including systemic glucocorticoids for one week or less, one dose of vincristine, emergency radiation therapy (e.g., to the mediastinum, head and neck, orbit, etc.) and one dose of intrathecal chemotherapy.\nWritten, informed consent and assent following Institutional Review Board (IRB), National Cancer Institute (NCI), Food and Drug Administration (FDA), and Office of Human Research Protections (OHRP) Guidelines.\n\nExclusion Criteria:\n\nParticipants who are pregnant or lactating. Males or females of reproductive potential must agree to use effective contraception for the duration of study participation.\nInability or unwillingness of research participant or legal guardian/representative to give written informed consent."
-        ],
-        "MinimumAge": [
-          "1 Year"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Palo Alto",
-          "San Diego",
-          "Detroit",
-          "Charlotte",
-          "Memphis",
-          "Fort Worth"
-        ],
-        "LocationFacility": [
-          "Lucile Packard Children's Hospital Stanford University",
-          "Rady Children's Hospital San Diego",
-          "Children's Hospital of Michigan",
-          "St. Jude Affiliate Clinic - Novant Health Hemby Children's Hospital",
-          "St. Jude Children's Research Hospital",
-          "Cook Children's Medical Center"
-        ],
-        "LocationState": [
-          "California",
-          "California",
-          "Michigan",
-          "North Carolina",
-          "Tennessee",
-          "Texas"
-        ],
-        "LocationZip": [
-          "94305",
-          "92123",
-          "48201",
-          "28204",
-          "38105",
-          "76104"
-        ],
-        "LocationContactEMail": [
-          "mailto:lacayon@stanford.edu",
-          "dschiff@rchsd.org",
-          "jtaub@med.wayne.edu",
-          "jbell@novanthealth.org",
-          "referralinfo@stjude.org",
-          "kenneth.heym@cookchildrens.org"
-        ],
-        "LocationContactName": [
-          "Norman J. Lacayo, MD",
-          "Norman J. Lacayo, MD",
-          "Deborah E. Schiff, MD",
-          "Deborah E. Schiff, MD",
-          "Jeffrey W. Taub, MD, FAAP",
-          "Jeffrey Taub, MD",
-          "Jessica Bell, MD",
-          "Jessica Bell, MD",
-          "Hiroto Inaba, MD, PhD",
-          "Hiroto Inaba, MD, PhD",
-          "Kenneth M. Heym, MD",
-          "Kenneth M. Heym, MD"
-        ],
-        "LocationContactPhone": [
-          "650-723-5535",
-          "858-966-5811",
-          "313-745-5515",
-          "704-384-1900",
-          "866-278-5833",
-          "682-885-4007"
-        ],
-        "BriefSummary": [
-          "The overarching objective of this study is to use novel precision medicine strategies based on inherited and acquired leukemia-specific genomic features and targeted treatment approaches to improve the cure rate and quality of life of children with acute lymphoblastic leukemia (ALL) and acute lymphoblastic lymphoma (LLy).\n\nPrimary Therapeutic Objectives:\n\nTo improve the event-free survival of provisional standard- or high-risk patients with genetically or immunologically targetable lesions or minimal residual disease (MRD) ≥ 5% at Day 15 or Day 22 or ≥1% at the end of Remission Induction, by the addition of molecular and immunotherapeutic approaches including tyrosine kinase inhibitors or chimeric antigen receptor (CAR) T cell / blinatumomab for refractory B-acute lymphoblastic leukemia (B-ALL) or B-lymphoblastic lymphoma (B-LLy), and the proteasome inhibitor bortezomib for those lacking targetable lesions.\nTo improve overall treatment outcome of T acute lymphoblastic leukemia (T-ALL) and T-lymphoblastic lymphoma (T-LLy) by optimizing pegaspargase and cyclophosphamide treatment and by the addition of new agents in patients with targetable genomic abnormalities (e.g., activated tyrosine kinases or JAK/STAT mutations) or by the addition of bortezomib for those who have a poor early response to treatment but no targetable lesions, and by administering nelarabine to T-ALL and T-LLy patients with leukemia/lymphoma cells in cerebrospinal fluid at diagnosis or MRD ≥0.01% at the end of induction.\nTo determine in a randomized study design whether the incidence and/or severity of acute vincristine-induced peripheral neuropathy can be reduced by decreasing the dosage of vincristine in patients with the high-risk CEP72 TT genotype or by shortening the duration of vincristine therapy in patients with the CEP72 CC or CT genotype.\n\nSecondary Therapeutic Objectives:\n\nTo estimate the event-free survival and overall survival of children with acute lymphoblastic leukemia (ALL) and acute lymphoblastic lymphoma (LLy).\nTo determine the tolerability of combination therapy with ruxolitinib and Early Intensification therapy in patients with activation of JAK-STAT signaling that can be inhibited by ruxolitinib and Day 15 or Day 22 MRD ≥5%, Day 42 MRD ≥1%, or LLy patients without complete response at the End of Induction and all patients with early T cell precursor leukemia.\n\nBiological Objectives:\n\nTo use data from clinical genomic sequencing of diagnosis, germline/remission and MRD samples to guide therapy, including incorporation of targeted agents and institution of genetic counseling and cancer surveillance.\nTo evaluate and implement deoxyribonucleic acid (DNA) and ribonucleic acid (RNA) sequencing-based methods to monitor levels of MRD in bone marrow, blood, and cerebrospinal fluid.\nTo assess clonal diversity and evolution of pre-leukemic and leukemic populations using DNA variant detection and single-cell genomic analyses in a non-clinical, research setting.\nTo identify germline or somatic genomic variants associated with drug resistance of ALL cells o conventional and newer targeted anti-leukemic agents in a non- clinical, research setting.\nTo compare drug sensitivity of ALL cells from diagnosis to relapse in vitro and in vivo and determine if acquired resistance to specific agents is related to specific somatic genome variants that are not detected or found in only a minor clone at initial diagnosis.\n\nSupportive Care Objectives\n\nTo conduct serial neurocognitive monitoring of patients and to evaluate the benefits of a computer-based cognitive intervention.\nTo evaluate the impact of low-magnitude high frequency mechanical stimulation on bone mineral density and markers of bone turnover.\n\nExploratory Objectives:\n\nTo identify pharmacogenetic, pharmacokinetic and pharmacodynamic predictors of treatment outcome.\nTo perform a detailed assessment of thiopurine metabolism and 6-mercaptopurine (6MP) tolerance, toxicity, and treatment outcome.\nTo establish xenografts of representative subtypes of ALL.\nTo prospectively determine the risk and epidemiology of breakthrough infection or febrile neutropenia and adverse effects of antibiotics.\nTo use cell phenotyping and genomic approaches to characterize the non-tumor microenvironment and correlate with responses to conventional and immunotherapeutic approaches.\nTo estimate the treatment response and event-free survival and overall survival of children with mixed phenotype acute leukemia (MPAL) when ALL diagnostic and treatment approaches are used."
-        ],
-        "DetailedDescription": [
-          "Participants will be classified into one of three categories (low-, standard-, or high-risk) based on the presenting age, leukocyte count/lymphoma staging, presence or absence of CNS-3 status or testicular disease, immunophenotype, molecular genetics, DNA index, and early response to therapy.\n\nTreatment will consist of three main phases: Remission Induction, Consolidation, and Continuation. Early Intensification therapy will be given prior to Consolidation to patients with provisional standard-risk or high-risk ALL/LLy or any provisional low-risk patients with Day 15 MRD ≥1% as well as provisional low-risk LLy patients who do not obtain complete response at the end of Induction. Patients with mixed phenotype acute leukemia (MPAL) are treated by using the same treatment stratification used in ALL (B/Myeloid [B/M] MPAL is treated as B-ALL and T/M MPAL is treated as ETP-ALL) although analysis is performed separately from ALL or LLy cohorts.\n\nBrief outline of treatment plan:\n\nPatients will be assigned to treatment based on risk group: Low-Risk, Standard-Risk and High-Risk and cell type (T or B cell).\n\nRemission Induction initially consists of prednisone (28 days), vincristine (4 weekly doses), daunorubicin (1 to 3 weekly doses), and pegaspargase (2 doses). The second part (given over 2 weeks and overlapping with the last week of the first part of induction) consists of cyclophosphamide, cytarabine, and mercaptopurine combinations. Dasatinib will be added for patients with Ph+ and Ph-like ABL1-class fusions and bortezomib will be given to patients with no targetable lesions and Day 15 or Day 22 minimal residual disease (MRD) ≥ 5% on Days 29 and 32.\n\nEarly Intensification will be given prior to Consolidation to patients with provisional standard-risk or high-risk ALL/LLy or any provisional low-risk patients with Day 15 MRD ≥1% as well as provisional low-risk LLy patients who do not obtain complete response at the end of Induction. For patients with Ph-like ALL that is targetable with JAK inhibitor and Day 15 or Day 22 MRD level ≥5% or end of Remission Induction ≥1% as well as all patients with early T cell precursor (ETP) ALL, ruxolitinib will be used. This includes, but is not limited to CRLF2, JAK2, and EPOR rearrangements and sequence/structural changes in JAK1/2, TYK2, IL7R, and SH2B3. Ruxolitinib will be added in LLy patients with activation of JAK-STAT signaling that can be inhibited by ruxolitinib whose responses do not qualify complete response at the end of Remission Induction. Dasatinib will continue for patients with ABL-class fusions. Bortezomib will be added for patients with no targetable lesions and Day 15 or Day 22 MRD ≥ 5% or LLy patients without complete response at the End of Induction.\n\nConsolidation Therapy will consist of high dose methotrexate (HDMTX) (every other week for 4 doses); daily mercaptopurine and IT chemotherapy on the same dates of HDMTX. Dasatinib will continue for patients with ABL-class fusions. Ruxolitinib will continue for patients with activation of JAK-STAT signaling that can be inhibited by ruxolitinib and Day 15 or Day 22 MRD ≥5% or Day 42 MRD ≥1% (or for LLy patients who do not qualify complete response at the end of Remission Induction) and all cases with ETP ALL.\n\nImmunotherapy: CAR T-cell therapy will be considered for High-risk B-ALL and B-LLy patients. Blinatumomab will be given to patients with Standard-risk B-ALL and B-LLy with residual disease at the end of induction and High-risk B-ALL and B-LLy patients who are not able to receive CAR T-cell therapy. Blinatumomab is also given to patients with the following genetic subtypes (BCR-ABL1, JAK-STAT activating mutation, hypodiploid, iAMP21, MEF2D, TCF3/HLF, and BCL2/MYC) or with Down syndrome, regardless of MRD level and/or Total 17 risk category.\n\nReintensification therapy will be offered to certain High-risk patients with persistent MRD after Immunotherapy (B-ALL and B-LLy) or Early Intensification (T-ALL and T-LLy), or those who cannot receive Immunotherapy.\n\nContinuation Treatment will consist of 120 weeks of risk-directed therapy. Dasatinib will continue in patients with ABL1-class fusion. Ruxolitinib will continue in patients with activation of JAK-STAT signaling that can be inhibited by ruxolitinib and Day 15 or Day 22 MRD ≥5% or Day 42 MRD ≥1% (or for LLy patients who do not qualify complete response at the end of Remission Induction) and all cases with ETP ALL. T-ALL and T-LLy patients with leukemia/lymphoma cells in cerebrospinal fluid at diagnosis or MRD ≥0.01% at the end of Induction will receive nelarabine. ALL/LLy Patients with the CEP72 rs904627T/T genotype (16% of patients) will be randomized (unblinded design except those who evaluate neuropathies) to receive either 1.5 mg/m2 or 1 mg/m2 of vincristine after Continuation Week 1. Patients with either a CEP72 rs904627 C/T or C/C genotype (84% of patients) will be randomized to receive vincristine and dexamethasone pulses through Week 49 of Continuation Treatment or through Week 101 of Continuation Treatment.\n\nPatients with mixed phenotype acute leukemia (MPAL) are eligible and treatment is given by using the same treatment stratification used in ALL (B/Myeloid [B/M] MPAL is treated as B-ALL and T/M MPAL is treated as ETP ALL) although analysis is performed separately from ALL or LLy cohorts.\n\nIntrathecal therapy is given throughout the treatment. The number of intrathecal therapy is based on the risk factors of central nervous system relapse."
-        ]
-      },
-      {
-        "Rank": 348,
-        "NCTId": [
           "NCT05203198"
         ],
         "OfficialTitle": [
@@ -18006,7 +17916,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 348,
         "NCTId": [
           "NCT03910933"
         ],
@@ -18086,6 +17996,400 @@
         ],
         "DetailedDescription": [
           "A more effective way to provide patient education is to utilize media technology. Current education styles do not teach patients in the best way as they are not consistent with how people of all ages currently learn (through technology). In addition, patienteaching most commonly occurs during highly stressful times like hospital visits with new diagnoses. Current patient educational methods are costly given the amount of health provider time required.\n\nElectronic KITE teaching modules are infographic visual representations that have been developed to provide patient teaching related to warfarin and its management.\n\nHow much patients have learned will be assessed using the KIDCLOT validated knowledge quizzes. Children 8 years and older to have cognitive capacity will complete the quizzes if able. Caregivers will complete all quizzes linked with the modules they have completed.\n\nPatients may be enrolled into the appropriate cohort based on the health provider decision for management.\n\nWarfarin international normalized ratio (INR) testing\nWarfarin with home INR testing\nWarfarin transition from home INR testing to warfarin self management."
+        ]
+      },
+      {
+        "Rank": 349,
+        "NCTId": [
+          "NCT04816643"
+        ],
+        "OfficialTitle": [
+          "PHASE 1, OPEN-LABEL DOSE-FINDING STUDY TO EVALUATE SAFETY, TOLERABILITY, AND IMMUNOGENICITY AND PHASE 2/3 PLACEBO-CONTROLLED, OBSERVER-BLINDED SAFETY, TOLERABILITY, AND IMMUNOGENICITY STUDY OF A SARS-COV-2 RNA VACCINE CANDIDATE AGAINST COVID-19 IN HEALTHY CHILDREN AND YOUNG ADULTS"
+        ],
+        "Condition": [
+          "SARS-CoV-2 Infection, COVID-19"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria\n\nMale or female participants ≥6 months to <12 years of age, at the time of randomization, at Visit 1 for the dose-finding/selected-dose evaluation and for participants ≥12 to <18 years of age, at the time of randomization, at Visit 1 for the lower-dose evaluation. For the obtaining-serum-samples-for-potential-troponin I-testing portion of the study: Male or female participants between ≥5 and <16 years of age.\nParticipants' parent(s)/legal guardian(s) and participants, as age appropriate, who are willing and able to comply with all scheduled visits, treatment plan, laboratory tests, lifestyle considerations, and other study procedures.\n\nHealthy participants who are determined by medical history, physical examination, and clinical judgment of the investigator to be eligible for inclusion in the study.\n\nNote: Healthy participants with preexisting stable disease, defined as disease not requiring significant change in the therapy or hospitalization for worsening disease during the 6 weeks before enrollment, can be included.\n\nParticipants are expected to be available for the duration of the study and whose parent(s)/legal guardian can be contacted by telephone during study participation.\nNegative urine pregnancy test for female participants who are biologically capable of having children.\nFemale participant of childbearing potential or male participant able to father children who is willing to use a highly effective method of contraception as outlined in this protocol for at least 28 days after the last dose of study intervention if at risk of pregnancy with her/his partner; or female participant not of childbearing potential or male participant not able to father children.\nThe participant or participant's parent(s)/legal guardian is capable of giving signed informed consent, which includes compliance with the requirements and restrictions listed in the ICD and in this protocol. Depending on the age of the participant and according to local requirements, participants will also be asked to provide assent as appropriate (verbal or written).\n\nExclusion Criteria\n\nPhase 1 only: Past clinical (based on COVID-19 symptoms/signs alone, if a SARS CoV 2 NAAT result was not available) or microbiological (based on COVID-19 symptoms/signs and a positive SARS-CoV-2 NAAT result) diagnosis of COVID 19.\nPhase 1 only: Known infection with HIV, HCV, or HBV.\nReceipt of medications intended to prevent COVID-19.\nPrevious or current diagnosis of MIS-C.\nOther medical or psychiatric condition including recent (within the past year) or active suicidal ideation/behavior or laboratory abnormality that may increase the risk of study participation or, in the investigator's judgment, make the participant inappropriate for the study. Note: This includes both conditions that may increase the risk associated with study intervention administration or a condition that may interfere with the interpretation of study results\nHistory of severe adverse reaction associated with a vaccine and/or severe allergic reaction (eg, anaphylaxis) to any component of the study intervention(s).\nImmunocompromised individuals with known or suspected immunodeficiency, as determined by history and/or laboratory/physical examination.\nIndividuals with a history of autoimmune disease or an active autoimmune disease requiring therapeutic intervention, including but not limited to systemic lupus erythematosus. Note: Stable type 1 diabetes and hypothyroidism are permitted.\nBleeding diathesis or condition associated with prolonged bleeding that would, in the opinion of the investigator, contraindicate intramuscular injection.\nFemale who is pregnant or breastfeeding.\nPrevious vaccination with any coronavirus vaccine.\nIndividuals who receive treatment with immunosuppressive therapy, including cytotoxic agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or planned receipt throughout the study. If systemic corticosteroids have been administered short term (<14 days) for treatment of an acute illness, participants should not be enrolled into the study until corticosteroid therapy has been discontinued for at least 28 days before study intervention administration. Inhaled/nebulized, intra-articular, intrabursal, or topical (skin or eyes) corticosteroids are permitted.\nReceipt of blood/plasma products, immunoglobulin, or monoclonal antibodies, from 60 days before study intervention administration, or receipt of any passive antibody therapy specific to COVID-19 from 90 days before study intervention administration, or planned receipt throughout the study.\nParticipation in other studies involving study intervention within 28 days prior to study entry and/or during study participation.\nPrevious participation in other studies involving study intervention containing LNPs.\nParticipants who are direct descendants (child or grandchild) of investigational site staff members or Pfizer/BioNTech employees directly involved in the conduct of the study, site staff otherwise supervised by the investigator, and their respective family members."
+        ],
+        "MinimumAge": [
+          "6 Months"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Oakland",
+          "Palo Alto",
+          "Paramount",
+          "Paramount",
+          "Rolling Hills Estates",
+          "Sacramento",
+          "Santa Clara",
+          "Valley Village",
+          "Aurora",
+          "New Haven",
+          "Washington",
+          "Miami",
+          "Orlando",
+          "Atlanta",
+          "Atlanta",
+          "Atlanta",
+          "Atlanta",
+          "Macon",
+          "Idaho Falls",
+          "Meridian",
+          "Newton",
+          "Wichita",
+          "Bardstown",
+          "Louisville",
+          "New Orleans",
+          "Shreveport",
+          "Baltimore",
+          "Boston",
+          "Chesterfield",
+          "Kansas City",
+          "Hastings",
+          "Omaha",
+          "Omaha",
+          "New Brunswick",
+          "Binghamton",
+          "Commack",
+          "East Setauket",
+          "Rochester",
+          "Rochester",
+          "Stony Brook",
+          "Syracuse",
+          "Durham",
+          "Durham",
+          "Cincinnati",
+          "Cincinnati",
+          "Columbus",
+          "Dayton",
+          "South Euclid",
+          "Erie",
+          "Warwick",
+          "Memphis",
+          "Nashville",
+          "Austin",
+          "Corpus Christi",
+          "Houston",
+          "Houston",
+          "Houston",
+          "Houston",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Charlottesville",
+          "Charlottesville",
+          "Midlothian",
+          "Seattle",
+          "Tampere",
+          "Oulu",
+          "Helsinki",
+          "Espoo",
+          "Helsinki",
+          "Helsinki",
+          "Jarvenpaa",
+          "Kokkola",
+          "Pori",
+          "Seinajoki",
+          "Turku",
+          "Bydgoszcz",
+          "Krakow",
+          "Lodz",
+          "Lodz",
+          "Lubon",
+          "Siemianowice Slaskie",
+          "Torun",
+          "Warszawa",
+          "Santiago de Compostela",
+          "Centelles",
+          "Esplugues De Llobregrat",
+          "Sant Cugat del Valles",
+          "Boadilla del Monte",
+          "Antequera",
+          "Malaga",
+          "Madrid",
+          "Mostoles",
+          "Sevilla"
+        ],
+        "LocationFacility": [
+          "University of Alabama at Birmingham - School of Medicine",
+          "Kaiser Permanente Oakland",
+          "Clinical & Translational Research Unit (CTRU) & Spectrum BioBank, Stanford University",
+          "Center for Clinical Trials, LLC",
+          "Center for Clinical Trials",
+          "Peninsula Research Associates",
+          "Kaiser Permanente Sacramento",
+          "Kaiser Permanente Santa Clara",
+          "Bayview Research Group, LLC",
+          "Children's Hospital Colorado",
+          "Yale Center for Clinical Investigation",
+          "Children's National Medical Center",
+          "Acevedo Clinical Research Associates",
+          "Clinical Neuroscience Solutions",
+          "Emory Children's Center Illness POD",
+          "Emory Clinic Investigational Drug Services",
+          "Emory University School of Medicine",
+          "Atlanta Center for Medical Research",
+          "Meridian Clinical Research, LLC",
+          "Clinical Research Prime",
+          "Solaris Clinical Research",
+          "Alliance for Multispecialty Research, LLC",
+          "Alliance for Multispecialty Research, LLC",
+          "Kentucky Pediatric/ Adult Research",
+          "Novak Center for Children's Health",
+          "Ochsner Clinic Foundation",
+          "Louisiana State University Health Sciences Shreveport",
+          "Center for Immunization Research Inpatient Unit",
+          "Boston Medical Center",
+          "Clinical Research Professionals",
+          "Children's Mercy Hospital",
+          "Meridian Clinical Research, LLC",
+          "Children's Hospital & Medical Center",
+          "Children's Physician's Clinic, Spring Valley",
+          "Rutgers University",
+          "Meridian Clinical Research, LLC",
+          "Advanced Specialty Care",
+          "Clinical Research Center",
+          "Rochester Clinical Research, Inc.",
+          "University of Rochester Medical Center",
+          "Stony Brook University",
+          "SUNY Upstate Medical University",
+          "Duke Vaccine and Trials Unit",
+          "Clinical Research Pickett Road",
+          "Cincinnati Children's Hospital Medical Center",
+          "Cincinnati Childrens Hospital Medical Center",
+          "Aventiv Research Inc.",
+          "PriMed Clinical Research",
+          "Senders Pediatrics",
+          "Allegheny Health and Wellness Pavilion",
+          "Velocity Clinical Research-Providence",
+          "St. Jude Children's Research Hospital",
+          "Clinical Research Associates Inc",
+          "ARC Clinical Research at Wilson Parke",
+          "Driscoll Children's Hospital",
+          "Van Tran Family Practice",
+          "Ventavia Research Group, LLC",
+          "Texas Children's Hospital - Clinical Research Center",
+          "West Houston Clinical Research Service",
+          "J. Lewis Research, Inc. / Foothill Family Clinic",
+          "J. Lewis Research, Inc. / Foothill Family Clinic South",
+          "Pediatric Associates of Charlottesville, PLC (Private Pediatric Practice)",
+          "Pediatric Research of Charlottesville, LLC",
+          "Virginia Research Center",
+          "Seattle Children's Hospital",
+          "Tampere Vaccine Research Clinic",
+          "Tampere university/ Oulu vaccine research clinic",
+          "Helsinki East Vaccine Research Clinic",
+          "Espoo Vaccine Research Clinic",
+          "Helsinki South Vaccine Research Clinic",
+          "MeVac, Meilahti Vaccine Research Center",
+          "Jarvenpaa Vaccine Research Center",
+          "Kokkola Vaccine Research Clinic",
+          "Pori Vaccine Research Clinic",
+          "Seinäjoki Vaccine Research Clinic",
+          "Turku Vaccine Research Clinic",
+          "IN VIVO Spolka z ograniczona odpowiedzialnoscia",
+          "Centrum Badań Klinicznych Jagiellońskie Centrum Innowacji sp. z o.o.",
+          "Osrodek Badan Klinicznych Appletreeclinics",
+          "GRAVITA Diagnostyka i Leczenie nieplodnosci",
+          "Rodzinne Centrum Medyczne LUBMED",
+          "Niepubliczny Zaklad Lecznictwa Ambulatoryjnego Michalkowice Jarosz i Partnerzy Spolka Lekarska",
+          "Nasz Lekarz Osrodek Badan Klinicznych",
+          "Provita 001",
+          "CHUS - Hospital Clinico Universitario",
+          "EAP Centelles",
+          "Hospital Sant Joan de Deu",
+          "Hospital Universitari General de Catalunya",
+          "Hospital Universitario HM Monteprincipe",
+          "Hospital de Antequera",
+          "Grupo Pediatrico Uncibay",
+          "Hospital Universitario 12 de Octubre",
+          "Hospital HM Puerta del Sur",
+          "Instituto Hispalense de Pediatria"
+        ],
+        "LocationState": [
+          "Alabama",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "Colorado",
+          "Connecticut",
+          "District of Columbia",
+          "Florida",
+          "Florida",
+          "Georgia",
+          "Georgia",
+          "Georgia",
+          "Georgia",
+          "Georgia",
+          "Idaho",
+          "Idaho",
+          "Kansas",
+          "Kansas",
+          "Kentucky",
+          "Kentucky",
+          "Louisiana",
+          "Louisiana",
+          "Maryland",
+          "Massachusetts",
+          "Missouri",
+          "Missouri",
+          "Nebraska",
+          "Nebraska",
+          "Nebraska",
+          "New Jersey",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "North Carolina",
+          "North Carolina",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Pennsylvania",
+          "Rhode Island",
+          "Tennessee",
+          "Tennessee",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Utah",
+          "Utah",
+          "Virginia",
+          "Virginia",
+          "Virginia",
+          "Washington",
+          "Pirkanmaa",
+          "Pohjois-pohjanmaa",
+          "Uusimaa",
+          "A Coruna",
+          "Barcelona",
+          "Barcelona",
+          "Barcelona",
+          "Madrid",
+          "Malaga",
+          "Málaga"
+        ],
+        "LocationZip": [
+          "35233",
+          "94611",
+          "94304",
+          "90723",
+          "90723",
+          "90274",
+          "95815",
+          "95051",
+          "91607",
+          "80045",
+          "06519",
+          "20010",
+          "33142",
+          "32801",
+          "30322",
+          "30322",
+          "30322",
+          "30331",
+          "31210",
+          "83404",
+          "83646",
+          "67114",
+          "67207",
+          "40004",
+          "40202",
+          "70121",
+          "71101",
+          "21224",
+          "02118",
+          "63005",
+          "64108",
+          "68901",
+          "68114",
+          "68117",
+          "08901",
+          "13901",
+          "11725",
+          "11733",
+          "14609",
+          "14642",
+          "11794",
+          "13210",
+          "27703",
+          "27705",
+          "45206",
+          "45229",
+          "43213",
+          "45419",
+          "44121",
+          "16506",
+          "02886",
+          "38105",
+          "37203",
+          "78726",
+          "78411",
+          "77008",
+          "77008",
+          "77030",
+          "77055",
+          "84109",
+          "84121",
+          "22902",
+          "22902",
+          "23114",
+          "98105",
+          "33100",
+          "90220",
+          "00930",
+          "02230",
+          "00100",
+          "00290",
+          "67100",
+          "28100",
+          "60100",
+          "20520",
+          "85-048",
+          "30-348",
+          "90-349",
+          "91-347",
+          "62-030",
+          "41-103",
+          "87-100",
+          "02-647",
+          "15706",
+          "08540",
+          "08950",
+          "08195",
+          "28660",
+          "29200",
+          "29015",
+          "28041",
+          "28938",
+          "41012"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "This is a Phase 1/2/3 study in healthy children and young adults.\n\nDependent upon safety and/or immunogenicity data generated during the course of this study, and the resulting assessment of benefit-risk, the safety, tolerability, and immunogenicity of BNT162b2 in participants <6 months of age may subsequently be evaluated."
+        ],
+        "DetailedDescription": [
+          "Phase 1 Dose-Finding\n\nIs the open-label dose-finding portion of the study that will evaluate safety, tolerability, and immunogenicity of BNT162b2 administered on a 2-dose (separated by approximately 21 days) schedule in up to 3 age groups (participants ≥5 to <12 years, ≥2 to <5 years, and ≥6 months to <2 years of age).\n\nDose finding is being initiated in this study in participants ≥5 to <12 years of age based on the acceptable blinded safety assessment of the 30-µg dose in 12- to 15-year-olds in the C4591001 study.\n\nThe purpose of Phase 1 is to identify preferred dose level(s) of BNT162b2 from up to 3 different dose levels in each age group.\n\nDependent upon safety and/or immunogenicity data generated during the course of this study, it is possible that dose levels may not be started, may be terminated early, and/or may be added with dose levels below the lowest stated dose.\n\nParticipants will have blood drawn prior to both Dose 1 and Dose 2 and 7 days after Dose 2 to assess for immunogenicity to determine the final BNT162b2 dose level for the Phase 2/3.\n\nPhase 1 Lower-Dose Evaluation\n\nIs the open-label lower-dose evaluation portion of the study that will evaluate the safety, tolerability, and immunogenicity of 10 µg BNT162b2 from 2 schedules in 2 age groups (participants 12 to <16 years and 16 to <18 years of age).\n\nThe purpose of the Phase 1 lower-dose evaluation is to evaluate the safety and immunogenicity of BNT162b2 from 2 different dose schedules in each age group: (1) 2 doses separated by approximately 21 days and (2) 2 doses separated by approximately 8 weeks.\n\nParticipants will have blood drawn prior to Dose 1, prior to Dose 2, 7 days after Dose 2, and 1 month after Dose 2 to assess immunogenicity to determine the selected BNT162b2 dose schedule for the Phase 2/3 lower-dose evaluation portion of the study. In addition, participants will have blood drawn at 6 and 12 months after Dose 2 to determine the persistence of the immune response.\n\nPhase 2/3 Selected-Dose\n\nIs the portion of the study that will evaluate the safety, tolerability, and immunogenicity of the selected dose level in each age group at the selected dose level from Phase 1 dose finding, with a total of approximately 6750 participants as an additional 2250 participants will be included to enlarge the size of the pediatric safety database. Participants will be randomized in a 2:1 ratio to receive active vaccine or placebo.\n\nApproximately 450 participants (300 in the active vaccine group and 150 in the placebo group) randomized in each age group in this phase will contribute to the immunobridging analysis at 1 month after Dose 2 and will contribute to the overall analysis of the persistence of immune response at 6 months after Dose 2. These participants will be enrolled from both US and EU sites to ensure this subset is representative of the whole study.\n\nFor the persistence time points of 12 and 24 months after Dose 2, approximately 70 participants from each age group in the original BNT162b2 group will have an immunogenicity blood draw in order to contribute to the analysis. All approximately 6750 participants will contribute to the VE analysis for conditional VE and asymptomatic infection. Efficacy will be evaluated within or across age groups in which immunobridging is successful, depending on accrual of a sufficient number of cases in those age groups.\n\nAt designated US sites, an additional optional whole blood sample of approximately 10 mL will be obtained prior to Dose 1 and at 7 days and 6 months after Dose 2 from up to approximately 60 participants ≥10 years of age. These samples will be used on an exploratory basis to investigate the postvaccination cell-mediated immune response at these time points.\n\nPhase 2/3 Lower-Dose Evaluation\n\nIs the open-label portion of the study that will evaluate the safety, tolerability, and immunogenicity of the selected dose schedule in each age group from the Phase 1 lower-dose evaluation, with a total of approximately 600 active participants.\n\nApproximately 300 active participants in each age group in this phase will contribute to the immunobridging analysis at 1 month after Dose 2 and the overall analysis of the persistence of immune response at 6 and 12 months after Dose 2.\n\nPhase 2/3 Obtaining Serum Samples for Potential Troponin I Testing\n\nIf testing of troponin I levels in individuals who did not receive BNT162b2 indicates that troponin I level could be a reliable indicator of potential subclinical myocarditis, obtaining serum samples for potential troponin I testing during the period of increased risk of clinical myocarditis may help characterize the absence/presence and frequency of subclinical myocarditis. To assess, an additional group of participants will be included: 5 to <12 years: 750 participants randomized 2:1 to receive BNT162b2 10 µg or placebo, and 500 participants 12 to <16 years of age: open-label receipt of BNT162b2 30 µg."
         ]
       },
       {
@@ -18390,6 +18694,267 @@
       },
       {
         "Rank": 352,
+        "NCTId": [
+          "NCT04318548"
+        ],
+        "OfficialTitle": [
+          "A Phase IIIB, Randomized, Observer-blind, Multicenter Study to Assess the Safety and Immunogenicity of GSK's Meningococcal Group B Vaccine When Administered Concomitantly With GSK's Meningococcal MenACWY Conjugate Vaccine to Healthy Subjects of 16-18 Years of Age"
+        ],
+        "Condition": [
+          "Infections, Meningococcal"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nSubjects who, in the opinion of the investigator, can and will comply with the requirements of the protocol or/and subjects' parent(s)/Legally Acceptable Representative(s) [LAR(s)] who, in the opinion of the investigator, can and will comply, with the requirements of the protocol.\nPrevious vaccination with 1 dose of quadrivalent meningococcal conjugate vaccine (MenACWY, Menveo or Menactra) at least 4 years prior to informed consent and assent as applicable.\nWritten or /witnessed/thumb printed informed consent obtained from the subject/parent(s)/LAR(s) of the subject prior to performance of any study specific procedure.\nWritten informed assent obtained from the subject (if applicable) along with informed consent from the subject's parent(s)/LAR(s) prior to performing any study specific procedure.\nA male or female between, and including, 16 and 18 years of age at the time of the first vaccination.\nHealthy subjects as established by medical history and clinical examination before entering into the study.\nFemale subjects of non-childbearing potential may be enrolled in the study. Non-childbearing potential is defined as pre-menarche, current bilateral tubal ligation or occlusion, hysterectomy, bilateral ovariectomy or post-menopause.\n\nFemale subjects of childbearing potential may be enrolled in the study, if the subject:\n\nhas practiced adequate contraception for 30 days prior to vaccination, and\nhas a negative pregnancy test on the day of vaccination, and\nhas agreed to continue adequate contraception during the entire treatment period and for 2 months after completion of the vaccination series.\n\nExclusion Criteria:\n\nMedical conditions\n\nProgressive, unstable or uncontrolled clinical conditions.\nClinical conditions representing a contraindication to intramuscular vaccination and blood draws.\n\nAbnormal function of the immune system resulting from:\n\nClinical conditions.\nSystemic administration of corticosteroids (PO/IV/IM) for more than 14 consecutive days within 90 days prior to study vaccination. This will mean prednisone ≥ 20 mg/day (for adult subjects) or ≥ 0.5 mg/kg/day or 20 mg/day whichever is the maximum dose for paediatric subjects, or equivalent. Inhaled and topical steroids are allowed.\nAdministration of antineoplastic or immunomodulating agents or radiotherapy within 90 days prior to informed consent.\nAre obese at screening (obesity is defined as a BMI of ≥ 95th percentile for age and gender).\nAny other clinical condition that, in the opinion of the investigator, might pose additional risk to the subject due to participation in the study.\nHistory of any reaction or hypersensitivity likely to be exacerbated by any component of the vaccines.\nHistory of any reaction or hypersensitivity likely to be exacerbated by any medicinal products or medical equipment whose use is foreseen in this study.\nCurrent or previous, confirmed or suspected disease caused by N. meningitidis.\nKnown contact to an individual with any laboratory-confirmed N. meningitidis infection within 60 days, prior to enrolment.\nHistory of neuroinflammatory or autoimmune condition.\nRecurrent history or un-controlled neurological disorders or seizures.\n\nPrior/Concomitant therapy\n\nUse of any investigational or non-registered product other than the study vaccine(s) during the period starting 30 days before the informed consent or planned use during the study period.\nAdministration of immunoglobulins and/or any blood products or plasma derivatives during the period starting 180 days before the informed consent or planned administration during the study period.\nPrevious vaccination with any group B meningococcal vaccine at any time prior to informed consent and assent as applicable.\nPrevious vaccination with 2 doses of quadrivalent meningococcal conjugate vaccine (MenACWY, Menveo or Menactra).\n\nPrior/Concurrent clinical study experience\n\n• Subject concurrently participating in another clinical study, at any time during the study period, in which the subject has been or will be exposed to an investigational or a non-investigational vaccine/product, will not be enrolled.\n\nOther exclusions\n\nChild in care.\nPregnant or lactating female.\nFemale planning to become pregnant or planning to discontinue contraceptive precautions.\nAny study personnel or immediate dependants, family, or household member."
+        ],
+        "MinimumAge": [
+          "16 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Nampa",
+          "Bardstown",
+          "Louisville",
+          "Lafayette",
+          "New Orleans",
+          "Cortland",
+          "Charlotte",
+          "Columbus",
+          "Dayton",
+          "Corvallis",
+          "Erie",
+          "Hermitage",
+          "Uniontown",
+          "Austin",
+          "Salt Lake City",
+          "Syracuse",
+          "Chiavari (GE)",
+          "Milano",
+          "Milano",
+          "Foggia"
+        ],
+        "LocationFacility": [
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site",
+          "GSK Investigational Site"
+        ],
+        "LocationState": [
+          "Idaho",
+          "Kentucky",
+          "Kentucky",
+          "Louisiana",
+          "Louisiana",
+          "New York",
+          "North Carolina",
+          "Ohio",
+          "Ohio",
+          "Oregon",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Texas",
+          "Utah",
+          "Utah",
+          "Liguria",
+          "Lombardia",
+          "Lombardia",
+          "Puglia"
+        ],
+        "LocationZip": [
+          "83686",
+          "40004",
+          "40291",
+          "70508",
+          "70121",
+          "13045",
+          "28226",
+          "43213",
+          "45419",
+          "97330",
+          "16508",
+          "16148",
+          "15401",
+          "78726",
+          "84107",
+          "84075",
+          "16043",
+          "20122",
+          "20162",
+          "71122"
+        ],
+        "LocationContactEMail": [
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com",
+          "GSKClinicalSupportHD@gsk.com"
+        ],
+        "LocationContactName": [
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Richard Aguilar",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Stanley L Block",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Wendy C. Daly",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Jibran Atwi",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Julia Garcia-Diaz",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Christopher A Smith",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Arin Piramzadian",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Samir Arora",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Rogelio Amisola",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Christine E Rivers",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Bradley P. Fox",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Cheryl Duffy",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Joseph M. Labuda II",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Jacques Benun",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Todd Bertoch",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Peter E Silas",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Antonella Carpi",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Samantha Bosis",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Maurizio Orso",
+          "US GSK Clinical Trials Call Center",
+          "EU GSK Clinical Trials Call Centre",
+          "Rosa Prato"
+        ],
+        "LocationContactPhone": [
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466",
+          "877-379-3718",
+          "+44 (0) 20 8990 4466"
+        ],
+        "BriefSummary": [
+          "The purpose of this study is to evaluate the immunogenicity, safety and tolerability of rMenB+OMV NZ and MenACWY vaccines when concomitantly administered to healthy subjects 16-18 years of age."
+        ],
+        "DetailedDescription": [
+          "As per the recommendation from Center for Biologics Evaluation and Research (CBER) the study has been amended to include a new \"agar-overlay\" serum bactericidal assay using human serum complement (hSBA). Additional changes include validation of the MenB manual to measure immunogenicity of the meningococcal group B vaccine, a modification in the definition of 4-fold increase in post-vaccination hSBA titer definition when the pre-vaccination titer is below the limit of detection, and a modification in the population set to be used for safety analysis wherein the exposed set is to be used for all safety analyses."
+        ]
+      },
+      {
+        "Rank": 353,
         "NCTId": [
           "NCT04258943"
         ],
@@ -18748,7 +19313,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 354,
         "NCTId": [
           "NCT04203316"
         ],
@@ -18927,7 +19492,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 355,
         "NCTId": [
           "NCT04195399"
         ],
@@ -19571,7 +20136,7 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 356,
         "NCTId": [
           "NCT02121132"
         ],
@@ -19749,662 +20314,7 @@
         ]
       },
       {
-        "Rank": 356,
-        "NCTId": [
-          "NCT04816643"
-        ],
-        "OfficialTitle": [
-          "PHASE 1, OPEN-LABEL DOSE-FINDING STUDY TO EVALUATE SAFETY, TOLERABILITY, AND IMMUNOGENICITY AND PHASE 2/3 PLACEBO-CONTROLLED, OBSERVER-BLINDED SAFETY, TOLERABILITY, AND IMMUNOGENICITY STUDY OF A SARS-COV-2 RNA VACCINE CANDIDATE AGAINST COVID-19 IN HEALTHY CHILDREN AND YOUNG ADULTS"
-        ],
-        "Condition": [
-          "SARS-CoV-2 Infection, COVID-19"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria\n\nMale or female participants ≥6 months to <12 years of age, at the time of randomization, at Visit 1 for the dose-finding/selected-dose evaluation and for participants ≥12 to <18 years of age, at the time of randomization, at Visit 1 for the lower-dose evaluation. For the obtaining-serum-samples-for-potential-troponin I-testing portion of the study: Male or female participants between ≥5 and <16 years of age.\nParticipants' parent(s)/legal guardian(s) and participants, as age appropriate, who are willing and able to comply with all scheduled visits, treatment plan, laboratory tests, lifestyle considerations, and other study procedures.\n\nHealthy participants who are determined by medical history, physical examination, and clinical judgment of the investigator to be eligible for inclusion in the study.\n\nNote: Healthy participants with preexisting stable disease, defined as disease not requiring significant change in the therapy or hospitalization for worsening disease during the 6 weeks before enrollment, can be included.\n\nParticipants are expected to be available for the duration of the study and whose parent(s)/legal guardian can be contacted by telephone during study participation.\nNegative urine pregnancy test for female participants who are biologically capable of having children.\nFemale participant of childbearing potential or male participant able to father children who is willing to use a highly effective method of contraception as outlined in this protocol for at least 28 days after the last dose of study intervention if at risk of pregnancy with her/his partner; or female participant not of childbearing potential or male participant not able to father children.\nThe participant or participant's parent(s)/legal guardian is capable of giving signed informed consent, which includes compliance with the requirements and restrictions listed in the ICD and in this protocol. Depending on the age of the participant and according to local requirements, participants will also be asked to provide assent as appropriate (verbal or written).\n\nExclusion Criteria\n\nPhase 1 only: Past clinical (based on COVID-19 symptoms/signs alone, if a SARS CoV 2 NAAT result was not available) or microbiological (based on COVID-19 symptoms/signs and a positive SARS-CoV-2 NAAT result) diagnosis of COVID 19.\nPhase 1 only: Known infection with HIV, HCV, or HBV.\nReceipt of medications intended to prevent COVID-19.\nPrevious or current diagnosis of MIS-C.\nOther medical or psychiatric condition including recent (within the past year) or active suicidal ideation/behavior or laboratory abnormality that may increase the risk of study participation or, in the investigator's judgment, make the participant inappropriate for the study. Note: This includes both conditions that may increase the risk associated with study intervention administration or a condition that may interfere with the interpretation of study results\nHistory of severe adverse reaction associated with a vaccine and/or severe allergic reaction (eg, anaphylaxis) to any component of the study intervention(s).\nImmunocompromised individuals with known or suspected immunodeficiency, as determined by history and/or laboratory/physical examination.\nIndividuals with a history of autoimmune disease or an active autoimmune disease requiring therapeutic intervention, including but not limited to systemic lupus erythematosus. Note: Stable type 1 diabetes and hypothyroidism are permitted.\nBleeding diathesis or condition associated with prolonged bleeding that would, in the opinion of the investigator, contraindicate intramuscular injection.\nFemale who is pregnant or breastfeeding.\nPrevious vaccination with any coronavirus vaccine.\nIndividuals who receive treatment with immunosuppressive therapy, including cytotoxic agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or planned receipt throughout the study. If systemic corticosteroids have been administered short term (<14 days) for treatment of an acute illness, participants should not be enrolled into the study until corticosteroid therapy has been discontinued for at least 28 days before study intervention administration. Inhaled/nebulized, intra-articular, intrabursal, or topical (skin or eyes) corticosteroids are permitted.\nReceipt of blood/plasma products, immunoglobulin, or monoclonal antibodies, from 60 days before study intervention administration, or receipt of any passive antibody therapy specific to COVID-19 from 90 days before study intervention administration, or planned receipt throughout the study.\nParticipation in other studies involving study intervention within 28 days prior to study entry and/or during study participation.\nPrevious participation in other studies involving study intervention containing LNPs.\nParticipants who are direct descendants (child or grandchild) of investigational site staff members or Pfizer/BioNTech employees directly involved in the conduct of the study, site staff otherwise supervised by the investigator, and their respective family members."
-        ],
-        "MinimumAge": [
-          "6 Months"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Birmingham",
-          "Oakland",
-          "Palo Alto",
-          "Paramount",
-          "Paramount",
-          "Rolling Hills Estates",
-          "Sacramento",
-          "Santa Clara",
-          "Valley Village",
-          "Aurora",
-          "New Haven",
-          "Washington",
-          "Miami",
-          "Orlando",
-          "Atlanta",
-          "Atlanta",
-          "Atlanta",
-          "Atlanta",
-          "Macon",
-          "Idaho Falls",
-          "Meridian",
-          "Newton",
-          "Wichita",
-          "Bardstown",
-          "Louisville",
-          "New Orleans",
-          "Shreveport",
-          "Baltimore",
-          "Boston",
-          "Chesterfield",
-          "Kansas City",
-          "Hastings",
-          "Omaha",
-          "Omaha",
-          "New Brunswick",
-          "Binghamton",
-          "Commack",
-          "East Setauket",
-          "Rochester",
-          "Rochester",
-          "Stony Brook",
-          "Syracuse",
-          "Durham",
-          "Durham",
-          "Cincinnati",
-          "Cincinnati",
-          "Columbus",
-          "Dayton",
-          "South Euclid",
-          "Erie",
-          "Warwick",
-          "Memphis",
-          "Nashville",
-          "Austin",
-          "Corpus Christi",
-          "Houston",
-          "Houston",
-          "Houston",
-          "Houston",
-          "Salt Lake City",
-          "Salt Lake City",
-          "Charlottesville",
-          "Charlottesville",
-          "Midlothian",
-          "Seattle",
-          "Tampere",
-          "Oulu",
-          "Helsinki",
-          "Espoo",
-          "Helsinki",
-          "Helsinki",
-          "Jarvenpaa",
-          "Kokkola",
-          "Pori",
-          "Seinajoki",
-          "Turku",
-          "Bydgoszcz",
-          "Krakow",
-          "Lodz",
-          "Lodz",
-          "Lubon",
-          "Siemianowice Slaskie",
-          "Torun",
-          "Warszawa",
-          "Santiago de Compostela",
-          "Centelles",
-          "Esplugues De Llobregrat",
-          "Sant Cugat del Valles",
-          "Boadilla del Monte",
-          "Antequera",
-          "Malaga",
-          "Madrid",
-          "Mostoles",
-          "Sevilla"
-        ],
-        "LocationFacility": [
-          "University of Alabama at Birmingham - School of Medicine",
-          "Kaiser Permanente Oakland",
-          "Clinical & Translational Research Unit (CTRU) & Spectrum BioBank, Stanford University",
-          "Center for Clinical Trials, LLC",
-          "Center for Clinical Trials",
-          "Peninsula Research Associates",
-          "Kaiser Permanente Sacramento",
-          "Kaiser Permanente Santa Clara",
-          "Bayview Research Group, LLC",
-          "Children's Hospital Colorado",
-          "Yale Center for Clinical Investigation",
-          "Children's National Medical Center",
-          "Acevedo Clinical Research Associates",
-          "Clinical Neuroscience Solutions",
-          "Emory Children's Center Illness POD",
-          "Emory Clinic Investigational Drug Services",
-          "Emory University School of Medicine",
-          "Atlanta Center for Medical Research",
-          "Meridian Clinical Research, LLC",
-          "Clinical Research Prime",
-          "Solaris Clinical Research",
-          "Alliance for Multispecialty Research, LLC",
-          "Alliance for Multispecialty Research, LLC",
-          "Kentucky Pediatric/ Adult Research",
-          "Novak Center for Children's Health",
-          "Ochsner Clinic Foundation",
-          "Louisiana State University Health Sciences Shreveport",
-          "Center for Immunization Research Inpatient Unit",
-          "Boston Medical Center",
-          "Clinical Research Professionals",
-          "Children's Mercy Hospital",
-          "Meridian Clinical Research, LLC",
-          "Children's Hospital & Medical Center",
-          "Children's Physician's Clinic, Spring Valley",
-          "Rutgers University",
-          "Meridian Clinical Research, LLC",
-          "Advanced Specialty Care",
-          "Clinical Research Center",
-          "Rochester Clinical Research, Inc.",
-          "University of Rochester Medical Center",
-          "Stony Brook University",
-          "SUNY Upstate Medical University",
-          "Duke Vaccine and Trials Unit",
-          "Clinical Research Pickett Road",
-          "Cincinnati Children's Hospital Medical Center",
-          "Cincinnati Childrens Hospital Medical Center",
-          "Aventiv Research Inc.",
-          "PriMed Clinical Research",
-          "Senders Pediatrics",
-          "Allegheny Health and Wellness Pavilion",
-          "Velocity Clinical Research-Providence",
-          "St. Jude Children's Research Hospital",
-          "Clinical Research Associates Inc",
-          "ARC Clinical Research at Wilson Parke",
-          "Driscoll Children's Hospital",
-          "Van Tran Family Practice",
-          "Ventavia Research Group, LLC",
-          "Texas Children's Hospital - Clinical Research Center",
-          "West Houston Clinical Research Service",
-          "J. Lewis Research, Inc. / Foothill Family Clinic",
-          "J. Lewis Research, Inc. / Foothill Family Clinic South",
-          "Pediatric Associates of Charlottesville, PLC (Private Pediatric Practice)",
-          "Pediatric Research of Charlottesville, LLC",
-          "Virginia Research Center",
-          "Seattle Children's Hospital",
-          "Tampere Vaccine Research Clinic",
-          "Tampere university/ Oulu vaccine research clinic",
-          "Helsinki East Vaccine Research Clinic",
-          "Espoo Vaccine Research Clinic",
-          "Helsinki South Vaccine Research Clinic",
-          "MeVac, Meilahti Vaccine Research Center",
-          "Jarvenpaa Vaccine Research Center",
-          "Kokkola Vaccine Research Clinic",
-          "Pori Vaccine Research Clinic",
-          "Seinäjoki Vaccine Research Clinic",
-          "Turku Vaccine Research Clinic",
-          "IN VIVO Spolka z ograniczona odpowiedzialnoscia",
-          "Centrum Badań Klinicznych Jagiellońskie Centrum Innowacji sp. z o.o.",
-          "Osrodek Badan Klinicznych Appletreeclinics",
-          "GRAVITA Diagnostyka i Leczenie nieplodnosci",
-          "Rodzinne Centrum Medyczne LUBMED",
-          "Niepubliczny Zaklad Lecznictwa Ambulatoryjnego Michalkowice Jarosz i Partnerzy Spolka Lekarska",
-          "Nasz Lekarz Osrodek Badan Klinicznych",
-          "Provita 001",
-          "CHUS - Hospital Clinico Universitario",
-          "EAP Centelles",
-          "Hospital Sant Joan de Deu",
-          "Hospital Universitari General de Catalunya",
-          "Hospital Universitario HM Monteprincipe",
-          "Hospital de Antequera",
-          "Grupo Pediatrico Uncibay",
-          "Hospital Universitario 12 de Octubre",
-          "Hospital HM Puerta del Sur",
-          "Instituto Hispalense de Pediatria"
-        ],
-        "LocationState": [
-          "Alabama",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "Colorado",
-          "Connecticut",
-          "District of Columbia",
-          "Florida",
-          "Florida",
-          "Georgia",
-          "Georgia",
-          "Georgia",
-          "Georgia",
-          "Georgia",
-          "Idaho",
-          "Idaho",
-          "Kansas",
-          "Kansas",
-          "Kentucky",
-          "Kentucky",
-          "Louisiana",
-          "Louisiana",
-          "Maryland",
-          "Massachusetts",
-          "Missouri",
-          "Missouri",
-          "Nebraska",
-          "Nebraska",
-          "Nebraska",
-          "New Jersey",
-          "New York",
-          "New York",
-          "New York",
-          "New York",
-          "New York",
-          "New York",
-          "New York",
-          "North Carolina",
-          "North Carolina",
-          "Ohio",
-          "Ohio",
-          "Ohio",
-          "Ohio",
-          "Ohio",
-          "Pennsylvania",
-          "Rhode Island",
-          "Tennessee",
-          "Tennessee",
-          "Texas",
-          "Texas",
-          "Texas",
-          "Texas",
-          "Texas",
-          "Texas",
-          "Utah",
-          "Utah",
-          "Virginia",
-          "Virginia",
-          "Virginia",
-          "Washington",
-          "Pirkanmaa",
-          "Pohjois-pohjanmaa",
-          "Uusimaa",
-          "A Coruna",
-          "Barcelona",
-          "Barcelona",
-          "Barcelona",
-          "Madrid",
-          "Malaga",
-          "Málaga"
-        ],
-        "LocationZip": [
-          "35233",
-          "94611",
-          "94304",
-          "90723",
-          "90723",
-          "90274",
-          "95815",
-          "95051",
-          "91607",
-          "80045",
-          "06519",
-          "20010",
-          "33142",
-          "32801",
-          "30322",
-          "30322",
-          "30322",
-          "30331",
-          "31210",
-          "83404",
-          "83646",
-          "67114",
-          "67207",
-          "40004",
-          "40202",
-          "70121",
-          "71101",
-          "21224",
-          "02118",
-          "63005",
-          "64108",
-          "68901",
-          "68114",
-          "68117",
-          "08901",
-          "13901",
-          "11725",
-          "11733",
-          "14609",
-          "14642",
-          "11794",
-          "13210",
-          "27703",
-          "27705",
-          "45206",
-          "45229",
-          "43213",
-          "45419",
-          "44121",
-          "16506",
-          "02886",
-          "38105",
-          "37203",
-          "78726",
-          "78411",
-          "77008",
-          "77008",
-          "77030",
-          "77055",
-          "84109",
-          "84121",
-          "22902",
-          "22902",
-          "23114",
-          "98105",
-          "33100",
-          "90220",
-          "00930",
-          "02230",
-          "00100",
-          "00290",
-          "67100",
-          "28100",
-          "60100",
-          "20520",
-          "85-048",
-          "30-348",
-          "90-349",
-          "91-347",
-          "62-030",
-          "41-103",
-          "87-100",
-          "02-647",
-          "15706",
-          "08540",
-          "08950",
-          "08195",
-          "28660",
-          "29200",
-          "29015",
-          "28041",
-          "28938",
-          "41012"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "This is a Phase 1/2/3 study in healthy children and young adults.\n\nDependent upon safety and/or immunogenicity data generated during the course of this study, and the resulting assessment of benefit-risk, the safety, tolerability, and immunogenicity of BNT162b2 in participants <6 months of age may subsequently be evaluated."
-        ],
-        "DetailedDescription": [
-          "Phase 1 Dose-Finding\n\nIs the open-label dose-finding portion of the study that will evaluate safety, tolerability, and immunogenicity of BNT162b2 administered on a 2-dose (separated by approximately 21 days) schedule in up to 3 age groups (participants ≥5 to <12 years, ≥2 to <5 years, and ≥6 months to <2 years of age).\n\nDose finding is being initiated in this study in participants ≥5 to <12 years of age based on the acceptable blinded safety assessment of the 30-µg dose in 12- to 15-year-olds in the C4591001 study.\n\nThe purpose of Phase 1 is to identify preferred dose level(s) of BNT162b2 from up to 3 different dose levels in each age group.\n\nDependent upon safety and/or immunogenicity data generated during the course of this study, it is possible that dose levels may not be started, may be terminated early, and/or may be added with dose levels below the lowest stated dose.\n\nParticipants will have blood drawn prior to both Dose 1 and Dose 2 and 7 days after Dose 2 to assess for immunogenicity to determine the final BNT162b2 dose level for the Phase 2/3.\n\nPhase 1 Lower-Dose Evaluation\n\nIs the open-label lower-dose evaluation portion of the study that will evaluate the safety, tolerability, and immunogenicity of 10 µg BNT162b2 from 2 schedules in 2 age groups (participants 12 to <16 years and 16 to <18 years of age).\n\nThe purpose of the Phase 1 lower-dose evaluation is to evaluate the safety and immunogenicity of BNT162b2 from 2 different dose schedules in each age group: (1) 2 doses separated by approximately 21 days and (2) 2 doses separated by approximately 8 weeks.\n\nParticipants will have blood drawn prior to Dose 1, prior to Dose 2, 7 days after Dose 2, and 1 month after Dose 2 to assess immunogenicity to determine the selected BNT162b2 dose schedule for the Phase 2/3 lower-dose evaluation portion of the study. In addition, participants will have blood drawn at 6 and 12 months after Dose 2 to determine the persistence of the immune response.\n\nPhase 2/3 Selected-Dose\n\nIs the portion of the study that will evaluate the safety, tolerability, and immunogenicity of the selected dose level in each age group at the selected dose level from Phase 1 dose finding, with a total of approximately 6750 participants as an additional 2250 participants will be included to enlarge the size of the pediatric safety database. Participants will be randomized in a 2:1 ratio to receive active vaccine or placebo.\n\nApproximately 450 participants (300 in the active vaccine group and 150 in the placebo group) randomized in each age group in this phase will contribute to the immunobridging analysis at 1 month after Dose 2 and will contribute to the overall analysis of the persistence of immune response at 6 months after Dose 2. These participants will be enrolled from both US and EU sites to ensure this subset is representative of the whole study.\n\nFor the persistence time points of 12 and 24 months after Dose 2, approximately 70 participants from each age group in the original BNT162b2 group will have an immunogenicity blood draw in order to contribute to the analysis. All approximately 6750 participants will contribute to the VE analysis for conditional VE and asymptomatic infection. Efficacy will be evaluated within or across age groups in which immunobridging is successful, depending on accrual of a sufficient number of cases in those age groups.\n\nAt designated US sites, an additional optional whole blood sample of approximately 10 mL will be obtained prior to Dose 1 and at 7 days and 6 months after Dose 2 from up to approximately 60 participants ≥10 years of age. These samples will be used on an exploratory basis to investigate the postvaccination cell-mediated immune response at these time points.\n\nPhase 2/3 Lower-Dose Evaluation\n\nIs the open-label portion of the study that will evaluate the safety, tolerability, and immunogenicity of the selected dose schedule in each age group from the Phase 1 lower-dose evaluation, with a total of approximately 600 active participants.\n\nApproximately 300 active participants in each age group in this phase will contribute to the immunobridging analysis at 1 month after Dose 2 and the overall analysis of the persistence of immune response at 6 and 12 months after Dose 2.\n\nPhase 2/3 Obtaining Serum Samples for Potential Troponin I Testing\n\nIf testing of troponin I levels in individuals who did not receive BNT162b2 indicates that troponin I level could be a reliable indicator of potential subclinical myocarditis, obtaining serum samples for potential troponin I testing during the period of increased risk of clinical myocarditis may help characterize the absence/presence and frequency of subclinical myocarditis. To assess, an additional group of participants will be included: 5 to <12 years: 750 participants randomized 2:1 to receive BNT162b2 10 µg or placebo, and 500 participants 12 to <16 years of age: open-label receipt of BNT162b2 30 µg."
-        ]
-      },
-      {
         "Rank": 357,
-        "NCTId": [
-          "NCT04318548"
-        ],
-        "OfficialTitle": [
-          "A Phase IIIB, Randomized, Observer-blind, Multicenter Study to Assess the Safety and Immunogenicity of GSK's Meningococcal Group B Vaccine When Administered Concomitantly With GSK's Meningococcal MenACWY Conjugate Vaccine to Healthy Subjects of 16-18 Years of Age"
-        ],
-        "Condition": [
-          "Infections, Meningococcal"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nSubjects who, in the opinion of the investigator, can and will comply with the requirements of the protocol or/and subjects' parent(s)/Legally Acceptable Representative(s) [LAR(s)] who, in the opinion of the investigator, can and will comply, with the requirements of the protocol.\nPrevious vaccination with 1 dose of quadrivalent meningococcal conjugate vaccine (MenACWY, Menveo or Menactra) at least 4 years prior to informed consent and assent as applicable.\nWritten or /witnessed/thumb printed informed consent obtained from the subject/parent(s)/LAR(s) of the subject prior to performance of any study specific procedure.\nWritten informed assent obtained from the subject (if applicable) along with informed consent from the subject's parent(s)/LAR(s) prior to performing any study specific procedure.\nA male or female between, and including, 16 and 18 years of age at the time of the first vaccination.\nHealthy subjects as established by medical history and clinical examination before entering into the study.\nFemale subjects of non-childbearing potential may be enrolled in the study. Non-childbearing potential is defined as pre-menarche, current bilateral tubal ligation or occlusion, hysterectomy, bilateral ovariectomy or post-menopause.\n\nFemale subjects of childbearing potential may be enrolled in the study, if the subject:\n\nhas practiced adequate contraception for 30 days prior to vaccination, and\nhas a negative pregnancy test on the day of vaccination, and\nhas agreed to continue adequate contraception during the entire treatment period and for 2 months after completion of the vaccination series.\n\nExclusion Criteria:\n\nMedical conditions\n\nProgressive, unstable or uncontrolled clinical conditions.\nClinical conditions representing a contraindication to intramuscular vaccination and blood draws.\n\nAbnormal function of the immune system resulting from:\n\nClinical conditions.\nSystemic administration of corticosteroids (PO/IV/IM) for more than 14 consecutive days within 90 days prior to study vaccination. This will mean prednisone ≥ 20 mg/day (for adult subjects) or ≥ 0.5 mg/kg/day or 20 mg/day whichever is the maximum dose for paediatric subjects, or equivalent. Inhaled and topical steroids are allowed.\nAdministration of antineoplastic or immunomodulating agents or radiotherapy within 90 days prior to informed consent.\nAre obese at screening (obesity is defined as a BMI of ≥ 95th percentile for age and gender).\nAny other clinical condition that, in the opinion of the investigator, might pose additional risk to the subject due to participation in the study.\nHistory of any reaction or hypersensitivity likely to be exacerbated by any component of the vaccines.\nHistory of any reaction or hypersensitivity likely to be exacerbated by any medicinal products or medical equipment whose use is foreseen in this study.\nCurrent or previous, confirmed or suspected disease caused by N. meningitidis.\nKnown contact to an individual with any laboratory-confirmed N. meningitidis infection within 60 days, prior to enrolment.\nHistory of neuroinflammatory or autoimmune condition.\nRecurrent history or un-controlled neurological disorders or seizures.\n\nPrior/Concomitant therapy\n\nUse of any investigational or non-registered product other than the study vaccine(s) during the period starting 30 days before the informed consent or planned use during the study period.\nAdministration of immunoglobulins and/or any blood products or plasma derivatives during the period starting 180 days before the informed consent or planned administration during the study period.\nPrevious vaccination with any group B meningococcal vaccine at any time prior to informed consent and assent as applicable.\nPrevious vaccination with 2 doses of quadrivalent meningococcal conjugate vaccine (MenACWY, Menveo or Menactra).\n\nPrior/Concurrent clinical study experience\n\n• Subject concurrently participating in another clinical study, at any time during the study period, in which the subject has been or will be exposed to an investigational or a non-investigational vaccine/product, will not be enrolled.\n\nOther exclusions\n\nChild in care.\nPregnant or lactating female.\nFemale planning to become pregnant or planning to discontinue contraceptive precautions.\nAny study personnel or immediate dependants, family, or household member."
-        ],
-        "MinimumAge": [
-          "16 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Nampa",
-          "Bardstown",
-          "Louisville",
-          "Lafayette",
-          "New Orleans",
-          "Cortland",
-          "Charlotte",
-          "Columbus",
-          "Dayton",
-          "Corvallis",
-          "Erie",
-          "Hermitage",
-          "Uniontown",
-          "Austin",
-          "Salt Lake City",
-          "Syracuse",
-          "Chiavari (GE)",
-          "Milano",
-          "Milano",
-          "Foggia"
-        ],
-        "LocationFacility": [
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site",
-          "GSK Investigational Site"
-        ],
-        "LocationState": [
-          "Idaho",
-          "Kentucky",
-          "Kentucky",
-          "Louisiana",
-          "Louisiana",
-          "New York",
-          "North Carolina",
-          "Ohio",
-          "Ohio",
-          "Oregon",
-          "Pennsylvania",
-          "Pennsylvania",
-          "Pennsylvania",
-          "Texas",
-          "Utah",
-          "Utah",
-          "Liguria",
-          "Lombardia",
-          "Lombardia",
-          "Puglia"
-        ],
-        "LocationZip": [
-          "83686",
-          "40004",
-          "40291",
-          "70508",
-          "70121",
-          "13045",
-          "28226",
-          "43213",
-          "45419",
-          "97330",
-          "16508",
-          "16148",
-          "15401",
-          "78726",
-          "84107",
-          "84075",
-          "16043",
-          "20122",
-          "20162",
-          "71122"
-        ],
-        "LocationContactEMail": [
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com",
-          "GSKClinicalSupportHD@gsk.com"
-        ],
-        "LocationContactName": [
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Richard Aguilar",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Stanley L Block",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Wendy C. Daly",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Jibran Atwi",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Julia Garcia-Diaz",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Christopher A Smith",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Arin Piramzadian",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Samir Arora",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Rogelio Amisola",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Christine E Rivers",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Bradley P. Fox",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Cheryl Duffy",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Joseph M. Labuda II",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Jacques Benun",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Todd Bertoch",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Peter E Silas",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Antonella Carpi",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Samantha Bosis",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Maurizio Orso",
-          "US GSK Clinical Trials Call Center",
-          "EU GSK Clinical Trials Call Centre",
-          "Rosa Prato"
-        ],
-        "LocationContactPhone": [
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466",
-          "877-379-3718",
-          "+44 (0) 20 8990 4466"
-        ],
-        "BriefSummary": [
-          "The purpose of this study is to evaluate the immunogenicity, safety and tolerability of rMenB+OMV NZ and MenACWY vaccines when concomitantly administered to healthy subjects 16-18 years of age."
-        ],
-        "DetailedDescription": [
-          "As per the recommendation from Center for Biologics Evaluation and Research (CBER) the study has been amended to include a new \"agar-overlay\" serum bactericidal assay using human serum complement (hSBA). Additional changes include validation of the MenB manual to measure immunogenicity of the meningococcal group B vaccine, a modification in the definition of 4-fold increase in post-vaccination hSBA titer definition when the pre-vaccination titer is below the limit of detection, and a modification in the population set to be used for safety analysis wherein the exposed set is to be used for all safety analyses."
-        ]
-      },
-      {
-        "Rank": 358,
         "NCTId": [
           "NCT03939637"
         ],
@@ -20587,7 +20497,7 @@
         ]
       },
       {
-        "Rank": 359,
+        "Rank": 358,
         "NCTId": [
           "NCT02205762"
         ],
@@ -20941,7 +20851,7 @@
         ]
       },
       {
-        "Rank": 360,
+        "Rank": 359,
         "NCTId": [
           "NCT03719339"
         ],
@@ -21107,7 +21017,7 @@
         ]
       },
       {
-        "Rank": 361,
+        "Rank": 360,
         "NCTId": [
           "NCT04378075"
         ],
@@ -21219,7 +21129,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 362,
+        "Rank": 361,
         "NCTId": [
           "NCT03633708"
         ],
@@ -21391,7 +21301,7 @@
         ]
       },
       {
-        "Rank": 363,
+        "Rank": 362,
         "NCTId": [
           "NCT05041712"
         ],
@@ -21479,7 +21389,7 @@
         ]
       },
       {
-        "Rank": 364,
+        "Rank": 363,
         "NCTId": [
           "NCT01987882"
         ],
@@ -21592,7 +21502,7 @@
         ]
       },
       {
-        "Rank": 365,
+        "Rank": 364,
         "NCTId": [
           "NCT00670735"
         ],
@@ -21747,7 +21657,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 366,
+        "Rank": 365,
         "NCTId": [
           "NCT04743141"
         ],
@@ -22147,7 +22057,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 367,
+        "Rank": 366,
         "NCTId": [
           "NCT02859896"
         ],
@@ -22307,7 +22217,7 @@
         ]
       },
       {
-        "Rank": 368,
+        "Rank": 367,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22400,7 +22310,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 369,
+        "Rank": 368,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22468,7 +22378,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 370,
+        "Rank": 369,
         "NCTId": [
           "NCT03707158"
         ],
@@ -22569,7 +22479,7 @@
         ]
       },
       {
-        "Rank": 371,
+        "Rank": 370,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22672,7 +22582,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 372,
+        "Rank": 371,
         "NCTId": [
           "NCT04075266"
         ],
@@ -22795,7 +22705,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 373,
+        "Rank": 372,
         "NCTId": [
           "NCT03962894"
         ],
@@ -22887,7 +22797,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 374,
+        "Rank": 373,
         "NCTId": [
           "NCT05049330"
         ],
@@ -23023,7 +22933,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 375,
+        "Rank": 374,
         "NCTId": [
           "NCT03118986"
         ],
@@ -23112,6 +23022,104 @@
           "Chemotherapy-induced nausea and vomiting (CINV) are among the most bothersome symptoms during cancer treatment according to children and their parents. Most children receiving hematopoietic stem cell transplant (HSCT) conditioning experience CINV despite receiving antiemetic prophylaxis. Olanzapine improves CINV control in adult cancer patients, has a track record of safe use in children with psychiatric illness, does not interact with chemotherapy and is inexpensive. We hypothesize that the addition of olanzapine to standard antiemetics will improve chemotherapy-induced vomiting (CIV) control in children receiving chemotherapy for HSCT conditioning."
         ],
         "DetailedDescription": []
+      },
+      {
+        "Rank": 375,
+        "NCTId": [
+          "NCT03117751"
+        ],
+        "OfficialTitle": [
+          "Total Therapy XVII for Newly Diagnosed Patients With Acute Lymphoblastic Leukemia and Lymphoma"
+        ],
+        "Condition": [
+          "Acute Lymphoblastic Leukemia",
+          "Acute Lymphoblastic Lymphoma"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nDiagnosis of B- or T-ALL or LLy by immunophenotyping:\nLLy participants must have < 25% tumor cells in bone marrow and peripheral blood by morphology and flow cytometry. If any of these show ≥25% blasts, patient will be considered to have leukemia. Patients with MPAL are eligible.\nAge 1-18 years (inclusive).\nNo prior therapy, or limited prior therapy, including systemic glucocorticoids for one week or less, one dose of vincristine, emergency radiation therapy (e.g., to the mediastinum, head and neck, orbit, etc.) and one dose of intrathecal chemotherapy.\nWritten, informed consent and assent following Institutional Review Board (IRB), National Cancer Institute (NCI), Food and Drug Administration (FDA), and Office of Human Research Protections (OHRP) Guidelines.\n\nExclusion Criteria:\n\nParticipants who are pregnant or lactating. Males or females of reproductive potential must agree to use effective contraception for the duration of study participation.\nInability or unwillingness of research participant or legal guardian/representative to give written informed consent."
+        ],
+        "MinimumAge": [
+          "1 Year"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Palo Alto",
+          "San Diego",
+          "Detroit",
+          "Charlotte",
+          "Memphis",
+          "Fort Worth",
+          "Parkville"
+        ],
+        "LocationFacility": [
+          "Lucile Packard Children's Hospital Stanford University",
+          "Rady Children's Hospital San Diego",
+          "Children's Hospital of Michigan",
+          "St. Jude Affiliate Clinic - Novant Health Hemby Children's Hospital",
+          "St. Jude Children's Research Hospital",
+          "Cook Children's Medical Center",
+          "The Royal Children's Hospital Melbourne"
+        ],
+        "LocationState": [
+          "California",
+          "California",
+          "Michigan",
+          "North Carolina",
+          "Tennessee",
+          "Texas",
+          "Victoria"
+        ],
+        "LocationZip": [
+          "94305",
+          "92123",
+          "48201",
+          "28204",
+          "38105",
+          "76104",
+          "3052"
+        ],
+        "LocationContactEMail": [
+          "mailto:lacayon@stanford.edu",
+          "dschiff@rchsd.org",
+          "jtaub@med.wayne.edu",
+          "jbell@novanthealth.org",
+          "referralinfo@stjude.org",
+          "kenneth.heym@cookchildrens.org",
+          "SeongLin.Khaw@rch.org.au"
+        ],
+        "LocationContactName": [
+          "Norman J. Lacayo, MD",
+          "Norman J. Lacayo, MD",
+          "Deborah E. Schiff, MD",
+          "Deborah E. Schiff, MD",
+          "Jeffrey W. Taub, MD, FAAP",
+          "Jeffrey Taub, MD",
+          "Jessica Bell, MD",
+          "Jessica Bell, MD",
+          "Hiroto Inaba, MD, PhD",
+          "Hiroto Inaba, MD, PhD",
+          "Kenneth M. Heym, MD",
+          "Kenneth M. Heym, MD",
+          "Seong L Khaw, MD FRACP PhD",
+          "Seong L Khaw, MD FRACP PhD"
+        ],
+        "LocationContactPhone": [
+          "650-723-5535",
+          "858-966-5811",
+          "313-745-5515",
+          "704-384-1900",
+          "866-278-5833",
+          "682-885-4007",
+          "+ 61-393454893"
+        ],
+        "BriefSummary": [
+          "The overarching objective of this study is to use novel precision medicine strategies based on inherited and acquired leukemia-specific genomic features and targeted treatment approaches to improve the cure rate and quality of life of children with acute lymphoblastic leukemia (ALL) and acute lymphoblastic lymphoma (LLy).\n\nPrimary Therapeutic Objectives:\n\nTo improve the event-free survival of provisional standard- or high-risk patients with genetically or immunologically targetable lesions or minimal residual disease (MRD) ≥ 5% at Day 15 or Day 22 or ≥1% at the end of Remission Induction, by the addition of molecular and immunotherapeutic approaches including tyrosine kinase inhibitors or chimeric antigen receptor (CAR) T cell / blinatumomab for refractory B-acute lymphoblastic leukemia (B-ALL) or B-lymphoblastic lymphoma (B-LLy), and the proteasome inhibitor bortezomib for those lacking targetable lesions.\nTo improve overall treatment outcome of T acute lymphoblastic leukemia (T-ALL) and T-lymphoblastic lymphoma (T-LLy) by optimizing pegaspargase and cyclophosphamide treatment and by the addition of new agents in patients with targetable genomic abnormalities (e.g., activated tyrosine kinases or JAK/STAT mutations) or by the addition of bortezomib for those who have a poor early response to treatment but no targetable lesions, and by administering nelarabine to T-ALL and T-LLy patients with leukemia/lymphoma cells in cerebrospinal fluid at diagnosis or MRD ≥0.01% at the end of induction.\nTo determine in a randomized study design whether the incidence and/or severity of acute vincristine-induced peripheral neuropathy can be reduced by decreasing the dosage of vincristine in patients with the high-risk CEP72 TT genotype or by shortening the duration of vincristine therapy in standard/high-risk patients with the CEP72 CC or CT genotype.\n\nSecondary Therapeutic Objectives:\n\nTo estimate the event-free survival and overall survival of children with ALL and to assess the non-inferiority of TOTXVII compared to the historical control given by TOTXVI.\nTo estimate the event-free survival and overall survival of children with LLy when ALL diagnostic and treatment approaches are used.\nTo evaluate the efficacy of blinatumomab in B-ALL patients with end of induction MRD ≥0.01% to <1% and those (regardless of MRD level or TOTXVII risk category) with the genetic subtypes of BCR-ABL1, ABL-class fusion, JAK-STAT activating mutation, hypodiploid, iAMP21, ETV6-RUNX1-like, MEF2D, TCF3-HLF, or BCL2/MYC or with Down syndrome, by comparing event-free survival to historical control from TOTXVI.\nTo determine the tolerability of combination therapy with ruxolitinib and Early Intensification therapy in patients with activation of JAK-STAT signaling that can be inhibited by ruxolitinib and Day 15 or Day 22 MRD ≥5%, Day 42 MRD ≥1%, or LLy patients without complete response at the End of Induction and all patients with early T cell precursor leukemia.\n\nBiological Objectives:\n\nTo use data from clinical genomic sequencing of diagnosis, germline/remission and MRD samples to guide therapy, including incorporation of targeted agents and institution of genetic counseling and cancer surveillance.\nTo evaluate and implement deoxyribonucleic acid (DNA) and ribonucleic acid (RNA) sequencing-based methods to monitor levels of MRD in bone marrow, blood, and cerebrospinal fluid.\nTo assess clonal diversity and evolution of pre-leukemic and leukemic populations using DNA variant detection and single-cell genomic analyses in a non-clinical, research setting.\nTo identify germline or somatic genomic variants associated with drug resistance of ALL cells to conventional and newer targeted anti-leukemic agents in a non-clinical, research setting.\nTo compare drug sensitivity of ALL cells from diagnosis to relapse in vitro and in vivo and determine if acquired resistance to specific agents is related to specific somatic genome variants that are not detected or found in only a minor clone at initial diagnosis.\n\nSupportive Care Objectives\n\nTo conduct serial neurocognitive monitoring of patients to investigate the neurocognitive trajectory, mechanisms, and risk factors.\nTo evaluate the impact of low-magnitude high frequency mechanical stimulation on bone mineral density and markers of bone turnover.\n\nThere are several Exploratory Objectives."
+        ],
+        "DetailedDescription": [
+          "Participants will be classified into one of three categories (low-, standard-, or high-risk) based on the presenting age, leukocyte count/lymphoma staging, presence or absence of CNS-3 status or testicular disease, immunophenotype, molecular genetics, DNA index, and early response to therapy.\n\nTreatment will consist of three main phases: Remission Induction, Consolidation, and Continuation. Early Intensification therapy will be given prior to Consolidation to patients with provisional standard-risk or high-risk ALL/LLy or any provisional low-risk patients with Day 15 MRD ≥1% as well as provisional low-risk LLy patients who do not obtain complete response at the end of Induction. Patients with mixed phenotype acute leukemia (MPAL) are treated by using the same treatment stratification used in ALL although analysis is performed separately from ALL or LLy cohorts.\n\nBrief outline of treatment plan:\n\nPatients will be assigned to treatment based on risk group: Low-Risk, Standard-Risk and High-Risk and cell type (T or B cell).\n\nRemission Induction initially consists of prednisone (28 days), vincristine (4 weekly doses), daunorubicin (1 to 3 weekly doses), and pegaspargase 1 dose for all patients and 2 doses for those with Day 15 MRD 1% or higher. The second part (given over 2 weeks and overlapping with the last week of the first part of induction) consists of cyclophosphamide, cytarabine, and mercaptopurine combinations. Dasatinib will be added for patients with Ph+ and Ph-like ABL-class fusions and bortezomib will be given to patients with no targetable lesions and Day 15 or Day 22 minimal residual disease (MRD) ≥ 5% on Days 29 and 32.\n\nEarly Intensification will be given prior to Consolidation to patients with provisional standard-risk or high-risk ALL/LLy or any provisional low-risk patients with Day 15 MRD ≥1% as well as provisional low-risk LLy patients who do not obtain complete response at the end of Induction. For patients with Ph-like ALL that is targetable with JAK inhibitor and Day 15 or Day 22 MRD level ≥5% or end of Remission Induction ≥1% as well as all patients with early T cell precursor (ETP) ALL and T/M MPAL, ruxolitinib will be used. This includes, but is not limited to CRLF2, JAK2, and EPOR rearrangements and sequence/structural changes in JAK1/2, TYK2, IL7R, and SH2B3. Ruxolitinib will be added in LLy patients with activation of JAK-STAT signaling that can be inhibited by ruxolitinib whose responses do not qualify complete response at the end of Remission Induction. Dasatinib will continue for patients with ABL-class fusions. Bortezomib will be added for patients with no targetable lesions and Day 15 or Day 22 MRD ≥ 5% or LLy patients without complete response at the End of Induction.\n\nConsolidation Treatment will consist of high dose methotrexate (HDMTX) (every other week for 4 doses); daily mercaptopurine and IT chemotherapy on the same dates of HDMTX. Dasatinib will continue for patients with ABL-class fusions. Ruxolitinib will continue for patients with activation of JAK-STAT signaling that can be inhibited by ruxolitinib and Day 15 or Day 22 MRD ≥5% or Day 42 MRD ≥1% (or for LLy patients who do not qualify complete response at the end of Remission Induction) and all cases with ETP ALL and T/M MPAL.\n\nImmunotherapy: CAR T-cell therapy will be considered for High-risk B-ALL and B-LLy patients. Blinatumomab will be given to patients with Standard-risk B-ALL and B-LLy with residual disease at the end of induction and High-risk B-ALL and B-LLy patients who are not able to receive CAR T-cell therapy. Blinatumomab is also given to patients with the following genetic subtypes (BCR-ABL1, ABL-class fusion, JAK-STAT activating mutation, hypodiploid, iAMP21, ETV6-RUNX1-like, MEF2D, TCF3/HLF, or BCL2/MYC) or with Down syndrome, regardless of MRD level and/or Total 17 risk category.\n\nReintensification therapy will be offered to certain High-risk patients with persistent MRD after Immunotherapy (B-ALL and B-LLy) or Early Intensification (T-ALL and T-LLy), or those who cannot receive Immunotherapy.\n\nContinuation Treatment will consist of 120 weeks of risk-directed therapy. Dasatinib will continue in patients with ABL-class fusion. Ruxolitinib will continue in patients with activation of JAK-STAT signaling that can be inhibited by ruxolitinib and Day 15 or Day 22 MRD ≥5% or Day 42 MRD ≥1% (or for LLy patients who do not qualify complete response at the end of Remission Induction) and all cases with ETP ALL. T-ALL and T-LLy patients with leukemia/lymphoma cells in cerebrospinal fluid at diagnosis or MRD ≥0.01% at the end of Induction will receive nelarabine. ALL/LLy Patients with the CEP72 rs904627T/T genotype (16% of patients) will be randomized (unblinded design except those who evaluate neuropathies) to receive either 1.5 mg/m2 or 1 mg/m2 of vincristine after Continuation Week 1. Patients in low- risk will complete vincristine in Week 49 and those in standard/high-risk will complete in Week 101. Standard/high-risk patients with either a CEP72 rs904627 C/T or C/C genotype (84% of patients) will be randomized to receive vincristine and dexamethasone pulses through Week 49 of Continuation Treatment or through Week 101 of Continuation Treatment. Low-risk patients will complete vincristine in Week 49.\n\nIntrathecal therapy is given throughout the treatment. The number of intrathecal therapy is based on the risk factors of central nervous system relapse."
+        ]
       },
       {
         "Rank": 376,
