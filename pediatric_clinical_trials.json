@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.05",
-    "DataVrs": "2022:02:27 23:03:53.972",
+    "DataVrs": "2022:03:01 23:06:29.911",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 406087,
+    "NStudiesAvail": 406391,
     "NStudiesFound": 399,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -431,65 +431,6 @@
       {
         "Rank": 8,
         "NCTId": [
-          "NCT04276194"
-        ],
-        "OfficialTitle": [
-          "Feasibility of Vertebral Body Sparing Intensity Modulated Proton Therapy Craniospinal Irradiation With in Vivo Range Verification in Growing Children"
-        ],
-        "Condition": [
-          "Malignant Central Nervous System Neoplasm"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPathologic diagnosis of central nervous system malignancy requiring craniospinal irradiation.\nSigned informed consent and assent when indicated.\n\nExclusion Criteria:\n\nAny contraindication to undergoing MRI (ferromagnetic implants such as aneurysm clips, surgical clips, prostheses, artificial cardiac valves or devices, electrical implants such as cardiac pacemakers or perfusion pumps). Metal fragments, shrapnel, or tattoos near the eye.\nAny major uncontrolled or poorly controlled current illness that would limit compliance with study requirements.\nPregnant females are excluded. Females of childbearing age/menstruating must confirm that either they are not sexually active or have a negative pregnancy test prior to initiation of radiation therapy."
-        ],
-        "MinimumAge": [
-          "3 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Atlanta",
-          "Atlanta"
-        ],
-        "LocationFacility": [
-          "Emory Proton Therapy Center",
-          "Emory University Hospital/Winship Cancer Institute"
-        ],
-        "LocationState": [
-          "Georgia",
-          "Georgia"
-        ],
-        "LocationZip": [
-          "30308",
-          "30322"
-        ],
-        "LocationContactEMail": [
-          "brupper@emory.edu",
-          "allyson.anderson@emory.edu",
-          "brupper@emory.edu"
-        ],
-        "LocationContactName": [
-          "Bree R Eaton, MD",
-          "Allyson Anderson",
-          "Bree R. Eaton, MD",
-          "Bree R. Eaton"
-        ],
-        "LocationContactPhone": [
-          "404-251-1245",
-          "404-251-2845",
-          "404-778-3473"
-        ],
-        "BriefSummary": [
-          "This trial studies the feasibility of using intensity modulated proton therapy to deliver craniospinal irradiation while avoiding the bones of the vertebral column. Intensity modulated proton therapy is an advanced radiation therapy modality that uses high energy protons to kill cancer cells and shrink tumors, and may reduce the side effects of treatment by reducing radiation exposure to the spinal column."
-        ],
-        "DetailedDescription": [
-          "PRIMARY OBJECTIVES:\n\nI. To demonstrate the feasibility and safety of using intensity modulated proton therapy to deliver vertebral body sparing craniospinal irradiation in growing children.\n\nIa. To report the dose received to the vertebral bodies and the dose gradient/heterogeneity within the vertebral body.\n\nIb. To document, using weekly cone beam computed tomography (CT) of the cervical and lumbar spine, delivered dose in comparison with planned dose after accounting for any errors in patient positioning.\n\nII. To evaluate acute toxicity of vertebral body sparing (VBS) craniospinal irradiation (CSI).\n\nIIa. To report absolute lymphocyte counts over time and occurrence of grade 3-4 hematological toxicity.\n\nIIb. To report the incidence and severity of any grade esophagitis during or within 4 weeks of radiation therapy.\n\nIII. To evaluate the feasibility of magnetic resonance imaging (MRI) imaging during CSI therapy as in vivo proton range verification.\n\nIIIa. To demonstrate the feasibility of completing interim non-contrast MRIs of the spine during treatment.\n\nIIIb. To characterize the earliest time point at which radiation induced bone marrow changes can be detected in children receiving proton CSI.\n\nOUTLINE:\n\nPatients undergo intensity modulated proton therapy once daily over 30 fractions and also undergo MRI over 20 minutes during fractions 7, 13, 20, and 30 of radiation in the absence of disease progression or unacceptable toxicity.\n\nAfter the completion of study treatment, patients are followed up at 4 weeks and then every 3-12 months thereafter."
-        ]
-      },
-      {
-        "Rank": 9,
-        "NCTId": [
           "NCT04132999"
         ],
         "OfficialTitle": [
@@ -550,7 +491,7 @@
         ]
       },
       {
-        "Rank": 10,
+        "Rank": 9,
         "NCTId": [
           "NCT03655574"
         ],
@@ -611,7 +552,7 @@
         ]
       },
       {
-        "Rank": 11,
+        "Rank": 10,
         "NCTId": [
           "NCT03655470"
         ],
@@ -669,7 +610,7 @@
         ]
       },
       {
-        "Rank": 12,
+        "Rank": 11,
         "NCTId": [
           "NCT03522233"
         ],
@@ -718,7 +659,7 @@
         ]
       },
       {
-        "Rank": 13,
+        "Rank": 12,
         "NCTId": [
           "NCT03325946"
         ],
@@ -782,7 +723,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 14,
+        "Rank": 13,
         "NCTId": [
           "NCT03281889"
         ],
@@ -838,7 +779,7 @@
         ]
       },
       {
-        "Rank": 15,
+        "Rank": 14,
         "NCTId": [
           "NCT02681211"
         ],
@@ -899,7 +840,7 @@
         ]
       },
       {
-        "Rank": 16,
+        "Rank": 15,
         "NCTId": [
           "NCT02456376"
         ],
@@ -953,7 +894,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 17,
+        "Rank": 16,
         "NCTId": [
           "NCT01023139"
         ],
@@ -1013,7 +954,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 18,
+        "Rank": 17,
         "NCTId": [
           "NCT04969003"
         ],
@@ -1070,7 +1011,7 @@
         ]
       },
       {
-        "Rank": 19,
+        "Rank": 18,
         "NCTId": [
           "NCT04528173"
         ],
@@ -1135,7 +1076,7 @@
         ]
       },
       {
-        "Rank": 20,
+        "Rank": 19,
         "NCTId": [
           "NCT04298281"
         ],
@@ -1191,7 +1132,7 @@
         ]
       },
       {
-        "Rank": 21,
+        "Rank": 20,
         "NCTId": [
           "NCT03694418"
         ],
@@ -1250,6 +1191,56 @@
         ],
         "DetailedDescription": [
           "N/E is a community-based participatory research (CBPR) multi-level, multi-component sexual and reproductive health (SRH) intervention, constructed on Ecological Systems Theory. N/E is based on Fort Peck tribal members' desire to implement a holistic SRH intervention for AI youth. N/E includes: 1) A school-based SRH curriculum called Native Stand, designed to address individual-level factors that lead to sexual risk behaviors; 2) a family-level curriculum called Native Voices, tailored to increase communication between adult family members and youth about SRH topics; 3) a cultural mentoring component at the community level that pairs AI youth with adults and elders to discuss traditional AI beliefs and practices about SRH; and 4) a mobilizing strategy to activate a multi-sectoral network of youth-servicing organizations at the systems level in Fort Peck to coordinate SRH services for AI youth. The overarching aim of this proposal is to refine, tailor, and finalize the components of N/E and evaluate its efficacy. We will use a cluster-randomized stepped-wedge design (SWD), in which 5 schools that AI youth from Fort Peck attend are the clusters to be randomized into the intervention 1 at a time, with all schools eventually being randomized to the intervention. The 5 schools are located in separate communities, mitigating the potential for cross-contamination. N/E is a 5-year study involving 456 14- to 18-year-old AI youth.\n\nOur specific aims are:\n\nAIM 1: Refine, tailor, and finalize the components of N/E. Our community advisory board and the Fort Peck-based and MSU-based research team will design culturally appropriate adaptations for N/E's 4 levels during the first year of the study, based on the analysis of our recently completed qualitative and quantitative research (focus groups, interviews, and surveys), as well as discussions with elders and community stakeholders.\n\nAIM 2: Test the efficacy of N/E for 14- to 18-year-old AI youth. Our hypotheses are:\n\nH1: AI youth who participate in N/E will demonstrate increased condom use at 3, 9, and 12 months. (12 months will be used in the Primary Outcome analysis; 3 and 9 months will be used in the Secondary Outcomes analysis.) H2: AI youth who participate in N/E will demonstrate increased use of other birth control at 3, 9, and 12 months. They also will demonstrate a decrease in sexual risk behaviors as measured by reduced number of sex partners, delayed onset of sexual intercourse, and decreased substance use during sex, at 3, 9, and 12 months. (Secondary Outcomes) H3: N/E parents/legal guardians and youth will demonstrate significantly increased communication about topics related to SRH at 3, 9, and 12 months. AI youth who participate in the cultural mentoring program will demonstrate significantly increased understanding of cultural values related to traditional AI beliefs regarding SRH at 3, 9, and 12 months. And AI youth who participate in N/E will report significantly increased use of SRH services at 3, 9, and 12 months as a result of improved coordination among education, health care, and social service agencies on the Fort Peck Reservation. (Tertiary Outcomes) AIM 3: Evaluate the fidelity and acceptability of N/E. N/E's fidelity and acceptability will be evaluated using qualitative methods, including focus groups, activity logs, and staff field notes and meetings."
+        ]
+      },
+      {
+        "Rank": 21,
+        "NCTId": [
+          "NCT05169385"
+        ],
+        "OfficialTitle": [
+          "Improving Outcomes of Adolescents in Residential Substance Use Treatment Via a Technology-Assisted Parenting Intervention"
+        ],
+        "Condition": [
+          "Substance Use",
+          "Adolescent Behavior"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria for Adolescents:\n\nadmitted to residential treatment due to concerns about frequency and/or severity of substance use\nreport alcohol and/or drug use in the past 90 days\nbe discharged to live with primary guardian\nfluent in English or Spanish\nwilling and able to participate in a 2 hour interview prior to discharge from residential\n\nExclusion Criteria for Adolescents:\n\ndoes not report alcohol or drug use in the past 90 days\ndischarge plan does not include living with primary guardian\nnot fluent in English or Spanish\nnot willing or able to complete baseline interview\n\nInclusion Criteria for Parents:\n\nparent or legal guardian of adolescent aged 12-18 years inclusive, at project start\nadolescent admitted to residential treatment due to concerns about frequency and/or severity of substance use\nwill be primary guardian living with adolescent after discharge from residential\nfluent in English or Spanish\nwilling and able to complete the baseline assessment prior to the adolescent's discharge\naccess to a smartphone that can receive text messages and reliably access the internet\n\nExclusion Criteria for Parents:\n\nnot legal guardian of adolescent or adolescent not aged between 12-18 years\nadolescent not admitted to residential treatment due to substance use concerns\nwill not be living with adolescent after adolescent's discharge from residential\nnot fluent in English or Spanish\nnot willing or able to complete the baseline assessment prior to the adolescent's discharge\ndoes not have access to a smartphone that can receive text messages and reliably access the internet"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Rockford",
+          "Sioux City"
+        ],
+        "LocationFacility": [
+          "Rosecrance Health Network",
+          "Rosecrance Jackson Centers"
+        ],
+        "LocationState": [
+          "Illinois",
+          "Iowa"
+        ],
+        "LocationZip": [
+          "61107",
+          "51101"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Thomas Wright, MD",
+          "Thomas Wright"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Adolescents in residential substance use treatment have serious substance-related problems and poor outcomes following discharge: follow-up studies indicate that 60% of adolescents treated in residential treatment will relapse within the first 90 days. Parenting practices have been established as a critical predictor of adolescents' substance use outcomes and likelihood of relapse following treatments, but parents are notoriously difficult to engage in adolescent substance use treatment. Findings such as these provide strong justification for targeting parents of adolescents in residential substance use treatment via easily accessible interventions.\n\nThis study tests the effectiveness of a technology-assisted parenting intervention called Parent SMART (Substance Misuse among Adolescents in Residential Treatment). The intervention combines an off-the-shelf computer program that teaches parenting skills called Parenting Wisely, four telehealth coaching sessions, and a networking forum that allows parents to connect with a clinical expert and with other parents. The investigators will compare adolescents who receive standard residential substance use treatment to adolescents who receive the same treatment plus whose parents receive Parent SMART. Investigators will test the comparative effectiveness of Parent SMART versus residential treatment as usual on parental monitoring and communication, adolescent substance use (i.e., days of substance use and substance-related problems), and substance-related high-risk behaviors (i.e., school-related problems, criminal involvement, externalizing behavior). The investigators will also test whether improvements in parenting partially mediate any observed changes in adolescent substance use and other high-risk behaviors."
+        ],
+        "DetailedDescription": [
+          "Building upon a successful National Institute on Drug Abuse (NIDA)-funded R34, this study evaluates a technology-assisted parenting intervention with evidence of high feasibility and acceptability, as well as preliminary evidence of effectiveness as an adjunct to residential treatment as usual (TAU). Specifically, this study involves a fully powered evaluation of Parent SMART (Substance Misuse among Adolescents in Residential Treatment), which was developed based on extensive formative research with parents, adolescents, and residential treatment staff, and subsequently tested in a NIDA-funded pilot trial.\n\nParent SMART was intentionally designed with scalability in mind. It consists of an off-the-shelf computer program called Parenting Wisely (PW) that has robust evidence of efficacy in improving parenting skills and reducing youth behavior problems across five clinical trials. Guided by formative research, Parent SMART augments PW with four telehealth coaching sessions and access to a state-of-the-art, mobile networking forum (available via both mobile phone app and web browser), where parents can submit questions to an expert and connect with other parents of adolescents in residential substance use treatment. Parent SMART was piloted at both short (i.e., 6-10 day length of stay) - and long-term (i.e., 30-45 day length of stay) residential facilities: the model was feasible and acceptable in both settings, and effective at improving parental monitoring and communication in both settings. In the short-term setting, Parent SMART was also effective at reducing days of substance use (i.e., days of binge drinking, days of all other drug use) and reducing school problems: the pilot project was underpowered to detect differences at the long-term setting. The current trial is a fully powered evaluation of Parent SMART as an adjunct to residential treatment as usual.\n\nAdolescent-parent dyads (n = 220; 440 participants) will be randomized to receive either residential treatment as usual (TAU) only or Parent SMART + TAU. Those randomized to TAU will be offered the technology-delivered elements of Parent SMART at the 6-month follow-up. Parent SMART telehealth sessions will be delivered by bachelor's and master's level counselors to enhance scalability. Multi-method follow-up assessments (i.e., self-report measures, videotaped interaction task, urine screens) will be conducted 6-, 12-, and 24-weeks post-discharge.\n\nThe primary aims of this study is to examine the effectiveness of Parent SMART as an adjunctive treatment, relative to adolescent residential treatment-as-usual on: parenting processes (Primary Aim 1) and adolescent substance use outcomes (Primary Aim 2). A secondary aim is to test the effectiveness of Parent SMART compared to residential treatment-as-usual on adolescent high-risk behaviors. An additional Exploratory Aim will test whether change in parenting processes mediates change in adolescent substance use outcomes.\n\nPursuit of these aims is significant given the potential to improve the outcomes of adolescents following discharge from residential substance use treatment by offering their parents a novel technology-assisted intervention. Technology-assisted interventions have the potential for marked public health impact by extending the reach, duration, and scalability of evidence-based care."
         ]
       },
       {
@@ -2938,6 +2929,59 @@
       {
         "Rank": 56,
         "NCTId": [
+          "NCT04922983"
+        ],
+        "OfficialTitle": [
+          "Incobotulinumtoxin A and Yoga-like Isometric Exercise in Adolescent Idiopathic Lumbar Scoliosis"
+        ],
+        "Condition": [
+          "Scoliosis Idiopathic",
+          "Scoliosis; Adolescence",
+          "Scoliosis; Lumbar Region"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\n1. Fourteen - 18 years of age, 2. Scoliotic curve greater than 25 degrees, less than 45 degrees, 3. Stated willingness to do the yoga and yoga-like poses daily, 4. Written, signed consent by patient and parent/guardian 5. Pre-test Cobb films no less than 3 months old read by independent radiologists.\n\nExclusion Criteria:\n\nNeurological, muscular or neuromuscular disease, (e.gs., cerebral palsy, myopathy, stroke),\nGenetic abnormalities that affect limb growth, proportionality or metabolism, (e.gs., mucopolysaccharidoses, Marfan's syndrome, Refsums disease).\nPregnancy and other conditions prohibiting X-rays or minute(s)-long exertion (e.gs., congestive heart failure, great weakness, COPD).\nPrevious exposure to botulinum neurotoxin Type A. Sexually active female subjects must present a recent negative pregnancy test."
+        ],
+        "MinimumAge": [
+          "14 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "New York"
+        ],
+        "LocationFacility": [
+          "Cara Cipriano"
+        ],
+        "LocationState": [
+          "New York"
+        ],
+        "LocationZip": [
+          "10022"
+        ],
+        "LocationContactEMail": [
+          "cara@sciatica.org",
+          "liza@sciatica.org"
+        ],
+        "LocationContactName": [
+          "Cara Cipriano, BA",
+          "Liz Larson, BA"
+        ],
+        "LocationContactPhone": [
+          "212-472-0077",
+          "3477249780"
+        ],
+        "BriefSummary": [
+          "The study uses a yoga-like isometric posture and botulinum injections to reduce the curves in adolescent idiopathic lumbar scoliosis."
+        ],
+        "DetailedDescription": [
+          "The randomized control 5-month study employs an isometric yoga-like posture to strengthen the weak side, and one set of botulinum injections to weaken the strong side of adolescent idiopathic lumbar scoliosis between 25 and 45 degrees. It is open to people between 14 and 18 years of age who are willing to do the pose every day for the study period."
+        ]
+      },
+      {
+        "Rank": 57,
+        "NCTId": [
           "NCT04896645"
         ],
         "OfficialTitle": [
@@ -2984,7 +3028,7 @@
         ]
       },
       {
-        "Rank": 57,
+        "Rank": 58,
         "NCTId": [
           "NCT04848532"
         ],
@@ -3039,7 +3083,7 @@
         ]
       },
       {
-        "Rank": 58,
+        "Rank": 59,
         "NCTId": [
           "NCT04845932"
         ],
@@ -3087,7 +3131,7 @@
         ]
       },
       {
-        "Rank": 59,
+        "Rank": 60,
         "NCTId": [
           "NCT04825587"
         ],
@@ -3135,7 +3179,7 @@
         ]
       },
       {
-        "Rank": 60,
+        "Rank": 61,
         "NCTId": [
           "NCT04815239"
         ],
@@ -3187,7 +3231,7 @@
         ]
       },
       {
-        "Rank": 61,
+        "Rank": 62,
         "NCTId": [
           "NCT04812028"
         ],
@@ -3232,59 +3276,6 @@
         ],
         "DetailedDescription": [
           "The post-operative ICU course for children receiving liver transplants and TPIAT (total pancreatectomy with islet cell autotransplantation) includes a number of different challenges, one of which includes pain. Pain is treated with both medications and approaches without medications (such as music and other distraction techniques). Opioids are one such effective pain medication which is universally used, however like all medications has risks of certain side effects (such as nausea, constipation, itching, and others). Modern research has searched for other medications and methods to treat pain in both children and adults. In this study, the investigators aim to apply one of these methods that has been shown to be effective in certain operative populations through a medicine called Magnesium-Sulfate, which may be a safe way to decrease the use of other pain medications (specifically opioids). Magnesium is already a physiologic electrolyte the body uses, which are consumed from certain foods. Used as an IV medication to reach higher levels of magnesium can work to decrease pain via its action on specific nerve receptors. Magnesium-Sulfate will be given at the beginning of transplant surgery for consented liver and TPIAT transplant patients, and continue an infusion for 48 hours into their ICU course. The investigators will monitor side effects and treat pain the same way otherwise the care team would without magnesium to determine whether there is any beneficial effect that can be applied to children in the future."
-        ]
-      },
-      {
-        "Rank": 62,
-        "NCTId": [
-          "NCT04810130"
-        ],
-        "OfficialTitle": [
-          "Effect of Repetitive Soccer Heading on Biomechanics and Physiological Measures"
-        ],
-        "Condition": [
-          "Repeated Head Impacts"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nMales or females ages 13 to 18.\nActively participating on a competitive soccer team.\nAt least 1 year of soccer heading experience.\nParental/guardian permission (informed consent) and child assent.\n\nExclusion Criteria:\n\nSubject sustained a concussion or spinal injury within the past 6 months or still has active symptoms from a previous injury.\nInability to exercise because of lower-extremity orthopedic injury or significant vestibular or visual dysfunction.\nCurrently taking medications that can affect autonomic function.\nPlays exclusively the goalkeeper position and does not regularly head the ball.\nParental/guardian permission (informed consent) not obtainable or not provided.\nParents/guardians or subjects who, in the opinion of the Investigator, may be non-compliant with study schedules or procedures.\nSubject has fixed orthodontia on upper teeth.\nCannot understand English."
-        ],
-        "MinimumAge": [
-          "13 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Philadelphia"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Philadelphia"
-        ],
-        "LocationState": [
-          "Pennsylvania"
-        ],
-        "LocationZip": [
-          "19104"
-        ],
-        "LocationContactEMail": [
-          "ARBOGAST@chop.edu",
-          "masterc@chop.edu"
-        ],
-        "LocationContactName": [
-          "Kristy B Arbogast, PhD",
-          "Christina L Master, MD",
-          "Kristy B Arbogast, PhD",
-          "Christina L Master, MD"
-        ],
-        "LocationContactPhone": [
-          "215-590-6075",
-          "215-590-1527"
-        ],
-        "BriefSummary": [
-          "There is growing concern for the resulting neurological and physiological outcomes from repeated head impacts in sports that do not manifest into traditional concussion symptoms. Specifically, there is evidence of immediate physiological deficits following controlled soccer heading. This study will compare the physiological changes of adolescents completing a set of soccer headers to those randomized to a set of soccer kicks to evaluate the effect of repetitive head impacts."
-        ],
-        "DetailedDescription": [
-          "There is limited data relating head impact biomechanics to neurological outcomes in humans. Concussion occurs from rotational loading of the head giving rise to diffuse stresses and strains in the brain tissue leading to autonomic and physiological dysfunction. Repeated head loading is common in contact sports and an integral part of soccer. It is unknown whether the same biomechanical forces from lower severity head impacts such as typical soccer heading cause temporary physiological deficits as well. Advancement of objective physiological function assessment devices allow measurement of neurological effects in the absence of diagnosed concussion. Recent soccer heading studies have evaluated neurophysiological changes pre- and post-repetitive heading. These studies have found conflicting results for the effect on neurocognitive performance immediately following a bout of heading, but consistent changes were observed in measures of vestibular balance, ocular function, and neurochemical biomarkers.\n\nSoccer heading biomechanics studies showed that females experienced higher severity head loading, and in equivalent sports such as soccer and basketball, females have higher concussion rates. This study will compare the physiological changes of male and female adolescents completing one of two soccer heading paradigms to those randomized to kicking to evaluate the effect of repetitive head impacts. This study will relate biomechanical measures of head loading with physiological function changes associated with repeated head impacts, and compare sex-differences in biomechanical measures and physiological changes."
         ]
       },
       {
@@ -4219,53 +4210,50 @@
       {
         "Rank": 81,
         "NCTId": [
-          "NCT04602325"
+          "NCT04634643"
         ],
         "OfficialTitle": [
-          "Systemic Biomarkers of Brain Injury From Hyperammonemia"
+          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
         ],
         "Condition": [
-          "Urea Cycle Disorder",
-          "Organic Acidemia",
-          "Maple Syrup Urine Disease",
-          "Glutaric Acidemia I",
-          "Fatty Acid Oxidation Disorder",
-          "Hypoxic-Ischemic Encephalopathy"
+          "NAFLD"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nInherited Hyperammonemias:\n\nA clinical diagnosis of 1 of 7 diagnosed urea cycle disorders:\n\nN-acetylglutamate Synthetase Deficiency (NAGS)\nCarbamyl Phosphate Synthetase Deficiency (CPSD)\nOrnithine Transcarbamylase Deficiency (OTCD)\nArgininosuccinate Synthetase Deficiency (ASD)\nArgininosuccinate Lyase Deficiency (ALD)\nArginase Deficiency (AD)\nHyperammonemia-Hyperornithinemia-Homocitrullinuria (HHH)\n\nA clinical diagnosis of 1 of 2 organic acidemias:\n\nPropionic Acidemia (PA)\nMethylmalonic Acidemia (MMA)\n\nAcute metabolic disorder without hyperammonemia, with neurological sequelae\n\nMaple Syrup Urine Disease (MSUD)\nGlutaric Acidemia (GA1)\n\nAcute metabolic disorder without hyperammonemia and without neurological sequelae\n\nFatty Acid Oxidation Disorders:\nMedium Chain-Acyl CoA Dehydrogenase Deficiency\nVery Long Chain-Acyl CoA Dehydrogenase Deficiency\nTrifunctional Protein Deficiency\nLong Chain Hydroxyacyl-CoA Dehydrogenase Deficiency\nCarnitine Palmitoyltransferase I or II Deficiency\nCarnitine/Acylcarnitine Translocase Deficiency\nPrimary Carnitine Transport Deficiency\nHypoxic-Ischemic Encephalopathy\n\nExclusion Criteria:\n\nPrior Solid-Organ Transplant\nUse of any other investigational drug, biologic, or therapy or any clinical or laboratory abnormality or medical condition that, as determined by the investigator, may interfere with or obscure the biomarker measurements"
+          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
         ],
         "MinimumAge": [
-          "7 Years"
+          "12 Years"
         ],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "Washington"
+          "New Haven"
         ],
         "LocationFacility": [
-          "Children's National Research Institute"
+          "Yale New Haven Hospital"
         ],
         "LocationState": [
-          "District of Columbia"
+          "Connecticut"
         ],
         "LocationZip": [
-          "20010"
+          "06510"
         ],
         "LocationContactEMail": [
-          "krice3@childrensnational.org"
+          "jessica.lat@yale.edu",
+          "zhongyao.li@yale.edu"
         ],
         "LocationContactName": [
-          "Katie Rice, MPH, CCRP",
-          "Nicholas Ah Mew, MD"
+          "Jessica Lat",
+          "Zhongyao Li",
+          "Nicola Santoro, MD, PhD"
         ],
         "LocationContactPhone": [],
         "BriefSummary": [
-          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. High blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. The following aims are proposed:\n\nAim 1 of this study will be to determine the chronology of biomarkers of brain injury in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder.\n\nAim 2 will be to determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1)."
+          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
         ],
         "DetailedDescription": [
-          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. The onslaught of high blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. In addition, clinical hyperammonemia recurs at varying intervals, which can increase the cumulative damage to the brain and the chance of irreversible coma and death during a hyperammonemia episode due to vascular compromise or brain herniation. The threshold of tolerance for elevated blood ammonia is very low and concentrations above 100 µM can cause brain dysfunction manifested as nausea, vomiting, lethargy, and abnormal behavior; higher concentrations can cause coma and even death. Failure to remove ammonia can be due to inherited defects of the urea cycle, some defects in amino acid catabolism, and degradation of fatty acids.\n\nAim 1 - To determine the chronology of biomarkers of brain injury - S100B, NSE, and UCHL1 - in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder. We hypothesized that elevations of S100B, NSE, and UCHL1 will parallel the rise in blood ammonia. These biomarkers will be measured concurrently to ammonia levels throughout hospitalizations for HA until normalization of patient's blood ammonia and mental status.\n\nAim 2 - To determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism in which the primary pathology is neurological injury, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1). We hypothesize that neuronal and astroglial injury in these disorders may also result in increased levels of S100B, NSE, and UCHL1.\n\nMetabolic patients will be enrolled either during a hospitalization or in outpatient clinic, but outpatient enrollment is preferred. Metabolic patients typically have multiple laboratory tests performed at their outpatient visits. We will obtain the discarded blood samples from such laboratory tests in order to measure S100B, NSE, and UCHL1 levels at baseline (normal blood ammonia), which will provide data on biomarker levels following recovery from a hyperammonemic episode.\n\nDuring hospitalization for metabolic decompensation or for hypoxic-ischemic encephalopathy, sequential measurements of S100B, NSE and UCHL1 levels will be obtained from discarded blood samples. We will obtain S100B, NSE, and UCHL1 levels from collected discarded blood samples at all subjects' next outpatient visit following their hospitalization, to determine if levels return to baseline."
+          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
         ]
       },
       {
@@ -10882,50 +10870,6 @@
       {
         "Rank": 216,
         "NCTId": [
-          "NCT03318393"
-        ],
-        "OfficialTitle": [
-          "Prospective Randomized Pilot Study Comparing Bivalirudin Versus Heparin in Neonatal and Pediatric Extracorporeal Membrane Oxygenation"
-        ],
-        "Condition": [
-          "Extracorporeal Membrane Oxygenation Complication",
-          "Pediatric ALL",
-          "Anticoagulants"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAge 1 day to less than 18 years\nCared for in the pediatric intensive care unit or pediatric cardiac intensive care unit\nreceiving venovenous or venoarterial ECMO\n\nExclusion Criteria:\n\nPatients with known or suspected heparin induced thrombocytopenia prior to consent\nPatients with hepatic failure defined as coagulopathy with elevated transaminases more than three times normal values\nPatients with plan to decannulate from ECMO within 48 hours\nKnown or suspected pregnant women\nPrevious enrollment in this study\nPrimary language spoken that is not English or Spanish"
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Dallas"
-        ],
-        "LocationFacility": [
-          "Children's Medical Center"
-        ],
-        "LocationState": [
-          "Texas"
-        ],
-        "LocationZip": [
-          "75235"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Ali McMichael, MD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The investigators will prospectively enroll 30 neonatal and pediatric ECMO patients at a single pediatric Level 1 trauma center. The patients will be randomized into two arms; one arm will receive unfractionated heparin and the other arm will receive bivalirudin. There will be 15 patients in each arm for a total of 30 patients.\n\nPrimary aim will be to compare the efficacy of bivalirudin to unfractionated heparin."
-        ],
-        "DetailedDescription": [
-          "The investigators will prospectively enroll 30 neonatal and pediatric ECMO patients at a single pediatric Level 1 trauma center. The patients will be randomized into two arms; one arm will receive unfractionated heparin and the other arm will receive bivalirudin. There will be 15 patients in each arm for a total of 30 patients.\n\nThe investigators hypothesize that neonatal and pediatric ECMO patients receiving bivalirudin will spend more time at goal anticoagulation and will experience less hemorrhagic and thrombotic complications when compared to patients receiving unfractionated heparin. Primary aim will be to compare the efficacy of bivalirudin to unfractionated heparin. The investigators secondary aim will be to define the incidence of hemorrhagic and thrombotic complications in patients receiving bivalirudin during ECMO."
-        ]
-      },
-      {
-        "Rank": 217,
-        "NCTId": [
           "NCT03304574"
         ],
         "OfficialTitle": [
@@ -10979,7 +10923,7 @@
         ]
       },
       {
-        "Rank": 218,
+        "Rank": 217,
         "NCTId": [
           "NCT03297658"
         ],
@@ -11025,7 +10969,7 @@
         ]
       },
       {
-        "Rank": 219,
+        "Rank": 218,
         "NCTId": [
           "NCT03283033"
         ],
@@ -11074,7 +11018,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 220,
+        "Rank": 219,
         "NCTId": [
           "NCT03239977"
         ],
@@ -11120,7 +11064,7 @@
         ]
       },
       {
-        "Rank": 221,
+        "Rank": 220,
         "NCTId": [
           "NCT03229837"
         ],
@@ -11170,7 +11114,7 @@
         ]
       },
       {
-        "Rank": 222,
+        "Rank": 221,
         "NCTId": [
           "NCT03225014"
         ],
@@ -11219,7 +11163,7 @@
         ]
       },
       {
-        "Rank": 223,
+        "Rank": 222,
         "NCTId": [
           "NCT03222570"
         ],
@@ -11265,7 +11209,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 224,
+        "Rank": 223,
         "NCTId": [
           "NCT03202303"
         ],
@@ -11313,7 +11257,7 @@
         ]
       },
       {
-        "Rank": 225,
+        "Rank": 224,
         "NCTId": [
           "NCT03192566"
         ],
@@ -11365,7 +11309,7 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 225,
         "NCTId": [
           "NCT03166358"
         ],
@@ -11413,7 +11357,7 @@
         ]
       },
       {
-        "Rank": 227,
+        "Rank": 226,
         "NCTId": [
           "NCT03154359"
         ],
@@ -11464,7 +11408,7 @@
         ]
       },
       {
-        "Rank": 228,
+        "Rank": 227,
         "NCTId": [
           "NCT03132948"
         ],
@@ -11513,7 +11457,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 228,
         "NCTId": [
           "NCT03072849"
         ],
@@ -11564,7 +11508,7 @@
         ]
       },
       {
-        "Rank": 230,
+        "Rank": 229,
         "NCTId": [
           "NCT03055533"
         ],
@@ -11613,7 +11557,7 @@
         ]
       },
       {
-        "Rank": 231,
+        "Rank": 230,
         "NCTId": [
           "NCT03032328"
         ],
@@ -11664,7 +11608,7 @@
         ]
       },
       {
-        "Rank": 232,
+        "Rank": 231,
         "NCTId": [
           "NCT03023566"
         ],
@@ -11713,7 +11657,7 @@
         ]
       },
       {
-        "Rank": 233,
+        "Rank": 232,
         "NCTId": [
           "NCT03005951"
         ],
@@ -11764,7 +11708,7 @@
         ]
       },
       {
-        "Rank": 234,
+        "Rank": 233,
         "NCTId": [
           "NCT02914067"
         ],
@@ -11817,7 +11761,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 235,
+        "Rank": 234,
         "NCTId": [
           "NCT02895711"
         ],
@@ -11866,7 +11810,7 @@
         ]
       },
       {
-        "Rank": 236,
+        "Rank": 235,
         "NCTId": [
           "NCT02889016"
         ],
@@ -11913,7 +11857,7 @@
         ]
       },
       {
-        "Rank": 237,
+        "Rank": 236,
         "NCTId": [
           "NCT02846272"
         ],
@@ -11962,7 +11906,7 @@
         ]
       },
       {
-        "Rank": 238,
+        "Rank": 237,
         "NCTId": [
           "NCT02824627"
         ],
@@ -12012,7 +11956,7 @@
         ]
       },
       {
-        "Rank": 239,
+        "Rank": 238,
         "NCTId": [
           "NCT02775643"
         ],
@@ -12059,7 +12003,7 @@
         ]
       },
       {
-        "Rank": 240,
+        "Rank": 239,
         "NCTId": [
           "NCT02769975"
         ],
@@ -12111,7 +12055,7 @@
         ]
       },
       {
-        "Rank": 241,
+        "Rank": 240,
         "NCTId": [
           "NCT02742272"
         ],
@@ -12164,7 +12108,7 @@
         ]
       },
       {
-        "Rank": 242,
+        "Rank": 241,
         "NCTId": [
           "NCT02722486"
         ],
@@ -12212,7 +12156,7 @@
         ]
       },
       {
-        "Rank": 243,
+        "Rank": 242,
         "NCTId": [
           "NCT02703597"
         ],
@@ -12259,7 +12203,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 244,
+        "Rank": 243,
         "NCTId": [
           "NCT02699190"
         ],
@@ -12307,7 +12251,7 @@
         ]
       },
       {
-        "Rank": 245,
+        "Rank": 244,
         "NCTId": [
           "NCT02651493"
         ],
@@ -12358,7 +12302,7 @@
         ]
       },
       {
-        "Rank": 246,
+        "Rank": 245,
         "NCTId": [
           "NCT02616796"
         ],
@@ -12406,7 +12350,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 247,
+        "Rank": 246,
         "NCTId": [
           "NCT02610946"
         ],
@@ -12457,7 +12401,7 @@
         ]
       },
       {
-        "Rank": 248,
+        "Rank": 247,
         "NCTId": [
           "NCT02535936"
         ],
@@ -12508,7 +12452,7 @@
         ]
       },
       {
-        "Rank": 249,
+        "Rank": 248,
         "NCTId": [
           "NCT02512718"
         ],
@@ -12552,7 +12496,7 @@
         ]
       },
       {
-        "Rank": 250,
+        "Rank": 249,
         "NCTId": [
           "NCT02498925"
         ],
@@ -12600,7 +12544,7 @@
         ]
       },
       {
-        "Rank": 251,
+        "Rank": 250,
         "NCTId": [
           "NCT02485418"
         ],
@@ -12647,7 +12591,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 252,
+        "Rank": 251,
         "NCTId": [
           "NCT02453126"
         ],
@@ -12693,7 +12637,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 253,
+        "Rank": 252,
         "NCTId": [
           "NCT02398539"
         ],
@@ -12738,7 +12682,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 254,
+        "Rank": 253,
         "NCTId": [
           "NCT02395003"
         ],
@@ -12782,7 +12726,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 254,
         "NCTId": [
           "NCT02312635"
         ],
@@ -12834,7 +12778,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 255,
         "NCTId": [
           "NCT02257229"
         ],
@@ -12881,7 +12825,7 @@
         ]
       },
       {
-        "Rank": 257,
+        "Rank": 256,
         "NCTId": [
           "NCT02245997"
         ],
@@ -12928,7 +12872,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 258,
+        "Rank": 257,
         "NCTId": [
           "NCT02202174"
         ],
@@ -12973,7 +12917,7 @@
         ]
       },
       {
-        "Rank": 259,
+        "Rank": 258,
         "NCTId": [
           "NCT02130180"
         ],
@@ -13021,7 +12965,7 @@
         ]
       },
       {
-        "Rank": 260,
+        "Rank": 259,
         "NCTId": [
           "NCT02127658"
         ],
@@ -13063,7 +13007,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 261,
+        "Rank": 260,
         "NCTId": [
           "NCT02117063"
         ],
@@ -13120,7 +13064,7 @@
         ]
       },
       {
-        "Rank": 262,
+        "Rank": 261,
         "NCTId": [
           "NCT02055105"
         ],
@@ -13168,7 +13112,7 @@
         ]
       },
       {
-        "Rank": 263,
+        "Rank": 262,
         "NCTId": [
           "NCT02021604"
         ],
@@ -13211,7 +13155,7 @@
         ]
       },
       {
-        "Rank": 264,
+        "Rank": 263,
         "NCTId": [
           "NCT01960166"
         ],
@@ -13253,7 +13197,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 265,
+        "Rank": 264,
         "NCTId": [
           "NCT01857791"
         ],
@@ -13300,7 +13244,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 266,
+        "Rank": 265,
         "NCTId": [
           "NCT01839747"
         ],
@@ -13349,7 +13293,7 @@
         ]
       },
       {
-        "Rank": 267,
+        "Rank": 266,
         "NCTId": [
           "NCT01724463"
         ],
@@ -13404,7 +13348,7 @@
         ]
       },
       {
-        "Rank": 268,
+        "Rank": 267,
         "NCTId": [
           "NCT01665326"
         ],
@@ -13454,7 +13398,7 @@
         ]
       },
       {
-        "Rank": 269,
+        "Rank": 268,
         "NCTId": [
           "NCT01629017"
         ],
@@ -13503,7 +13447,7 @@
         ]
       },
       {
-        "Rank": 270,
+        "Rank": 269,
         "NCTId": [
           "NCT01598766"
         ],
@@ -13555,7 +13499,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 271,
+        "Rank": 270,
         "NCTId": [
           "NCT01577810"
         ],
@@ -13606,7 +13550,7 @@
         ]
       },
       {
-        "Rank": 272,
+        "Rank": 271,
         "NCTId": [
           "NCT01543438"
         ],
@@ -13653,7 +13597,7 @@
         ]
       },
       {
-        "Rank": 273,
+        "Rank": 272,
         "NCTId": [
           "NCT01504373"
         ],
@@ -13699,7 +13643,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 274,
+        "Rank": 273,
         "NCTId": [
           "NCT01422759"
         ],
@@ -13751,7 +13695,7 @@
         ]
       },
       {
-        "Rank": 275,
+        "Rank": 274,
         "NCTId": [
           "NCT01422746"
         ],
@@ -13801,7 +13745,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 276,
+        "Rank": 275,
         "NCTId": [
           "NCT01421810"
         ],
@@ -13852,7 +13796,7 @@
         ]
       },
       {
-        "Rank": 277,
+        "Rank": 276,
         "NCTId": [
           "NCT01421797"
         ],
@@ -13904,7 +13848,7 @@
         ]
       },
       {
-        "Rank": 278,
+        "Rank": 277,
         "NCTId": [
           "NCT01386736"
         ],
@@ -13953,7 +13897,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 279,
+        "Rank": 278,
         "NCTId": [
           "NCT01383915"
         ],
@@ -14002,7 +13946,7 @@
         ]
       },
       {
-        "Rank": 280,
+        "Rank": 279,
         "NCTId": [
           "NCT01304875"
         ],
@@ -14046,7 +13990,7 @@
         ]
       },
       {
-        "Rank": 281,
+        "Rank": 280,
         "NCTId": [
           "NCT01285531"
         ],
@@ -14103,7 +14047,7 @@
         ]
       },
       {
-        "Rank": 282,
+        "Rank": 281,
         "NCTId": [
           "NCT01122095"
         ],
@@ -14156,7 +14100,7 @@
         ]
       },
       {
-        "Rank": 283,
+        "Rank": 282,
         "NCTId": [
           "NCT00906906"
         ],
@@ -14207,7 +14151,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 283,
         "NCTId": [
           "NCT00814853"
         ],
@@ -14254,7 +14198,7 @@
         ]
       },
       {
-        "Rank": 285,
+        "Rank": 284,
         "NCTId": [
           "NCT00792415"
         ],
@@ -14302,7 +14246,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 286,
+        "Rank": 285,
         "NCTId": [
           "NCT00745394"
         ],
@@ -14349,7 +14293,7 @@
         ]
       },
       {
-        "Rank": 287,
+        "Rank": 286,
         "NCTId": [
           "NCT00616317"
         ],
@@ -14387,7 +14331,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 288,
+        "Rank": 287,
         "NCTId": [
           "NCT00494572"
         ],
@@ -14437,7 +14381,7 @@
         ]
       },
       {
-        "Rank": 289,
+        "Rank": 288,
         "NCTId": [
           "NCT00491946"
         ],
@@ -14482,7 +14426,7 @@
         ]
       },
       {
-        "Rank": 290,
+        "Rank": 289,
         "NCTId": [
           "NCT00465699"
         ],
@@ -14526,7 +14470,7 @@
         ]
       },
       {
-        "Rank": 291,
+        "Rank": 290,
         "NCTId": [
           "NCT00320086"
         ],
@@ -14574,7 +14518,7 @@
         ]
       },
       {
-        "Rank": 292,
+        "Rank": 291,
         "NCTId": [
           "NCT00292513"
         ],
@@ -14619,7 +14563,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 293,
+        "Rank": 292,
         "NCTId": [
           "NCT00182572"
         ],
@@ -14663,7 +14607,7 @@
         ]
       },
       {
-        "Rank": 294,
+        "Rank": 293,
         "NCTId": [
           "NCT00036712"
         ],
@@ -14720,7 +14664,7 @@
         ]
       },
       {
-        "Rank": 295,
+        "Rank": 294,
         "NCTId": [
           "NCT00012506"
         ],
@@ -14768,7 +14712,7 @@
         ]
       },
       {
-        "Rank": 296,
+        "Rank": 295,
         "NCTId": [
           "NCT00000112"
         ],
@@ -14807,6 +14751,59 @@
           "The prevalence of obesity in children is reaching epidemic proportions. Excess adiposity is more than just a cosmetic problem, having substantial metabolic consequences. Insulin resistance, hyperinsulinemia, impaired glucose tolerance, and frank diabetes are often seen in obese children. In this study the prevalence of impaired glucose (carbohydrate) tolerance in lean children with a family history of diabetes and obese children with acanthosis nigricans with or without a family history of diabetes mellitus will be studied."
         ],
         "DetailedDescription": []
+      },
+      {
+        "Rank": 296,
+        "NCTId": [
+          "NCT04810130"
+        ],
+        "OfficialTitle": [
+          "Effect of Repetitive Soccer Heading on Biomechanics and Physiological Measures"
+        ],
+        "Condition": [
+          "Repeated Head Impacts"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nMales or females ages 13 to 18.\nActively participating on a competitive soccer team.\nAt least 1 year of soccer heading experience.\nParental/guardian permission (informed consent) and child assent.\n\nExclusion Criteria:\n\nSubject sustained a concussion or spinal injury within the past 6 months or still has active symptoms from a previous injury.\nInability to exercise because of lower-extremity orthopedic injury or significant vestibular or visual dysfunction.\nCurrently taking medications that can affect autonomic function.\nPlays exclusively the goalkeeper position and does not regularly head the ball.\nParental/guardian permission (informed consent) not obtainable or not provided.\nParents/guardians or subjects who, in the opinion of the Investigator, may be non-compliant with study schedules or procedures.\nSubject has fixed orthodontia on upper teeth.\nCannot understand English."
+        ],
+        "MinimumAge": [
+          "13 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Philadelphia"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Philadelphia"
+        ],
+        "LocationState": [
+          "Pennsylvania"
+        ],
+        "LocationZip": [
+          "19104"
+        ],
+        "LocationContactEMail": [
+          "ARBOGAST@chop.edu",
+          "masterc@chop.edu"
+        ],
+        "LocationContactName": [
+          "Kristy B Arbogast, PhD",
+          "Christina L Master, MD",
+          "Kristy B Arbogast, PhD",
+          "Christina L Master, MD"
+        ],
+        "LocationContactPhone": [
+          "215-590-6075",
+          "215-590-1527"
+        ],
+        "BriefSummary": [
+          "There is growing concern for the resulting neurological and physiological outcomes from repeated head impacts in sports that do not manifest into traditional concussion symptoms. Specifically, there is evidence of immediate physiological deficits following controlled soccer heading. This study will compare the physiological changes of adolescents completing a set of soccer headers to those randomized to a set of soccer kicks to evaluate the effect of repetitive head impacts."
+        ],
+        "DetailedDescription": [
+          "There is limited data relating head impact biomechanics to neurological outcomes in humans. Concussion occurs from rotational loading of the head giving rise to diffuse stresses and strains in the brain tissue leading to autonomic and physiological dysfunction. Repeated head loading is common in contact sports and an integral part of soccer. It is unknown whether the same biomechanical forces from lower severity head impacts such as typical soccer heading cause temporary physiological deficits as well. Advancement of objective physiological function assessment devices allow measurement of neurological effects in the absence of diagnosed concussion. Recent soccer heading studies have evaluated neurophysiological changes pre- and post-repetitive heading. These studies have found conflicting results for the effect on neurocognitive performance immediately following a bout of heading, but consistent changes were observed in measures of vestibular balance, ocular function, and neurochemical biomarkers.\n\nSoccer heading biomechanics studies showed that females experienced higher severity head loading, and in equivalent sports such as soccer and basketball, females have higher concussion rates. This study will compare the physiological changes of male and female adolescents completing one of two soccer heading paradigms to those randomized to kicking to evaluate the effect of repetitive head impacts. This study will relate biomechanical measures of head loading with physiological function changes associated with repeated head impacts, and compare sex-differences in biomechanical measures and physiological changes."
+        ]
       },
       {
         "Rank": 297,
@@ -15246,50 +15243,53 @@
       {
         "Rank": 306,
         "NCTId": [
-          "NCT04634643"
+          "NCT04602325"
         ],
         "OfficialTitle": [
-          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
+          "Systemic Biomarkers of Brain Injury From Hyperammonemia"
         ],
         "Condition": [
-          "NAFLD"
+          "Urea Cycle Disorder",
+          "Organic Acidemia",
+          "Maple Syrup Urine Disease",
+          "Glutaric Acidemia I",
+          "Fatty Acid Oxidation Disorder",
+          "Hypoxic-Ischemic Encephalopathy"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
+          "Inclusion Criteria:\n\nInherited Hyperammonemias:\n\nA clinical diagnosis of 1 of 7 diagnosed urea cycle disorders:\n\nN-acetylglutamate Synthetase Deficiency (NAGS)\nCarbamyl Phosphate Synthetase Deficiency (CPSD)\nOrnithine Transcarbamylase Deficiency (OTCD)\nArgininosuccinate Synthetase Deficiency (ASD)\nArgininosuccinate Lyase Deficiency (ALD)\nArginase Deficiency (AD)\nHyperammonemia-Hyperornithinemia-Homocitrullinuria (HHH)\n\nA clinical diagnosis of 1 of 2 organic acidemias:\n\nPropionic Acidemia (PA)\nMethylmalonic Acidemia (MMA)\n\nAcute metabolic disorder without hyperammonemia, with neurological sequelae\n\nMaple Syrup Urine Disease (MSUD)\nGlutaric Acidemia (GA1)\n\nAcute metabolic disorder without hyperammonemia and without neurological sequelae\n\nFatty Acid Oxidation Disorders:\nMedium Chain-Acyl CoA Dehydrogenase Deficiency\nVery Long Chain-Acyl CoA Dehydrogenase Deficiency\nTrifunctional Protein Deficiency\nLong Chain Hydroxyacyl-CoA Dehydrogenase Deficiency\nCarnitine Palmitoyltransferase I or II Deficiency\nCarnitine/Acylcarnitine Translocase Deficiency\nPrimary Carnitine Transport Deficiency\nHypoxic-Ischemic Encephalopathy\n\nExclusion Criteria:\n\nPrior Solid-Organ Transplant\nUse of any other investigational drug, biologic, or therapy or any clinical or laboratory abnormality or medical condition that, as determined by the investigator, may interfere with or obscure the biomarker measurements"
         ],
         "MinimumAge": [
-          "12 Years"
+          "7 Years"
         ],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "New Haven"
+          "Washington"
         ],
         "LocationFacility": [
-          "Yale New Haven Hospital"
+          "Children's National Research Institute"
         ],
         "LocationState": [
-          "Connecticut"
+          "District of Columbia"
         ],
         "LocationZip": [
-          "06510"
+          "20010"
         ],
         "LocationContactEMail": [
-          "jessica.lat@yale.edu",
-          "zhongyao.li@yale.edu"
+          "krice3@childrensnational.org"
         ],
         "LocationContactName": [
-          "Jessica Lat",
-          "Zhongyao Li",
-          "Nicola Santoro, MD, PhD"
+          "Katie Rice, MPH, CCRP",
+          "Nicholas Ah Mew, MD"
         ],
         "LocationContactPhone": [],
         "BriefSummary": [
-          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
+          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. High blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. The following aims are proposed:\n\nAim 1 of this study will be to determine the chronology of biomarkers of brain injury in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder.\n\nAim 2 will be to determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1)."
         ],
         "DetailedDescription": [
-          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
+          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. The onslaught of high blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. In addition, clinical hyperammonemia recurs at varying intervals, which can increase the cumulative damage to the brain and the chance of irreversible coma and death during a hyperammonemia episode due to vascular compromise or brain herniation. The threshold of tolerance for elevated blood ammonia is very low and concentrations above 100 µM can cause brain dysfunction manifested as nausea, vomiting, lethargy, and abnormal behavior; higher concentrations can cause coma and even death. Failure to remove ammonia can be due to inherited defects of the urea cycle, some defects in amino acid catabolism, and degradation of fatty acids.\n\nAim 1 - To determine the chronology of biomarkers of brain injury - S100B, NSE, and UCHL1 - in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder. We hypothesized that elevations of S100B, NSE, and UCHL1 will parallel the rise in blood ammonia. These biomarkers will be measured concurrently to ammonia levels throughout hospitalizations for HA until normalization of patient's blood ammonia and mental status.\n\nAim 2 - To determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism in which the primary pathology is neurological injury, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1). We hypothesize that neuronal and astroglial injury in these disorders may also result in increased levels of S100B, NSE, and UCHL1.\n\nMetabolic patients will be enrolled either during a hospitalization or in outpatient clinic, but outpatient enrollment is preferred. Metabolic patients typically have multiple laboratory tests performed at their outpatient visits. We will obtain the discarded blood samples from such laboratory tests in order to measure S100B, NSE, and UCHL1 levels at baseline (normal blood ammonia), which will provide data on biomarker levels following recovery from a hyperammonemic episode.\n\nDuring hospitalization for metabolic decompensation or for hypoxic-ischemic encephalopathy, sequential measurements of S100B, NSE and UCHL1 levels will be obtained from discarded blood samples. We will obtain S100B, NSE, and UCHL1 levels from collected discarded blood samples at all subjects' next outpatient visit following their hospitalization, to determine if levels return to baseline."
         ]
       },
       {
@@ -15455,121 +15455,6 @@
       {
         "Rank": 310,
         "NCTId": [
-          "NCT04602728"
-        ],
-        "OfficialTitle": [
-          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
-        ],
-        "Condition": [
-          "Sickle Cell Disease"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
-        ],
-        "MinimumAge": [
-          "10 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Atlanta",
-          "Atlanta",
-          "Atlanta"
-        ],
-        "LocationFacility": [
-          "Children's Healthcare of Atlanta at Hugh Spalding",
-          "Chilldren's Healthcare of Atlanta",
-          "Emory Children's Center"
-        ],
-        "LocationState": [
-          "Georgia",
-          "Georgia",
-          "Georgia"
-        ],
-        "LocationZip": [
-          "30303",
-          "30322",
-          "30322"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
-        ],
-        "DetailedDescription": [
-          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
-        ]
-      },
-      {
-        "Rank": 311,
-        "NCTId": [
-          "NCT04582682"
-        ],
-        "OfficialTitle": [
-          "Poly-omic Predictors of Symptom Duration and Recovery for Adolescent Concussion"
-        ],
-        "Condition": [
-          "Concussion, Mild"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPresence of mTBI: defined by criteria from the Berlin Consensus Statement and WHO. Assessment for mTBI status be performed by a licensed clinician per the 2018 CDC guidelines.\nAge at enrollment: 13-18 years of age (inclusive).\n\nExclusion Criteria:\n\n> 48 hours after initial mTBI\nGlasgow Coma Scale score of 13 or less\nPrevious moderate-to-severe TBI requiring overnight hospitalization\nUnresolved symptoms from previous concussion, or any concussion within the last 3 months\nAbbreviated Injury Scale (AIS) score > 3 (to reduce confounding from poly-trauma)\nPsychiatric illness requiring previous hospitalization;\nNeurological condition (e.g. epilepsy, hydrocephalus) or abnormality on neuroimaging (if performed)\nIntellectual disability that prevents ability to provide informed assent\nPregnancy\nActive substance use/dependence\nPrevious neurosurgery\nNon-fluency in English\nUpper respiratory infection\nPeriodontal infection\nInjury to the oropharynx\nPreviously enrolled in the same study\nInability to complete follow-up assessments"
-        ],
-        "MinimumAge": [
-          "13 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Boston",
-          "Syracuse",
-          "Hershey"
-        ],
-        "LocationFacility": [
-          "Boston Children's Hosptial",
-          "SUNY Upstate Medical University",
-          "Penn State Milton S. Hershey Medical Center"
-        ],
-        "LocationState": [
-          "Massachusetts",
-          "New York",
-          "Pennsylvania"
-        ],
-        "LocationZip": [
-          "02115",
-          "13210",
-          "17033"
-        ],
-        "LocationContactEMail": [
-          "Sarah.Bonney@childrens.harvard.edu",
-          "John.Shultz@childrens.harvard.edu",
-          "PacelliL@upstate.edu",
-          "bharding@pennstatehealth.psu.edu"
-        ],
-        "LocationContactName": [
-          "Sarah Bonney",
-          "John Shultz",
-          "Rebekah Mannix, MD, MPH",
-          "Lauren Pacelli",
-          "Tyler Greenfield, DO",
-          "Brennen Harding, MS",
-          "Steven Hicks, MD, PhD"
-        ],
-        "LocationContactPhone": [
-          "717-531-0003"
-        ],
-        "BriefSummary": [
-          "The purpose of this study is to identify changes in salivary micro ribonucleic acid (miRNA) levels that are predictive of symptom duration and character following mild traumatic brain injury (mTBI) in children."
-        ],
-        "DetailedDescription": [
-          "The objective of this multi-center study is to refine and validate a saliva RNA assessment for adolescent concussion, yielding a non-invasive test that predicts duration and character of symptoms, and helps guide clinical decisions. To accomplish this goal, the study will enroll 750 adolescents with mTBI. Saliva RNA levels and symptoms will be assessed at <48 hours, 7 days, and 30 days post-injury. Aim 1 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 7) to predict PPCS 30 days after mTBI (defined by persistence of ≥3 symptoms on day 30, compared with pre-injury state on the Post-Concussion Symptom Inventory; PCSI). RNA accuracy will be compared to a validated clinical prediction tool (5p tool). Aim 2 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 30) to identify recovered participants on day 30. RNA accuracy will be compared to change in composite score on a standardized reaction time test (from <48hrs to day 30). Completion of these aims will yield an objective biologic test that can be used for prognosis at the time of mTBI, and to aid clinical decisions regarding return-to-learn or return-to-play."
-        ]
-      },
-      {
-        "Rank": 312,
-        "NCTId": [
           "NCT04465370"
         ],
         "OfficialTitle": [
@@ -15626,7 +15511,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 313,
+        "Rank": 311,
         "NCTId": [
           "NCT02505165"
         ],
@@ -15691,7 +15576,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 312,
         "NCTId": [
           "NCT01142882"
         ],
@@ -15752,6 +15637,121 @@
         ],
         "DetailedDescription": [
           "This trial will examine the comparative effectiveness and cost-effectiveness of a web-based HIV, hepatitis and STI prevention intervention when offered to youth in outpatient, community-based substance abuse treatment as directly compared to a traditional HIV (and infectious disease) prevention intervention. We will assess the comparative effectiveness and cost-effectiveness of these interventions by primarily examining changes from pre- to post-intervention in accurate HIV/disease prevention knowledge, intentions to engage in safer sex and HIV risk behavior. Additionally, we will examine the extent to which the interventions impact relevant skills acquisition (e.g., communication skills, negotiation skills and condom use skills), attitudes toward safer sex and self-reported substance use, as well as the acceptability of each intervention. We also plan to evaluate youth at both 1 and 3 month post-intervention to examine the durability of effects (including any differential durability of effects across intervention conditions). The web-delivered prevention intervention to be evaluated in this study has the potential to allow for a complex intervention to be delivered at a low cost, without increasing demands on staff time or training needs, and may thereby expand the reach of evidence-based prevention for youth in substance-abuse treatment.\n\nThis study will be conducted at three collaborating, community-based adolescent substance abuse treatment programs all of which are housed within the Daytop Village network of services and are located in New York City: (1) Daytop Village's Brooklyn Outreach Center; (2) Daytop Village's Bronx Outreach Center; and (3) Daytop Village's Queens Outreach Center. We expect to recruit approximately one third of the total number of participants from each site.\n\nA total of up to 160 (no fewer than 120) adolescent participants will be enrolled in this study. Participants will be randomly assigned to one of the two study conditions in an intent-to-treat design (n=60-80 per group): (1) computer-delivered intervention or (2) traditional (person-delivered intervention). Participants in the traditional prevention intervention condition will complete two sessions (of approx. one hour in duration) across the course of a week, conducted by a trained HIV (and infectious disease) prevention educator; these sessions will typically be conducted in small groups of 2-4 participants but may be offered individually. Participants in the computer-delivered intervention condition will complete an interactive, web-based HIV, hepatitis and STI prevention program instead of the traditional, person-delivered prevention intervention. Youth will be asked to complete a customized plan of approximately 2-4 hours in length using the web-based tool; participants will complete two 60-minute sessions per week until they complete their customized plan. Participants will access this intervention using dedicated computer stations set up at their substance abuse treatment program."
+        ]
+      },
+      {
+        "Rank": 313,
+        "NCTId": [
+          "NCT04602728"
+        ],
+        "OfficialTitle": [
+          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
+        ],
+        "Condition": [
+          "Sickle Cell Disease"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
+        ],
+        "MinimumAge": [
+          "10 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Atlanta",
+          "Atlanta",
+          "Atlanta"
+        ],
+        "LocationFacility": [
+          "Children's Healthcare of Atlanta at Hugh Spalding",
+          "Chilldren's Healthcare of Atlanta",
+          "Emory Children's Center"
+        ],
+        "LocationState": [
+          "Georgia",
+          "Georgia",
+          "Georgia"
+        ],
+        "LocationZip": [
+          "30303",
+          "30322",
+          "30322"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
+        ],
+        "DetailedDescription": [
+          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
+        ]
+      },
+      {
+        "Rank": 314,
+        "NCTId": [
+          "NCT04582682"
+        ],
+        "OfficialTitle": [
+          "Poly-omic Predictors of Symptom Duration and Recovery for Adolescent Concussion"
+        ],
+        "Condition": [
+          "Concussion, Mild"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPresence of mTBI: defined by criteria from the Berlin Consensus Statement and WHO. Assessment for mTBI status be performed by a licensed clinician per the 2018 CDC guidelines.\nAge at enrollment: 13-18 years of age (inclusive).\n\nExclusion Criteria:\n\n> 48 hours after initial mTBI\nGlasgow Coma Scale score of 13 or less\nPrevious moderate-to-severe TBI requiring overnight hospitalization\nUnresolved symptoms from previous concussion, or any concussion within the last 3 months\nAbbreviated Injury Scale (AIS) score > 3 (to reduce confounding from poly-trauma)\nPsychiatric illness requiring previous hospitalization;\nNeurological condition (e.g. epilepsy, hydrocephalus) or abnormality on neuroimaging (if performed)\nIntellectual disability that prevents ability to provide informed assent\nPregnancy\nActive substance use/dependence\nPrevious neurosurgery\nNon-fluency in English\nUpper respiratory infection\nPeriodontal infection\nInjury to the oropharynx\nPreviously enrolled in the same study\nInability to complete follow-up assessments"
+        ],
+        "MinimumAge": [
+          "13 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Boston",
+          "Syracuse",
+          "Hershey"
+        ],
+        "LocationFacility": [
+          "Boston Children's Hosptial",
+          "SUNY Upstate Medical University",
+          "Penn State Milton S. Hershey Medical Center"
+        ],
+        "LocationState": [
+          "Massachusetts",
+          "New York",
+          "Pennsylvania"
+        ],
+        "LocationZip": [
+          "02115",
+          "13210",
+          "17033"
+        ],
+        "LocationContactEMail": [
+          "Sarah.Bonney@childrens.harvard.edu",
+          "John.Shultz@childrens.harvard.edu",
+          "PacelliL@upstate.edu",
+          "bharding@pennstatehealth.psu.edu"
+        ],
+        "LocationContactName": [
+          "Sarah Bonney",
+          "John Shultz",
+          "Rebekah Mannix, MD, MPH",
+          "Lauren Pacelli",
+          "Tyler Greenfield, DO",
+          "Brennen Harding, MS",
+          "Steven Hicks, MD, PhD"
+        ],
+        "LocationContactPhone": [
+          "717-531-0003"
+        ],
+        "BriefSummary": [
+          "The purpose of this study is to identify changes in salivary micro ribonucleic acid (miRNA) levels that are predictive of symptom duration and character following mild traumatic brain injury (mTBI) in children."
+        ],
+        "DetailedDescription": [
+          "The objective of this multi-center study is to refine and validate a saliva RNA assessment for adolescent concussion, yielding a non-invasive test that predicts duration and character of symptoms, and helps guide clinical decisions. To accomplish this goal, the study will enroll 750 adolescents with mTBI. Saliva RNA levels and symptoms will be assessed at <48 hours, 7 days, and 30 days post-injury. Aim 1 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 7) to predict PPCS 30 days after mTBI (defined by persistence of ≥3 symptoms on day 30, compared with pre-injury state on the Post-Concussion Symptom Inventory; PCSI). RNA accuracy will be compared to a validated clinical prediction tool (5p tool). Aim 2 will assess the ability of saliva RNA dynamics (Δ from <48 hours to day 30) to identify recovered participants on day 30. RNA accuracy will be compared to change in composite score on a standardized reaction time test (from <48hrs to day 30). Completion of these aims will yield an objective biologic test that can be used for prognosis at the time of mTBI, and to aid clinical decisions regarding return-to-learn or return-to-play."
         ]
       },
       {
@@ -18285,6 +18285,177 @@
       {
         "Rank": 346,
         "NCTId": [
+          "NCT04431453"
+        ],
+        "OfficialTitle": [
+          "A Phase 2/3 Single-Arm, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of Remdesivir (GS-5734™) in Participants From Birth to < 18 Years of Age With COVID-19"
+        ],
+        "Condition": [
+          "COVID-19"
+        ],
+        "EligibilityCriteria": [
+          "Key Inclusion Criteria:\n\nAged < 18 years of age who meet one of the following weight criteria (where permitted according to local law and approved nationally and by relevant institutional review board (IRB) or independent ethics committee (IEC)).\n\na) Cohort 1: ≥ 12 years to < 18 years of age and weight at screening ≥ 40 kg\nb) Cohorts 2-4: ≥ 28 days to < 18 years of age and weight at screening ≥ 3 kg and < 40 kg\nc) Cohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nd) Cohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight of ≥ 2.5 kg\ne) Cohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight of ≥ 1.5 kg\nf) Cohort 8: < 12 years of age and weight at screening ≥ 40 kg\nSevere acute respiratory syndrome coronavirus (SARS-CoV-2) infection confirmed by polymerase chain reaction (PCR)\nHospitalized and requiring medical care for coronavirus disease 2019 (COVID-19)\n\nKey Exclusion Criteria:\n\nConcurrent treatment with other agents with actual or possible direct antiviral activity against SARS-CoV-2 < 24 hours prior to study drug dosing\nAlanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit of normal (ULN)\nEstimated glomerular filtration rate (eGFR) < 30 mL/min/1.73m^2 using Schwartz formula for individuals ≥ 1 year of age\nCreatinine above protocol specified thresholds for < 1 year of age\nPositive pregnancy test at Screening only for female of child bearing potential. Note: If female participants who become pregnant during the study or are discovered to be pregnant after receiving at least one dose may continue study drug, after discussion with the investigator\nOn renal replacement therapies (intermittent hemodialysis (iHD), peritoneal dialysis (PD), continuous renal replacement therapy (CRRT))\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply"
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Los Angeles",
+          "Los Angeles",
+          "Madera",
+          "San Diego",
+          "Tampa",
+          "Chicago",
+          "Louisville",
+          "New Orleans",
+          "Baltimore",
+          "Boston",
+          "Worcester",
+          "Detroit",
+          "Grand Rapids",
+          "Minneapolis",
+          "Omaha",
+          "Bronx",
+          "Bronx",
+          "New Hyde Park",
+          "Charlotte",
+          "Allentown",
+          "Philadelphia",
+          "Dallas",
+          "Houston",
+          "Florence",
+          "Padova",
+          "Parma",
+          "Barcelona",
+          "Esplugues de llobregat",
+          "Madrid",
+          "Madrid",
+          "Madrid",
+          "Santiago de Compostela",
+          "Birmingham",
+          "Liverpool",
+          "London",
+          "London"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Alabama",
+          "Children's Hospital Los Angeles",
+          "Ronald Reagan University of California, Los Angeles Medical Center",
+          "Valley Children's Hospital",
+          "Rady Children's Hospital San Diego",
+          "Tampa General Hospital (Inpatient Visits)",
+          "Ann & Robert H. Lurie Children's Hospital",
+          "Norton Children's Hospital",
+          "Tulane University School of Medicine",
+          "Johns Hopkins Children's Center",
+          "Boston Children's Hospital",
+          "UMass Memorial Medical Center - University Campus",
+          "Children's Hospital of Michigan",
+          "Spectrum Health/Helen De Vos Children's Hospital",
+          "Children's Minnesota",
+          "Children's Hospital & Medical Center",
+          "NYC Health + Hospitals/Jacobi Medical Center",
+          "Montefiore Medical Center",
+          "Northwell Health-Cohen Children's Medical Center",
+          "Carolinas Medical Center-Levine Children's Hospital",
+          "Lehigh Valley Hospital/Lehigh Valley Health Network (LVH/LVHN)",
+          "St. Christopher's Hospital for Children",
+          "Children's Medical Center",
+          "Texas Children's Hospital",
+          "Azienda Ospedaliero Universitaria Meyer",
+          "University Hospital of Padova, Clinic of Pediatric Hematology-Oncology",
+          "University Hospital of Parma",
+          "Hospital Universitari Vall D'Hebron",
+          "Hospital Sant Joan de Déu",
+          "Hospital General Universitario Gregorio Maranon",
+          "Hospital Universitario 12 de Octubre",
+          "Hospital Universitario La Paz",
+          "Hospital Clínico Universitario de Santiago",
+          "University Hospitals Birmingham NHS Foundation Trust",
+          "Alder Hey Children's NHS Foundation Trust",
+          "Guy's and St Thomas' NHS Foundation Trust",
+          "King's College NHS Foundation Trust"
+        ],
+        "LocationState": [
+          "Alabama",
+          "California",
+          "California",
+          "California",
+          "California",
+          "Florida",
+          "Illinois",
+          "Kentucky",
+          "Louisiana",
+          "Maryland",
+          "Massachusetts",
+          "Massachusetts",
+          "Michigan",
+          "Michigan",
+          "Minnesota",
+          "Nebraska",
+          "New York",
+          "New York",
+          "New York",
+          "North Carolina",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Texas",
+          "Texas"
+        ],
+        "LocationZip": [
+          "35233",
+          "90027",
+          "90095",
+          "93636",
+          "92123",
+          "33606",
+          "60611",
+          "40202",
+          "70112",
+          "21287",
+          "02115",
+          "01605",
+          "48201",
+          "49503",
+          "55404",
+          "68114",
+          "10461",
+          "10467",
+          "11040",
+          "28203",
+          "18103",
+          "19134",
+          "75235",
+          "77030",
+          "50139",
+          "35128",
+          "43126",
+          "8035",
+          "8950",
+          "28009",
+          "28041",
+          "28041",
+          "15706",
+          "B95SS",
+          "L12 2AP",
+          "SE1 7EU",
+          "SE5 9RS"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The primary objectives of this study are to evaluate the safety, tolerability, and pharmacokinetics (PK) of remdesivir (RDV) in participants with laboratory-confirmed coronavirus disease 2019 (COVID-19) aged 0 days to < 18 years."
+        ],
+        "DetailedDescription": [
+          "Pediatric participants will be enrolled as follows:\n\nPediatric participants ≥ 28 days to < 18 years old:\n\nCohort 1: ≥ 12 years to < 18 years and weight ≥ 40 kg\nCohort 2: ≥ 28 days to < 18 years and weight ≥ 20 kg to < 40 kg\nCohort 3: ≥ 28 days to < 18 years and weight ≥ 12 kg to < 20 kg\nCohort 4: ≥ 28 days to < 18 years and weight ≥ 3 kg to < 12 kg\nCohort 8: < 12 years and weight ≥ 40 kg\n\nTerm neonatal participants 0 days to < 28 days old:\n\nCohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nCohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight ≥ 2.5 kg\n\nPreterm neonates and infants 0 days to < 56 days old:\n\nCohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight ≥ 1.5 kg"
+        ]
+      },
+      {
+        "Rank": 347,
+        "NCTId": [
           "NCT04318548"
         ],
         "OfficialTitle": [
@@ -18577,7 +18748,7 @@
         ]
       },
       {
-        "Rank": 347,
+        "Rank": 348,
         "NCTId": [
           "NCT04258943"
         ],
@@ -18631,6 +18802,7 @@
           "Pittsburgh",
           "Providence",
           "Knoxville",
+          "Memphis",
           "Nashville",
           "Austin",
           "Dallas",
@@ -18673,6 +18845,7 @@
           "Children's Hospital of Pittsburgh of UPMC",
           "Rhode Island Hospital",
           "East Tennessee Childrens Hospital",
+          "Saint Jude Children's Research Hospital",
           "Vanderbilt University/Ingram Cancer Center",
           "Dell Children's Medical Center of Central Texas",
           "UT Southwestern/Simmons Cancer Center-Dallas",
@@ -18716,6 +18889,7 @@
           "Rhode Island",
           "Tennessee",
           "Tennessee",
+          "Tennessee",
           "Texas",
           "Texas",
           "Texas",
@@ -18757,6 +18931,7 @@
           "15224",
           "02903",
           "37916",
+          "38105",
           "37232",
           "78723",
           "75390",
@@ -18799,6 +18974,7 @@
           "andrew.bukowinski2@chp.edu",
           "jwelch@lifespan.org",
           "sspiller@etch.com",
+          "alberto.pappo@stjude.org",
           "scott.c.borinstein@vumc.org",
           "smcohn@ascension.org",
           "patrick.leavey@utsouthwestern.edu",
@@ -18868,6 +19044,8 @@
           "Jennifer Greene Welch, MD",
           "Susan Spiller, MS",
           "Susan Spiller, MD",
+          "Alberto Pappo, MD",
+          "Alberto Pappo, MD",
           "Scott Borinstein, MD PhD",
           "Scott Borinstein, MD PhD",
           "Shannon Cohn, MD",
@@ -18918,6 +19096,7 @@
           "412-692-5945",
           "401-444-5171",
           "865-541-8266",
+          "901-595-3300",
           "615-936-1762",
           "513-324-0000",
           "214-456-2382",
@@ -18936,7 +19115,186 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 349,
+        "NCTId": [
+          "NCT04203316"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Feasibility Study to Assess the Safety and Pharmacokinetics of Enasidenib in Pediatric Patients With Relapsed/Refractory Acute Myeloid Leukemia (R/R-AML) With an Isocitrate Dehydrogenase-2 (IDH2) Mutation"
+        ],
+        "Condition": [
+          "Recurrent Acute Myeloid Leukemia",
+          "Refractory Acute Myeloid Leukemia"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPatient must have AML with an IDH2 mutation identified from a peripheral blood or bone marrow sample at the time of diagnosis and/or relapsed/refractory disease\n\nPatient must have bone marrow assessment (aspiration or biopsy) with > 5% leukemic blasts by morphology and/or flow cytometry in at least one of the following clinical scenarios:\n\nSecond or greater relapse after chemotherapy or hematopoietic stem cell transplant (HSCT)\nRefractory after >= 2 attempts at induction therapy\n\nRelapsed patients\n\nMust not have received prior re-induction therapy for this relapse\nEach block of chemotherapy (i.e., cytarabine, daunorubicin and etoposide [ADE], cytarabine and mitoxantrone [MA]) is a separate re-induction attempt\nDonor lymphocyte infusion (DLI) is considered a re-induction attempt\n\nRefractory patients\n\nEach attempt at induction therapy may include up to two chemotherapy courses\nKarnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age. Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score\nPatient's current disease state must be one for which there is no known curative therapy or therapy proven to prolong survival with an acceptable quality of life\nEvaluation of cerebrospinal fluid (CSF) is only required if there is a clinical suspicion of central nervous system (CNS) involvement by leukemia during eligibility screening. Should a patient be found to have CNS2 or CNS3 status by CSF prior to eligibility screening, patient may receive intrathecal chemotherapy > 72 hours prior to starting study drug. CNS1 status must be established before starting study drug\n\nPatients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy and must meet the following minimum duration from prior anti-cancer directed therapy prior to enrollment. If after the required timeframe, the numerical eligibility criteria are met, e.g., blood count criteria, the patient is considered to have recovered adequately\n\nCytotoxic chemotherapy or other anti-cancer agents known to be myelosuppressive. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\n\n>= 14 days must have elapsed after the completion of other cytotoxic therapy with the exception of hydroxyurea. Additionally, patients must have fully recovered from all acute toxic effects of prior therapy. NOTE: Cytoreduction with hydroxyurea must be discontinued >= 24 hours prior to the start of protocol therapy\nIntrathecal chemotherapy must be completed >= 72 hours prior to the start of the first cycle of treatment\nAnti-cancer agents not known to be myelosuppressive (e.g. not associated with reduced platelet or absolute neutrophil count [ANC] counts): >= 7 days after the last dose of agent. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\nAntibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1\nCorticosteroids: If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid\nHematopoietic growth factors: >= 14 days after the last dose of a long-acting growth factor (e.g., pegfilgrastim) or 7 days for short-acting growth factor. For agents that have known adverse events occurring beyond 7 days after administration, this period must be extended beyond the time during which adverse events are known to occur. The duration of this interval must be discussed with the study chair and the study research coordinator\nInterleukins, interferons and cytokines (other than hematopoietic growth factors): >= 21 days after the completion of interleukins, interferon or cytokines (other than hematopoietic growth factors)\n\nStem cell Infusions (with or without total body irradiation [TBI]):\n\nAllogeneic (non-autologous) bone marrow or stem cell transplant, or any stem cell infusion including DLI or boost infusion:\n\n>= 60 days after infusion for bone marrow or stem cell transplant and\n>= 4 weeks after infusion for any stem cell infusion including DLI or boost infusion\nThere must be no evidence of graft versus host disease (GVHD)\nAutologous stem cell infusion including boost infusion: >= 42 days\nCellular Therapy: >= 42 days after the completion of any type of cellular therapy (e.g. modified T cells, natural killer [NK] cells, dendritic cells, etc.)\nXRT/external beam irradiation including protons: >= 14 days after local XRT; >= 150 days after TBI, craniospinal XRT or if radiation to >= 50% of the pelvis; >= 42 days if other substantial bone marrow (BM) radiation\nRadiopharmaceutical therapy (e.g., radiolabeled antibody, 131I-metaiodobenzylguanidine [MIBG]): >= 42 days after systemically administered radiopharmaceutical therapy\nStudy-specific limitations on prior therapy: small molecule investigational agents: >= 14 days or > 5 half-lives must have elapsed from the last dose of the agent, whichever is greater\nPlatelet count >= 20,000/mm^3 (may receive platelet transfusions). These patients must not be known to be refractory to red cell or platelet transfusion\nHemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)\n\nCreatinine clearance or radioisotope glomerular filtration rate [GFR] >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\n\nAge: Maximum serum creatinine (mg/dL)\n\n2 to < 6 years: 0.8 (male and female)\n6 to < 10 years: 1 (male and female)\n10 to < 13 years: 1.2 (male and female)\n13 to < 16 years: 1.5 (male); 1.4 (female\n>= 16 years: 1.7 (male); 1.4 (female)\nBilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age\nSerum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 225 U/L. For the purpose of this study, the ULN for SGPT is 45 U/L\nSerum albumin >= 2 g/dL\nLeft ventricular ejection fraction of >= 50% by echocardiogram\n\nRegulatory Requirements\n\nAll patients and/or their parents or legal authorized representatives must sign a written informed consent. Assent, when appropriate, will be obtained according to institutional guidelines\nAll institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met\n\nExclusion Criteria:\n\nAML associated with Down syndrome or t(15;17) is not eligible for study\nPregnant or breast-feeding women will not be entered on this study due to risks of fetal and teratogenic adverse events as seen in animal/human studies. Pregnancy tests must be obtained in girls who are post-menarchal. Males or females of reproductive potential may not participate unless they have agreed to use an effective contraceptive method for the duration of study therapy and for 4 months after the last dose of enasidenib. Abstinence is an acceptable method of birth control. It is not known if enasidenib is present in breast milk. Breastfeeding is not recommended during therapy or for at least 30 days after the last dose of enasidenib\n\nConcomitant Medications:\n\nCorticosteroids: Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible. If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid. The use of corticosteroids to manage the side effect of IDH inhibitor-associated differentiation syndrome (IDH-DS), is permitted on study\nInvestigational drugs: Patients who are currently receiving another investigational drug are not eligible\nAnti-cancer agents: Patients who are currently receiving other anti-cancer agents are not eligible (except leukemia patients receiving hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy; the use of hydroxyurea to manage the side effect of IDH-DS, is permitted on study)\nAnti-GVHD agents post-transplant: Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial\n\nPatients must be able to swallow intact tablets whole.\n\nPatients with known hypersensitivity to any of the components of enasidenib are not eligible.\nPatients with prior exposure to enasidenib or another IDH2 inhibitor are not eligible.\n\nPatients taking the following drugs will be excluded from study entry unless these drugs are discontinued or patients are transferred to a medically acceptable alternative > 5 half-lives before the first dose of enasidenib.\n\nDrugs with a narrow therapeutic range that are sensitive substrates of the following cytochrome P450 (CYP) enzymes: CYP2C8 (e.g. paclitaxel), 2C9 (e.g. phenytoin and warfarin), 2C19 (e.g. s-mephenytoin), 2D6 (e.g. thioridazine), and 1A2 (e.g. theophylline and tizanidine).\nBreast cancer resistant protein (BCRP) transporter-sensitive substrate rosuvastatin\n\nPatients with the following leukemia complications are not eligible for this trial:\n\nNo intrathecal chemotherapy is permitted on study. Prior to study enrollment, cerebrospinal fluid (CSF) evaluation is only required if there is a clinical suspicion for CNS leukemia. Clinical signs of CNS leukemia (such as facial nerve palsy, brain/eye involvement or hypothalamic syndrome) are not eligible for this trial\nImmediately life-threatening, severe complications of leukemia including uncontrolled bleeding, pneumonia with hypoxia or shock, and/or disseminated intravascular coagulation\nInfection: Patients who have an uncontrolled infection or patients with known human immunodeficiency virus (HIV) or active hepatitis B or C are not eligible\nPatients who have received a prior solid organ transplantation are not eligible\nPatients who in the opinion of the investigator may not be able to comply with the safety monitoring requirements of the study are not eligible"
+        ],
+        "MinimumAge": [
+          "24 Months"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Little Rock",
+          "Wilmington",
+          "Washington",
+          "Gainesville",
+          "Indianapolis",
+          "Ann Arbor",
+          "Kansas City",
+          "Hackensack",
+          "Syracuse",
+          "Cincinnati",
+          "Oklahoma City",
+          "Pittsburgh",
+          "Memphis",
+          "Nashville",
+          "Dallas",
+          "Norfolk",
+          "Montreal"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Alabama",
+          "Arkansas Children's Hospital",
+          "Alfred I duPont Hospital for Children",
+          "Children's National Medical Center",
+          "University of Florida Health Science Center - Gainesville",
+          "Riley Hospital for Children",
+          "C S Mott Children's Hospital",
+          "Children's Mercy Hospitals and Clinics",
+          "Hackensack University Medical Center",
+          "State University of New York Upstate Medical University",
+          "Cincinnati Children's Hospital Medical Center",
+          "University of Oklahoma Health Sciences Center",
+          "Children's Hospital of Pittsburgh of UPMC",
+          "Saint Jude Children's Research Hospital",
+          "Vanderbilt University/Ingram Cancer Center",
+          "UT Southwestern/Simmons Cancer Center-Dallas",
+          "Children's Hospital of The King's Daughters",
+          "Centre Hospitalier Universitaire Sainte-Justine"
+        ],
+        "LocationState": [
+          "Alabama",
+          "Arkansas",
+          "Delaware",
+          "District of Columbia",
+          "Florida",
+          "Indiana",
+          "Michigan",
+          "Missouri",
+          "New Jersey",
+          "New York",
+          "Ohio",
+          "Oklahoma",
+          "Pennsylvania",
+          "Tennessee",
+          "Tennessee",
+          "Texas",
+          "Virginia",
+          "Quebec"
+        ],
+        "LocationZip": [
+          "35233",
+          "72202-3591",
+          "19803",
+          "20010",
+          "32610",
+          "46202",
+          "48109",
+          "64108",
+          "07601",
+          "13210",
+          "45229",
+          "73104",
+          "15224",
+          "38105",
+          "37232",
+          "75390",
+          "23507",
+          "H3T 1C5"
+        ],
+        "LocationContactEMail": [
+          "oncologyresearch@peds.uab.edu",
+          "dperry@nemours.org",
+          "cancer-center@ufl.edu",
+          "rryan@cmh.edu",
+          "cancer@cchmc.org",
+          "ou-clinical-trials@ouhsc.edu",
+          "jean.tersak@chp.edu",
+          "referralinfo@stjude.org",
+          "canceranswerline@UTSouthwestern.edu",
+          "CCBDCresearch@chkd.org",
+          "yvan.samson@umontreal.ca"
+        ],
+        "LocationContactName": [
+          "Site Public Contact",
+          "Matthew A. Kutny",
+          "Site Public Contact",
+          "David L. Becton",
+          "Site Public Contact",
+          "Scott M. Bradfield",
+          "Site Public Contact",
+          "AeRang Kim",
+          "Site Public Contact",
+          "William B. Slayton",
+          "Site Public Contact",
+          "Sandeep Batra",
+          "Site Public Contact",
+          "Rajen Mody",
+          "Site Public Contact",
+          "Kevin F. Ginn",
+          "Site Public Contact",
+          "Jing Chen",
+          "Site Public Contact",
+          "Philip M. Monteleone",
+          "Site Public Contact",
+          "Joseph G. Pressey",
+          "Site Public Contact",
+          "Rene Y. McNall-Knapp",
+          "Site Public Contact",
+          "Andrew Bukowinski",
+          "Site Public Contact",
+          "Jeffrey E. Rubnitz",
+          "Site Public Contact",
+          "Sara Zarnegar-Lumley",
+          "Site Public Contact",
+          "Kathleen (Wiertel) Ludwig",
+          "Site Public Contact",
+          "Eric J. Lowe",
+          "Site Public Contact",
+          "Yvan Samson"
+        ],
+        "LocationContactPhone": [
+          "205-638-9285",
+          "501-364-7373",
+          "302-651-6884",
+          "202-884-2549",
+          "352-273-8010",
+          "800-248-1199",
+          "800-865-1125",
+          "816-302-6808",
+          "201-996-2879",
+          "315-464-5476",
+          "513-636-2799",
+          "405-271-8777",
+          "412-692-8570",
+          "888-226-4343",
+          "800-811-8480",
+          "214-648-7097",
+          "757-668-7243",
+          "514-345-4931"
+        ],
+        "BriefSummary": [
+          "This trial studies the side effects of enasidenib and to see how well it works in treating patients with acute myeloid leukemia that has come back after treatment (relapsed) or has been difficult to treat with chemotherapy (refractory). Patients must also have a specific genetic change, also called a mutation, in a protein called IDH2. Enasidenib may stop the growth of cancer cells by blocking the mutated IDH2 protein, which is needed for cell growth."
+        ],
+        "DetailedDescription": [
+          "PRIMARY OBJECTIVES:\n\nI. To determine the safety of treatment with enasidenib mesylate (enasidenib) administered at continuous daily oral dosing for a 28-day cycle up to 12 cycles in pediatric patients with IDH2-mutant relapsed/refractory (R/R)-acute myeloid leukemia (AML).\n\nII. To characterize the plasma pharmacokinetic (PK) profile of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nSECONDARY OBJECTIVES:\n\nI. To investigate the pharmacodynamic (PD) relationship of oncogenic metabolite 2-hydroxyglutarate (2-HG) to enasidenib treatment in pediatric patients with IDH2-mutant R/R-AML.\n\nII. To describe the clinical activity of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nOUTLINE:\n\nPatients receive enasidenib orally (PO) once daily (QD) on days 1-28. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days, then periodically up to 1 year."
+        ]
+      },
+      {
+        "Rank": 350,
         "NCTId": [
           "NCT04195399"
         ],
@@ -19625,7 +19983,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 351,
         "NCTId": [
           "NCT02205762"
         ],
@@ -19979,7 +20337,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 352,
         "NCTId": [
           "NCT02121132"
         ],
@@ -20154,356 +20512,6 @@
         ],
         "DetailedDescription": [
           "All patients 18 years of age or younger who have completed an initial medical assessment between March 1, 2014 through April 30, 2020 will be approached for this study.\n\nData from individual follow up visits or group intervention sessions, depending on the program design of each institution, will be collected through October 31, 2020. The data included in this study will be collected during routine medical care. Information that could identify a participant will be removed from the data. Data will be entered into a secure database called Medidata Rave® CDMS. This database will be managed by the Data Coordinating Center (DCC) at Cincinnati Children's Hospital Medical Center (CCHMC).\n\nThe DCC will combine all the data from each site. Additional data cleaning and data quality monitoring will be performed. Combined datasets for analysis will be provided by the DCC in a format agreed upon by the POWER Governance Board. Data will be stored in a secure and protected format and will not include any written or electronic protected health information (PHI/EPHI). The DCC will store the data on a secure server."
-        ]
-      },
-      {
-        "Rank": 351,
-        "NCTId": [
-          "NCT04431453"
-        ],
-        "OfficialTitle": [
-          "A Phase 2/3 Single-Arm, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of Remdesivir (GS-5734™) in Participants From Birth to < 18 Years of Age With COVID-19"
-        ],
-        "Condition": [
-          "COVID-19"
-        ],
-        "EligibilityCriteria": [
-          "Key Inclusion Criteria:\n\nAged < 18 years of age who meet one of the following weight criteria (where permitted according to local law and approved nationally and by relevant institutional review board (IRB) or independent ethics committee (IEC)).\n\na) Cohort 1: ≥ 12 years to < 18 years of age and weight at screening ≥ 40 kg\nb) Cohorts 2-4: ≥ 28 days to < 18 years of age and weight at screening ≥ 3 kg and < 40 kg\nc) Cohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nd) Cohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight of ≥ 2.5 kg\ne) Cohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight of ≥ 1.5 kg\nf) Cohort 8: < 12 years of age and weight at screening ≥ 40 kg\nSevere acute respiratory syndrome coronavirus (SARS-CoV-2) infection confirmed by polymerase chain reaction (PCR)\nHospitalized and requiring medical care for coronavirus disease 2019 (COVID-19)\n\nKey Exclusion Criteria:\n\nConcurrent treatment with other agents with actual or possible direct antiviral activity against SARS-CoV-2 < 24 hours prior to study drug dosing\nAlanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit of normal (ULN)\nEstimated glomerular filtration rate (eGFR) < 30 mL/min/1.73m^2 using Schwartz formula for individuals ≥ 1 year of age\nCreatinine above protocol specified thresholds for < 1 year of age\nPositive pregnancy test at Screening only for female of child bearing potential. Note: If female participants who become pregnant during the study or are discovered to be pregnant after receiving at least one dose may continue study drug, after discussion with the investigator\nOn renal replacement therapies (intermittent hemodialysis (iHD), peritoneal dialysis (PD), continuous renal replacement therapy (CRRT))\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply"
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Birmingham",
-          "Los Angeles",
-          "Los Angeles",
-          "Madera",
-          "San Diego",
-          "Tampa",
-          "Chicago",
-          "Louisville",
-          "New Orleans",
-          "Baltimore",
-          "Boston",
-          "Worcester",
-          "Detroit",
-          "Grand Rapids",
-          "Minneapolis",
-          "Omaha",
-          "Bronx",
-          "Bronx",
-          "New Hyde Park",
-          "Charlotte",
-          "Allentown",
-          "Philadelphia",
-          "Dallas",
-          "Houston",
-          "Florence",
-          "Padova",
-          "Parma",
-          "Barcelona",
-          "Esplugues de llobregat",
-          "Madrid",
-          "Madrid",
-          "Madrid",
-          "Santiago de Compostela",
-          "Birmingham",
-          "Liverpool",
-          "London",
-          "London"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Alabama",
-          "Children's Hospital Los Angeles",
-          "Ronald Reagan University of California, Los Angeles Medical Center",
-          "Valley Children's Hospital",
-          "Rady Children's Hospital San Diego",
-          "Tampa General Hospital (Inpatient Visits)",
-          "Ann & Robert H. Lurie Children's Hospital",
-          "Norton Children's Hospital",
-          "Tulane University School of Medicine",
-          "Johns Hopkins Children's Center",
-          "Boston Children's Hospital",
-          "UMass Memorial Medical Center - University Campus",
-          "Children's Hospital of Michigan",
-          "Spectrum Health/Helen De Vos Children's Hospital",
-          "Children's Minnesota",
-          "Children's Hospital & Medical Center",
-          "NYC Health + Hospitals/Jacobi Medical Center",
-          "Montefiore Medical Center",
-          "Northwell Health-Cohen Children's Medical Center",
-          "Carolinas Medical Center-Levine Children's Hospital",
-          "Lehigh Valley Hospital/Lehigh Valley Health Network (LVH/LVHN)",
-          "St. Christopher's Hospital for Children",
-          "Children's Medical Center",
-          "Texas Children's Hospital",
-          "Azienda Ospedaliero Universitaria Meyer",
-          "University Hospital of Padova, Clinic of Pediatric Hematology-Oncology",
-          "University Hospital of Parma",
-          "Hospital Universitari Vall D'Hebron",
-          "Hospital Sant Joan de Déu",
-          "Hospital General Universitario Gregorio Maranon",
-          "Hospital Universitario 12 de Octubre",
-          "Hospital Universitario La Paz",
-          "Hospital Clínico Universitario de Santiago",
-          "University Hospitals Birmingham NHS Foundation Trust",
-          "Alder Hey Children's NHS Foundation Trust",
-          "Guy's and St Thomas' NHS Foundation Trust",
-          "King's College NHS Foundation Trust"
-        ],
-        "LocationState": [
-          "Alabama",
-          "California",
-          "California",
-          "California",
-          "California",
-          "Florida",
-          "Illinois",
-          "Kentucky",
-          "Louisiana",
-          "Maryland",
-          "Massachusetts",
-          "Massachusetts",
-          "Michigan",
-          "Michigan",
-          "Minnesota",
-          "Nebraska",
-          "New York",
-          "New York",
-          "New York",
-          "North Carolina",
-          "Pennsylvania",
-          "Pennsylvania",
-          "Texas",
-          "Texas"
-        ],
-        "LocationZip": [
-          "35233",
-          "90027",
-          "90095",
-          "93636",
-          "92123",
-          "33606",
-          "60611",
-          "40202",
-          "70112",
-          "21287",
-          "02115",
-          "01605",
-          "48201",
-          "49503",
-          "55404",
-          "68114",
-          "10461",
-          "10467",
-          "11040",
-          "28203",
-          "18103",
-          "19134",
-          "75235",
-          "77030",
-          "50139",
-          "35128",
-          "43126",
-          "8035",
-          "8950",
-          "28009",
-          "28041",
-          "28041",
-          "15706",
-          "B95SS",
-          "L12 2AP",
-          "SE1 7EU",
-          "SE5 9RS"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The primary objectives of this study are to evaluate the safety, tolerability, and pharmacokinetics (PK) of remdesivir (RDV) in participants with laboratory-confirmed coronavirus disease 2019 (COVID-19) aged 0 days to < 18 years."
-        ],
-        "DetailedDescription": [
-          "Pediatric participants will be enrolled as follows:\n\nPediatric participants ≥ 28 days to < 18 years old:\n\nCohort 1: ≥ 12 years to < 18 years and weight ≥ 40 kg\nCohort 2: ≥ 28 days to < 18 years and weight ≥ 20 kg to < 40 kg\nCohort 3: ≥ 28 days to < 18 years and weight ≥ 12 kg to < 20 kg\nCohort 4: ≥ 28 days to < 18 years and weight ≥ 3 kg to < 12 kg\nCohort 8: < 12 years and weight ≥ 40 kg\n\nTerm neonatal participants 0 days to < 28 days old:\n\nCohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nCohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight ≥ 2.5 kg\n\nPreterm neonates and infants 0 days to < 56 days old:\n\nCohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight ≥ 1.5 kg"
-        ]
-      },
-      {
-        "Rank": 352,
-        "NCTId": [
-          "NCT04203316"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Feasibility Study to Assess the Safety and Pharmacokinetics of Enasidenib in Pediatric Patients With Relapsed/Refractory Acute Myeloid Leukemia (R/R-AML) With an Isocitrate Dehydrogenase-2 (IDH2) Mutation"
-        ],
-        "Condition": [
-          "Recurrent Acute Myeloid Leukemia",
-          "Refractory Acute Myeloid Leukemia"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPatient must have AML with an IDH2 mutation identified from a peripheral blood or bone marrow sample at the time of diagnosis and/or relapsed/refractory disease\n\nPatient must have bone marrow assessment (aspiration or biopsy) with > 5% leukemic blasts by morphology and/or flow cytometry in at least one of the following clinical scenarios:\n\nSecond or greater relapse after chemotherapy or hematopoietic stem cell transplant (HSCT)\nRefractory after >= 2 attempts at induction therapy\n\nRelapsed patients\n\nMust not have received prior re-induction therapy for this relapse\nEach block of chemotherapy (i.e., cytarabine, daunorubicin and etoposide [ADE], cytarabine and mitoxantrone [MA]) is a separate re-induction attempt\nDonor lymphocyte infusion (DLI) is considered a re-induction attempt\n\nRefractory patients\n\nEach attempt at induction therapy may include up to two chemotherapy courses\nKarnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age. Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score\nPatient's current disease state must be one for which there is no known curative therapy or therapy proven to prolong survival with an acceptable quality of life\nEvaluation of cerebrospinal fluid (CSF) is only required if there is a clinical suspicion of central nervous system (CNS) involvement by leukemia during eligibility screening. Should a patient be found to have CNS2 or CNS3 status by CSF prior to eligibility screening, patient may receive intrathecal chemotherapy > 72 hours prior to starting study drug. CNS1 status must be established before starting study drug\n\nPatients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy and must meet the following minimum duration from prior anti-cancer directed therapy prior to enrollment. If after the required timeframe, the numerical eligibility criteria are met, e.g., blood count criteria, the patient is considered to have recovered adequately\n\nCytotoxic chemotherapy or other anti-cancer agents known to be myelosuppressive. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\n\n>= 14 days must have elapsed after the completion of other cytotoxic therapy with the exception of hydroxyurea. Additionally, patients must have fully recovered from all acute toxic effects of prior therapy. NOTE: Cytoreduction with hydroxyurea must be discontinued >= 24 hours prior to the start of protocol therapy\nIntrathecal chemotherapy must be completed >= 72 hours prior to the start of the first cycle of treatment\nAnti-cancer agents not known to be myelosuppressive (e.g. not associated with reduced platelet or absolute neutrophil count [ANC] counts): >= 7 days after the last dose of agent. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\nAntibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1\nCorticosteroids: If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid\nHematopoietic growth factors: >= 14 days after the last dose of a long-acting growth factor (e.g., pegfilgrastim) or 7 days for short-acting growth factor. For agents that have known adverse events occurring beyond 7 days after administration, this period must be extended beyond the time during which adverse events are known to occur. The duration of this interval must be discussed with the study chair and the study research coordinator\nInterleukins, interferons and cytokines (other than hematopoietic growth factors): >= 21 days after the completion of interleukins, interferon or cytokines (other than hematopoietic growth factors)\n\nStem cell Infusions (with or without total body irradiation [TBI]):\n\nAllogeneic (non-autologous) bone marrow or stem cell transplant, or any stem cell infusion including DLI or boost infusion:\n\n>= 60 days after infusion for bone marrow or stem cell transplant and\n>= 4 weeks after infusion for any stem cell infusion including DLI or boost infusion\nThere must be no evidence of graft versus host disease (GVHD)\nAutologous stem cell infusion including boost infusion: >= 42 days\nCellular Therapy: >= 42 days after the completion of any type of cellular therapy (e.g. modified T cells, natural killer [NK] cells, dendritic cells, etc.)\nXRT/external beam irradiation including protons: >= 14 days after local XRT; >= 150 days after TBI, craniospinal XRT or if radiation to >= 50% of the pelvis; >= 42 days if other substantial bone marrow (BM) radiation\nRadiopharmaceutical therapy (e.g., radiolabeled antibody, 131I-metaiodobenzylguanidine [MIBG]): >= 42 days after systemically administered radiopharmaceutical therapy\nStudy-specific limitations on prior therapy: small molecule investigational agents: >= 14 days or > 5 half-lives must have elapsed from the last dose of the agent, whichever is greater\nPlatelet count >= 20,000/mm^3 (may receive platelet transfusions). These patients must not be known to be refractory to red cell or platelet transfusion\nHemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)\n\nCreatinine clearance or radioisotope glomerular filtration rate [GFR] >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\n\nAge: Maximum serum creatinine (mg/dL)\n\n2 to < 6 years: 0.8 (male and female)\n6 to < 10 years: 1 (male and female)\n10 to < 13 years: 1.2 (male and female)\n13 to < 16 years: 1.5 (male); 1.4 (female\n>= 16 years: 1.7 (male); 1.4 (female)\nBilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age\nSerum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 225 U/L. For the purpose of this study, the ULN for SGPT is 45 U/L\nSerum albumin >= 2 g/dL\nLeft ventricular ejection fraction of >= 50% by echocardiogram\n\nRegulatory Requirements\n\nAll patients and/or their parents or legal authorized representatives must sign a written informed consent. Assent, when appropriate, will be obtained according to institutional guidelines\nAll institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met\n\nExclusion Criteria:\n\nAML associated with Down syndrome or t(15;17) is not eligible for study\nPregnant or breast-feeding women will not be entered on this study due to risks of fetal and teratogenic adverse events as seen in animal/human studies. Pregnancy tests must be obtained in girls who are post-menarchal. Males or females of reproductive potential may not participate unless they have agreed to use an effective contraceptive method for the duration of study therapy and for 4 months after the last dose of enasidenib. Abstinence is an acceptable method of birth control. It is not known if enasidenib is present in breast milk. Breastfeeding is not recommended during therapy or for at least 30 days after the last dose of enasidenib\n\nConcomitant Medications:\n\nCorticosteroids: Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible. If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid. The use of corticosteroids to manage the side effect of IDH inhibitor-associated differentiation syndrome (IDH-DS), is permitted on study\nInvestigational drugs: Patients who are currently receiving another investigational drug are not eligible\nAnti-cancer agents: Patients who are currently receiving other anti-cancer agents are not eligible (except leukemia patients receiving hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy; the use of hydroxyurea to manage the side effect of IDH-DS, is permitted on study)\nAnti-GVHD agents post-transplant: Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial\n\nPatients must be able to swallow intact tablets whole.\n\nPatients with known hypersensitivity to any of the components of enasidenib are not eligible.\nPatients with prior exposure to enasidenib or another IDH2 inhibitor are not eligible.\n\nPatients taking the following drugs will be excluded from study entry unless these drugs are discontinued or patients are transferred to a medically acceptable alternative > 5 half-lives before the first dose of enasidenib.\n\nDrugs with a narrow therapeutic range that are sensitive substrates of the following cytochrome P450 (CYP) enzymes: CYP2C8 (e.g. paclitaxel), 2C9 (e.g. phenytoin and warfarin), 2C19 (e.g. s-mephenytoin), 2D6 (e.g. thioridazine), and 1A2 (e.g. theophylline and tizanidine).\nBreast cancer resistant protein (BCRP) transporter-sensitive substrate rosuvastatin\n\nPatients with the following leukemia complications are not eligible for this trial:\n\nNo intrathecal chemotherapy is permitted on study. Prior to study enrollment, cerebrospinal fluid (CSF) evaluation is only required if there is a clinical suspicion for CNS leukemia. Clinical signs of CNS leukemia (such as facial nerve palsy, brain/eye involvement or hypothalamic syndrome) are not eligible for this trial\nImmediately life-threatening, severe complications of leukemia including uncontrolled bleeding, pneumonia with hypoxia or shock, and/or disseminated intravascular coagulation\nInfection: Patients who have an uncontrolled infection or patients with known human immunodeficiency virus (HIV) or active hepatitis B or C are not eligible\nPatients who have received a prior solid organ transplantation are not eligible\nPatients who in the opinion of the investigator may not be able to comply with the safety monitoring requirements of the study are not eligible"
-        ],
-        "MinimumAge": [
-          "24 Months"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Birmingham",
-          "Little Rock",
-          "Wilmington",
-          "Washington",
-          "Gainesville",
-          "Indianapolis",
-          "Ann Arbor",
-          "Kansas City",
-          "Hackensack",
-          "Syracuse",
-          "Cincinnati",
-          "Oklahoma City",
-          "Pittsburgh",
-          "Memphis",
-          "Nashville",
-          "Dallas",
-          "Norfolk",
-          "Montreal"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Alabama",
-          "Arkansas Children's Hospital",
-          "Alfred I duPont Hospital for Children",
-          "Children's National Medical Center",
-          "University of Florida Health Science Center - Gainesville",
-          "Riley Hospital for Children",
-          "C S Mott Children's Hospital",
-          "Children's Mercy Hospitals and Clinics",
-          "Hackensack University Medical Center",
-          "State University of New York Upstate Medical University",
-          "Cincinnati Children's Hospital Medical Center",
-          "University of Oklahoma Health Sciences Center",
-          "Children's Hospital of Pittsburgh of UPMC",
-          "Saint Jude Children's Research Hospital",
-          "Vanderbilt University/Ingram Cancer Center",
-          "UT Southwestern/Simmons Cancer Center-Dallas",
-          "Children's Hospital of The King's Daughters",
-          "Centre Hospitalier Universitaire Sainte-Justine"
-        ],
-        "LocationState": [
-          "Alabama",
-          "Arkansas",
-          "Delaware",
-          "District of Columbia",
-          "Florida",
-          "Indiana",
-          "Michigan",
-          "Missouri",
-          "New Jersey",
-          "New York",
-          "Ohio",
-          "Oklahoma",
-          "Pennsylvania",
-          "Tennessee",
-          "Tennessee",
-          "Texas",
-          "Virginia",
-          "Quebec"
-        ],
-        "LocationZip": [
-          "35233",
-          "72202-3591",
-          "19803",
-          "20010",
-          "32610",
-          "46202",
-          "48109",
-          "64108",
-          "07601",
-          "13210",
-          "45229",
-          "73104",
-          "15224",
-          "38105",
-          "37232",
-          "75390",
-          "23507",
-          "H3T 1C5"
-        ],
-        "LocationContactEMail": [
-          "oncologyresearch@peds.uab.edu",
-          "dperry@nemours.org",
-          "cancer-center@ufl.edu",
-          "rryan@cmh.edu",
-          "cancer@cchmc.org",
-          "ou-clinical-trials@ouhsc.edu",
-          "jean.tersak@chp.edu",
-          "referralinfo@stjude.org",
-          "canceranswerline@UTSouthwestern.edu",
-          "CCBDCresearch@chkd.org",
-          "yvan.samson@umontreal.ca"
-        ],
-        "LocationContactName": [
-          "Site Public Contact",
-          "Matthew A. Kutny",
-          "Site Public Contact",
-          "David L. Becton",
-          "Site Public Contact",
-          "Scott M. Bradfield",
-          "Site Public Contact",
-          "AeRang Kim",
-          "Site Public Contact",
-          "William B. Slayton",
-          "Site Public Contact",
-          "Sandeep Batra",
-          "Site Public Contact",
-          "Rajen Mody",
-          "Site Public Contact",
-          "Kevin F. Ginn",
-          "Site Public Contact",
-          "Jing Chen",
-          "Site Public Contact",
-          "Philip M. Monteleone",
-          "Site Public Contact",
-          "Joseph G. Pressey",
-          "Site Public Contact",
-          "Rene Y. McNall-Knapp",
-          "Site Public Contact",
-          "Andrew Bukowinski",
-          "Site Public Contact",
-          "Jeffrey E. Rubnitz",
-          "Site Public Contact",
-          "Sara Zarnegar-Lumley",
-          "Site Public Contact",
-          "Kathleen (Wiertel) Ludwig",
-          "Site Public Contact",
-          "Eric J. Lowe",
-          "Site Public Contact",
-          "Yvan Samson"
-        ],
-        "LocationContactPhone": [
-          "205-638-9285",
-          "501-364-7373",
-          "302-651-6884",
-          "202-884-2549",
-          "352-273-8010",
-          "800-248-1199",
-          "800-865-1125",
-          "816-302-6808",
-          "201-996-2879",
-          "315-464-5476",
-          "513-636-2799",
-          "405-271-8777",
-          "412-692-8570",
-          "888-226-4343",
-          "800-811-8480",
-          "214-648-7097",
-          "757-668-7243",
-          "514-345-4931"
-        ],
-        "BriefSummary": [
-          "This trial studies the side effects of enasidenib and to see how well it works in treating patients with acute myeloid leukemia that has come back after treatment (relapsed) or has been difficult to treat with chemotherapy (refractory). Patients must also have a specific genetic change, also called a mutation, in a protein called IDH2. Enasidenib may stop the growth of cancer cells by blocking the mutated IDH2 protein, which is needed for cell growth."
-        ],
-        "DetailedDescription": [
-          "PRIMARY OBJECTIVES:\n\nI. To determine the safety of treatment with enasidenib mesylate (enasidenib) administered at continuous daily oral dosing for a 28-day cycle up to 12 cycles in pediatric patients with IDH2-mutant relapsed/refractory (R/R)-acute myeloid leukemia (AML).\n\nII. To characterize the plasma pharmacokinetic (PK) profile of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nSECONDARY OBJECTIVES:\n\nI. To investigate the pharmacodynamic (PD) relationship of oncogenic metabolite 2-hydroxyglutarate (2-HG) to enasidenib treatment in pediatric patients with IDH2-mutant R/R-AML.\n\nII. To describe the clinical activity of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nOUTLINE:\n\nPatients receive enasidenib orally (PO) once daily (QD) on days 1-28. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days, then periodically up to 1 year."
         ]
       },
       {
@@ -21966,6 +21974,107 @@
       {
         "Rank": 361,
         "NCTId": [
+          "NCT04614662"
+        ],
+        "OfficialTitle": [
+          "Symptom Screening Linked to Care Pathways for Children With Cancer: a Cluster Randomized Trial"
+        ],
+        "Condition": [
+          "Pediatric Cancer",
+          "Quality of Life"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\n8-18 years of age at enrollment\nEnglish or Spanish-speaking\nAny newly diagnosed cancer\nHave a plan for any chemotherapy, radiotherapy or surgery\nEnroll within 28 days after treatment initiation\n\nExclusion Criteria:\n\nCognitive disability (attending minimum second grade or equivalent)\nVisual impairment (cannot see SPARK even with corrective lens)"
+        ],
+        "MinimumAge": [
+          "8 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Hartford",
+          "Wilmington",
+          "Des Moines",
+          "New Orleans",
+          "Saint Louis",
+          "Buffalo",
+          "New York",
+          "Corpus Christi",
+          "Toronto"
+        ],
+        "LocationFacility": [
+          "Connecticut Children's Medical Center",
+          "Nemours Children's Hospital, Delaware",
+          "Unity Point Health - Blank Children's Hospital",
+          "Children's Hospital",
+          "Washington University School of Medicine",
+          "Roswell Park Comprehensive Cancer Center",
+          "The Trustees of Columbia University in the City of New York",
+          "Driscoll Children's Hospital",
+          "The Hospital for Sick Children"
+        ],
+        "LocationState": [
+          "Connecticut",
+          "Delaware",
+          "Iowa",
+          "Louisiana",
+          "Missouri",
+          "New York",
+          "New York",
+          "Texas",
+          "Ontario"
+        ],
+        "LocationZip": [
+          "06106",
+          "19803",
+          "50309",
+          "70118",
+          "63110",
+          "14203",
+          "10032",
+          "78411",
+          "M5G 1X8"
+        ],
+        "LocationContactEMail": [
+          "melias@connecticutchildrens.org",
+          "Alyssa.Tiberi@nemours.org",
+          "Elizabeth.mosby@unitypoint.org",
+          "Alyssa.lacour@lcmchealth.org",
+          "gemily@wustl.edu",
+          "Jennifer.Schweitzer@roswellpark.org",
+          "Mb3579@cumc.columbia.edu",
+          "Crystal.DeLosSantos@dchstx.org"
+        ],
+        "LocationContactName": [
+          "Megan Elias",
+          "Andrea Orsey, MD",
+          "Alyssa Tiberi",
+          "Emi Caywood, MD",
+          "Elizabeth Mosby",
+          "Wendy Woods-Swafford, MD",
+          "Alyssa Lacour",
+          "Lolie Yu, MD",
+          "Emily Gibson",
+          "Allison King, MD",
+          "Jennifer Schweitzer",
+          "Kara Kelly, MD",
+          "Michelle Bombacie",
+          "Melissa Beauchemin, PhD",
+          "Crystal De Los Santos",
+          "Farha Sherani, MD"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Most children with cancer survive because they are given intensive treatments, but unfortunately, these treatments are associated with distressing symptoms. To address this problem, we developed the Symptom Screening in Pediatrics Tool (SSPedi) so that children receiving cancer treatments can communicate their bothersome symptoms, and Supportive care Prioritization, Assessment and Recommendations for Kids (SPARK), a web-based application that links identified symptoms to supportive care guidelines for symptom management. To establish that these tools improve the lives of children newly diagnosed with cancer, we will conduct a trial that randomizes 20 pediatric cancer institutions and measures the impact of three times weekly symptom screening, symptom feedback to healthcare providers and the development of care pathways for symptom management to improve total symptom burden, fatigue and quality of life."
+        ],
+        "DetailedDescription": [
+          "Aims 1 and 2: Among children with newly diagnosed cancer, to determine if symptom screening and feedback to healthcare providers at least three times weekly and locally-adapted symptom management care pathways, when compared to usual care:\n\nAim 1. Improves overall self-reported symptom scores (total SSPedi score), fatigue (PROMIS-Fatigue) and cancer-specific QoL (PedsQL 3.0 Acute Cancer Module) over 8 weeks Hypothesis: Symptom screening and care pathways will improve symptoms, fatigue and QoL\n\nAim 2. Improves symptom documentation, increases provision of interventions for symptoms, and reduces emergency department visits and unplanned clinic visits and hospitalizations over 8 weeks Hypotheses: Symptom screening and care pathways will increase symptom documentation and provision of interventions for symptoms, and will reduce healthcare utilization.\n\nAim 3: As an exploratory aim, we will evaluate key elements of the intervention related to the external validity and generalizability of the intervention effects using the RE-AIM framework.\n\nOverall Strategy This is a cluster randomized trial including 20 pediatric oncology sites. The coordinating center is The Hospital for Sick Children in Toronto, Canada. Sites will be randomized to either systematic symptom screening via SPARK with provision of symptom reports to healthcare providers containing links to care pathways for symptom management (intervention) or usual care (control).\n\nResearch Methods Eligibility: We will include children with cancer who: (1) are 8-18 years of age at enrollment (SSPedi is validated in this age range); (2) are English or Spanish-speaking (all PROs are validated in these languages in this age range); (3) have any newly diagnosed cancer; (4) have a plan for any chemotherapy, radiotherapy or surgery; and (5) enroll within 28 days after treatment initiation. Exclusion criteria will be cognitive disability (attending lower than second grade or equivalent) or visual impairment (cannot see SPARK even with corrective lens).\n\nProcedures: In this cluster randomized trial, we will randomize sites to either intervention or control groups. At both intervention and control sites, we will enroll participants within 28 days after treatment initiation. Eligible participants will be identified by site personnel and the study will be explained to them by trained research team members. Participant capacity to consent will be assessed by the clinical or research team according to institutional standards. After the study has been explained and sufficient time has been provided to ensure all questions have been answered, informed consent and assent will be obtained from participants and guardians as appropriate. For those who decline to contribute PROs, they will be given the option to only participate in a retrospective chart review to evaluate symptom documentation, intervention provision and healthcare utilization. Careful tracking of all newly diagnosed patients by site research personnel will occur to determine how many patients are approached and consented, and where possible, reasons for declining participation.\n\nFor all enrolled participants who will be contributing PROs (excluding those only involved in the retrospective chart review), a personal SPARK account will be created to allow SSPedi to be completed and symptom results to be recorded. At the 10 intervention sites, site-specific symptom management care pathways will be adapted from template care pathways for each of the 15 symptoms included in SSPedi. Enrolled participants will be prompted by text or email to complete symptom screening three times weekly via SPARK with corresponding feedback sent to their healthcare providers. Symptom reports will contain links to care pathways for symptom management. Active intervention will last for eight weeks starting from the date of enrollment. At the 10 control sites, participants will complete SSPedi to obtain the primary outcome at weeks 0, 4 and 8 but the scores will not be revealed to providers and will not be linked to care pathways. Usual care will be provided to participants at control sites and thus, there will be no study-requested routine, systematic symptom screening, symptom feedback to providers, or linkage to care pathways. If sites already routinely perform systematic symptom screening or use care pathways for symptom management, these may be continued but their use will be recorded.\n\nAt both intervention and control sites, demographic information including age, sex, race, ethnicity, diagnosis, cancer stage, family socioeconomic information and treatment plan will be collected at enrollment. The following PROs will be obtained by trained research staff at baseline, week 4 and week 8 for all participants: SSPedi, PROMIS Fatigue and the PedsQL 3.0 Acute Cancer Module (Aim 1). We will contact participants ahead of time to coordinate the week 4 and 8 PROs so that they can be completed in person during hospitalizations or clinic visits. If unable to arrange completion of these PROs in person, we will use their contact information to complete the questionnaires by email, text or over the phone. Data from health records (Aim 2) will be abstracted for all enrolled participants. Relapse and cancer treatment received information will be collected at the end of the study."
+        ]
+      },
+      {
+        "Rank": 362,
+        "NCTId": [
           "NCT04250415"
         ],
         "OfficialTitle": [
@@ -22057,7 +22166,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 362,
+        "Rank": 363,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22125,7 +22234,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 363,
+        "Rank": 364,
         "NCTId": [
           "NCT03707158"
         ],
@@ -22226,7 +22335,7 @@
         ]
       },
       {
-        "Rank": 364,
+        "Rank": 365,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22327,107 +22436,6 @@
           "This is a multicenter, open-label, seven arm, dose escalation, phase I study of oral ONC201 in pediatric patients with newly diagnosed Diffuse Intrinsic Pontine Glioma (DIPG) and recurrent/refractory H3 K27M gliomas. Arm A will define the RP2D for single agent ONC201 in pediatric patients with glioma who are positive for the H3 K27M mutation (positive testing in CLIA laboratory) and have completed at least one line of prior therapy. This will allow for recurrent patients and also patients who have not yet recurred, but have completed radiation and will inevitably recur based on prior clinical experience and the literature. Arm B will define the RP2D for ONC201 in combination with radiation in pediatric patients with newly diagnosed DIPG. Arm C will determine intratumoral drug concentrations and biomarker expression in pediatric patients with midline gliomas. Arm D will determine H3 K27M DNA levels and drug concentrations in the CSF of pediatric H3 K27M-mutant glioma patients. Arm E will determine the RP2D for single agent ONC201 administered as a liquid formulation in Ora-Sweet to patients with DIPG and/or H3 K27M glioma. Arm F is a dose expansion cohort to confirm the safety and estimate the efficacy in recurrent H3 K27M-mutant glioma population at the RP2D. Arm G will define the RP2D for single agent ONC201 given on two consecutive days of each week in pediatric patients with glioma who are positive for the H3 K27M mutation and have completed at least one line of prior therapy."
         ],
         "DetailedDescription": []
-      },
-      {
-        "Rank": 365,
-        "NCTId": [
-          "NCT04614662"
-        ],
-        "OfficialTitle": [
-          "Symptom Screening Linked to Care Pathways for Children With Cancer: a Cluster Randomized Trial"
-        ],
-        "Condition": [
-          "Pediatric Cancer",
-          "Quality of Life"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\n8-18 years of age at enrollment\nEnglish or Spanish-speaking\nAny newly diagnosed cancer\nHave a plan for any chemotherapy, radiotherapy or surgery\nEnroll within 28 days after treatment initiation\n\nExclusion Criteria:\n\nCognitive disability (attending minimum second grade or equivalent)\nVisual impairment (cannot see SPARK even with corrective lens)"
-        ],
-        "MinimumAge": [
-          "8 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Hartford",
-          "Wilmington",
-          "Des Moines",
-          "New Orleans",
-          "Saint Louis",
-          "Buffalo",
-          "New York",
-          "Corpus Christi",
-          "Toronto"
-        ],
-        "LocationFacility": [
-          "Connecticut Children's Medical Center",
-          "Nemours Children's Hospital, Delaware",
-          "Unity Point Health - Blank Children's Hospital",
-          "Children's Hospital",
-          "Washington University School of Medicine",
-          "Roswell Park Comprehensive Cancer Center",
-          "The Trustees of Columbia University in the City of New York",
-          "Driscoll Children's Hospital",
-          "The Hospital for Sick Children"
-        ],
-        "LocationState": [
-          "Connecticut",
-          "Delaware",
-          "Iowa",
-          "Louisiana",
-          "Missouri",
-          "New York",
-          "New York",
-          "Texas",
-          "Ontario"
-        ],
-        "LocationZip": [
-          "06106",
-          "19803",
-          "50309",
-          "70118",
-          "63110",
-          "14203",
-          "10032",
-          "78411",
-          "M5G 1X8"
-        ],
-        "LocationContactEMail": [
-          "melias@connecticutchildrens.org",
-          "Alyssa.Tiberi@nemours.org",
-          "Elizabeth.mosby@unitypoint.org",
-          "Alyssa.lacour@lcmchealth.org",
-          "gemily@wustl.edu",
-          "Jennifer.Schweitzer@roswellpark.org",
-          "Mb3579@cumc.columbia.edu",
-          "Crystal.DeLosSantos@dchstx.org"
-        ],
-        "LocationContactName": [
-          "Megan Elias",
-          "Andrea Orsey, MD",
-          "Alyssa Tiberi",
-          "Emi Caywood, MD",
-          "Elizabeth Mosby",
-          "Wendy Woods-Swafford, MD",
-          "Alyssa Lacour",
-          "Lolie Yu, MD",
-          "Emily Gibson",
-          "Allison King, MD",
-          "Jennifer Schweitzer",
-          "Kara Kelly, MD",
-          "Michelle Bombacie",
-          "Melissa Beauchemin, PhD",
-          "Crystal De Los Santos",
-          "Farha Sherani, MD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Most children with cancer survive because they are given intensive treatments, but unfortunately, these treatments are associated with distressing symptoms. To address this problem, we developed the Symptom Screening in Pediatrics Tool (SSPedi) so that children receiving cancer treatments can communicate their bothersome symptoms, and Supportive care Prioritization, Assessment and Recommendations for Kids (SPARK), a web-based application that links identified symptoms to supportive care guidelines for symptom management. To establish that these tools improve the lives of children newly diagnosed with cancer, we will conduct a trial that randomizes 20 pediatric cancer institutions and measures the impact of three times weekly symptom screening, symptom feedback to healthcare providers and the development of care pathways for symptom management to improve total symptom burden, fatigue and quality of life."
-        ],
-        "DetailedDescription": [
-          "Aims 1 and 2: Among children with newly diagnosed cancer, to determine if symptom screening and feedback to healthcare providers at least three times weekly and locally-adapted symptom management care pathways, when compared to usual care:\n\nAim 1. Improves overall self-reported symptom scores (total SSPedi score), fatigue (PROMIS-Fatigue) and cancer-specific QoL (PedsQL 3.0 Acute Cancer Module) over 8 weeks Hypothesis: Symptom screening and care pathways will improve symptoms, fatigue and QoL\n\nAim 2. Improves symptom documentation, increases provision of interventions for symptoms, and reduces emergency department visits and unplanned clinic visits and hospitalizations over 8 weeks Hypotheses: Symptom screening and care pathways will increase symptom documentation and provision of interventions for symptoms, and will reduce healthcare utilization.\n\nAim 3: As an exploratory aim, we will evaluate key elements of the intervention related to the external validity and generalizability of the intervention effects using the RE-AIM framework.\n\nOverall Strategy This is a cluster randomized trial including 20 pediatric oncology sites. The coordinating center is The Hospital for Sick Children in Toronto, Canada. Sites will be randomized to either systematic symptom screening via SPARK with provision of symptom reports to healthcare providers containing links to care pathways for symptom management (intervention) or usual care (control).\n\nResearch Methods Eligibility: We will include children with cancer who: (1) are 8-18 years of age at enrollment (SSPedi is validated in this age range); (2) are English or Spanish-speaking (all PROs are validated in these languages in this age range); (3) have any newly diagnosed cancer; (4) have a plan for any chemotherapy, radiotherapy or surgery; and (5) enroll within 28 days after treatment initiation. Exclusion criteria will be cognitive disability (attending lower than second grade or equivalent) or visual impairment (cannot see SPARK even with corrective lens).\n\nProcedures: In this cluster randomized trial, we will randomize sites to either intervention or control groups. At both intervention and control sites, we will enroll participants within 28 days after treatment initiation. Eligible participants will be identified by site personnel and the study will be explained to them by trained research team members. Participant capacity to consent will be assessed by the clinical or research team according to institutional standards. After the study has been explained and sufficient time has been provided to ensure all questions have been answered, informed consent and assent will be obtained from participants and guardians as appropriate. For those who decline to contribute PROs, they will be given the option to only participate in a retrospective chart review to evaluate symptom documentation, intervention provision and healthcare utilization. Careful tracking of all newly diagnosed patients by site research personnel will occur to determine how many patients are approached and consented, and where possible, reasons for declining participation.\n\nFor all enrolled participants who will be contributing PROs (excluding those only involved in the retrospective chart review), a personal SPARK account will be created to allow SSPedi to be completed and symptom results to be recorded. At the 10 intervention sites, site-specific symptom management care pathways will be adapted from template care pathways for each of the 15 symptoms included in SSPedi. Enrolled participants will be prompted by text or email to complete symptom screening three times weekly via SPARK with corresponding feedback sent to their healthcare providers. Symptom reports will contain links to care pathways for symptom management. Active intervention will last for eight weeks starting from the date of enrollment. At the 10 control sites, participants will complete SSPedi to obtain the primary outcome at weeks 0, 4 and 8 but the scores will not be revealed to providers and will not be linked to care pathways. Usual care will be provided to participants at control sites and thus, there will be no study-requested routine, systematic symptom screening, symptom feedback to providers, or linkage to care pathways. If sites already routinely perform systematic symptom screening or use care pathways for symptom management, these may be continued but their use will be recorded.\n\nAt both intervention and control sites, demographic information including age, sex, race, ethnicity, diagnosis, cancer stage, family socioeconomic information and treatment plan will be collected at enrollment. The following PROs will be obtained by trained research staff at baseline, week 4 and week 8 for all participants: SSPedi, PROMIS Fatigue and the PedsQL 3.0 Acute Cancer Module (Aim 1). We will contact participants ahead of time to coordinate the week 4 and 8 PROs so that they can be completed in person during hospitalizations or clinic visits. If unable to arrange completion of these PROs in person, we will use their contact information to complete the questionnaires by email, text or over the phone. Data from health records (Aim 2) will be abstracted for all enrolled participants. Relapse and cancer treatment received information will be collected at the end of the study."
-        ]
       },
       {
         "Rank": 366,
