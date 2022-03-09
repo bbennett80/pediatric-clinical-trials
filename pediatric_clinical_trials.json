@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.05",
-    "DataVrs": "2022:03:06 23:01:20.308",
+    "DataVrs": "2022:03:07 23:05:57.827",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 406822,
-    "NStudiesFound": 399,
+    "NStudiesAvail": 406970,
+    "NStudiesFound": 398,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 399,
+    "NStudiesReturned": 398,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -2448,6 +2448,56 @@
       {
         "Rank": 46,
         "NCTId": [
+          "NCT04998643"
+        ],
+        "OfficialTitle": [
+          "Muscle Catabolism and Its Impact on Functional Outcomes in Children Following Cardiac Surgery"
+        ],
+        "Condition": [
+          "Congenital Heart Disease",
+          "ICU Acquired Weakness",
+          "Catabolic State"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nchildren > 3 months and < 18 years old,\ndiagnosed with CHD, and\nundergoing biventricular conversion.\n\nExclusion Criteria:\n\ndiagnosis of muscular dystrophy or myopathy,\nlower extremity injury or infection during the current hospitalization,\nenrolled in a concurrent nutritional intervention trial, or\nadmitted for palliative care."
+        ],
+        "MinimumAge": [
+          "3 Months"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Boston"
+        ],
+        "LocationFacility": [
+          "Boston Children's Hospital"
+        ],
+        "LocationState": [
+          "Massachusetts"
+        ],
+        "LocationZip": [
+          "02115"
+        ],
+        "LocationContactEMail": [
+          "kimberly.mills@cardio.chboston.org"
+        ],
+        "LocationContactName": [
+          "Kimberly I Mills, MD"
+        ],
+        "LocationContactPhone": [
+          "617-355-7866"
+        ],
+        "BriefSummary": [
+          "Background & Significance. Children with congenital heart disease (CHD) have experienced improved postoperative survival shifting the focus away from minimizing mortality to curtailing morbidities. Critical illness following cardiac surgery induces catabolism which may impact functional status. Catabolism, a state in which protein breakdown exceeds protein synthesis, can lead to lean body mass (LBM) breakdown. LBM loss has been associated with poor clinical outcomes. Muscle ultrasound (mUS) has been utilized to measure LBM changes and the functional status score (FSS) was developed to assess functional status changes in children following hospitalization. The ability to identify LBM loss acutely and its association with FSS changes may lead to earlier interventions to preserve LBM and aid in outcome prediction.\n\nSpecific Aims & Hypotheses. Specific Aim 1 is to identify the percent change in LBM by mUS during the first postoperative week in children following complex cardiac surgery. Specific Aim 2 is to evaluate the relationship between percent change in LBM during the first postoperative week and the FSS at discharge and 6 and 12-month follow-up in children with CHD following complex cardiac surgery. The investigators hypothesize children with CHD following complex cardiac surgery will experience a decline in LBM and that there is a direct relationship between the change in LBM and postoperative FSS follow-up.\n\nStudy Design & Methods. The investigators are conducting a single-center, prospective, observational cohort study. Consecutive children (> 3 months and < 18 years of age) with CHD undergoing biventricular conversion will be enrolled. Patients will undergo a baseline mUS and FSS at the time of the index operation. Interval mUS will be obtained on the third and seventh postoperative day. Discharge mUS and FSS will be obtained and a remote FSS will be requested by the family at 6 and 12-months postoperatively. Demographics, pertinent laboratory, concomitant medications, nutrition and ultrasound variables will be collected.\n\nOutcomes. The primary outcomes will be change in LBM during the first postoperative week and change in FSS at 6 and 12-month follow-up in children following complex cardiac surgery. Change in LBM will be defined as a percent change in cross-sectional area of the quadriceps muscle layer thickness (QMLT). Change in FSS will be significant if the score drops 3 points or more from baseline at postoperative follow-up."
+        ],
+        "DetailedDescription": [
+          "The central objective of our single center, pilot study in children with CHD following cardiac surgery is to identify serial changes in QMLT, as an estimate of LBM, during the first postoperative week, and to examine its relationship to functional status, assessed by FSS, after hospital discharge.\n\nPrimary Aim 1. To measure the percent change in QMLT by mUS during the first postoperative week in children undergoing complex cardiac surgery. The investigators hypothesize children undergoing complex cardiac surgery will have a mean decline of at least 10% in QMLT during the first postoperative week.\n\nPrimary Aim 2. To examine the relationship between percent change in QMLT during the first postoperative week and FSS at 3 and 6-months. The investigators hypothesize there is a direct relationship between percent change in QMLT during the first postoperative week and FSS at 3 and 6-months following surgery.\n\nSecondary Aim 1. To explore the relationship between nitrogen balance, defined as the difference between total nitrogen intake and total urinary nitrogen loss, and mean change in QMLT during the first postoperative week. The investigators hypothesize there is a direct correlation between nitrogen balance and mean change in QMLT during the first postoperative week in children following complex cardiac surgery.\n\nThe proposed utilization of mUS to measure alterations in body composition during the acute phase of critical illness may provide early prediction of subsequent functional status decline."
+        ]
+      },
+      {
+        "Rank": 47,
+        "NCTId": [
           "NCT04992611"
         ],
         "OfficialTitle": [
@@ -2499,7 +2549,7 @@
         ]
       },
       {
-        "Rank": 47,
+        "Rank": 48,
         "NCTId": [
           "NCT04991389"
         ],
@@ -2547,7 +2597,7 @@
         ]
       },
       {
-        "Rank": 48,
+        "Rank": 49,
         "NCTId": [
           "NCT04978571"
         ],
@@ -2593,7 +2643,7 @@
         ]
       },
       {
-        "Rank": 49,
+        "Rank": 50,
         "NCTId": [
           "NCT04977830"
         ],
@@ -2638,7 +2688,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 50,
+        "Rank": 51,
         "NCTId": [
           "NCT04974307"
         ],
@@ -2687,7 +2737,7 @@
         ]
       },
       {
-        "Rank": 51,
+        "Rank": 52,
         "NCTId": [
           "NCT04959097"
         ],
@@ -2735,7 +2785,7 @@
         ]
       },
       {
-        "Rank": 52,
+        "Rank": 53,
         "NCTId": [
           "NCT04943848"
         ],
@@ -2788,7 +2838,7 @@
         ]
       },
       {
-        "Rank": 53,
+        "Rank": 54,
         "NCTId": [
           "NCT04941742"
         ],
@@ -2830,7 +2880,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 54,
+        "Rank": 55,
         "NCTId": [
           "NCT04931927"
         ],
@@ -2881,7 +2931,7 @@
         ]
       },
       {
-        "Rank": 55,
+        "Rank": 56,
         "NCTId": [
           "NCT04927286"
         ],
@@ -2927,7 +2977,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 56,
+        "Rank": 57,
         "NCTId": [
           "NCT04922983"
         ],
@@ -2980,7 +3030,7 @@
         ]
       },
       {
-        "Rank": 57,
+        "Rank": 58,
         "NCTId": [
           "NCT04896645"
         ],
@@ -3028,7 +3078,7 @@
         ]
       },
       {
-        "Rank": 58,
+        "Rank": 59,
         "NCTId": [
           "NCT04848532"
         ],
@@ -3083,7 +3133,7 @@
         ]
       },
       {
-        "Rank": 59,
+        "Rank": 60,
         "NCTId": [
           "NCT04845932"
         ],
@@ -3131,7 +3181,7 @@
         ]
       },
       {
-        "Rank": 60,
+        "Rank": 61,
         "NCTId": [
           "NCT04825587"
         ],
@@ -3179,7 +3229,7 @@
         ]
       },
       {
-        "Rank": 61,
+        "Rank": 62,
         "NCTId": [
           "NCT04768634"
         ],
@@ -3222,7 +3272,7 @@
         ]
       },
       {
-        "Rank": 62,
+        "Rank": 63,
         "NCTId": [
           "NCT04756427"
         ],
@@ -3268,7 +3318,7 @@
         ]
       },
       {
-        "Rank": 63,
+        "Rank": 64,
         "NCTId": [
           "NCT04752501"
         ],
@@ -3318,7 +3368,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 64,
+        "Rank": 65,
         "NCTId": [
           "NCT04752293"
         ],
@@ -3388,7 +3438,7 @@
         ]
       },
       {
-        "Rank": 65,
+        "Rank": 66,
         "NCTId": [
           "NCT04741139"
         ],
@@ -3436,7 +3486,7 @@
         ]
       },
       {
-        "Rank": 66,
+        "Rank": 67,
         "NCTId": [
           "NCT04738539"
         ],
@@ -3487,7 +3537,7 @@
         ]
       },
       {
-        "Rank": 67,
+        "Rank": 68,
         "NCTId": [
           "NCT04737460"
         ],
@@ -3536,7 +3586,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 68,
+        "Rank": 69,
         "NCTId": [
           "NCT04735874"
         ],
@@ -3585,7 +3635,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 69,
+        "Rank": 70,
         "NCTId": [
           "NCT04725305"
         ],
@@ -3647,7 +3697,7 @@
         ]
       },
       {
-        "Rank": 70,
+        "Rank": 71,
         "NCTId": [
           "NCT04706364"
         ],
@@ -3696,7 +3746,7 @@
         ]
       },
       {
-        "Rank": 71,
+        "Rank": 72,
         "NCTId": [
           "NCT04697966"
         ],
@@ -3740,7 +3790,7 @@
         ]
       },
       {
-        "Rank": 72,
+        "Rank": 73,
         "NCTId": [
           "NCT04688255"
         ],
@@ -3796,7 +3846,7 @@
         ]
       },
       {
-        "Rank": 73,
+        "Rank": 74,
         "NCTId": [
           "NCT04685343"
         ],
@@ -3842,7 +3892,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 74,
+        "Rank": 75,
         "NCTId": [
           "NCT04675567"
         ],
@@ -3893,7 +3943,7 @@
         ]
       },
       {
-        "Rank": 75,
+        "Rank": 76,
         "NCTId": [
           "NCT04671186"
         ],
@@ -3944,7 +3994,7 @@
         ]
       },
       {
-        "Rank": 76,
+        "Rank": 77,
         "NCTId": [
           "NCT04654260"
         ],
@@ -4001,7 +4051,7 @@
         ]
       },
       {
-        "Rank": 77,
+        "Rank": 78,
         "NCTId": [
           "NCT04639336"
         ],
@@ -4051,7 +4101,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 78,
+        "Rank": 79,
         "NCTId": [
           "NCT04638595"
         ],
@@ -4100,7 +4150,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 79,
+        "Rank": 80,
         "NCTId": [
           "NCT04637802"
         ],
@@ -4151,7 +4201,7 @@
         ]
       },
       {
-        "Rank": 80,
+        "Rank": 81,
         "NCTId": [
           "NCT04634643"
         ],
@@ -4200,7 +4250,7 @@
         ]
       },
       {
-        "Rank": 81,
+        "Rank": 82,
         "NCTId": [
           "NCT04569708"
         ],
@@ -4256,7 +4306,7 @@
         ]
       },
       {
-        "Rank": 82,
+        "Rank": 83,
         "NCTId": [
           "NCT04562688"
         ],
@@ -4304,7 +4354,7 @@
         ]
       },
       {
-        "Rank": 83,
+        "Rank": 84,
         "NCTId": [
           "NCT04540536"
         ],
@@ -4355,7 +4405,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 84,
+        "Rank": 85,
         "NCTId": [
           "NCT04537390"
         ],
@@ -4402,7 +4452,7 @@
         ]
       },
       {
-        "Rank": 85,
+        "Rank": 86,
         "NCTId": [
           "NCT04529707"
         ],
@@ -4450,7 +4500,7 @@
         ]
       },
       {
-        "Rank": 86,
+        "Rank": 87,
         "NCTId": [
           "NCT04526639"
         ],
@@ -4496,7 +4546,7 @@
         ]
       },
       {
-        "Rank": 87,
+        "Rank": 88,
         "NCTId": [
           "NCT04522778"
         ],
@@ -4548,7 +4598,7 @@
         ]
       },
       {
-        "Rank": 88,
+        "Rank": 89,
         "NCTId": [
           "NCT04518397"
         ],
@@ -4597,7 +4647,7 @@
         ]
       },
       {
-        "Rank": 89,
+        "Rank": 90,
         "NCTId": [
           "NCT04516694"
         ],
@@ -4645,7 +4695,7 @@
         ]
       },
       {
-        "Rank": 90,
+        "Rank": 91,
         "NCTId": [
           "NCT04516343"
         ],
@@ -4692,7 +4742,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 91,
+        "Rank": 92,
         "NCTId": [
           "NCT04485416"
         ],
@@ -4743,7 +4793,7 @@
         ]
       },
       {
-        "Rank": 92,
+        "Rank": 93,
         "NCTId": [
           "NCT04482556"
         ],
@@ -4792,7 +4842,7 @@
         ]
       },
       {
-        "Rank": 93,
+        "Rank": 94,
         "NCTId": [
           "NCT04481243"
         ],
@@ -4838,7 +4888,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 94,
+        "Rank": 95,
         "NCTId": [
           "NCT04472286"
         ],
@@ -4901,7 +4951,7 @@
         ]
       },
       {
-        "Rank": 95,
+        "Rank": 96,
         "NCTId": [
           "NCT04462861"
         ],
@@ -4948,7 +4998,7 @@
         ]
       },
       {
-        "Rank": 96,
+        "Rank": 97,
         "NCTId": [
           "NCT04446910"
         ],
@@ -4996,7 +5046,7 @@
         ]
       },
       {
-        "Rank": 97,
+        "Rank": 98,
         "NCTId": [
           "NCT04403633"
         ],
@@ -5044,7 +5094,7 @@
         ]
       },
       {
-        "Rank": 98,
+        "Rank": 99,
         "NCTId": [
           "NCT04398862"
         ],
@@ -5094,7 +5144,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 99,
+        "Rank": 100,
         "NCTId": [
           "NCT04390035"
         ],
@@ -5142,7 +5192,7 @@
         ]
       },
       {
-        "Rank": 100,
+        "Rank": 101,
         "NCTId": [
           "NCT04365556"
         ],
@@ -5194,7 +5244,7 @@
         ]
       },
       {
-        "Rank": 101,
+        "Rank": 102,
         "NCTId": [
           "NCT04360395"
         ],
@@ -5243,7 +5293,7 @@
         ]
       },
       {
-        "Rank": 102,
+        "Rank": 103,
         "NCTId": [
           "NCT04357132"
         ],
@@ -5294,7 +5344,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 103,
+        "Rank": 104,
         "NCTId": [
           "NCT04351958"
         ],
@@ -5342,7 +5392,7 @@
         ]
       },
       {
-        "Rank": 104,
+        "Rank": 105,
         "NCTId": [
           "NCT04351776"
         ],
@@ -5393,7 +5443,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 105,
+        "Rank": 106,
         "NCTId": [
           "NCT04342000"
         ],
@@ -5444,7 +5494,7 @@
         ]
       },
       {
-        "Rank": 106,
+        "Rank": 107,
         "NCTId": [
           "NCT04338048"
         ],
@@ -5484,7 +5534,7 @@
         ]
       },
       {
-        "Rank": 107,
+        "Rank": 108,
         "NCTId": [
           "NCT04325282"
         ],
@@ -5532,7 +5582,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 108,
+        "Rank": 109,
         "NCTId": [
           "NCT04322734"
         ],
@@ -5586,7 +5636,7 @@
         ]
       },
       {
-        "Rank": 109,
+        "Rank": 110,
         "NCTId": [
           "NCT04317521"
         ],
@@ -5634,7 +5684,7 @@
         ]
       },
       {
-        "Rank": 110,
+        "Rank": 111,
         "NCTId": [
           "NCT04314635"
         ],
@@ -5680,7 +5730,7 @@
         ]
       },
       {
-        "Rank": 111,
+        "Rank": 112,
         "NCTId": [
           "NCT04313192"
         ],
@@ -5732,7 +5782,7 @@
         ]
       },
       {
-        "Rank": 112,
+        "Rank": 113,
         "NCTId": [
           "NCT04312919"
         ],
@@ -5779,7 +5829,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 113,
+        "Rank": 114,
         "NCTId": [
           "NCT04309786"
         ],
@@ -5830,7 +5880,7 @@
         ]
       },
       {
-        "Rank": 114,
+        "Rank": 115,
         "NCTId": [
           "NCT04299191"
         ],
@@ -5878,7 +5928,7 @@
         ]
       },
       {
-        "Rank": 115,
+        "Rank": 116,
         "NCTId": [
           "NCT04298203"
         ],
@@ -5926,7 +5976,7 @@
         ]
       },
       {
-        "Rank": 116,
+        "Rank": 117,
         "NCTId": [
           "NCT04298099"
         ],
@@ -5974,7 +6024,7 @@
         ]
       },
       {
-        "Rank": 117,
+        "Rank": 118,
         "NCTId": [
           "NCT04290754"
         ],
@@ -6025,7 +6075,7 @@
         ]
       },
       {
-        "Rank": 118,
+        "Rank": 119,
         "NCTId": [
           "NCT04288206"
         ],
@@ -6070,7 +6120,7 @@
         ]
       },
       {
-        "Rank": 119,
+        "Rank": 120,
         "NCTId": [
           "NCT04285879"
         ],
@@ -6120,7 +6170,7 @@
         ]
       },
       {
-        "Rank": 120,
+        "Rank": 121,
         "NCTId": [
           "NCT04264143"
         ],
@@ -6174,7 +6224,7 @@
         ]
       },
       {
-        "Rank": 121,
+        "Rank": 122,
         "NCTId": [
           "NCT04250844"
         ],
@@ -6220,7 +6270,7 @@
         ]
       },
       {
-        "Rank": 122,
+        "Rank": 123,
         "NCTId": [
           "NCT04246112"
         ],
@@ -6270,7 +6320,7 @@
         ]
       },
       {
-        "Rank": 123,
+        "Rank": 124,
         "NCTId": [
           "NCT04242602"
         ],
@@ -6318,7 +6368,7 @@
         ]
       },
       {
-        "Rank": 124,
+        "Rank": 125,
         "NCTId": [
           "NCT04219995"
         ],
@@ -6367,7 +6417,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 125,
+        "Rank": 126,
         "NCTId": [
           "NCT04217694"
         ],
@@ -6417,7 +6467,7 @@
         ]
       },
       {
-        "Rank": 126,
+        "Rank": 127,
         "NCTId": [
           "NCT04211935"
         ],
@@ -6466,7 +6516,7 @@
         ]
       },
       {
-        "Rank": 127,
+        "Rank": 128,
         "NCTId": [
           "NCT04208256"
         ],
@@ -6518,7 +6568,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 128,
+        "Rank": 129,
         "NCTId": [
           "NCT04205604"
         ],
@@ -6562,7 +6612,7 @@
         ]
       },
       {
-        "Rank": 129,
+        "Rank": 130,
         "NCTId": [
           "NCT04201106"
         ],
@@ -6608,7 +6658,7 @@
         ]
       },
       {
-        "Rank": 130,
+        "Rank": 131,
         "NCTId": [
           "NCT04199247"
         ],
@@ -6661,7 +6711,7 @@
         ]
       },
       {
-        "Rank": 131,
+        "Rank": 132,
         "NCTId": [
           "NCT04190225"
         ],
@@ -6713,7 +6763,7 @@
         ]
       },
       {
-        "Rank": 132,
+        "Rank": 133,
         "NCTId": [
           "NCT04186429"
         ],
@@ -6763,7 +6813,7 @@
         ]
       },
       {
-        "Rank": 133,
+        "Rank": 134,
         "NCTId": [
           "NCT04180358"
         ],
@@ -6813,7 +6863,7 @@
         ]
       },
       {
-        "Rank": 134,
+        "Rank": 135,
         "NCTId": [
           "NCT04174001"
         ],
@@ -6859,7 +6909,7 @@
         ]
       },
       {
-        "Rank": 135,
+        "Rank": 136,
         "NCTId": [
           "NCT04166526"
         ],
@@ -6905,7 +6955,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 136,
+        "Rank": 137,
         "NCTId": [
           "NCT04164966"
         ],
@@ -6951,7 +7001,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 137,
+        "Rank": 138,
         "NCTId": [
           "NCT04158245"
         ],
@@ -7003,7 +7053,7 @@
         ]
       },
       {
-        "Rank": 138,
+        "Rank": 139,
         "NCTId": [
           "NCT04154865"
         ],
@@ -7051,7 +7101,7 @@
         ]
       },
       {
-        "Rank": 139,
+        "Rank": 140,
         "NCTId": [
           "NCT04153994"
         ],
@@ -7092,7 +7142,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 140,
+        "Rank": 141,
         "NCTId": [
           "NCT04148560"
         ],
@@ -7144,7 +7194,7 @@
         ]
       },
       {
-        "Rank": 141,
+        "Rank": 142,
         "NCTId": [
           "NCT04127331"
         ],
@@ -7190,7 +7240,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 142,
+        "Rank": 143,
         "NCTId": [
           "NCT04118712"
         ],
@@ -7235,7 +7285,7 @@
         ]
       },
       {
-        "Rank": 143,
+        "Rank": 144,
         "NCTId": [
           "NCT04111991"
         ],
@@ -7281,7 +7331,7 @@
         ]
       },
       {
-        "Rank": 144,
+        "Rank": 145,
         "NCTId": [
           "NCT04111471"
         ],
@@ -7321,7 +7371,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 145,
+        "Rank": 146,
         "NCTId": [
           "NCT04110730"
         ],
@@ -7370,7 +7420,7 @@
         ]
       },
       {
-        "Rank": 146,
+        "Rank": 147,
         "NCTId": [
           "NCT04108988"
         ],
@@ -7419,7 +7469,7 @@
         ]
       },
       {
-        "Rank": 147,
+        "Rank": 148,
         "NCTId": [
           "NCT04104841"
         ],
@@ -7470,7 +7520,7 @@
         ]
       },
       {
-        "Rank": 148,
+        "Rank": 149,
         "NCTId": [
           "NCT04099810"
         ],
@@ -7516,7 +7566,7 @@
         ]
       },
       {
-        "Rank": 149,
+        "Rank": 150,
         "NCTId": [
           "NCT04089332"
         ],
@@ -7564,7 +7614,7 @@
         ]
       },
       {
-        "Rank": 150,
+        "Rank": 151,
         "NCTId": [
           "NCT04060303"
         ],
@@ -7610,7 +7660,7 @@
         ]
       },
       {
-        "Rank": 151,
+        "Rank": 152,
         "NCTId": [
           "NCT04046562"
         ],
@@ -7660,7 +7710,7 @@
         ]
       },
       {
-        "Rank": 152,
+        "Rank": 153,
         "NCTId": [
           "NCT04039750"
         ],
@@ -7706,7 +7756,7 @@
         ]
       },
       {
-        "Rank": 153,
+        "Rank": 154,
         "NCTId": [
           "NCT04038684"
         ],
@@ -7761,7 +7811,7 @@
         ]
       },
       {
-        "Rank": 154,
+        "Rank": 155,
         "NCTId": [
           "NCT04032990"
         ],
@@ -7809,7 +7859,7 @@
         ]
       },
       {
-        "Rank": 155,
+        "Rank": 156,
         "NCTId": [
           "NCT04017975"
         ],
@@ -7858,7 +7908,7 @@
         ]
       },
       {
-        "Rank": 156,
+        "Rank": 157,
         "NCTId": [
           "NCT04003012"
         ],
@@ -7904,7 +7954,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 157,
+        "Rank": 158,
         "NCTId": [
           "NCT03995394"
         ],
@@ -7952,7 +8002,7 @@
         ]
       },
       {
-        "Rank": 158,
+        "Rank": 159,
         "NCTId": [
           "NCT03985020"
         ],
@@ -7996,7 +8046,7 @@
         ]
       },
       {
-        "Rank": 159,
+        "Rank": 160,
         "NCTId": [
           "NCT03961854"
         ],
@@ -8036,7 +8086,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 160,
+        "Rank": 161,
         "NCTId": [
           "NCT03961061"
         ],
@@ -8084,54 +8134,6 @@
         ],
         "DetailedDescription": [
           "For this project, we will randomize 80 youth with obesity (13 - 18yrs) and a caregiver (dyads) to the Brenner Families in Training (FIT) group or the Brenner Families in Training Mobile (mFIT) group. All youth participants will receive a commercially available activity monitor. Caregivers will receive podcasts with a story about a caregiver supporting weight loss in a child by providing healthy foods/activities for his/her family, including healthy eating and physical activity information. Children will receive animated videos that contain healthy eating and physical activity messaging, with an engaging story of a child losing weight. All participants will have access to a website and mobile apps where they will track weight, diet, and physical activity for themselves (youth) or their child (parents). Based on their reports of weight, eating, and physical activity, the messaging received from clinical staff by the families will be individually tailored to promote healthy behaviors and overcome perceived barriers. The proposed research is innovative in that it explicitly incorporates theory into the intervention and evaluation components of the project and builds upon an existing literature on mobile health interventions that use mobile technology."
-        ]
-      },
-      {
-        "Rank": 161,
-        "NCTId": [
-          "NCT03954223"
-        ],
-        "OfficialTitle": [
-          "Time Limited Eating in Adolescents (Time LEAd): a Pilot Study"
-        ],
-        "Condition": [
-          "Obesity, Childhood"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nage 14-18\nBMI> 85th percentile\nparent, guardian or family member ages 18 years and older willing to participate\n\nExclusion Criteria:\n\nInsulin requirement\n\nprevious diagnosis of Prader Willi Syndrome, brain tumor or hypothalamic obesity\nserious mental conditions (e.g. developmental or intellectual disability or previously diagnosed eating disorder or positive screen at consent visit)\nphysical, mental of other inability to participate in the assessments (e.g. inability to wear CGM, inability to be in the imaging modality without sedation, or inability to eat by mouth)\nprevious or planned bariatric surgery\ncurrent use of medication that impacts weight or executive functioning (e.g., antipsychotics, sedatives, hypnotics, off-label obesity medication)\ncurrent psychotherapy regarding weight or eating behavior\ncurrent participation in other interventional studies. In our experience, children younger than 13 years of age and older than 21 years would require different intervention/counseling strategies."
-        ],
-        "MinimumAge": [
-          "14 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Los Angeles"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Los Angeles"
-        ],
-        "LocationState": [
-          "California"
-        ],
-        "LocationZip": [
-          "90027"
-        ],
-        "LocationContactEMail": [
-          "avidmar@chla.usc.edu"
-        ],
-        "LocationContactName": [
-          "Alaina P Vidmar, MD"
-        ],
-        "LocationContactPhone": [
-          "323-361-3385"
-        ],
-        "BriefSummary": [
-          "The investigators propose a randomized controlled trial in 90 children (age 13-21y) with obesity recruited from clinical programs at the Children's Hospital Los Angeles (CHLA). Patients will be randomized to one of three treatment groups for a 12-week intervention: Group 1) Low sugar and carbohydrate diet (LSC, <90 gm carbohydrate (CHO)/day, <25 gm added sugar/day) + blinded CGM (used to monitor adherence and glycemic outcomes without real time feedback). Group 2) LSC+TLE (16-hour fast/8-hour feed for 3 days per week) + blinded CGM, Group 3) LSC+TLE+ real time feedback via CGM (to evaluate effect of providing CGM data on intervention efficacy)."
-        ],
-        "DetailedDescription": [
-          "The majority of adolescents with obesity demonstrate declining beta cell (β-cell) function and progressive insulin resistance over their lifetime.1 In our population of lower income minority teens, 1 in 3 have obesity or severe obesity and of those 30-50% go on to develop PD or T2D during adolescence or as young adults.1 Although diet and increased adiposity play a significant role in the pathogenesis of these conditions, the standard treatment model of intensive lifestyle modifications often result in modest decrease in BMI z-score of -0.1-0.2 SD.2, 3 There is a paucity of trials that have examined the effect of time limited eating (TLE) interventions in the treatment of youth with obesity.4 Novel dietary approaches like time limited eating have been shown to be effective for weight loss and improved glycemic control in adults with obesity but have not been examined in children.5, 6 A TLE approach involves interspersing normal daily caloric intake with 16-hour periods of calorie restriction/fasting several times a week.7-9 TLE may actually be more feasible, non-stigmatizing, flexible and effective for adolescents than alternatives like severe caloric restriction because it removes the need for intensive counting of daily caloric intake or macronutrient content and focuses on a straightforward task of consuming food during a pre-specified time period.4, 10, 11 One major limitation to implementing any dietary intervention in pediatric populations is concern for poor adherence and difficulty in reliably assessing compliance. We aim to overcome these issues with the use of continuous glucose monitoring (CGM) to monitor and promote adherence to the intervention and thus improve overall efficacy. In addition, the use of CGM will provide important outcome data related to overall glycemic response. Finally, we will evaluate whether providing individual feedback based on CGM data to subjects as real time biofeedback as part of the intervention, enhances efficacy. We propose a randomized controlled trial in 60 children (age 14-18) with obesity (BMI% > 95th percentile) recruited from clinical programs at the Children's Hospital Los Angeles (CHLA). Patients will be randomized to one of three treatment groups for a 12-week intervention: Group 1) Low sugar and carbohydrate diet (LSC, <90 gm carbohydrate (CHO)/day, <25 gm added sugar/day) + blinded CGM (used to monitor adherence and glycemic outcomes without real time feedback). Group 2) LSC+TLE (16-hour fast/8-hour feed for 5 days per week) + blinded CGM, Group 3) LSC+TLE+ real time feedback via CGM (to evaluate effect of providing CGM data on intervention efficacy).\n\nWe have 3 Specific Aims:\n\nAim 1. Test the efficacy of adding a TLE approach to a LSC intervention on body fat and weight loss (Group 2 vs. Group 1). Hypothesis 1: LSC+TLE will result in greater decrease in body fat and zBMI than LSC alone.\n\nAim 2. Test the efficacy of LSC+TLE compared to LSC alone on reduction on glycemic response (CGM) and psychosocial parameters (Group 2 vs. Group 1). Hypothesis 2: TLE+LSC will result in a greater improvement in glucose control (FBG) and psychosocial parameters.\n\nAim 3. Evaluate if CGM use is a feasible tool to determine dietary compliance to TLE type interventions and determine the impact of unblinded CGM on dietary intervention adherence and efficacy (Group 3 vs. Group 2). Hypothesis 3a: CGM will be a feasible tool to determine dietary compliance. Hypothesis 3b: Unblinded CGM data will result in 1) improved adherence to the dietary intervention as assessed by percent time in range when compared to those wearing a blinded CGM and 2) improve intervention effects.\n\nOverall Impact: This research will generate new knowledge that can readily be integrated into clinical weight management programs to optimize their impact and accelerate healthy changes for youth with obesity. This dietary intervention could lead to global improvement and result in slowed disease progression, decreased complications and reduced prevalence of secondary comorbidities that arise from a lifetime of obesity.\n\nVirtual Adaptation: To respond to the COVID-19 research restriction the study protocol was adapted for a 100% virtual model in which all study procedures, consent and outcome measures were collected virtually. For this cohort the aim was to recruit 10-12 completer per study arm with a maximum anticipated recruitment of 20-30 adolescents per group. For the virtual adaptation there is no DEXA scan or blood testing that is collected due to the in-person restriction."
         ]
       },
       {
@@ -10018,52 +10020,6 @@
       {
         "Rank": 199,
         "NCTId": [
-          "NCT03498495"
-        ],
-        "OfficialTitle": [
-          "Kids With mTBI Get SMART: Development and Pilot Trial of a Web-Based Self-Monitoring Activity-Restriction and Relaxation Training Program"
-        ],
-        "Condition": [
-          "Brain Injury Traumatic Mild"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\n11-18 years old\nSustained mTBI within the past week\n\nExclusion Criteria:\n\nPatient and/or family do not speak and read English\nPatient and/or family do not have Internet access\nPatient experiencing more severe brain injury (Glasgow coma score <13)\nPatient with more than one moderate extracranial injury\nPatients with non-mTBI reasons for altered mental status\nPatients with severe pre-existing neurologic or cognitive disorders or other disorders that may impair ability to participate in the intervention."
-        ],
-        "MinimumAge": [
-          "11 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Cincinnati"
-        ],
-        "LocationFacility": [
-          "Cincinnati Children's Hospital Medical Center"
-        ],
-        "LocationState": [
-          "Ohio"
-        ],
-        "LocationZip": [
-          "45229"
-        ],
-        "LocationContactEMail": [
-          "lynn.babcock@cchmc.org"
-        ],
-        "LocationContactName": [
-          "Lynn Babcock, M.D."
-        ],
-        "LocationContactPhone": [
-          "513-250-5188"
-        ],
-        "BriefSummary": [
-          "SMART is an interactive web-based program that will allow youth with mild traumatic brain injuries (mTBI) to monitor their symptoms and receive education on problem-solving and coping strategies. This study will evaluate the effectiveness of SMART as a means of improving symptom-management, coping skills, and general well-being during recovery from mTBI. Half of participants will receive the SMART intervention, while half will receive usual care."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 200,
-        "NCTId": [
           "NCT03495388"
         ],
         "OfficialTitle": [
@@ -10115,7 +10071,7 @@
         ]
       },
       {
-        "Rank": 201,
+        "Rank": 200,
         "NCTId": [
           "NCT03492944"
         ],
@@ -10159,7 +10115,7 @@
         ]
       },
       {
-        "Rank": 202,
+        "Rank": 201,
         "NCTId": [
           "NCT03489434"
         ],
@@ -10203,7 +10159,7 @@
         ]
       },
       {
-        "Rank": 203,
+        "Rank": 202,
         "NCTId": [
           "NCT03472768"
         ],
@@ -10249,7 +10205,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 204,
+        "Rank": 203,
         "NCTId": [
           "NCT03467750"
         ],
@@ -10299,7 +10255,7 @@
         ]
       },
       {
-        "Rank": 205,
+        "Rank": 204,
         "NCTId": [
           "NCT03453541"
         ],
@@ -10358,7 +10314,7 @@
         ]
       },
       {
-        "Rank": 206,
+        "Rank": 205,
         "NCTId": [
           "NCT03451435"
         ],
@@ -10406,7 +10362,7 @@
         ]
       },
       {
-        "Rank": 207,
+        "Rank": 206,
         "NCTId": [
           "NCT03438656"
         ],
@@ -10455,7 +10411,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 208,
+        "Rank": 207,
         "NCTId": [
           "NCT03429114"
         ],
@@ -10503,7 +10459,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 209,
+        "Rank": 208,
         "NCTId": [
           "NCT03423940"
         ],
@@ -10555,7 +10511,7 @@
         ]
       },
       {
-        "Rank": 210,
+        "Rank": 209,
         "NCTId": [
           "NCT03419260"
         ],
@@ -10601,7 +10557,7 @@
         ]
       },
       {
-        "Rank": 211,
+        "Rank": 210,
         "NCTId": [
           "NCT03384134"
         ],
@@ -10652,7 +10608,7 @@
         ]
       },
       {
-        "Rank": 212,
+        "Rank": 211,
         "NCTId": [
           "NCT03363919"
         ],
@@ -10704,7 +10660,7 @@
         ]
       },
       {
-        "Rank": 213,
+        "Rank": 212,
         "NCTId": [
           "NCT03337594"
         ],
@@ -10756,7 +10712,7 @@
         ]
       },
       {
-        "Rank": 214,
+        "Rank": 213,
         "NCTId": [
           "NCT03334942"
         ],
@@ -10811,7 +10767,7 @@
         ]
       },
       {
-        "Rank": 215,
+        "Rank": 214,
         "NCTId": [
           "NCT03304574"
         ],
@@ -10866,7 +10822,7 @@
         ]
       },
       {
-        "Rank": 216,
+        "Rank": 215,
         "NCTId": [
           "NCT03297658"
         ],
@@ -10912,7 +10868,7 @@
         ]
       },
       {
-        "Rank": 217,
+        "Rank": 216,
         "NCTId": [
           "NCT03283033"
         ],
@@ -10961,7 +10917,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 218,
+        "Rank": 217,
         "NCTId": [
           "NCT03266016"
         ],
@@ -11003,7 +10959,7 @@
         ]
       },
       {
-        "Rank": 219,
+        "Rank": 218,
         "NCTId": [
           "NCT03239977"
         ],
@@ -11049,7 +11005,7 @@
         ]
       },
       {
-        "Rank": 220,
+        "Rank": 219,
         "NCTId": [
           "NCT03229837"
         ],
@@ -11099,7 +11055,7 @@
         ]
       },
       {
-        "Rank": 221,
+        "Rank": 220,
         "NCTId": [
           "NCT03225014"
         ],
@@ -11148,7 +11104,7 @@
         ]
       },
       {
-        "Rank": 222,
+        "Rank": 221,
         "NCTId": [
           "NCT03222570"
         ],
@@ -11194,7 +11150,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 223,
+        "Rank": 222,
         "NCTId": [
           "NCT03202303"
         ],
@@ -11242,7 +11198,7 @@
         ]
       },
       {
-        "Rank": 224,
+        "Rank": 223,
         "NCTId": [
           "NCT03192566"
         ],
@@ -11294,7 +11250,7 @@
         ]
       },
       {
-        "Rank": 225,
+        "Rank": 224,
         "NCTId": [
           "NCT03166358"
         ],
@@ -11342,7 +11298,7 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 225,
         "NCTId": [
           "NCT03154359"
         ],
@@ -11393,7 +11349,7 @@
         ]
       },
       {
-        "Rank": 227,
+        "Rank": 226,
         "NCTId": [
           "NCT03132948"
         ],
@@ -11442,7 +11398,7 @@
         ]
       },
       {
-        "Rank": 228,
+        "Rank": 227,
         "NCTId": [
           "NCT03072849"
         ],
@@ -11493,7 +11449,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 228,
         "NCTId": [
           "NCT03055533"
         ],
@@ -11542,7 +11498,7 @@
         ]
       },
       {
-        "Rank": 230,
+        "Rank": 229,
         "NCTId": [
           "NCT03032328"
         ],
@@ -11593,7 +11549,7 @@
         ]
       },
       {
-        "Rank": 231,
+        "Rank": 230,
         "NCTId": [
           "NCT03023566"
         ],
@@ -11642,7 +11598,7 @@
         ]
       },
       {
-        "Rank": 232,
+        "Rank": 231,
         "NCTId": [
           "NCT03005951"
         ],
@@ -11693,7 +11649,7 @@
         ]
       },
       {
-        "Rank": 233,
+        "Rank": 232,
         "NCTId": [
           "NCT02914067"
         ],
@@ -11746,7 +11702,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 234,
+        "Rank": 233,
         "NCTId": [
           "NCT02895711"
         ],
@@ -11795,7 +11751,7 @@
         ]
       },
       {
-        "Rank": 235,
+        "Rank": 234,
         "NCTId": [
           "NCT02889016"
         ],
@@ -11842,7 +11798,7 @@
         ]
       },
       {
-        "Rank": 236,
+        "Rank": 235,
         "NCTId": [
           "NCT02846272"
         ],
@@ -11891,7 +11847,7 @@
         ]
       },
       {
-        "Rank": 237,
+        "Rank": 236,
         "NCTId": [
           "NCT02824627"
         ],
@@ -11941,7 +11897,7 @@
         ]
       },
       {
-        "Rank": 238,
+        "Rank": 237,
         "NCTId": [
           "NCT02775643"
         ],
@@ -11988,7 +11944,7 @@
         ]
       },
       {
-        "Rank": 239,
+        "Rank": 238,
         "NCTId": [
           "NCT02769975"
         ],
@@ -12040,7 +11996,7 @@
         ]
       },
       {
-        "Rank": 240,
+        "Rank": 239,
         "NCTId": [
           "NCT02742272"
         ],
@@ -12093,7 +12049,7 @@
         ]
       },
       {
-        "Rank": 241,
+        "Rank": 240,
         "NCTId": [
           "NCT02722486"
         ],
@@ -12141,7 +12097,7 @@
         ]
       },
       {
-        "Rank": 242,
+        "Rank": 241,
         "NCTId": [
           "NCT02703597"
         ],
@@ -12188,7 +12144,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 243,
+        "Rank": 242,
         "NCTId": [
           "NCT02699190"
         ],
@@ -12236,7 +12192,7 @@
         ]
       },
       {
-        "Rank": 244,
+        "Rank": 243,
         "NCTId": [
           "NCT02651493"
         ],
@@ -12287,7 +12243,7 @@
         ]
       },
       {
-        "Rank": 245,
+        "Rank": 244,
         "NCTId": [
           "NCT02616796"
         ],
@@ -12335,7 +12291,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 246,
+        "Rank": 245,
         "NCTId": [
           "NCT02610946"
         ],
@@ -12386,7 +12342,7 @@
         ]
       },
       {
-        "Rank": 247,
+        "Rank": 246,
         "NCTId": [
           "NCT02535936"
         ],
@@ -12437,7 +12393,7 @@
         ]
       },
       {
-        "Rank": 248,
+        "Rank": 247,
         "NCTId": [
           "NCT02512718"
         ],
@@ -12481,7 +12437,7 @@
         ]
       },
       {
-        "Rank": 249,
+        "Rank": 248,
         "NCTId": [
           "NCT02498925"
         ],
@@ -12529,7 +12485,7 @@
         ]
       },
       {
-        "Rank": 250,
+        "Rank": 249,
         "NCTId": [
           "NCT02485418"
         ],
@@ -12576,7 +12532,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 251,
+        "Rank": 250,
         "NCTId": [
           "NCT02453126"
         ],
@@ -12622,7 +12578,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 252,
+        "Rank": 251,
         "NCTId": [
           "NCT02420990"
         ],
@@ -12670,7 +12626,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 253,
+        "Rank": 252,
         "NCTId": [
           "NCT02395003"
         ],
@@ -12714,7 +12670,7 @@
         ]
       },
       {
-        "Rank": 254,
+        "Rank": 253,
         "NCTId": [
           "NCT02312635"
         ],
@@ -12766,7 +12722,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 254,
         "NCTId": [
           "NCT02257229"
         ],
@@ -12813,7 +12769,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 255,
         "NCTId": [
           "NCT02245997"
         ],
@@ -12860,7 +12816,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 257,
+        "Rank": 256,
         "NCTId": [
           "NCT02202174"
         ],
@@ -12905,7 +12861,7 @@
         ]
       },
       {
-        "Rank": 258,
+        "Rank": 257,
         "NCTId": [
           "NCT02130180"
         ],
@@ -12953,7 +12909,7 @@
         ]
       },
       {
-        "Rank": 259,
+        "Rank": 258,
         "NCTId": [
           "NCT02127658"
         ],
@@ -12995,7 +12951,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 260,
+        "Rank": 259,
         "NCTId": [
           "NCT02117063"
         ],
@@ -13052,7 +13008,7 @@
         ]
       },
       {
-        "Rank": 261,
+        "Rank": 260,
         "NCTId": [
           "NCT02055105"
         ],
@@ -13100,7 +13056,7 @@
         ]
       },
       {
-        "Rank": 262,
+        "Rank": 261,
         "NCTId": [
           "NCT02021604"
         ],
@@ -13143,7 +13099,7 @@
         ]
       },
       {
-        "Rank": 263,
+        "Rank": 262,
         "NCTId": [
           "NCT01960166"
         ],
@@ -13185,7 +13141,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 264,
+        "Rank": 263,
         "NCTId": [
           "NCT01857791"
         ],
@@ -13232,7 +13188,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 265,
+        "Rank": 264,
         "NCTId": [
           "NCT01839747"
         ],
@@ -13281,7 +13237,7 @@
         ]
       },
       {
-        "Rank": 266,
+        "Rank": 265,
         "NCTId": [
           "NCT01724463"
         ],
@@ -13336,7 +13292,7 @@
         ]
       },
       {
-        "Rank": 267,
+        "Rank": 266,
         "NCTId": [
           "NCT01665326"
         ],
@@ -13386,7 +13342,7 @@
         ]
       },
       {
-        "Rank": 268,
+        "Rank": 267,
         "NCTId": [
           "NCT01629017"
         ],
@@ -13435,7 +13391,7 @@
         ]
       },
       {
-        "Rank": 269,
+        "Rank": 268,
         "NCTId": [
           "NCT01598766"
         ],
@@ -13487,7 +13443,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 270,
+        "Rank": 269,
         "NCTId": [
           "NCT01577810"
         ],
@@ -13538,7 +13494,7 @@
         ]
       },
       {
-        "Rank": 271,
+        "Rank": 270,
         "NCTId": [
           "NCT01543438"
         ],
@@ -13585,7 +13541,7 @@
         ]
       },
       {
-        "Rank": 272,
+        "Rank": 271,
         "NCTId": [
           "NCT01504373"
         ],
@@ -13631,7 +13587,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 273,
+        "Rank": 272,
         "NCTId": [
           "NCT01422759"
         ],
@@ -13683,7 +13639,7 @@
         ]
       },
       {
-        "Rank": 274,
+        "Rank": 273,
         "NCTId": [
           "NCT01422746"
         ],
@@ -13733,7 +13689,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 275,
+        "Rank": 274,
         "NCTId": [
           "NCT01421810"
         ],
@@ -13784,7 +13740,7 @@
         ]
       },
       {
-        "Rank": 276,
+        "Rank": 275,
         "NCTId": [
           "NCT01421797"
         ],
@@ -13836,7 +13792,7 @@
         ]
       },
       {
-        "Rank": 277,
+        "Rank": 276,
         "NCTId": [
           "NCT01386736"
         ],
@@ -13885,7 +13841,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 278,
+        "Rank": 277,
         "NCTId": [
           "NCT01383915"
         ],
@@ -13934,7 +13890,7 @@
         ]
       },
       {
-        "Rank": 279,
+        "Rank": 278,
         "NCTId": [
           "NCT01304875"
         ],
@@ -13978,7 +13934,7 @@
         ]
       },
       {
-        "Rank": 280,
+        "Rank": 279,
         "NCTId": [
           "NCT01285531"
         ],
@@ -14035,7 +13991,7 @@
         ]
       },
       {
-        "Rank": 281,
+        "Rank": 280,
         "NCTId": [
           "NCT01122095"
         ],
@@ -14088,7 +14044,7 @@
         ]
       },
       {
-        "Rank": 282,
+        "Rank": 281,
         "NCTId": [
           "NCT00906906"
         ],
@@ -14139,7 +14095,7 @@
         ]
       },
       {
-        "Rank": 283,
+        "Rank": 282,
         "NCTId": [
           "NCT00814853"
         ],
@@ -14186,7 +14142,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 283,
         "NCTId": [
           "NCT00792415"
         ],
@@ -14234,7 +14190,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 285,
+        "Rank": 284,
         "NCTId": [
           "NCT00745394"
         ],
@@ -14281,7 +14237,7 @@
         ]
       },
       {
-        "Rank": 286,
+        "Rank": 285,
         "NCTId": [
           "NCT00616317"
         ],
@@ -14319,7 +14275,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 287,
+        "Rank": 286,
         "NCTId": [
           "NCT00494572"
         ],
@@ -14369,7 +14325,7 @@
         ]
       },
       {
-        "Rank": 288,
+        "Rank": 287,
         "NCTId": [
           "NCT00491946"
         ],
@@ -14414,7 +14370,7 @@
         ]
       },
       {
-        "Rank": 289,
+        "Rank": 288,
         "NCTId": [
           "NCT00465699"
         ],
@@ -14458,7 +14414,7 @@
         ]
       },
       {
-        "Rank": 290,
+        "Rank": 289,
         "NCTId": [
           "NCT00320086"
         ],
@@ -14506,7 +14462,7 @@
         ]
       },
       {
-        "Rank": 291,
+        "Rank": 290,
         "NCTId": [
           "NCT00292513"
         ],
@@ -14551,7 +14507,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 292,
+        "Rank": 291,
         "NCTId": [
           "NCT00182572"
         ],
@@ -14595,7 +14551,7 @@
         ]
       },
       {
-        "Rank": 293,
+        "Rank": 292,
         "NCTId": [
           "NCT00036712"
         ],
@@ -14652,7 +14608,7 @@
         ]
       },
       {
-        "Rank": 294,
+        "Rank": 293,
         "NCTId": [
           "NCT00012506"
         ],
@@ -14700,7 +14656,7 @@
         ]
       },
       {
-        "Rank": 295,
+        "Rank": 294,
         "NCTId": [
           "NCT00000112"
         ],
@@ -14741,7 +14697,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 296,
+        "Rank": 295,
         "NCTId": [
           "NCT04815239"
         ],
@@ -14793,7 +14749,7 @@
         ]
       },
       {
-        "Rank": 297,
+        "Rank": 296,
         "NCTId": [
           "NCT04812028"
         ],
@@ -14841,7 +14797,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 297,
         "NCTId": [
           "NCT04810130"
         ],
@@ -14894,7 +14850,7 @@
         ]
       },
       {
-        "Rank": 299,
+        "Rank": 298,
         "NCTId": [
           "NCT04798482"
         ],
@@ -14943,7 +14899,7 @@
         ]
       },
       {
-        "Rank": 300,
+        "Rank": 299,
         "NCTId": [
           "NCT04797559"
         ],
@@ -14992,7 +14948,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 300,
         "NCTId": [
           "NCT04795674"
         ],
@@ -15044,7 +15000,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 301,
         "NCTId": [
           "NCT04788524"
         ],
@@ -15093,7 +15049,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 302,
         "NCTId": [
           "NCT04786977"
         ],
@@ -15140,7 +15096,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 304,
+        "Rank": 303,
         "NCTId": [
           "NCT04784455"
         ],
@@ -15184,7 +15140,7 @@
         ]
       },
       {
-        "Rank": 305,
+        "Rank": 304,
         "NCTId": [
           "NCT04783506"
         ],
@@ -15233,7 +15189,7 @@
         ]
       },
       {
-        "Rank": 306,
+        "Rank": 305,
         "NCTId": [
           "NCT04771338"
         ],
@@ -15286,7 +15242,7 @@
         ]
       },
       {
-        "Rank": 307,
+        "Rank": 306,
         "NCTId": [
           "NCT04602325"
         ],
@@ -15338,7 +15294,7 @@
         ]
       },
       {
-        "Rank": 308,
+        "Rank": 307,
         "NCTId": [
           "NCT02398539"
         ],
@@ -15383,7 +15339,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 309,
+        "Rank": 308,
         "NCTId": [
           "NCT05124210"
         ],
@@ -15453,7 +15409,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 310,
+        "Rank": 309,
         "NCTId": [
           "NCT04582682"
         ],
@@ -15518,7 +15474,7 @@
         ]
       },
       {
-        "Rank": 311,
+        "Rank": 310,
         "NCTId": [
           "NCT04465370"
         ],
@@ -15576,7 +15532,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 312,
+        "Rank": 311,
         "NCTId": [
           "NCT02505165"
         ],
@@ -15641,7 +15597,7 @@
         ]
       },
       {
-        "Rank": 313,
+        "Rank": 312,
         "NCTId": [
           "NCT01142882"
         ],
@@ -15705,7 +15661,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 313,
         "NCTId": [
           "NCT04602728"
         ],
@@ -15755,7 +15711,7 @@
         ]
       },
       {
-        "Rank": 315,
+        "Rank": 314,
         "NCTId": [
           "NCT03657771"
         ],
@@ -15826,7 +15782,7 @@
         ]
       },
       {
-        "Rank": 316,
+        "Rank": 315,
         "NCTId": [
           "NCT04718441"
         ],
@@ -15891,7 +15847,7 @@
         ]
       },
       {
-        "Rank": 317,
+        "Rank": 316,
         "NCTId": [
           "NCT03412162"
         ],
@@ -15947,7 +15903,7 @@
         ]
       },
       {
-        "Rank": 318,
+        "Rank": 317,
         "NCTId": [
           "NCT04344899"
         ],
@@ -16008,7 +15964,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 318,
         "NCTId": [
           "NCT02260856"
         ],
@@ -16091,7 +16047,7 @@
         ]
       },
       {
-        "Rank": 320,
+        "Rank": 319,
         "NCTId": [
           "NCT04156347"
         ],
@@ -16143,7 +16099,7 @@
         ]
       },
       {
-        "Rank": 321,
+        "Rank": 320,
         "NCTId": [
           "NCT04998656"
         ],
@@ -16213,7 +16169,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 322,
+        "Rank": 321,
         "NCTId": [
           "NCT04625686"
         ],
@@ -16283,7 +16239,7 @@
         ]
       },
       {
-        "Rank": 323,
+        "Rank": 322,
         "NCTId": [
           "NCT04621331"
         ],
@@ -16340,7 +16296,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 324,
+        "Rank": 323,
         "NCTId": [
           "NCT04074265"
         ],
@@ -16424,7 +16380,7 @@
         ]
       },
       {
-        "Rank": 325,
+        "Rank": 324,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16493,7 +16449,7 @@
         ]
       },
       {
-        "Rank": 326,
+        "Rank": 325,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16563,7 +16519,7 @@
         ]
       },
       {
-        "Rank": 327,
+        "Rank": 326,
         "NCTId": [
           "NCT02914405"
         ],
@@ -16634,7 +16590,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 328,
+        "Rank": 327,
         "NCTId": [
           "NCT02391324"
         ],
@@ -16696,7 +16652,7 @@
         ]
       },
       {
-        "Rank": 329,
+        "Rank": 328,
         "NCTId": [
           "NCT02134782"
         ],
@@ -16760,7 +16716,7 @@
         ]
       },
       {
-        "Rank": 330,
+        "Rank": 329,
         "NCTId": [
           "NCT04333823"
         ],
@@ -16829,7 +16785,7 @@
         ]
       },
       {
-        "Rank": 331,
+        "Rank": 330,
         "NCTId": [
           "NCT05112237"
         ],
@@ -16883,7 +16839,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 332,
+        "Rank": 331,
         "NCTId": [
           "NCT03606980"
         ],
@@ -16947,7 +16903,7 @@
         ]
       },
       {
-        "Rank": 333,
+        "Rank": 332,
         "NCTId": [
           "NCT03240809"
         ],
@@ -17005,7 +16961,7 @@
         ]
       },
       {
-        "Rank": 334,
+        "Rank": 333,
         "NCTId": [
           "NCT04903314"
         ],
@@ -17079,7 +17035,7 @@
         ]
       },
       {
-        "Rank": 335,
+        "Rank": 334,
         "NCTId": [
           "NCT04853316"
         ],
@@ -17156,7 +17112,7 @@
         ]
       },
       {
-        "Rank": 336,
+        "Rank": 335,
         "NCTId": [
           "NCT04251026"
         ],
@@ -17238,7 +17194,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 337,
+        "Rank": 336,
         "NCTId": [
           "NCT00005105"
         ],
@@ -17302,7 +17258,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 337,
         "NCTId": [
           "NCT04810481"
         ],
@@ -17376,7 +17332,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 338,
         "NCTId": [
           "NCT03505658"
         ],
@@ -17437,7 +17393,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 340,
+        "Rank": 339,
         "NCTId": [
           "NCT03989986"
         ],
@@ -17497,7 +17453,7 @@
         ]
       },
       {
-        "Rank": 341,
+        "Rank": 340,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17568,7 +17524,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 341,
         "NCTId": [
           "NCT05203198"
         ],
@@ -17677,7 +17633,7 @@
         ]
       },
       {
-        "Rank": 343,
+        "Rank": 342,
         "NCTId": [
           "NCT03910933"
         ],
@@ -17760,401 +17716,7 @@
         ]
       },
       {
-        "Rank": 344,
-        "NCTId": [
-          "NCT04816643"
-        ],
-        "OfficialTitle": [
-          "PHASE 1, OPEN-LABEL DOSE-FINDING STUDY TO EVALUATE SAFETY, TOLERABILITY, AND IMMUNOGENICITY AND PHASE 2/3 PLACEBO-CONTROLLED, OBSERVER-BLINDED SAFETY, TOLERABILITY, AND IMMUNOGENICITY STUDY OF A SARS-COV-2 RNA VACCINE CANDIDATE AGAINST COVID-19 IN HEALTHY CHILDREN AND YOUNG ADULTS"
-        ],
-        "Condition": [
-          "SARS-CoV-2 Infection, COVID-19"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria\n\nMale or female participants ≥6 months to <12 years of age, at the time of randomization, at Visit 1 for the dose-finding/selected-dose evaluation and for participants ≥12 to <18 years of age, at the time of randomization, at Visit 1 for the lower-dose evaluation. For the obtaining-serum-samples-for-potential-troponin I-testing portion of the study: Male or female participants between ≥5 and <16 years of age.\nParticipants' parent(s)/legal guardian(s) and participants, as age appropriate, who are willing and able to comply with all scheduled visits, treatment plan, laboratory tests, lifestyle considerations, and other study procedures.\n\nHealthy participants who are determined by medical history, physical examination, and clinical judgment of the investigator to be eligible for inclusion in the study.\n\nNote: Healthy participants with preexisting stable disease, defined as disease not requiring significant change in the therapy or hospitalization for worsening disease during the 6 weeks before enrollment, can be included.\n\nParticipants are expected to be available for the duration of the study and whose parent(s)/legal guardian can be contacted by telephone during study participation.\nNegative urine pregnancy test for female participants who are biologically capable of having children.\nFemale participant of childbearing potential or male participant able to father children who is willing to use a highly effective method of contraception as outlined in this protocol for at least 28 days after the last dose of study intervention if at risk of pregnancy with her/his partner; or female participant not of childbearing potential or male participant not able to father children.\nThe participant or participant's parent(s)/legal guardian is capable of giving signed informed consent, which includes compliance with the requirements and restrictions listed in the ICD and in this protocol. Depending on the age of the participant and according to local requirements, participants will also be asked to provide assent as appropriate (verbal or written).\n\nExclusion Criteria\n\nPhase 1 only: Past clinical (based on COVID-19 symptoms/signs alone, if a SARS CoV 2 NAAT result was not available) or microbiological (based on COVID-19 symptoms/signs and a positive SARS-CoV-2 NAAT result) diagnosis of COVID 19.\nPhase 1 only: Known infection with HIV, HCV, or HBV.\nReceipt of medications intended to prevent COVID-19.\nPrevious or current diagnosis of MIS-C.\nOther medical or psychiatric condition including recent (within the past year) or active suicidal ideation/behavior or laboratory abnormality that may increase the risk of study participation or, in the investigator's judgment, make the participant inappropriate for the study. Note: This includes both conditions that may increase the risk associated with study intervention administration or a condition that may interfere with the interpretation of study results\nHistory of severe adverse reaction associated with a vaccine and/or severe allergic reaction (eg, anaphylaxis) to any component of the study intervention(s).\nImmunocompromised individuals with known or suspected immunodeficiency, as determined by history and/or laboratory/physical examination.\nIndividuals with a history of autoimmune disease or an active autoimmune disease requiring therapeutic intervention, including but not limited to systemic lupus erythematosus. Note: Stable type 1 diabetes and hypothyroidism are permitted.\nBleeding diathesis or condition associated with prolonged bleeding that would, in the opinion of the investigator, contraindicate intramuscular injection.\nFemale who is pregnant or breastfeeding.\nPrevious vaccination with any coronavirus vaccine.\nIndividuals who receive treatment with immunosuppressive therapy, including cytotoxic agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or planned receipt throughout the study. If systemic corticosteroids have been administered short term (<14 days) for treatment of an acute illness, participants should not be enrolled into the study until corticosteroid therapy has been discontinued for at least 28 days before study intervention administration. Inhaled/nebulized, intra-articular, intrabursal, or topical (skin or eyes) corticosteroids are permitted.\nReceipt of blood/plasma products, immunoglobulin, or monoclonal antibodies, from 60 days before study intervention administration, or receipt of any passive antibody therapy specific to COVID-19 from 90 days before study intervention administration, or planned receipt throughout the study.\nParticipation in other studies involving study intervention within 28 days prior to study entry and/or during study participation.\nPrevious participation in other studies involving study intervention containing LNPs.\nParticipants who are direct descendants (child or grandchild) of investigational site staff members or Pfizer/BioNTech employees directly involved in the conduct of the study, site staff otherwise supervised by the investigator, and their respective family members."
-        ],
-        "MinimumAge": [
-          "6 Months"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Birmingham",
-          "Oakland",
-          "Palo Alto",
-          "Paramount",
-          "Paramount",
-          "Rolling Hills Estates",
-          "Sacramento",
-          "Santa Clara",
-          "Valley Village",
-          "Aurora",
-          "New Haven",
-          "Washington",
-          "Miami",
-          "Orlando",
-          "Atlanta",
-          "Atlanta",
-          "Atlanta",
-          "Atlanta",
-          "Macon",
-          "Idaho Falls",
-          "Meridian",
-          "Newton",
-          "Wichita",
-          "Bardstown",
-          "Louisville",
-          "New Orleans",
-          "Shreveport",
-          "Baltimore",
-          "Boston",
-          "Chesterfield",
-          "Kansas City",
-          "Hastings",
-          "Omaha",
-          "Omaha",
-          "New Brunswick",
-          "Binghamton",
-          "Commack",
-          "East Setauket",
-          "Rochester",
-          "Rochester",
-          "Stony Brook",
-          "Syracuse",
-          "Durham",
-          "Durham",
-          "Cincinnati",
-          "Cincinnati",
-          "Columbus",
-          "Dayton",
-          "South Euclid",
-          "Erie",
-          "Warwick",
-          "Memphis",
-          "Nashville",
-          "Austin",
-          "Corpus Christi",
-          "Houston",
-          "Houston",
-          "Houston",
-          "Houston",
-          "Salt Lake City",
-          "Salt Lake City",
-          "Charlottesville",
-          "Charlottesville",
-          "Midlothian",
-          "Seattle",
-          "Tampere",
-          "Oulu",
-          "Helsinki",
-          "Espoo",
-          "Helsinki",
-          "Helsinki",
-          "Jarvenpaa",
-          "Kokkola",
-          "Pori",
-          "Seinajoki",
-          "Turku",
-          "Bydgoszcz",
-          "Krakow",
-          "Lodz",
-          "Lodz",
-          "Lubon",
-          "Siemianowice Slaskie",
-          "Torun",
-          "Warszawa",
-          "Santiago de Compostela",
-          "Centelles",
-          "Esplugues De Llobregrat",
-          "Sant Cugat del Valles",
-          "Boadilla del Monte",
-          "Antequera",
-          "Malaga",
-          "Madrid",
-          "Mostoles",
-          "Sevilla"
-        ],
-        "LocationFacility": [
-          "University of Alabama at Birmingham - School of Medicine",
-          "Kaiser Permanente Oakland",
-          "Clinical & Translational Research Unit (CTRU) & Spectrum BioBank, Stanford University",
-          "Center for Clinical Trials, LLC",
-          "Center for Clinical Trials",
-          "Peninsula Research Associates",
-          "Kaiser Permanente Sacramento",
-          "Kaiser Permanente Santa Clara",
-          "Bayview Research Group, LLC",
-          "Children's Hospital Colorado",
-          "Yale Center for Clinical Investigation",
-          "Children's National Medical Center",
-          "Acevedo Clinical Research Associates",
-          "Clinical Neuroscience Solutions",
-          "Emory Children's Center Illness POD",
-          "Emory Clinic Investigational Drug Services",
-          "Emory University School of Medicine",
-          "Atlanta Center for Medical Research",
-          "Meridian Clinical Research, LLC",
-          "Clinical Research Prime",
-          "Solaris Clinical Research",
-          "Alliance for Multispecialty Research, LLC",
-          "Alliance for Multispecialty Research, LLC",
-          "Kentucky Pediatric/ Adult Research",
-          "Novak Center for Children's Health",
-          "Ochsner Clinic Foundation",
-          "Louisiana State University Health Sciences Shreveport",
-          "Center for Immunization Research Inpatient Unit",
-          "Boston Medical Center",
-          "Clinical Research Professionals",
-          "Children's Mercy Hospital",
-          "Meridian Clinical Research, LLC",
-          "Children's Hospital & Medical Center",
-          "Children's Physician's Clinic, Spring Valley",
-          "Rutgers University",
-          "Meridian Clinical Research, LLC",
-          "Advanced Specialty Care",
-          "Clinical Research Center",
-          "Rochester Clinical Research, Inc.",
-          "University of Rochester Medical Center",
-          "Stony Brook University",
-          "SUNY Upstate Medical University",
-          "Duke Vaccine and Trials Unit",
-          "Clinical Research Pickett Road",
-          "Cincinnati Children's Hospital Medical Center",
-          "Cincinnati Childrens Hospital Medical Center",
-          "Aventiv Research Inc.",
-          "PriMed Clinical Research",
-          "Senders Pediatrics",
-          "Allegheny Health and Wellness Pavilion",
-          "Velocity Clinical Research-Providence",
-          "St. Jude Children's Research Hospital",
-          "Clinical Research Associates Inc",
-          "ARC Clinical Research at Wilson Parke",
-          "Driscoll Children's Hospital",
-          "Van Tran Family Practice",
-          "Ventavia Research Group, LLC",
-          "Texas Children's Hospital - Clinical Research Center",
-          "West Houston Clinical Research Service",
-          "J. Lewis Research, Inc. / Foothill Family Clinic",
-          "J. Lewis Research, Inc. / Foothill Family Clinic South",
-          "Pediatric Associates of Charlottesville, PLC (Private Pediatric Practice)",
-          "Pediatric Research of Charlottesville, LLC",
-          "Virginia Research Center",
-          "Seattle Children's Hospital",
-          "Tampere Vaccine Research Clinic",
-          "Tampere university/ Oulu vaccine research clinic",
-          "Helsinki East Vaccine Research Clinic",
-          "Espoo Vaccine Research Clinic",
-          "Helsinki South Vaccine Research Clinic",
-          "MeVac, Meilahti Vaccine Research Center",
-          "Jarvenpaa Vaccine Research Center",
-          "Kokkola Vaccine Research Clinic",
-          "Pori Vaccine Research Clinic",
-          "Seinäjoki Vaccine Research Clinic",
-          "Turku Vaccine Research Clinic",
-          "IN VIVO Spolka z ograniczona odpowiedzialnoscia",
-          "Centrum Badań Klinicznych Jagiellońskie Centrum Innowacji sp. z o.o.",
-          "Osrodek Badan Klinicznych Appletreeclinics",
-          "GRAVITA Diagnostyka i Leczenie nieplodnosci",
-          "Rodzinne Centrum Medyczne LUBMED",
-          "Niepubliczny Zaklad Lecznictwa Ambulatoryjnego Michalkowice Jarosz i Partnerzy Spolka Lekarska",
-          "Nasz Lekarz Osrodek Badan Klinicznych",
-          "Provita 001",
-          "CHUS - Hospital Clinico Universitario",
-          "EAP Centelles",
-          "Hospital Sant Joan de Deu",
-          "Hospital Universitari General de Catalunya",
-          "Hospital Universitario HM Monteprincipe",
-          "Hospital de Antequera",
-          "Grupo Pediatrico Uncibay",
-          "Hospital Universitario 12 de Octubre",
-          "Hospital HM Puerta del Sur",
-          "Instituto Hispalense de Pediatria"
-        ],
-        "LocationState": [
-          "Alabama",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "California",
-          "Colorado",
-          "Connecticut",
-          "District of Columbia",
-          "Florida",
-          "Florida",
-          "Georgia",
-          "Georgia",
-          "Georgia",
-          "Georgia",
-          "Georgia",
-          "Idaho",
-          "Idaho",
-          "Kansas",
-          "Kansas",
-          "Kentucky",
-          "Kentucky",
-          "Louisiana",
-          "Louisiana",
-          "Maryland",
-          "Massachusetts",
-          "Missouri",
-          "Missouri",
-          "Nebraska",
-          "Nebraska",
-          "Nebraska",
-          "New Jersey",
-          "New York",
-          "New York",
-          "New York",
-          "New York",
-          "New York",
-          "New York",
-          "New York",
-          "North Carolina",
-          "North Carolina",
-          "Ohio",
-          "Ohio",
-          "Ohio",
-          "Ohio",
-          "Ohio",
-          "Pennsylvania",
-          "Rhode Island",
-          "Tennessee",
-          "Tennessee",
-          "Texas",
-          "Texas",
-          "Texas",
-          "Texas",
-          "Texas",
-          "Texas",
-          "Utah",
-          "Utah",
-          "Virginia",
-          "Virginia",
-          "Virginia",
-          "Washington",
-          "Pirkanmaa",
-          "Pohjois-pohjanmaa",
-          "Uusimaa",
-          "A Coruna",
-          "Barcelona",
-          "Barcelona",
-          "Barcelona",
-          "Madrid",
-          "Malaga",
-          "Málaga"
-        ],
-        "LocationZip": [
-          "35233",
-          "94611",
-          "94304",
-          "90723",
-          "90723",
-          "90274",
-          "95815",
-          "95051",
-          "91607",
-          "80045",
-          "06519",
-          "20010",
-          "33142",
-          "32801",
-          "30322",
-          "30322",
-          "30322",
-          "30331",
-          "31210",
-          "83404",
-          "83646",
-          "67114",
-          "67207",
-          "40004",
-          "40202",
-          "70121",
-          "71101",
-          "21224",
-          "02118",
-          "63005",
-          "64108",
-          "68901",
-          "68114",
-          "68117",
-          "08901",
-          "13901",
-          "11725",
-          "11733",
-          "14609",
-          "14642",
-          "11794",
-          "13210",
-          "27703",
-          "27705",
-          "45206",
-          "45229",
-          "43213",
-          "45419",
-          "44121",
-          "16506",
-          "02886",
-          "38105",
-          "37203",
-          "78726",
-          "78411",
-          "77008",
-          "77008",
-          "77030",
-          "77055",
-          "84109",
-          "84121",
-          "22902",
-          "22902",
-          "23114",
-          "98105",
-          "33100",
-          "90220",
-          "00930",
-          "02230",
-          "00100",
-          "00290",
-          "67100",
-          "28100",
-          "60100",
-          "20520",
-          "85-048",
-          "30-348",
-          "90-349",
-          "91-347",
-          "62-030",
-          "41-103",
-          "87-100",
-          "02-647",
-          "15706",
-          "08540",
-          "08950",
-          "08195",
-          "28660",
-          "29200",
-          "29015",
-          "28041",
-          "28938",
-          "41012"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "This is a Phase 1/2/3 study in healthy children and young adults.\n\nDependent upon safety and/or immunogenicity data generated during the course of this study, and the resulting assessment of benefit-risk, the safety, tolerability, and immunogenicity of BNT162b2 in participants <6 months of age may subsequently be evaluated."
-        ],
-        "DetailedDescription": [
-          "Phase 1 Dose-Finding\n\nIs the open-label dose-finding portion of the study that will evaluate safety, tolerability, and immunogenicity of BNT162b2 administered on a 2-dose (separated by approximately 21 days) schedule in up to 3 age groups (participants ≥5 to <12 years, ≥2 to <5 years, and ≥6 months to <2 years of age).\n\nDose finding is being initiated in this study in participants ≥5 to <12 years of age based on the acceptable blinded safety assessment of the 30-µg dose in 12- to 15-year-olds in the C4591001 study.\n\nThe purpose of Phase 1 is to identify preferred dose level(s) of BNT162b2 from up to 3 different dose levels in each age group.\n\nDependent upon safety and/or immunogenicity data generated during the course of this study, it is possible that dose levels may not be started, may be terminated early, and/or may be added with dose levels below the lowest stated dose.\n\nParticipants will have blood drawn prior to both Dose 1 and Dose 2 and 7 days after Dose 2 to assess for immunogenicity to determine the final BNT162b2 dose level for the Phase 2/3.\n\nPhase 1 Lower-Dose Evaluation\n\nIs the open-label lower-dose evaluation portion of the study that will evaluate the safety, tolerability, and immunogenicity of 10 µg BNT162b2 from 2 schedules in 2 age groups (participants 12 to <16 years and 16 to <18 years of age).\n\nThe purpose of the Phase 1 lower-dose evaluation is to evaluate the safety and immunogenicity of BNT162b2 from 2 different dose schedules in each age group: (1) 2 doses separated by approximately 21 days and (2) 2 doses separated by approximately 8 weeks.\n\nParticipants will have blood drawn prior to Dose 1, prior to Dose 2, 7 days after Dose 2, and 1 month after Dose 2 to assess immunogenicity to determine the selected BNT162b2 dose schedule for the Phase 2/3 lower-dose evaluation portion of the study. In addition, participants will have blood drawn at 6 and 12 months after Dose 2 to determine the persistence of the immune response.\n\nPhase 2/3 Selected-Dose\n\nIs the portion of the study that will evaluate the safety, tolerability, and immunogenicity of the selected dose level in each age group at the selected dose level from Phase 1 dose finding, with a total of approximately 6750 participants as an additional 2250 participants will be included to enlarge the size of the pediatric safety database. Participants will be randomized in a 2:1 ratio to receive active vaccine or placebo.\n\nApproximately 450 participants (300 in the active vaccine group and 150 in the placebo group) randomized in each age group in this phase will contribute to the immunobridging analysis at 1 month after Dose 2 and will contribute to the overall analysis of the persistence of immune response at 6 months after Dose 2. These participants will be enrolled from both US and EU sites to ensure this subset is representative of the whole study.\n\nFor the persistence time points of 12 and 24 months after Dose 2, approximately 70 participants from each age group in the original BNT162b2 group will have an immunogenicity blood draw in order to contribute to the analysis. All approximately 6750 participants will contribute to the VE analysis for conditional VE and asymptomatic infection. Efficacy will be evaluated within or across age groups in which immunobridging is successful, depending on accrual of a sufficient number of cases in those age groups.\n\nAt designated US sites, an additional optional whole blood sample of approximately 10 mL will be obtained prior to Dose 1 and at 7 days and 6 months after Dose 2 from up to approximately 60 participants ≥10 years of age. These samples will be used on an exploratory basis to investigate the postvaccination cell-mediated immune response at these time points.\n\nPhase 2/3 Lower-Dose Evaluation\n\nIs the open-label portion of the study that will evaluate the safety, tolerability, and immunogenicity of the selected dose schedule in each age group from the Phase 1 lower-dose evaluation, with a total of approximately 600 active participants.\n\nApproximately 300 active participants in each age group in this phase will contribute to the immunobridging analysis at 1 month after Dose 2 and the overall analysis of the persistence of immune response at 6 and 12 months after Dose 2.\n\nPhase 2/3 Obtaining Serum Samples for Potential Troponin I Testing\n\nIf testing of troponin I levels in individuals who did not receive BNT162b2 indicates that troponin I level could be a reliable indicator of potential subclinical myocarditis, obtaining serum samples for potential troponin I testing during the period of increased risk of clinical myocarditis may help characterize the absence/presence and frequency of subclinical myocarditis. To assess, an additional group of participants will be included: 5 to <12 years: 750 participants randomized 2:1 to receive BNT162b2 10 µg or placebo, and 500 participants 12 to <16 years of age: open-label receipt of BNT162b2 30 µg."
-        ]
-      },
-      {
-        "Rank": 345,
+        "Rank": 343,
         "NCTId": [
           "NCT04442295"
         ],
@@ -18283,7 +17845,7 @@
         ]
       },
       {
-        "Rank": 346,
+        "Rank": 344,
         "NCTId": [
           "NCT04431453"
         ],
@@ -18454,7 +18016,7 @@
         ]
       },
       {
-        "Rank": 347,
+        "Rank": 345,
         "NCTId": [
           "NCT04318548"
         ],
@@ -18748,7 +18310,7 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 346,
         "NCTId": [
           "NCT04258943"
         ],
@@ -19115,7 +18677,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 347,
         "NCTId": [
           "NCT04203316"
         ],
@@ -19294,7 +18856,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 348,
         "NCTId": [
           "NCT04195399"
         ],
@@ -19983,7 +19545,7 @@
         ]
       },
       {
-        "Rank": 351,
+        "Rank": 349,
         "NCTId": [
           "NCT02205762"
         ],
@@ -20337,7 +19899,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 350,
         "NCTId": [
           "NCT02121132"
         ],
@@ -20515,7 +20077,401 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 351,
+        "NCTId": [
+          "NCT04816643"
+        ],
+        "OfficialTitle": [
+          "PHASE 1, OPEN-LABEL DOSE-FINDING STUDY TO EVALUATE SAFETY, TOLERABILITY, AND IMMUNOGENICITY AND PHASE 2/3 PLACEBO-CONTROLLED, OBSERVER-BLINDED SAFETY, TOLERABILITY, AND IMMUNOGENICITY STUDY OF A SARS-COV-2 RNA VACCINE CANDIDATE AGAINST COVID-19 IN HEALTHY CHILDREN AND YOUNG ADULTS"
+        ],
+        "Condition": [
+          "SARS-CoV-2 Infection, COVID-19"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria\n\nMale or female participants ≥6 months to <12 years of age, at the time of randomization, at Visit 1 for the dose-finding/selected-dose evaluation and for participants ≥12 to <18 years of age, at the time of randomization, at Visit 1 for the lower-dose evaluation. For the obtaining-serum-samples-for-potential-troponin I-testing portion of the study: Male or female participants between ≥5 and <16 years of age.\nParticipants' parent(s)/legal guardian(s) and participants, as age appropriate, who are willing and able to comply with all scheduled visits, treatment plan, laboratory tests, lifestyle considerations, and other study procedures.\n\nHealthy participants who are determined by medical history, physical examination, and clinical judgment of the investigator to be eligible for inclusion in the study.\n\nNote: Healthy participants with preexisting stable disease, defined as disease not requiring significant change in the therapy or hospitalization for worsening disease during the 6 weeks before enrollment, can be included.\n\nParticipants are expected to be available for the duration of the study and whose parent(s)/legal guardian can be contacted by telephone during study participation.\nNegative urine pregnancy test for female participants who are biologically capable of having children.\nFemale participant of childbearing potential or male participant able to father children who is willing to use a highly effective method of contraception as outlined in this protocol for at least 28 days after the last dose of study intervention if at risk of pregnancy with her/his partner; or female participant not of childbearing potential or male participant not able to father children.\nThe participant or participant's parent(s)/legal guardian is capable of giving signed informed consent, which includes compliance with the requirements and restrictions listed in the ICD and in this protocol. Depending on the age of the participant and according to local requirements, participants will also be asked to provide assent as appropriate (verbal or written).\n\nExclusion Criteria\n\nPhase 1 only: Past clinical (based on COVID-19 symptoms/signs alone, if a SARS CoV 2 NAAT result was not available) or microbiological (based on COVID-19 symptoms/signs and a positive SARS-CoV-2 NAAT result) diagnosis of COVID 19.\nPhase 1 only: Known infection with HIV, HCV, or HBV.\nReceipt of medications intended to prevent COVID-19.\nPrevious or current diagnosis of MIS-C.\nOther medical or psychiatric condition including recent (within the past year) or active suicidal ideation/behavior or laboratory abnormality that may increase the risk of study participation or, in the investigator's judgment, make the participant inappropriate for the study. Note: This includes both conditions that may increase the risk associated with study intervention administration or a condition that may interfere with the interpretation of study results\nHistory of severe adverse reaction associated with a vaccine and/or severe allergic reaction (eg, anaphylaxis) to any component of the study intervention(s).\nImmunocompromised individuals with known or suspected immunodeficiency, as determined by history and/or laboratory/physical examination.\nIndividuals with a history of autoimmune disease or an active autoimmune disease requiring therapeutic intervention, including but not limited to systemic lupus erythematosus. Note: Stable type 1 diabetes and hypothyroidism are permitted.\nBleeding diathesis or condition associated with prolonged bleeding that would, in the opinion of the investigator, contraindicate intramuscular injection.\nFemale who is pregnant or breastfeeding.\nPrevious vaccination with any coronavirus vaccine.\nIndividuals who receive treatment with immunosuppressive therapy, including cytotoxic agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or planned receipt throughout the study. If systemic corticosteroids have been administered short term (<14 days) for treatment of an acute illness, participants should not be enrolled into the study until corticosteroid therapy has been discontinued for at least 28 days before study intervention administration. Inhaled/nebulized, intra-articular, intrabursal, or topical (skin or eyes) corticosteroids are permitted.\nReceipt of blood/plasma products, immunoglobulin, or monoclonal antibodies, from 60 days before study intervention administration, or receipt of any passive antibody therapy specific to COVID-19 from 90 days before study intervention administration, or planned receipt throughout the study.\nParticipation in other studies involving study intervention within 28 days prior to study entry and/or during study participation.\nPrevious participation in other studies involving study intervention containing LNPs.\nParticipants who are direct descendants (child or grandchild) of investigational site staff members or Pfizer/BioNTech employees directly involved in the conduct of the study, site staff otherwise supervised by the investigator, and their respective family members."
+        ],
+        "MinimumAge": [
+          "6 Months"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Oakland",
+          "Palo Alto",
+          "Paramount",
+          "Paramount",
+          "Rolling Hills Estates",
+          "Sacramento",
+          "Santa Clara",
+          "Valley Village",
+          "Aurora",
+          "New Haven",
+          "Washington",
+          "Miami",
+          "Orlando",
+          "Atlanta",
+          "Atlanta",
+          "Atlanta",
+          "Atlanta",
+          "Macon",
+          "Idaho Falls",
+          "Meridian",
+          "Newton",
+          "Wichita",
+          "Bardstown",
+          "Louisville",
+          "New Orleans",
+          "Shreveport",
+          "Baltimore",
+          "Boston",
+          "Chesterfield",
+          "Kansas City",
+          "Hastings",
+          "Omaha",
+          "Omaha",
+          "New Brunswick",
+          "Binghamton",
+          "Commack",
+          "East Setauket",
+          "Rochester",
+          "Rochester",
+          "Stony Brook",
+          "Syracuse",
+          "Durham",
+          "Durham",
+          "Cincinnati",
+          "Cincinnati",
+          "Columbus",
+          "Dayton",
+          "South Euclid",
+          "Erie",
+          "Warwick",
+          "Memphis",
+          "Nashville",
+          "Austin",
+          "Corpus Christi",
+          "Houston",
+          "Houston",
+          "Houston",
+          "Houston",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Charlottesville",
+          "Charlottesville",
+          "Midlothian",
+          "Seattle",
+          "Tampere",
+          "Oulu",
+          "Helsinki",
+          "Espoo",
+          "Helsinki",
+          "Helsinki",
+          "Jarvenpaa",
+          "Kokkola",
+          "Pori",
+          "Seinajoki",
+          "Turku",
+          "Bydgoszcz",
+          "Krakow",
+          "Lodz",
+          "Lodz",
+          "Lubon",
+          "Siemianowice Slaskie",
+          "Torun",
+          "Warszawa",
+          "Santiago de Compostela",
+          "Centelles",
+          "Esplugues De Llobregrat",
+          "Sant Cugat del Valles",
+          "Boadilla del Monte",
+          "Antequera",
+          "Malaga",
+          "Madrid",
+          "Mostoles",
+          "Sevilla"
+        ],
+        "LocationFacility": [
+          "University of Alabama at Birmingham - School of Medicine",
+          "Kaiser Permanente Oakland",
+          "Clinical & Translational Research Unit (CTRU) & Spectrum BioBank, Stanford University",
+          "Center for Clinical Trials, LLC",
+          "Center for Clinical Trials",
+          "Peninsula Research Associates",
+          "Kaiser Permanente Sacramento",
+          "Kaiser Permanente Santa Clara",
+          "Bayview Research Group, LLC",
+          "Children's Hospital Colorado",
+          "Yale Center for Clinical Investigation",
+          "Children's National Medical Center",
+          "Acevedo Clinical Research Associates",
+          "Clinical Neuroscience Solutions",
+          "Emory Children's Center Illness POD",
+          "Emory Clinic Investigational Drug Services",
+          "Emory University School of Medicine",
+          "Atlanta Center for Medical Research",
+          "Meridian Clinical Research, LLC",
+          "Clinical Research Prime",
+          "Solaris Clinical Research",
+          "Alliance for Multispecialty Research, LLC",
+          "Alliance for Multispecialty Research, LLC",
+          "Kentucky Pediatric/ Adult Research",
+          "Novak Center for Children's Health",
+          "Ochsner Clinic Foundation",
+          "Louisiana State University Health Sciences Shreveport",
+          "Center for Immunization Research Inpatient Unit",
+          "Boston Medical Center",
+          "Clinical Research Professionals",
+          "Children's Mercy Hospital",
+          "Meridian Clinical Research, LLC",
+          "Children's Hospital & Medical Center",
+          "Children's Physician's Clinic, Spring Valley",
+          "Rutgers University",
+          "Meridian Clinical Research, LLC",
+          "Advanced Specialty Care",
+          "Clinical Research Center",
+          "Rochester Clinical Research, Inc.",
+          "University of Rochester Medical Center",
+          "Stony Brook University",
+          "SUNY Upstate Medical University",
+          "Duke Vaccine and Trials Unit",
+          "Clinical Research Pickett Road",
+          "Cincinnati Children's Hospital Medical Center",
+          "Cincinnati Childrens Hospital Medical Center",
+          "Aventiv Research Inc.",
+          "PriMed Clinical Research",
+          "Senders Pediatrics",
+          "Allegheny Health and Wellness Pavilion",
+          "Velocity Clinical Research-Providence",
+          "St. Jude Children's Research Hospital",
+          "Clinical Research Associates Inc",
+          "ARC Clinical Research at Wilson Parke",
+          "Driscoll Children's Hospital",
+          "Van Tran Family Practice",
+          "Ventavia Research Group, LLC",
+          "Texas Children's Hospital - Clinical Research Center",
+          "West Houston Clinical Research Service",
+          "J. Lewis Research, Inc. / Foothill Family Clinic",
+          "J. Lewis Research, Inc. / Foothill Family Clinic South",
+          "Pediatric Associates of Charlottesville, PLC (Private Pediatric Practice)",
+          "Pediatric Research of Charlottesville, LLC",
+          "Virginia Research Center",
+          "Seattle Children's Hospital",
+          "Tampere Vaccine Research Clinic",
+          "Tampere university/ Oulu vaccine research clinic",
+          "Helsinki East Vaccine Research Clinic",
+          "Espoo Vaccine Research Clinic",
+          "Helsinki South Vaccine Research Clinic",
+          "MeVac, Meilahti Vaccine Research Center",
+          "Jarvenpaa Vaccine Research Center",
+          "Kokkola Vaccine Research Clinic",
+          "Pori Vaccine Research Clinic",
+          "Seinäjoki Vaccine Research Clinic",
+          "Turku Vaccine Research Clinic",
+          "IN VIVO Spolka z ograniczona odpowiedzialnoscia",
+          "Centrum Badań Klinicznych Jagiellońskie Centrum Innowacji sp. z o.o.",
+          "Osrodek Badan Klinicznych Appletreeclinics",
+          "GRAVITA Diagnostyka i Leczenie nieplodnosci",
+          "Rodzinne Centrum Medyczne LUBMED",
+          "Niepubliczny Zaklad Lecznictwa Ambulatoryjnego Michalkowice Jarosz i Partnerzy Spolka Lekarska",
+          "Nasz Lekarz Osrodek Badan Klinicznych",
+          "Provita 001",
+          "CHUS - Hospital Clinico Universitario",
+          "EAP Centelles",
+          "Hospital Sant Joan de Deu",
+          "Hospital Universitari General de Catalunya",
+          "Hospital Universitario HM Monteprincipe",
+          "Hospital de Antequera",
+          "Grupo Pediatrico Uncibay",
+          "Hospital Universitario 12 de Octubre",
+          "Hospital HM Puerta del Sur",
+          "Instituto Hispalense de Pediatria"
+        ],
+        "LocationState": [
+          "Alabama",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "Colorado",
+          "Connecticut",
+          "District of Columbia",
+          "Florida",
+          "Florida",
+          "Georgia",
+          "Georgia",
+          "Georgia",
+          "Georgia",
+          "Georgia",
+          "Idaho",
+          "Idaho",
+          "Kansas",
+          "Kansas",
+          "Kentucky",
+          "Kentucky",
+          "Louisiana",
+          "Louisiana",
+          "Maryland",
+          "Massachusetts",
+          "Missouri",
+          "Missouri",
+          "Nebraska",
+          "Nebraska",
+          "Nebraska",
+          "New Jersey",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "New York",
+          "North Carolina",
+          "North Carolina",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Pennsylvania",
+          "Rhode Island",
+          "Tennessee",
+          "Tennessee",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Utah",
+          "Utah",
+          "Virginia",
+          "Virginia",
+          "Virginia",
+          "Washington",
+          "Pirkanmaa",
+          "Pohjois-pohjanmaa",
+          "Uusimaa",
+          "A Coruna",
+          "Barcelona",
+          "Barcelona",
+          "Barcelona",
+          "Madrid",
+          "Malaga",
+          "Málaga"
+        ],
+        "LocationZip": [
+          "35233",
+          "94611",
+          "94304",
+          "90723",
+          "90723",
+          "90274",
+          "95815",
+          "95051",
+          "91607",
+          "80045",
+          "06519",
+          "20010",
+          "33142",
+          "32801",
+          "30322",
+          "30322",
+          "30322",
+          "30331",
+          "31210",
+          "83404",
+          "83646",
+          "67114",
+          "67207",
+          "40004",
+          "40202",
+          "70121",
+          "71101",
+          "21224",
+          "02118",
+          "63005",
+          "64108",
+          "68901",
+          "68114",
+          "68117",
+          "08901",
+          "13901",
+          "11725",
+          "11733",
+          "14609",
+          "14642",
+          "11794",
+          "13210",
+          "27703",
+          "27705",
+          "45206",
+          "45229",
+          "43213",
+          "45419",
+          "44121",
+          "16506",
+          "02886",
+          "38105",
+          "37203",
+          "78726",
+          "78411",
+          "77008",
+          "77008",
+          "77030",
+          "77055",
+          "84109",
+          "84121",
+          "22902",
+          "22902",
+          "23114",
+          "98105",
+          "33100",
+          "90220",
+          "00930",
+          "02230",
+          "00100",
+          "00290",
+          "67100",
+          "28100",
+          "60100",
+          "20520",
+          "85-048",
+          "30-348",
+          "90-349",
+          "91-347",
+          "62-030",
+          "41-103",
+          "87-100",
+          "02-647",
+          "15706",
+          "08540",
+          "08950",
+          "08195",
+          "28660",
+          "29200",
+          "29015",
+          "28041",
+          "28938",
+          "41012"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "This is a Phase 1/2/3 study in healthy children and young adults.\n\nDependent upon safety and/or immunogenicity data generated during the course of this study, and the resulting assessment of benefit-risk, the safety, tolerability, and immunogenicity of BNT162b2 in participants <6 months of age may subsequently be evaluated."
+        ],
+        "DetailedDescription": [
+          "Phase 1 Dose-Finding\n\nIs the open-label dose-finding portion of the study that will evaluate safety, tolerability, and immunogenicity of BNT162b2 administered on a 2-dose (separated by approximately 21 days) schedule in up to 3 age groups (participants ≥5 to <12 years, ≥2 to <5 years, and ≥6 months to <2 years of age).\n\nDose finding is being initiated in this study in participants ≥5 to <12 years of age based on the acceptable blinded safety assessment of the 30-µg dose in 12- to 15-year-olds in the C4591001 study.\n\nThe purpose of Phase 1 is to identify preferred dose level(s) of BNT162b2 from up to 3 different dose levels in each age group.\n\nDependent upon safety and/or immunogenicity data generated during the course of this study, it is possible that dose levels may not be started, may be terminated early, and/or may be added with dose levels below the lowest stated dose.\n\nParticipants will have blood drawn prior to both Dose 1 and Dose 2 and 7 days after Dose 2 to assess for immunogenicity to determine the final BNT162b2 dose level for the Phase 2/3.\n\nPhase 1 Lower-Dose Evaluation\n\nIs the open-label lower-dose evaluation portion of the study that will evaluate the safety, tolerability, and immunogenicity of 10 µg BNT162b2 from 2 schedules in 2 age groups (participants 12 to <16 years and 16 to <18 years of age).\n\nThe purpose of the Phase 1 lower-dose evaluation is to evaluate the safety and immunogenicity of BNT162b2 from 2 different dose schedules in each age group: (1) 2 doses separated by approximately 21 days and (2) 2 doses separated by approximately 8 weeks.\n\nParticipants will have blood drawn prior to Dose 1, prior to Dose 2, 7 days after Dose 2, and 1 month after Dose 2 to assess immunogenicity to determine the selected BNT162b2 dose schedule for the Phase 2/3 lower-dose evaluation portion of the study. In addition, participants will have blood drawn at 6 and 12 months after Dose 2 to determine the persistence of the immune response.\n\nPhase 2/3 Selected-Dose\n\nIs the portion of the study that will evaluate the safety, tolerability, and immunogenicity of the selected dose level in each age group at the selected dose level from Phase 1 dose finding, with a total of approximately 6750 participants as an additional 2250 participants will be included to enlarge the size of the pediatric safety database. Participants will be randomized in a 2:1 ratio to receive active vaccine or placebo.\n\nApproximately 450 participants (300 in the active vaccine group and 150 in the placebo group) randomized in each age group in this phase will contribute to the immunobridging analysis at 1 month after Dose 2 and will contribute to the overall analysis of the persistence of immune response at 6 months after Dose 2. These participants will be enrolled from both US and EU sites to ensure this subset is representative of the whole study.\n\nFor the persistence time points of 12 and 24 months after Dose 2, approximately 70 participants from each age group in the original BNT162b2 group will have an immunogenicity blood draw in order to contribute to the analysis. All approximately 6750 participants will contribute to the VE analysis for conditional VE and asymptomatic infection. Efficacy will be evaluated within or across age groups in which immunobridging is successful, depending on accrual of a sufficient number of cases in those age groups.\n\nAt designated US sites, an additional optional whole blood sample of approximately 10 mL will be obtained prior to Dose 1 and at 7 days and 6 months after Dose 2 from up to approximately 60 participants ≥10 years of age. These samples will be used on an exploratory basis to investigate the postvaccination cell-mediated immune response at these time points.\n\nPhase 2/3 Lower-Dose Evaluation\n\nIs the open-label portion of the study that will evaluate the safety, tolerability, and immunogenicity of the selected dose schedule in each age group from the Phase 1 lower-dose evaluation, with a total of approximately 600 active participants.\n\nApproximately 300 active participants in each age group in this phase will contribute to the immunobridging analysis at 1 month after Dose 2 and the overall analysis of the persistence of immune response at 6 and 12 months after Dose 2.\n\nPhase 2/3 Obtaining Serum Samples for Potential Troponin I Testing\n\nIf testing of troponin I levels in individuals who did not receive BNT162b2 indicates that troponin I level could be a reliable indicator of potential subclinical myocarditis, obtaining serum samples for potential troponin I testing during the period of increased risk of clinical myocarditis may help characterize the absence/presence and frequency of subclinical myocarditis. To assess, an additional group of participants will be included: 5 to <12 years: 750 participants randomized 2:1 to receive BNT162b2 10 µg or placebo, and 500 participants 12 to <16 years of age: open-label receipt of BNT162b2 30 µg."
+        ]
+      },
+      {
+        "Rank": 352,
         "NCTId": [
           "NCT03939637"
         ],
@@ -20698,7 +20654,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 353,
         "NCTId": [
           "NCT03719339"
         ],
@@ -20864,7 +20820,7 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 354,
         "NCTId": [
           "NCT04743141"
         ],
@@ -20902,6 +20858,7 @@
           "Naples",
           "South Miami",
           "Tampa",
+          "West Palm Beach",
           "Atlanta",
           "Atlanta",
           "Brunswick",
@@ -20930,6 +20887,7 @@
           "Oklahoma City",
           "Philadelphia",
           "Greenville",
+          "Greer",
           "Nashville",
           "Bellaire",
           "Dallas",
@@ -20960,6 +20918,7 @@
           "Advanced Research for Health Improvement LLC",
           "AppleMed Research Group LLC",
           "ForCare Clinical Research",
+          "Premiere Research Institute at Palm Beach Neurology",
           "Children's Healthcare of Atlanta",
           "Rare Disease Research, LLC",
           "Pivotal Clinical Research Associates",
@@ -20988,6 +20947,7 @@
           "IPS Research",
           "The Children's Hospital of Philidelphia",
           "Tribe Clinical Research LLC",
+          "Premier Neurology",
           "Access Clinical Trials, Inc",
           "Houston Clinical Trials LLC",
           "Cedar Health Research",
@@ -21010,6 +20970,7 @@
           "Connecticut",
           "Connecticut",
           "District of Columbia",
+          "Florida",
           "Florida",
           "Florida",
           "Florida",
@@ -21046,6 +21007,7 @@
           "Oklahoma",
           "Pennsylvania",
           "South Carolina",
+          "South Carolina",
           "Tennessee",
           "Texas",
           "Texas",
@@ -21076,6 +21038,7 @@
           "34102",
           "33155",
           "33613",
+          "33407",
           "30329",
           "30329",
           "31520",
@@ -21104,6 +21067,7 @@
           "73106",
           "19104",
           "29607",
+          "29650",
           "37203",
           "77401",
           "75251",
@@ -21132,6 +21096,7 @@
           "yaneisy.ranero@arhiusa.com",
           "c26applemed@aol.com",
           "msturges@forcaremed.com",
+          "l.amodie@palmbeachneurology.com",
           "kerry.dibenardo@choa.org",
           "eduardo.sanabria@rarediseaseresearch.com",
           "wjohnson@pivotalcra.com",
@@ -21160,6 +21125,8 @@
           "kshort@ipsresearch.com",
           "marquezdeb@email.chop.edu",
           "nrobertson@tribe513.org",
+          "kwilliams@premier-neuro.com",
+          "amanda.p@premier-neuro.com",
           "dkolaski@accessclintrials.com",
           "jtimmons@houstonclintrials.com",
           "srishti.arora@cedarresearch.com",
@@ -21189,6 +21156,7 @@
           "Yaneisy Ranero",
           "Carlos Manano",
           "Misty Sturges",
+          "Lauren Amodie",
           "Kerry DiBenardo",
           "Eduardo Sanabria",
           "Willisha Johnson",
@@ -21217,6 +21185,8 @@
           "Kevin Short",
           "Blanca Marquez de Prado",
           "Natalie Robertson",
+          "Kim Williams",
+          "Amanda Philyaw",
           "Diane Kolaski",
           "Johnny Timmons",
           "Srishti Arora",
@@ -21246,6 +21216,7 @@
           "239-213-9200",
           "305-667-8434",
           "813-264-2155",
+          "561-296-3838",
           "404-785-2942",
           "678-883-6897",
           "770-376-7912",
@@ -21273,6 +21244,8 @@
           "937-912-4367",
           "405-235-8188",
           "864-372-3970",
+          "864-316-2587",
+          "864-209-5515",
           "615-320-6076",
           "713-527-8839",
           "214-253-8170",
@@ -21288,7 +21261,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 356,
+        "Rank": 355,
         "NCTId": [
           "NCT03633708"
         ],
@@ -21460,7 +21433,7 @@
         ]
       },
       {
-        "Rank": 357,
+        "Rank": 356,
         "NCTId": [
           "NCT05041712"
         ],
@@ -21548,7 +21521,7 @@
         ]
       },
       {
-        "Rank": 358,
+        "Rank": 357,
         "NCTId": [
           "NCT01987882"
         ],
@@ -21661,7 +21634,7 @@
         ]
       },
       {
-        "Rank": 359,
+        "Rank": 358,
         "NCTId": [
           "NCT00670735"
         ],
@@ -21816,7 +21789,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 360,
+        "Rank": 359,
         "NCTId": [
           "NCT02859896"
         ],
@@ -21972,7 +21945,7 @@
         ]
       },
       {
-        "Rank": 361,
+        "Rank": 360,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22065,7 +22038,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 362,
+        "Rank": 361,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22133,7 +22106,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 363,
+        "Rank": 362,
         "NCTId": [
           "NCT03707158"
         ],
@@ -22234,7 +22207,7 @@
         ]
       },
       {
-        "Rank": 364,
+        "Rank": 363,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22337,7 +22310,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 365,
+        "Rank": 364,
         "NCTId": [
           "NCT04614662"
         ],
@@ -22438,7 +22411,7 @@
         ]
       },
       {
-        "Rank": 366,
+        "Rank": 365,
         "NCTId": [
           "NCT03962894"
         ],
@@ -22530,7 +22503,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 367,
+        "Rank": 366,
         "NCTId": [
           "NCT05049330"
         ],
@@ -22666,7 +22639,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 368,
+        "Rank": 367,
         "NCTId": [
           "NCT03118986"
         ],
@@ -22757,7 +22730,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 369,
+        "Rank": 368,
         "NCTId": [
           "NCT03117751"
         ],
@@ -22855,7 +22828,7 @@
         ]
       },
       {
-        "Rank": 370,
+        "Rank": 369,
         "NCTId": [
           "NCT03837899"
         ],
@@ -22969,7 +22942,7 @@
         ]
       },
       {
-        "Rank": 371,
+        "Rank": 370,
         "NCTId": [
           "NCT01148550"
         ],
@@ -23183,7 +23156,7 @@
         ]
       },
       {
-        "Rank": 372,
+        "Rank": 371,
         "NCTId": [
           "NCT03813407"
         ],
@@ -23343,7 +23316,7 @@
         ]
       },
       {
-        "Rank": 373,
+        "Rank": 372,
         "NCTId": [
           "NCT03268421"
         ],
@@ -23440,7 +23413,7 @@
         ]
       },
       {
-        "Rank": 374,
+        "Rank": 373,
         "NCTId": [
           "NCT04068012"
         ],
@@ -23518,7 +23491,7 @@
         ]
       },
       {
-        "Rank": 375,
+        "Rank": 374,
         "NCTId": [
           "NCT02840409"
         ],
@@ -23656,7 +23629,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 376,
+        "Rank": 375,
         "NCTId": [
           "NCT03813238"
         ],
@@ -23960,7 +23933,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 377,
+        "Rank": 376,
         "NCTId": [
           "NCT02650401"
         ],
@@ -24136,7 +24109,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 378,
+        "Rank": 377,
         "NCTId": [
           "NCT03785405"
         ],
@@ -24453,7 +24426,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 379,
+        "Rank": 378,
         "NCTId": [
           "NCT04075266"
         ],
@@ -24576,7 +24549,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 380,
+        "Rank": 379,
         "NCTId": [
           "NCT05074420"
         ],
@@ -24728,7 +24701,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 381,
+        "Rank": 380,
         "NCTId": [
           "NCT04351893"
         ],
@@ -24828,7 +24801,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 381,
         "NCTId": [
           "NCT04218851"
         ],
@@ -25019,7 +24992,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 383,
+        "Rank": 382,
         "NCTId": [
           "NCT04200352"
         ],
@@ -25161,7 +25134,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 384,
+        "Rank": 383,
         "NCTId": [
           "NCT04015141"
         ],
@@ -25343,7 +25316,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 384,
         "NCTId": [
           "NCT05156398"
         ],
@@ -25557,7 +25530,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 386,
+        "Rank": 385,
         "NCTId": [
           "NCT02134301"
         ],
@@ -25648,7 +25621,7 @@
         ]
       },
       {
-        "Rank": 387,
+        "Rank": 386,
         "NCTId": [
           "NCT05059327"
         ],
@@ -25730,7 +25703,7 @@
         ]
       },
       {
-        "Rank": 388,
+        "Rank": 387,
         "NCTId": [
           "NCT01500551"
         ],
@@ -25793,6 +25766,7 @@
           "Charlotte",
           "Charlotte",
           "Cincinnati",
+          "Oklahoma City",
           "Portland",
           "Portland",
           "Philadelphia",
@@ -25932,6 +25906,7 @@
           "Levine Children's Specialty Center",
           "Atrium Health- Investigational Drug Services",
           "Cincinnati Children's Hospital Medical Center",
+          "University of Oklahoma Health Sciences Center",
           "Legacy Emanuel Medical Center - Inpatient Pharmacy",
           "Randall Children's Hospital at Legacy Emanuel",
           "The Children's Hospital of Philadelphia",
@@ -26007,7 +25982,7 @@
           "FSBEI HE Saratov SMU n.a. V.I.Razumovskiy MoH RF",
           "State Budgetary Healthcare Institution of Samara Region \"Tolyatti City Clinical Hospital #5\"",
           "State Budgetary Healthcare Institution of Sverdlovsk Region",
-          "Narodny ustav detskych chorob",
+          "Narodny ustav detskych chorob, Detska klinika LF UK a NUDCH",
           "Detska Fakultna nemocnica Kosice",
           "Narodny ustav reumatickych chorob",
           "Panorama Medical Centre",
@@ -26071,6 +26046,7 @@
           "North Carolina",
           "North Carolina",
           "Ohio",
+          "Oklahoma",
           "Oregon",
           "Oregon",
           "Pennsylvania",
@@ -26157,6 +26133,7 @@
           "28203",
           "28207",
           "45229",
+          "73104",
           "97227",
           "97227",
           "19104",
@@ -26263,7 +26240,7 @@
         ]
       },
       {
-        "Rank": 389,
+        "Rank": 388,
         "NCTId": [
           "NCT04862221"
         ],
@@ -26468,7 +26445,7 @@
         ]
       },
       {
-        "Rank": 390,
+        "Rank": 389,
         "NCTId": [
           "NCT04114539"
         ],
@@ -26812,7 +26789,7 @@
         ]
       },
       {
-        "Rank": 391,
+        "Rank": 390,
         "NCTId": [
           "NCT03958877"
         ],
@@ -27052,7 +27029,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 392,
+        "Rank": 391,
         "NCTId": [
           "NCT04238819"
         ],
@@ -27171,7 +27148,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 393,
+        "Rank": 392,
         "NCTId": [
           "NCT03275402"
         ],
@@ -27255,7 +27232,7 @@
         ]
       },
       {
-        "Rank": 394,
+        "Rank": 393,
         "NCTId": [
           "NCT03406507"
         ],
@@ -27311,7 +27288,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 395,
+        "Rank": 394,
         "NCTId": [
           "NCT02862132"
         ],
@@ -27434,7 +27411,7 @@
         ]
       },
       {
-        "Rank": 396,
+        "Rank": 395,
         "NCTId": [
           "NCT00903110"
         ],
@@ -27573,7 +27550,7 @@
         ]
       },
       {
-        "Rank": 397,
+        "Rank": 396,
         "NCTId": [
           "NCT05081180"
         ],
@@ -27649,7 +27626,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 398,
+        "Rank": 397,
         "NCTId": [
           "NCT04236414"
         ],
@@ -27789,7 +27766,7 @@
         ]
       },
       {
-        "Rank": 399,
+        "Rank": 398,
         "NCTId": [
           "NCT04143724"
         ],
