@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.05",
-    "DataVrs": "2022:03:10 23:05:15.115",
+    "DataVrs": "2022:03:13 23:05:33.643",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 407403,
-    "NStudiesFound": 398,
+    "NStudiesAvail": 407561,
+    "NStudiesFound": 399,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 398,
+    "NStudiesReturned": 399,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -2599,6 +2599,54 @@
       {
         "Rank": 49,
         "NCTId": [
+          "NCT04986631"
+        ],
+        "OfficialTitle": [
+          "Pharmacokinetics and Pharmacodynamics of Topiramate for Weight Loss in Youth: PHARMATOP"
+        ],
+        "Condition": [
+          "Obesity, Childhood"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nBody mass index (BMI) </= 1.2 times the 95th percentile (age and sex-adjusted) and/or BMI >/= 35 kg/m2\nAges 12 to < 18 years old\nDeemed appropriate candidates to receive topiramate (without contraindications) for weight loss by an obesity medicine specialist at the University of Minnesota\n\nExclusion Criteria:\n\nHistory of metabolic/bariatric surgery\nObesity associated with a diagnosed genetic disorder (i.e. monogenic obesity, Prader-Willi, Bardet-Biedl syndrome)\nClinically diagnosed hyperthyroidism or uncontrolled hypothyroidism as determined by local medical monitor (who is a board certified endocrinologist)\nHistory of glaucoma\nHistory of nephrolithiasis\nHistory of seizures (aside from febrile seizures)\nMajor psychiatric disorder as determined by local medical monitor\nHistory of bulimia nervosa or anorexia nervosa\nHistory of suicide attempt within the last year\nCurrent or recent (< 6 months prior to enrollment) use of anti-obesity medication(s) defined as orlistat, phentermine, topiramate, combination phentermine/topiramate, liraglutide (or other glucagon-like peptide (GLP1-RA)), and/or combination naltrexone/bupropion (monotherapy use of naltrexone or bupropion is not an exclusion)\nCurrent or recent (< 6 months prior to enrollment) use of medication(s) associated with weight gain (e.g. oral steroids, anti-psychotics), unless participant has been on stable doses of such medication(s) for ≥ 6 months\nCurrent or recent (< 6 months prior to enrollment) use of stimulant medications, unless participant has been on stable doses of such medication for ≥ 6 months\nBaseline bicarbonate < 18 mmol/L\nBaseline creatinine > 1.2 mg/dL\nFemales: pregnant, planning to become pregnant, or, if sexually active, unwilling to use 2+ acceptable contraceptive methods during the study period"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Minneapolis"
+        ],
+        "LocationFacility": [
+          "University of Minnesota"
+        ],
+        "LocationState": [
+          "Minnesota"
+        ],
+        "LocationZip": [
+          "55455"
+        ],
+        "LocationContactEMail": [
+          "bombe002@umn.edu"
+        ],
+        "LocationContactName": [
+          "Eric Bomberg"
+        ],
+        "LocationContactPhone": [
+          "612-301-2563"
+        ],
+        "BriefSummary": [
+          "Pediatric severe obesity is the fastest growing obesity category in the United States, and anti-obesity pharmacotherapies are promising adjuncts to lifestyle modification (LSM) for the treatment of this disease. While anti-obesity pharmacotherapies have overall been associated with mean weight loss, there is substantial variability in their individual-level effectiveness. While some patients lose a significant amount of weight with anti-obesity pharmacotherapies, others lose little or even gain weight.\n\nDue to this well-recognized variability in individual-level response, the National Institutes of Health (NIH) has recognized the importance of using precision medicine approaches in order to optimize treatments for pediatric severe obesity. Pharmacometrics, which uses mathematical models to study medication dose-exposure (i.e. blood drug concentrations)-response relationships, is an emerging science that can help determine optimal dosing regimens based upon patient-specific characteristics. Pharmacometrics quantitates the interplay between pharmacokinetics (PK; drug dose-exposure associations) and pharmacodynamics (PD; drug exposure-response associations). Population PK (popPK), a type of PK, can be used to quantitate variability in drug exposure among individuals in order to help inform recommendations on therapeutic individualization (e.g. through tailored dosing). In this study, investigators will use popPK/PD modeling to characterize associations between anti-obesity pharmacotherapy dose, exposure, and changes in weight and weight-related outcomes in youth with severe obesity.\n\nThis study will focus on topiramate because this medication is commonly prescribed for weight loss in youth with severe obesity and has been associated with highly variable individual-level effectiveness."
+        ],
+        "DetailedDescription": [
+          "The weight loss achieved with topiramate occurs through several purported mechanisms including reductions in appetite, food cravings, and binge eating, and adverse alterations in taste for carbonated beverages. It is hypothesized that some of the individual-level effectiveness of this medication on weight loss response is secondary to patient-specific differences in these factors. In a 3.5-month pragmatic-based prospective cohort study (n=65), the investigators will develop a popPK model using sparse sampling by drawing a series of topiramate concentration measures over time in order to begin determining patient-specific factors that contribute to topiramate exposure variability. The investigators will also identity associations between topiramate exposure, changes in eating behaviors, and weight loss outcomes through PD models using regression techniques. It is hypothesized that patient-specific characteristics (i.e. age, body mass index (BMI), and sex) will explain some variability in topiramate exposure in youth, and that higher topiramate exposure will be associated with greater improvements in weight loss response and eating behaviors among youth prescribed this medicine for the treatment of pediatric severe obesity."
+        ]
+      },
+      {
+        "Rank": 50,
+        "NCTId": [
           "NCT04978571"
         ],
         "OfficialTitle": [
@@ -2643,7 +2691,7 @@
         ]
       },
       {
-        "Rank": 50,
+        "Rank": 51,
         "NCTId": [
           "NCT04977830"
         ],
@@ -2688,7 +2736,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 51,
+        "Rank": 52,
         "NCTId": [
           "NCT04974307"
         ],
@@ -2737,7 +2785,7 @@
         ]
       },
       {
-        "Rank": 52,
+        "Rank": 53,
         "NCTId": [
           "NCT04959097"
         ],
@@ -2785,7 +2833,7 @@
         ]
       },
       {
-        "Rank": 53,
+        "Rank": 54,
         "NCTId": [
           "NCT04943848"
         ],
@@ -2838,7 +2886,7 @@
         ]
       },
       {
-        "Rank": 54,
+        "Rank": 55,
         "NCTId": [
           "NCT04941742"
         ],
@@ -2880,7 +2928,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 55,
+        "Rank": 56,
         "NCTId": [
           "NCT04931927"
         ],
@@ -2931,7 +2979,7 @@
         ]
       },
       {
-        "Rank": 56,
+        "Rank": 57,
         "NCTId": [
           "NCT04927286"
         ],
@@ -2977,7 +3025,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 57,
+        "Rank": 58,
         "NCTId": [
           "NCT04922983"
         ],
@@ -3030,7 +3078,7 @@
         ]
       },
       {
-        "Rank": 58,
+        "Rank": 59,
         "NCTId": [
           "NCT04896645"
         ],
@@ -3078,7 +3126,7 @@
         ]
       },
       {
-        "Rank": 59,
+        "Rank": 60,
         "NCTId": [
           "NCT04848532"
         ],
@@ -3133,7 +3181,7 @@
         ]
       },
       {
-        "Rank": 60,
+        "Rank": 61,
         "NCTId": [
           "NCT04845932"
         ],
@@ -3181,7 +3229,7 @@
         ]
       },
       {
-        "Rank": 61,
+        "Rank": 62,
         "NCTId": [
           "NCT04771338"
         ],
@@ -3234,7 +3282,7 @@
         ]
       },
       {
-        "Rank": 62,
+        "Rank": 63,
         "NCTId": [
           "NCT04768634"
         ],
@@ -3277,7 +3325,7 @@
         ]
       },
       {
-        "Rank": 63,
+        "Rank": 64,
         "NCTId": [
           "NCT04756427"
         ],
@@ -3323,7 +3371,7 @@
         ]
       },
       {
-        "Rank": 64,
+        "Rank": 65,
         "NCTId": [
           "NCT04752501"
         ],
@@ -3373,7 +3421,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 65,
+        "Rank": 66,
         "NCTId": [
           "NCT04752293"
         ],
@@ -3443,7 +3491,7 @@
         ]
       },
       {
-        "Rank": 66,
+        "Rank": 67,
         "NCTId": [
           "NCT04741139"
         ],
@@ -3491,7 +3539,7 @@
         ]
       },
       {
-        "Rank": 67,
+        "Rank": 68,
         "NCTId": [
           "NCT04738539"
         ],
@@ -3542,7 +3590,7 @@
         ]
       },
       {
-        "Rank": 68,
+        "Rank": 69,
         "NCTId": [
           "NCT04737460"
         ],
@@ -3591,7 +3639,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 69,
+        "Rank": 70,
         "NCTId": [
           "NCT04735874"
         ],
@@ -3640,7 +3688,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 70,
+        "Rank": 71,
         "NCTId": [
           "NCT04725305"
         ],
@@ -3702,7 +3750,7 @@
         ]
       },
       {
-        "Rank": 71,
+        "Rank": 72,
         "NCTId": [
           "NCT04706364"
         ],
@@ -3751,7 +3799,7 @@
         ]
       },
       {
-        "Rank": 72,
+        "Rank": 73,
         "NCTId": [
           "NCT04697966"
         ],
@@ -3795,7 +3843,7 @@
         ]
       },
       {
-        "Rank": 73,
+        "Rank": 74,
         "NCTId": [
           "NCT04688255"
         ],
@@ -3851,7 +3899,7 @@
         ]
       },
       {
-        "Rank": 74,
+        "Rank": 75,
         "NCTId": [
           "NCT04685343"
         ],
@@ -3897,7 +3945,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 75,
+        "Rank": 76,
         "NCTId": [
           "NCT04675567"
         ],
@@ -3948,7 +3996,7 @@
         ]
       },
       {
-        "Rank": 76,
+        "Rank": 77,
         "NCTId": [
           "NCT04671186"
         ],
@@ -3999,7 +4047,7 @@
         ]
       },
       {
-        "Rank": 77,
+        "Rank": 78,
         "NCTId": [
           "NCT04654260"
         ],
@@ -4056,7 +4104,7 @@
         ]
       },
       {
-        "Rank": 78,
+        "Rank": 79,
         "NCTId": [
           "NCT04639336"
         ],
@@ -4106,7 +4154,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 79,
+        "Rank": 80,
         "NCTId": [
           "NCT04638595"
         ],
@@ -4155,7 +4203,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 80,
+        "Rank": 81,
         "NCTId": [
           "NCT04637802"
         ],
@@ -4206,7 +4254,7 @@
         ]
       },
       {
-        "Rank": 81,
+        "Rank": 82,
         "NCTId": [
           "NCT04634643"
         ],
@@ -4255,7 +4303,7 @@
         ]
       },
       {
-        "Rank": 82,
+        "Rank": 83,
         "NCTId": [
           "NCT04569708"
         ],
@@ -4311,7 +4359,7 @@
         ]
       },
       {
-        "Rank": 83,
+        "Rank": 84,
         "NCTId": [
           "NCT04562688"
         ],
@@ -4359,7 +4407,7 @@
         ]
       },
       {
-        "Rank": 84,
+        "Rank": 85,
         "NCTId": [
           "NCT04540536"
         ],
@@ -4410,7 +4458,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 85,
+        "Rank": 86,
         "NCTId": [
           "NCT04537390"
         ],
@@ -4457,7 +4505,7 @@
         ]
       },
       {
-        "Rank": 86,
+        "Rank": 87,
         "NCTId": [
           "NCT04529707"
         ],
@@ -4505,7 +4553,7 @@
         ]
       },
       {
-        "Rank": 87,
+        "Rank": 88,
         "NCTId": [
           "NCT04526639"
         ],
@@ -4551,7 +4599,7 @@
         ]
       },
       {
-        "Rank": 88,
+        "Rank": 89,
         "NCTId": [
           "NCT04522778"
         ],
@@ -4603,7 +4651,7 @@
         ]
       },
       {
-        "Rank": 89,
+        "Rank": 90,
         "NCTId": [
           "NCT04518397"
         ],
@@ -4652,7 +4700,7 @@
         ]
       },
       {
-        "Rank": 90,
+        "Rank": 91,
         "NCTId": [
           "NCT04516694"
         ],
@@ -4700,7 +4748,7 @@
         ]
       },
       {
-        "Rank": 91,
+        "Rank": 92,
         "NCTId": [
           "NCT04516343"
         ],
@@ -4747,7 +4795,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 92,
+        "Rank": 93,
         "NCTId": [
           "NCT04485416"
         ],
@@ -4798,7 +4846,7 @@
         ]
       },
       {
-        "Rank": 93,
+        "Rank": 94,
         "NCTId": [
           "NCT04482556"
         ],
@@ -4847,7 +4895,7 @@
         ]
       },
       {
-        "Rank": 94,
+        "Rank": 95,
         "NCTId": [
           "NCT04481243"
         ],
@@ -4893,7 +4941,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 95,
+        "Rank": 96,
         "NCTId": [
           "NCT04472286"
         ],
@@ -4956,7 +5004,7 @@
         ]
       },
       {
-        "Rank": 96,
+        "Rank": 97,
         "NCTId": [
           "NCT04462861"
         ],
@@ -5003,7 +5051,7 @@
         ]
       },
       {
-        "Rank": 97,
+        "Rank": 98,
         "NCTId": [
           "NCT04446910"
         ],
@@ -5051,7 +5099,7 @@
         ]
       },
       {
-        "Rank": 98,
+        "Rank": 99,
         "NCTId": [
           "NCT04403633"
         ],
@@ -5099,7 +5147,7 @@
         ]
       },
       {
-        "Rank": 99,
+        "Rank": 100,
         "NCTId": [
           "NCT04398862"
         ],
@@ -5149,7 +5197,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 100,
+        "Rank": 101,
         "NCTId": [
           "NCT04390035"
         ],
@@ -5197,7 +5245,7 @@
         ]
       },
       {
-        "Rank": 101,
+        "Rank": 102,
         "NCTId": [
           "NCT04365556"
         ],
@@ -5249,7 +5297,7 @@
         ]
       },
       {
-        "Rank": 102,
+        "Rank": 103,
         "NCTId": [
           "NCT04360395"
         ],
@@ -5298,7 +5346,7 @@
         ]
       },
       {
-        "Rank": 103,
+        "Rank": 104,
         "NCTId": [
           "NCT04357132"
         ],
@@ -5349,7 +5397,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 104,
+        "Rank": 105,
         "NCTId": [
           "NCT04351958"
         ],
@@ -5397,7 +5445,7 @@
         ]
       },
       {
-        "Rank": 105,
+        "Rank": 106,
         "NCTId": [
           "NCT04351776"
         ],
@@ -5448,7 +5496,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 106,
+        "Rank": 107,
         "NCTId": [
           "NCT04342000"
         ],
@@ -5499,7 +5547,7 @@
         ]
       },
       {
-        "Rank": 107,
+        "Rank": 108,
         "NCTId": [
           "NCT04338048"
         ],
@@ -5539,7 +5587,7 @@
         ]
       },
       {
-        "Rank": 108,
+        "Rank": 109,
         "NCTId": [
           "NCT04325282"
         ],
@@ -5587,7 +5635,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 109,
+        "Rank": 110,
         "NCTId": [
           "NCT04322734"
         ],
@@ -5641,7 +5689,7 @@
         ]
       },
       {
-        "Rank": 110,
+        "Rank": 111,
         "NCTId": [
           "NCT04317521"
         ],
@@ -5689,7 +5737,7 @@
         ]
       },
       {
-        "Rank": 111,
+        "Rank": 112,
         "NCTId": [
           "NCT04314635"
         ],
@@ -5735,7 +5783,7 @@
         ]
       },
       {
-        "Rank": 112,
+        "Rank": 113,
         "NCTId": [
           "NCT04313192"
         ],
@@ -5787,7 +5835,7 @@
         ]
       },
       {
-        "Rank": 113,
+        "Rank": 114,
         "NCTId": [
           "NCT04312919"
         ],
@@ -5834,7 +5882,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 114,
+        "Rank": 115,
         "NCTId": [
           "NCT04309786"
         ],
@@ -5885,7 +5933,7 @@
         ]
       },
       {
-        "Rank": 115,
+        "Rank": 116,
         "NCTId": [
           "NCT04299191"
         ],
@@ -5933,7 +5981,7 @@
         ]
       },
       {
-        "Rank": 116,
+        "Rank": 117,
         "NCTId": [
           "NCT04298203"
         ],
@@ -5981,7 +6029,7 @@
         ]
       },
       {
-        "Rank": 117,
+        "Rank": 118,
         "NCTId": [
           "NCT04298099"
         ],
@@ -6029,7 +6077,7 @@
         ]
       },
       {
-        "Rank": 118,
+        "Rank": 119,
         "NCTId": [
           "NCT04290754"
         ],
@@ -6080,7 +6128,7 @@
         ]
       },
       {
-        "Rank": 119,
+        "Rank": 120,
         "NCTId": [
           "NCT04288206"
         ],
@@ -6125,7 +6173,7 @@
         ]
       },
       {
-        "Rank": 120,
+        "Rank": 121,
         "NCTId": [
           "NCT04285879"
         ],
@@ -6175,7 +6223,7 @@
         ]
       },
       {
-        "Rank": 121,
+        "Rank": 122,
         "NCTId": [
           "NCT04264143"
         ],
@@ -6229,7 +6277,7 @@
         ]
       },
       {
-        "Rank": 122,
+        "Rank": 123,
         "NCTId": [
           "NCT04250844"
         ],
@@ -6275,7 +6323,7 @@
         ]
       },
       {
-        "Rank": 123,
+        "Rank": 124,
         "NCTId": [
           "NCT04246112"
         ],
@@ -6325,7 +6373,7 @@
         ]
       },
       {
-        "Rank": 124,
+        "Rank": 125,
         "NCTId": [
           "NCT04242602"
         ],
@@ -6373,7 +6421,7 @@
         ]
       },
       {
-        "Rank": 125,
+        "Rank": 126,
         "NCTId": [
           "NCT04219995"
         ],
@@ -6422,7 +6470,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 126,
+        "Rank": 127,
         "NCTId": [
           "NCT04217694"
         ],
@@ -6472,7 +6520,7 @@
         ]
       },
       {
-        "Rank": 127,
+        "Rank": 128,
         "NCTId": [
           "NCT04211935"
         ],
@@ -6521,7 +6569,7 @@
         ]
       },
       {
-        "Rank": 128,
+        "Rank": 129,
         "NCTId": [
           "NCT04208256"
         ],
@@ -6573,7 +6621,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 129,
+        "Rank": 130,
         "NCTId": [
           "NCT04205604"
         ],
@@ -6617,7 +6665,7 @@
         ]
       },
       {
-        "Rank": 130,
+        "Rank": 131,
         "NCTId": [
           "NCT04201106"
         ],
@@ -6663,7 +6711,7 @@
         ]
       },
       {
-        "Rank": 131,
+        "Rank": 132,
         "NCTId": [
           "NCT04199247"
         ],
@@ -6716,7 +6764,7 @@
         ]
       },
       {
-        "Rank": 132,
+        "Rank": 133,
         "NCTId": [
           "NCT04190225"
         ],
@@ -6768,7 +6816,7 @@
         ]
       },
       {
-        "Rank": 133,
+        "Rank": 134,
         "NCTId": [
           "NCT04186429"
         ],
@@ -6818,7 +6866,7 @@
         ]
       },
       {
-        "Rank": 134,
+        "Rank": 135,
         "NCTId": [
           "NCT04180358"
         ],
@@ -6868,7 +6916,7 @@
         ]
       },
       {
-        "Rank": 135,
+        "Rank": 136,
         "NCTId": [
           "NCT04174001"
         ],
@@ -6914,7 +6962,7 @@
         ]
       },
       {
-        "Rank": 136,
+        "Rank": 137,
         "NCTId": [
           "NCT04166526"
         ],
@@ -6960,7 +7008,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 137,
+        "Rank": 138,
         "NCTId": [
           "NCT04164966"
         ],
@@ -7006,7 +7054,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 138,
+        "Rank": 139,
         "NCTId": [
           "NCT04158245"
         ],
@@ -7058,7 +7106,7 @@
         ]
       },
       {
-        "Rank": 139,
+        "Rank": 140,
         "NCTId": [
           "NCT04154865"
         ],
@@ -7106,7 +7154,7 @@
         ]
       },
       {
-        "Rank": 140,
+        "Rank": 141,
         "NCTId": [
           "NCT04153994"
         ],
@@ -7147,7 +7195,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 141,
+        "Rank": 142,
         "NCTId": [
           "NCT04148560"
         ],
@@ -7199,7 +7247,7 @@
         ]
       },
       {
-        "Rank": 142,
+        "Rank": 143,
         "NCTId": [
           "NCT04127331"
         ],
@@ -7245,7 +7293,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 143,
+        "Rank": 144,
         "NCTId": [
           "NCT04118712"
         ],
@@ -7290,7 +7338,7 @@
         ]
       },
       {
-        "Rank": 144,
+        "Rank": 145,
         "NCTId": [
           "NCT04111991"
         ],
@@ -7336,7 +7384,7 @@
         ]
       },
       {
-        "Rank": 145,
+        "Rank": 146,
         "NCTId": [
           "NCT04111471"
         ],
@@ -7376,7 +7424,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 146,
+        "Rank": 147,
         "NCTId": [
           "NCT04110730"
         ],
@@ -7425,7 +7473,7 @@
         ]
       },
       {
-        "Rank": 147,
+        "Rank": 148,
         "NCTId": [
           "NCT04108988"
         ],
@@ -7474,7 +7522,7 @@
         ]
       },
       {
-        "Rank": 148,
+        "Rank": 149,
         "NCTId": [
           "NCT04104841"
         ],
@@ -7525,7 +7573,7 @@
         ]
       },
       {
-        "Rank": 149,
+        "Rank": 150,
         "NCTId": [
           "NCT04099810"
         ],
@@ -7571,7 +7619,7 @@
         ]
       },
       {
-        "Rank": 150,
+        "Rank": 151,
         "NCTId": [
           "NCT04089332"
         ],
@@ -7619,7 +7667,7 @@
         ]
       },
       {
-        "Rank": 151,
+        "Rank": 152,
         "NCTId": [
           "NCT04060303"
         ],
@@ -7665,7 +7713,7 @@
         ]
       },
       {
-        "Rank": 152,
+        "Rank": 153,
         "NCTId": [
           "NCT04046562"
         ],
@@ -7715,7 +7763,7 @@
         ]
       },
       {
-        "Rank": 153,
+        "Rank": 154,
         "NCTId": [
           "NCT04039750"
         ],
@@ -7761,7 +7809,7 @@
         ]
       },
       {
-        "Rank": 154,
+        "Rank": 155,
         "NCTId": [
           "NCT04038684"
         ],
@@ -7816,7 +7864,7 @@
         ]
       },
       {
-        "Rank": 155,
+        "Rank": 156,
         "NCTId": [
           "NCT04032990"
         ],
@@ -7864,7 +7912,7 @@
         ]
       },
       {
-        "Rank": 156,
+        "Rank": 157,
         "NCTId": [
           "NCT04017975"
         ],
@@ -7913,7 +7961,7 @@
         ]
       },
       {
-        "Rank": 157,
+        "Rank": 158,
         "NCTId": [
           "NCT04003012"
         ],
@@ -7959,7 +8007,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 158,
+        "Rank": 159,
         "NCTId": [
           "NCT03995394"
         ],
@@ -8007,7 +8055,7 @@
         ]
       },
       {
-        "Rank": 159,
+        "Rank": 160,
         "NCTId": [
           "NCT03985020"
         ],
@@ -8051,7 +8099,7 @@
         ]
       },
       {
-        "Rank": 160,
+        "Rank": 161,
         "NCTId": [
           "NCT03961854"
         ],
@@ -8091,7 +8139,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 161,
+        "Rank": 162,
         "NCTId": [
           "NCT03961061"
         ],
@@ -8142,7 +8190,7 @@
         ]
       },
       {
-        "Rank": 162,
+        "Rank": 163,
         "NCTId": [
           "NCT03945747"
         ],
@@ -8200,7 +8248,7 @@
         ]
       },
       {
-        "Rank": 163,
+        "Rank": 164,
         "NCTId": [
           "NCT03942952"
         ],
@@ -8253,7 +8301,7 @@
         ]
       },
       {
-        "Rank": 164,
+        "Rank": 165,
         "NCTId": [
           "NCT03922451"
         ],
@@ -8295,7 +8343,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 165,
+        "Rank": 166,
         "NCTId": [
           "NCT03911388"
         ],
@@ -8378,7 +8426,7 @@
         ]
       },
       {
-        "Rank": 166,
+        "Rank": 167,
         "NCTId": [
           "NCT03905031"
         ],
@@ -8438,7 +8486,7 @@
         ]
       },
       {
-        "Rank": 167,
+        "Rank": 168,
         "NCTId": [
           "NCT03896867"
         ],
@@ -8484,7 +8532,7 @@
         ]
       },
       {
-        "Rank": 168,
+        "Rank": 169,
         "NCTId": [
           "NCT03882034"
         ],
@@ -8532,7 +8580,7 @@
         ]
       },
       {
-        "Rank": 169,
+        "Rank": 170,
         "NCTId": [
           "NCT03869749"
         ],
@@ -8581,7 +8629,7 @@
         ]
       },
       {
-        "Rank": 170,
+        "Rank": 171,
         "NCTId": [
           "NCT03866707"
         ],
@@ -8632,7 +8680,7 @@
         ]
       },
       {
-        "Rank": 171,
+        "Rank": 172,
         "NCTId": [
           "NCT03866460"
         ],
@@ -8679,7 +8727,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 172,
+        "Rank": 173,
         "NCTId": [
           "NCT03863288"
         ],
@@ -8728,7 +8776,7 @@
         ]
       },
       {
-        "Rank": 173,
+        "Rank": 174,
         "NCTId": [
           "NCT03860311"
         ],
@@ -8781,7 +8829,7 @@
         ]
       },
       {
-        "Rank": 174,
+        "Rank": 175,
         "NCTId": [
           "NCT03855553"
         ],
@@ -8835,7 +8883,7 @@
         ]
       },
       {
-        "Rank": 175,
+        "Rank": 176,
         "NCTId": [
           "NCT03825341"
         ],
@@ -8885,7 +8933,7 @@
         ]
       },
       {
-        "Rank": 176,
+        "Rank": 177,
         "NCTId": [
           "NCT03812159"
         ],
@@ -8936,7 +8984,7 @@
         ]
       },
       {
-        "Rank": 177,
+        "Rank": 178,
         "NCTId": [
           "NCT03795818"
         ],
@@ -8987,7 +9035,7 @@
         ]
       },
       {
-        "Rank": 178,
+        "Rank": 179,
         "NCTId": [
           "NCT03730194"
         ],
@@ -9040,7 +9088,7 @@
         ]
       },
       {
-        "Rank": 179,
+        "Rank": 180,
         "NCTId": [
           "NCT03729999"
         ],
@@ -9085,7 +9133,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 180,
+        "Rank": 181,
         "NCTId": [
           "NCT03721068"
         ],
@@ -9132,7 +9180,7 @@
         ]
       },
       {
-        "Rank": 181,
+        "Rank": 182,
         "NCTId": [
           "NCT03718234"
         ],
@@ -9184,7 +9232,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 182,
+        "Rank": 183,
         "NCTId": [
           "NCT03709472"
         ],
@@ -9237,7 +9285,7 @@
         ]
       },
       {
-        "Rank": 183,
+        "Rank": 184,
         "NCTId": [
           "NCT03709199"
         ],
@@ -9287,7 +9335,7 @@
         ]
       },
       {
-        "Rank": 184,
+        "Rank": 185,
         "NCTId": [
           "NCT03687008"
         ],
@@ -9336,7 +9384,7 @@
         ]
       },
       {
-        "Rank": 185,
+        "Rank": 186,
         "NCTId": [
           "NCT03675321"
         ],
@@ -9382,7 +9430,7 @@
         ]
       },
       {
-        "Rank": 186,
+        "Rank": 187,
         "NCTId": [
           "NCT03670849"
         ],
@@ -9430,7 +9478,7 @@
         ]
       },
       {
-        "Rank": 187,
+        "Rank": 188,
         "NCTId": [
           "NCT03665337"
         ],
@@ -9475,7 +9523,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 188,
+        "Rank": 189,
         "NCTId": [
           "NCT03653013"
         ],
@@ -9518,7 +9566,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 189,
+        "Rank": 190,
         "NCTId": [
           "NCT03648450"
         ],
@@ -9567,7 +9615,7 @@
         ]
       },
       {
-        "Rank": 190,
+        "Rank": 191,
         "NCTId": [
           "NCT03625011"
         ],
@@ -9619,7 +9667,7 @@
         ]
       },
       {
-        "Rank": 191,
+        "Rank": 192,
         "NCTId": [
           "NCT03584399"
         ],
@@ -9661,7 +9709,7 @@
         ]
       },
       {
-        "Rank": 192,
+        "Rank": 193,
         "NCTId": [
           "NCT03559036"
         ],
@@ -9706,7 +9754,7 @@
         ]
       },
       {
-        "Rank": 193,
+        "Rank": 194,
         "NCTId": [
           "NCT03555708"
         ],
@@ -9759,7 +9807,7 @@
         ]
       },
       {
-        "Rank": 194,
+        "Rank": 195,
         "NCTId": [
           "NCT03553875"
         ],
@@ -9808,7 +9856,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 195,
+        "Rank": 196,
         "NCTId": [
           "NCT03539783"
         ],
@@ -9860,7 +9908,7 @@
         ]
       },
       {
-        "Rank": 196,
+        "Rank": 197,
         "NCTId": [
           "NCT03530852"
         ],
@@ -9909,7 +9957,7 @@
         ]
       },
       {
-        "Rank": 197,
+        "Rank": 198,
         "NCTId": [
           "NCT03528109"
         ],
@@ -9973,7 +10021,7 @@
         ]
       },
       {
-        "Rank": 198,
+        "Rank": 199,
         "NCTId": [
           "NCT03500835"
         ],
@@ -10023,7 +10071,7 @@
         ]
       },
       {
-        "Rank": 199,
+        "Rank": 200,
         "NCTId": [
           "NCT03495388"
         ],
@@ -10076,7 +10124,7 @@
         ]
       },
       {
-        "Rank": 200,
+        "Rank": 201,
         "NCTId": [
           "NCT03492944"
         ],
@@ -10120,7 +10168,7 @@
         ]
       },
       {
-        "Rank": 201,
+        "Rank": 202,
         "NCTId": [
           "NCT03489434"
         ],
@@ -10164,7 +10212,7 @@
         ]
       },
       {
-        "Rank": 202,
+        "Rank": 203,
         "NCTId": [
           "NCT03472768"
         ],
@@ -10210,7 +10258,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 203,
+        "Rank": 204,
         "NCTId": [
           "NCT03467750"
         ],
@@ -10260,7 +10308,7 @@
         ]
       },
       {
-        "Rank": 204,
+        "Rank": 205,
         "NCTId": [
           "NCT03453541"
         ],
@@ -10319,7 +10367,7 @@
         ]
       },
       {
-        "Rank": 205,
+        "Rank": 206,
         "NCTId": [
           "NCT03451435"
         ],
@@ -10367,7 +10415,7 @@
         ]
       },
       {
-        "Rank": 206,
+        "Rank": 207,
         "NCTId": [
           "NCT03438656"
         ],
@@ -10416,7 +10464,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 207,
+        "Rank": 208,
         "NCTId": [
           "NCT03429114"
         ],
@@ -10464,7 +10512,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 208,
+        "Rank": 209,
         "NCTId": [
           "NCT03423940"
         ],
@@ -10516,7 +10564,7 @@
         ]
       },
       {
-        "Rank": 209,
+        "Rank": 210,
         "NCTId": [
           "NCT03419260"
         ],
@@ -10562,7 +10610,7 @@
         ]
       },
       {
-        "Rank": 210,
+        "Rank": 211,
         "NCTId": [
           "NCT03384134"
         ],
@@ -10613,7 +10661,7 @@
         ]
       },
       {
-        "Rank": 211,
+        "Rank": 212,
         "NCTId": [
           "NCT03363919"
         ],
@@ -10665,7 +10713,7 @@
         ]
       },
       {
-        "Rank": 212,
+        "Rank": 213,
         "NCTId": [
           "NCT03337594"
         ],
@@ -10717,7 +10765,7 @@
         ]
       },
       {
-        "Rank": 213,
+        "Rank": 214,
         "NCTId": [
           "NCT03334942"
         ],
@@ -10772,7 +10820,7 @@
         ]
       },
       {
-        "Rank": 214,
+        "Rank": 215,
         "NCTId": [
           "NCT03304574"
         ],
@@ -10827,7 +10875,7 @@
         ]
       },
       {
-        "Rank": 215,
+        "Rank": 216,
         "NCTId": [
           "NCT03297658"
         ],
@@ -10873,7 +10921,7 @@
         ]
       },
       {
-        "Rank": 216,
+        "Rank": 217,
         "NCTId": [
           "NCT03283033"
         ],
@@ -10920,48 +10968,6 @@
           "The investigators propose an efficacy study (i.e., do salad bars work under controlled conditions in naturalistic settings) to test whether introducing salad bars in elementary, middle, and high schools that have never had salad bars affects students' FV consumption and waste during lunch. A cluster randomized controlled trial will test new salad bars against controls for 6 wks, with/without an additional 4-wk marketing phase ."
         ],
         "DetailedDescription": []
-      },
-      {
-        "Rank": 217,
-        "NCTId": [
-          "NCT03266016"
-        ],
-        "OfficialTitle": [
-          "Identifying and Preventing Ventilator Induced Diaphragm Dysfunction in Children"
-        ],
-        "Condition": [
-          "Ventilation Therapy; Complications",
-          "Diaphragm Disease",
-          "Pediatric Respiratory Diseases"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nChildren > 1 month (>44 weeks CGA) and ≤ 18 years of age AND\nSupported on mechanical ventilation with pulmonary parenchymal disease (i.e., pneumonia, bronchiolitis, Pediatric Acute Respiratory Distress Syndrome (PARDS)) with Oxygen Saturation Index (OSI) ≥ 5 or Oxygenation Index (OI) ≥) AND\nWho are within 48 hours of initiation of invasive mechanical ventilation (allow for up to 72 hours for those transferred from another institution)\n\nExclusion Criteria:\n\nContraindications to use of an esophageal catheter (i.e. severe mucosal bleeding, nasal encephalocele, transphenoidal surgery) OR\nContraindications to use of RIP bands (i.e. omphalocele, chest immobilizer or cast) OR\nConditions precluding diaphragm ultrasound measurement (i.e. abdominal wall defects, pregnancy) OR\nConditions on enrollment that preclude conventional methods of weaning (i.e., status asthmaticus, severe lower airway obstruction, critical airway, intracranial hypertension, Extra Corporeal Life Support (ECLS), intubation for UAO, DNR, severe chronic respiratory failure, spinal cord injury above lumbar region, cyanotic heart disease (unrepaired or palliated)) OR\nPrimary Attending physician refuses (will be cleared with primary attending before approaching the patient)."
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Los Angeles"
-        ],
-        "LocationFacility": [
-          "Children's Hospital Los Angeles"
-        ],
-        "LocationState": [
-          "California"
-        ],
-        "LocationZip": [
-          "90027"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "This study is a Phase II controlled clinical trial that will obtain comprehensive, serial assessments of respiratory muscle strength and architecture to understand the evolution of ventilator-induced respiratory muscle weakness in critically ill children, and test whether a novel computer-based approach (Real-time Effort Driven ventilator management (REDvent)) can preserve respiratory muscle strength and reduce time on MV. REDvent offers systematic recommendations to reduce controlled ventilation during the acute phase of MV, and uses real-time measures from esophageal manometry to adjust supported ventilator pressures such that patient effort of breathing remains in a normal range during the ventilator weaning phase. This phase II clinical trial is expected to enroll 276 children with pulmonary parenchymal disease, anticipated to be ventilated > 48 hrs. Patients will be randomized to REDvent-acute vs. usual care for the acute phase of MV (interval from intubation to first spontaneous breathing trial (SBT)). Patients in either group who fail their first Spontaneous Breathing Trial (SBT), will also be randomized to REDvent-weaning vs. usual care for the weaning phase of MV (interval from first SBT to passing SBT). The primary clinical outcome is length of weaning (time from first SBT until successful passage of an SBT or extubation (whichever comes first)). Mechanistic outcomes surround multi-modal serial measures of respiratory muscle capacity (PiMax), load (resistance, compliance), effort (esophageal manometry), and architecture (ultrasound) throughout the course of MV. Upon completion, this study will provide important information on the pathogenesis and timing of respiratory muscle weakness during MV in children and whether this weakness can be mitigated by promoting more normal patient effort during MV via the use of REDvent. This will form the basis for a larger, Phase III multi-center study, powered for key clinical outcomes such as 28-day Ventilator Free Days."
-        ],
-        "DetailedDescription": [
-          "Study Aims:\n\nSA1: To determine if REDvent acute and/or weaning phase protocols can shorten the duration of weaning from MV (Primary outcome).\n\nSA2: To determine if changes to direct measures of respiratory muscle strength, load, effort, and architecture throughout the duration of MV are related to weaning outcomes.\n\nSA3: To determine if patient effort of breathing during both acute and weaning phases of MV is independently associated with the development of respiratory muscle weakness.\n\nStudy Design: Single-center randomized controlled trial (138 children per arm) using REDvent (intervention arm) as compared with usual care ventilator management including a standardized daily SBT (control arm). Acute phase randomization will occur upon study enrollment, and patients who fail the first SBT will undergo a weaning phase randomization. The investigators will obtain serial measurements of respiratory system capacity, load, effort of breathing, and diaphragm architecture throughout the course of MV.\n\nAcute Phase: The acute phase is defined as the time from intubation until the patient meets weaning criteria, passes the initial oxygenation test (decrease PEEP to 5 cmH2O and FiO2 to 0.5, maintains SpO2 > 90%), and undergoes a Spontaneous Breathing Trial (SBT).\n\nIntervention Arm (REDvent-acute): Patients will be managed with pressure control plus pressure support ventilation using a computerized decision support tool that will recommend changes to ventilator settings approximately every 4 hr (with or without a new blood gas). If the patient is spontaneously breathing, it will incorporate real-time measures of effort of breathing (esophageal manometry) to keep it in a target range.\nControl Arm (Control-acute): Ventilator management will be per usual care until the patient meets weaning criteria and passes the oxygenation test.\n\nWeaning Phase: The weaning phase is defined as the time from the first Spontaneous Breathing Trial (SBT) until the patient successfully passes an SBT or is extubated (whichever comes first). Patients who pass the initial SBT at the end of the acute phase will not undergo weaning phase randomization.\n\nIntervention Arm (REDvent-weaning): Patients will be managed in a pressure support/CPAP mode of ventilation with assessments or changes to the level of pressure support every 4 hours, targeting maintaining effort of breathing (esophageal manometry) in a normal range. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\nControl Arm (Control-weaning): Ventilator management will be per usual care. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\n\nAnalysis Plan and Sample Size Justification:\n\nAim 1: The primary outcome is weaning duration. Sample size has been determined to adequately power 3 separate comparative analyses: (a) REDvent-acute versus Acute Phase control (b) REDvent-weaning phase versus Weaning Phase control (c) REDvent both phases versus control both phases. Power is based on 2 planned methods for analysis: cox proportional hazard ratios for multivariable analysis and univariate analysis with an independent t-test using log transformation (as needed) to account for the expected distribution of weaning duration. For all three of the planned comparisons above, with the proposed sample size the investigators would be adequately powered (>0.8) to detect a difference in weaning duration of ≥ 1 day, or a hazard ratio of ≥ 1.4 between groups. The secondary outcomes are ventilator free days and extubation failure. Directly comparing control only patients to REDvent only patients, with an expected standard deviation for VFDs between 5 to 9 days, the investigators will be able to detect a 2-day change in VFDs between groups with a power between 0.35 and 0.82. Re-intubation rates are expected to be 10%, allowing the investigators to confirm that REDvent is not inferior to usual care in regards to re-intubation with a non-inferiority margin of 0.10 with a power of 0.8 and alpha of 0.05.\n\nAim 2: The primary outcome of this aim is weaning duration. For respiratory muscle strength the investigators will compare the first measured aPiMax (after resolution of the acute phase, before the first SBT), the trajectory and value of the daily aPiMax during the weaning phase prior to extubation, the lowest and highest measured aPiMax, and aPiMax on the day of extubation against weaning duration. For analysis, aPiMax will be dichotomized at 30 cmH2O, and weaning duration will be compared between patients with aPiMax > 30 versus ≤ 30 cmH2O using a t-test with or without log-transformation, or Mann-Whitney U test, depending on the distribution. From preliminary data, it is anticipated at least 35% of patients (n=84) will have aPiMax ≤ 30 cmH2O. Based on a similar power analysis as presented above, this would allow the investigators to determine whether low aPiMax is associated with a ≥ 1-day increase in weaning duration, with an alpha of 0.05 and power of 0.8. The investigators will perform identical analysis for ePiMax. Diaphragm Thickness analysis will compound daily ultrasound measures to detect the relative change in diaphragm thickness from study day 1 until passage of an SBT. The investigators will compare the change in thickness after resolution of the acute phase (on the day of the first SBT) against weaning duration, in a similar manner as proposed above for aPiMax. In addition to weaning duration, the investigators will also examine whether the respiratory measures taken just prior to or during each SBT are associated with the patient passing the SBT. For example with aPiMax and ePiMax, the investigators will examine if there is a dose response relationship between PiMax measured just before the SBT and the rate of passage of the subsequent SBT.\n\nAim 3: The primary outcome of this aim is aPiMax < 30 cmH2O.The analysis will focus on determining whether the degree of patient effort of breathing is independently associated with the development of respiratory muscle weakness. For the acute phase, the investigators will generate a time-weighted average PRP during the acute phase and graph it against aPiMax at the first SBT. They will subsequently dichotomize aPiMax at the first SBT and compare mean time weighted average PRP in the acute phase between aPiMax groups (> 30 vs. ≤ 30 cmH2O). For the weaning phase, the investigators will graph the changes in aPiMax throughout the weaning phase (from first failed SBT until successful SBT) against time-weighted average PRP, with the anticipation that low PRP will be associated with either further reductions in aPiMax, or no improvement, while PRP in the physiologic range of 150-400 will be associated with improvement in aPiMax. The investigators will subsequently dichotomize aPiMax (at 30 cm H2O) at the time of successful passage of an SBT and compare time-weighted average PRP in the weaning phase between aPiMax groups. Subsequently, the investigators will build a multivariable logistic regression model on the outcome of aPiMax ≤ 30 cmH2O to determine if time-weighted PRP in the acute phase, weaning phase or both have an independent association with preserving aPiMax, after controlling for confounding variables."
-        ]
       },
       {
         "Rank": 218,
@@ -15293,6 +15299,48 @@
       {
         "Rank": 307,
         "NCTId": [
+          "NCT03266016"
+        ],
+        "OfficialTitle": [
+          "Identifying and Preventing Ventilator Induced Diaphragm Dysfunction in Children"
+        ],
+        "Condition": [
+          "Ventilation Therapy; Complications",
+          "Diaphragm Disease",
+          "Pediatric Respiratory Diseases"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nChildren > 1 month (>44 weeks CGA) and ≤ 18 years of age AND\nSupported on mechanical ventilation with pulmonary parenchymal disease (i.e., pneumonia, bronchiolitis, Pediatric Acute Respiratory Distress Syndrome (PARDS)) with Oxygen Saturation Index (OSI) ≥ 5 or Oxygenation Index (OI) ≥) AND\nWho are within 48 hours of initiation of invasive mechanical ventilation (allow for up to 72 hours for those transferred from another institution)\n\nExclusion Criteria:\n\nContraindications to use of an esophageal catheter (i.e. severe mucosal bleeding, nasal encephalocele, transphenoidal surgery) OR\nContraindications to use of RIP bands (i.e. omphalocele, chest immobilizer or cast) OR\nConditions precluding diaphragm ultrasound measurement (i.e. abdominal wall defects, pregnancy) OR\nConditions on enrollment that preclude conventional methods of weaning (i.e., status asthmaticus, severe lower airway obstruction, critical airway, intracranial hypertension, Extra Corporeal Life Support (ECLS), intubation for UAO, DNR, severe chronic respiratory failure, spinal cord injury above lumbar region, cyanotic heart disease (unrepaired or palliated)) OR\nPrimary Attending physician refuses (will be cleared with primary attending before approaching the patient)."
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Los Angeles"
+        ],
+        "LocationFacility": [
+          "Children's Hospital Los Angeles"
+        ],
+        "LocationState": [
+          "California"
+        ],
+        "LocationZip": [
+          "90027"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "This study is a Phase II controlled clinical trial that will obtain comprehensive, serial assessments of respiratory muscle strength and architecture to understand the evolution of ventilator-induced respiratory muscle weakness in critically ill children, and test whether a novel computer-based approach (Real-time Effort Driven ventilator management (REDvent)) can preserve respiratory muscle strength and reduce time on MV. REDvent offers systematic recommendations to reduce controlled ventilation during the acute phase of MV, and uses real-time measures from esophageal manometry to adjust supported ventilator pressures such that patient effort of breathing remains in a normal range during the ventilator weaning phase. This phase II clinical trial is expected to enroll 276 children with pulmonary parenchymal disease, anticipated to be ventilated > 48 hrs. Patients will be randomized to REDvent-acute vs. usual care for the acute phase of MV (interval from intubation to first spontaneous breathing trial (SBT)). Patients in either group who fail their first Spontaneous Breathing Trial (SBT), will also be randomized to REDvent-weaning vs. usual care for the weaning phase of MV (interval from first SBT to passing SBT). The primary clinical outcome is length of weaning (time from first SBT until successful passage of an SBT or extubation (whichever comes first)). Mechanistic outcomes surround multi-modal serial measures of respiratory muscle capacity (PiMax), load (resistance, compliance), effort (esophageal manometry), and architecture (ultrasound) throughout the course of MV. Upon completion, this study will provide important information on the pathogenesis and timing of respiratory muscle weakness during MV in children and whether this weakness can be mitigated by promoting more normal patient effort during MV via the use of REDvent. This will form the basis for a larger, Phase III multi-center study, powered for key clinical outcomes such as 28-day Ventilator Free Days."
+        ],
+        "DetailedDescription": [
+          "Study Aims:\n\nSA1: To determine if REDvent acute and/or weaning phase protocols can shorten the duration of weaning from MV (Primary outcome).\n\nSA2: To determine if changes to direct measures of respiratory muscle strength, load, effort, and architecture throughout the duration of MV are related to weaning outcomes.\n\nSA3: To determine if patient effort of breathing during both acute and weaning phases of MV is independently associated with the development of respiratory muscle weakness.\n\nStudy Design: Single-center randomized controlled trial (138 children per arm) using REDvent (intervention arm) as compared with usual care ventilator management including a standardized daily SBT (control arm). Acute phase randomization will occur upon study enrollment, and patients who fail the first SBT will undergo a weaning phase randomization. The investigators will obtain serial measurements of respiratory system capacity, load, effort of breathing, and diaphragm architecture throughout the course of MV.\n\nAcute Phase: The acute phase is defined as the time from intubation until the patient meets weaning criteria, passes the initial oxygenation test (decrease PEEP to 5 cmH2O and FiO2 to 0.5, maintains SpO2 > 90%), and undergoes a Spontaneous Breathing Trial (SBT).\n\nIntervention Arm (REDvent-acute): Patients will be managed with pressure control plus pressure support ventilation using a computerized decision support tool that will recommend changes to ventilator settings approximately every 4 hr (with or without a new blood gas). If the patient is spontaneously breathing, it will incorporate real-time measures of effort of breathing (esophageal manometry) to keep it in a target range.\nControl Arm (Control-acute): Ventilator management will be per usual care until the patient meets weaning criteria and passes the oxygenation test.\n\nWeaning Phase: The weaning phase is defined as the time from the first Spontaneous Breathing Trial (SBT) until the patient successfully passes an SBT or is extubated (whichever comes first). Patients who pass the initial SBT at the end of the acute phase will not undergo weaning phase randomization.\n\nIntervention Arm (REDvent-weaning): Patients will be managed in a pressure support/CPAP mode of ventilation with assessments or changes to the level of pressure support every 4 hours, targeting maintaining effort of breathing (esophageal manometry) in a normal range. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\nControl Arm (Control-weaning): Ventilator management will be per usual care. An SBT will be conducted daily, and the weaning phase will continue until the patient passes the SBT.\n\nAnalysis Plan and Sample Size Justification:\n\nAim 1: The primary outcome is weaning duration. Sample size has been determined to adequately power 3 separate comparative analyses: (a) REDvent-acute versus Acute Phase control (b) REDvent-weaning phase versus Weaning Phase control (c) REDvent both phases versus control both phases. Power is based on 2 planned methods for analysis: cox proportional hazard ratios for multivariable analysis and univariate analysis with an independent t-test using log transformation (as needed) to account for the expected distribution of weaning duration. For all three of the planned comparisons above, with the proposed sample size the investigators would be adequately powered (>0.8) to detect a difference in weaning duration of ≥ 1 day, or a hazard ratio of ≥ 1.4 between groups. The secondary outcomes are ventilator free days and extubation failure. Directly comparing control only patients to REDvent only patients, with an expected standard deviation for VFDs between 5 to 9 days, the investigators will be able to detect a 2-day change in VFDs between groups with a power between 0.35 and 0.82. Re-intubation rates are expected to be 10%, allowing the investigators to confirm that REDvent is not inferior to usual care in regards to re-intubation with a non-inferiority margin of 0.10 with a power of 0.8 and alpha of 0.05.\n\nAim 2: The primary outcome of this aim is weaning duration. For respiratory muscle strength the investigators will compare the first measured aPiMax (after resolution of the acute phase, before the first SBT), the trajectory and value of the daily aPiMax during the weaning phase prior to extubation, the lowest and highest measured aPiMax, and aPiMax on the day of extubation against weaning duration. For analysis, aPiMax will be dichotomized at 30 cmH2O, and weaning duration will be compared between patients with aPiMax > 30 versus ≤ 30 cmH2O using a t-test with or without log-transformation, or Mann-Whitney U test, depending on the distribution. From preliminary data, it is anticipated at least 35% of patients (n=84) will have aPiMax ≤ 30 cmH2O. Based on a similar power analysis as presented above, this would allow the investigators to determine whether low aPiMax is associated with a ≥ 1-day increase in weaning duration, with an alpha of 0.05 and power of 0.8. The investigators will perform identical analysis for ePiMax. Diaphragm Thickness analysis will compound daily ultrasound measures to detect the relative change in diaphragm thickness from study day 1 until passage of an SBT. The investigators will compare the change in thickness after resolution of the acute phase (on the day of the first SBT) against weaning duration, in a similar manner as proposed above for aPiMax. In addition to weaning duration, the investigators will also examine whether the respiratory measures taken just prior to or during each SBT are associated with the patient passing the SBT. For example with aPiMax and ePiMax, the investigators will examine if there is a dose response relationship between PiMax measured just before the SBT and the rate of passage of the subsequent SBT.\n\nAim 3: The primary outcome of this aim is aPiMax < 30 cmH2O.The analysis will focus on determining whether the degree of patient effort of breathing is independently associated with the development of respiratory muscle weakness. For the acute phase, the investigators will generate a time-weighted average PRP during the acute phase and graph it against aPiMax at the first SBT. They will subsequently dichotomize aPiMax at the first SBT and compare mean time weighted average PRP in the acute phase between aPiMax groups (> 30 vs. ≤ 30 cmH2O). For the weaning phase, the investigators will graph the changes in aPiMax throughout the weaning phase (from first failed SBT until successful SBT) against time-weighted average PRP, with the anticipation that low PRP will be associated with either further reductions in aPiMax, or no improvement, while PRP in the physiologic range of 150-400 will be associated with improvement in aPiMax. The investigators will subsequently dichotomize aPiMax (at 30 cm H2O) at the time of successful passage of an SBT and compare time-weighted average PRP in the weaning phase between aPiMax groups. Subsequently, the investigators will build a multivariable logistic regression model on the outcome of aPiMax ≤ 30 cmH2O to determine if time-weighted PRP in the acute phase, weaning phase or both have an independent association with preserving aPiMax, after controlling for confounding variables."
+        ]
+      },
+      {
+        "Rank": 308,
+        "NCTId": [
           "NCT02420990"
         ],
         "OfficialTitle": [
@@ -15339,7 +15387,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 308,
+        "Rank": 309,
         "NCTId": [
           "NCT05124210"
         ],
@@ -15409,7 +15457,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 309,
+        "Rank": 310,
         "NCTId": [
           "NCT04582682"
         ],
@@ -15474,7 +15522,7 @@
         ]
       },
       {
-        "Rank": 310,
+        "Rank": 311,
         "NCTId": [
           "NCT04465370"
         ],
@@ -15532,7 +15580,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 311,
+        "Rank": 312,
         "NCTId": [
           "NCT02505165"
         ],
@@ -15597,7 +15645,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 313,
         "NCTId": [
           "NCT01142882"
         ],
@@ -15661,7 +15709,7 @@
         ]
       },
       {
-        "Rank": 313,
+        "Rank": 314,
         "NCTId": [
           "NCT04602728"
         ],
@@ -15711,7 +15759,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 315,
         "NCTId": [
           "NCT03657771"
         ],
@@ -15782,7 +15830,7 @@
         ]
       },
       {
-        "Rank": 315,
+        "Rank": 316,
         "NCTId": [
           "NCT04718441"
         ],
@@ -15847,7 +15895,7 @@
         ]
       },
       {
-        "Rank": 316,
+        "Rank": 317,
         "NCTId": [
           "NCT03412162"
         ],
@@ -15903,7 +15951,7 @@
         ]
       },
       {
-        "Rank": 317,
+        "Rank": 318,
         "NCTId": [
           "NCT04344899"
         ],
@@ -15964,7 +16012,7 @@
         ]
       },
       {
-        "Rank": 318,
+        "Rank": 319,
         "NCTId": [
           "NCT02260856"
         ],
@@ -16047,7 +16095,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 320,
         "NCTId": [
           "NCT04156347"
         ],
@@ -16099,7 +16147,7 @@
         ]
       },
       {
-        "Rank": 320,
+        "Rank": 321,
         "NCTId": [
           "NCT04998656"
         ],
@@ -16169,7 +16217,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 321,
+        "Rank": 322,
         "NCTId": [
           "NCT04625686"
         ],
@@ -16239,7 +16287,7 @@
         ]
       },
       {
-        "Rank": 322,
+        "Rank": 323,
         "NCTId": [
           "NCT04621331"
         ],
@@ -16296,7 +16344,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 323,
+        "Rank": 324,
         "NCTId": [
           "NCT04074265"
         ],
@@ -16380,7 +16428,7 @@
         ]
       },
       {
-        "Rank": 324,
+        "Rank": 325,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16449,7 +16497,7 @@
         ]
       },
       {
-        "Rank": 325,
+        "Rank": 326,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16463,10 +16511,10 @@
           "Musculoskeletal Pain"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nThe child has a diagnosis of Chronic widespread pain or Chronic primary musculoskeletal pain (other than orofacial) derived from ICD-11 (MG30.0; chronic primary pain is pain in 1 or more anatomic regions that persists for > 3 months, is associated with significant distress or functional disability and cannot be better explained by another chronic pain condition (e.g., arthritis, lupus)\nAge between 13-18 years\nModerate to Severe Functional Disability (FDI ≥13)\nEnglish proficiency (reading, speaking)\nModerate to severe average pain (VAS ≥30/100)\n\nExclusion Criteria:\n\nSignificant cognitive impairment (e.g., severe brain injury)\nClaustrophobia\nSignificant medical disease (e.g., systemic or central nervous system)\nSevere psychiatric or neurological conditions (e.g., eating disorder, psychosis)\nPregnancy\nMRI incompatibility (braces, pacemaker)\nWeight > 285 lbs.\nHistory of > 1 month opioid treatment."
+          "Inclusion Criteria:\n\nThe child has a diagnosis of Chronic widespread pain or Chronic primary musculoskeletal pain (other than orofacial) derived from ICD-11 (MG30.0; chronic primary pain is pain in 1 or more anatomic regions that persists for > 3 months, is associated with significant distress or functional disability and cannot be better explained by another chronic pain condition (e.g., arthritis, lupus)\nAge between 11-18 years\nModerate to Severe Functional Disability (FDI ≥13)\nEnglish proficiency (reading, speaking)\nModerate to severe average pain (VAS ≥30/100)\n\nExclusion Criteria:\n\nSignificant cognitive impairment (e.g., severe brain injury)\nClaustrophobia\nSignificant medical disease (e.g., systemic or central nervous system)\nSevere psychiatric or neurological conditions (e.g., eating disorder, psychosis)\nPregnancy\nMRI incompatibility (braces, pacemaker)\nWeight > 285 lbs.\nHistory of > 1 month opioid treatment."
         ],
         "MinimumAge": [
-          "13 Years"
+          "11 Years"
         ],
         "MaximumAge": [
           "18 Years"
@@ -16519,7 +16567,7 @@
         ]
       },
       {
-        "Rank": 326,
+        "Rank": 327,
         "NCTId": [
           "NCT02914405"
         ],
@@ -16590,7 +16638,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 327,
+        "Rank": 328,
         "NCTId": [
           "NCT02391324"
         ],
@@ -16652,7 +16700,7 @@
         ]
       },
       {
-        "Rank": 328,
+        "Rank": 329,
         "NCTId": [
           "NCT02134782"
         ],
@@ -16716,7 +16764,7 @@
         ]
       },
       {
-        "Rank": 329,
+        "Rank": 330,
         "NCTId": [
           "NCT04333823"
         ],
@@ -16783,60 +16831,6 @@
         "DetailedDescription": [
           "The ATTEMPT (Adolescent Type 1 diabetes Treatment with SGLT2i for hyperglycEMia & hyPerfilTration Trial) is designed to evaluate the impact of Dapagliflozin versus placebo in combination with insulin therapy. This trial will assess detailed renal mechanistic evaluations, with direct measurement of GFR, to understand the important physiologic impacts of SGLT2 inhibition on the early onset manifestations and progression of diabetes complications within this age group.\n\nFundamentally, the ATTEMPT trial will provide essential information in establishing a framework for this young cohort to evaluate key physiologic, mechanistic and metabolic outcomes."
         ]
-      },
-      {
-        "Rank": 330,
-        "NCTId": [
-          "NCT05112237"
-        ],
-        "OfficialTitle": [
-          "A Prospective and Retrospective Registry and Biomarker Study to Evaluate the Natural History of Pediatric Patients With Cardiomyopathy Due to MYBPC3 Mutations"
-        ],
-        "Condition": [
-          "Cardiomyopathy"
-        ],
-        "EligibilityCriteria": [
-          "Retrospective\n\nInclusion Criteria:\n\nData is available for patient <18 years of age.\nDocumented results of genotyping showing the presence of at least one pathogenic or likely pathogenic MYBPC3 mutation (heterozygous, homozygous, or compound heterozygous).\n\nExclusion Criteria:\n\nPatient received cardiac transplantation or died >10 years before study initiation.\n\nProspective\n\nInclusion Criteria:\n\nAge <18 at entry into the prospective study.\nDocumented results of genotyping identifying at least one pathogenic or likely pathogenic MYBPC3 mutation (heterozygous, homozygous, or compound heterozygous).\nInfants who are homozygous or compound heterozygous for the known pathogenic truncating MYBPC3 mutations are eligible.\nHeterozygous participants must have a diagnosis of Cardiomyopathy (CM: HCM, DCM, RCM, mixed CM, or LVNC.\n\nExclusion Criteria:\n\nConcurrent participation in an interventional clinical trial unless approved by the sponsor.\nSevere noncardiac disease is anticipated to significantly reduce life expectancy."
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Saint Louis",
-          "Bronx",
-          "Cincinnati",
-          "Middlefield",
-          "Pittsburgh"
-        ],
-        "LocationFacility": [
-          "St. Louis Children's Hospital",
-          "Montefiore Medical Center, Albert Einstein College of Medicine",
-          "Cincinnati Children's Hospital Medical Center",
-          "DDC Clinic Center for Special Needs Children",
-          "University of Pittsburgh Medical Center - Children's Hospital of Pittsburgh"
-        ],
-        "LocationState": [
-          "Missouri",
-          "New York",
-          "Ohio",
-          "Ohio",
-          "Pennsylvania"
-        ],
-        "LocationZip": [
-          "63110",
-          "10467",
-          "45229",
-          "44062",
-          "15224"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The objective of this study is to collect information on patients with cardiomyopathy (CM) due to mutations in the MYBPC3 gene, to evaluate their disease course, burden of illness, risk factors for this disease, and the quality of life (QoL). This study will also collect information on treatments, procedures and outcome in infants and children up to 18 yrs who have this mutation."
-        ],
-        "DetailedDescription": []
       },
       {
         "Rank": 331,
@@ -17123,11 +17117,9 @@
           "Mucopolysaccharidosis II"
         ],
         "EligibilityCriteria": [
-          "Key Inclusion Criteria:\n\nConfirmed diagnosis of MPS II\nCohort A: Participants aged 5 to 10 years with neuronopathic MPS II\nCohort B: Participants aged 2 to 18 years with non-neuronopathic MPS II, neuronopathic MPS II, or unknown phenotype\nCohort C: Participants aged ≥2 to <4 years with neuronopathic MPS II (this cohort can include participants ≥4 years of age if participant is a sibling of a participant ≥2 to <4 years of age)\nFor participants receiving intravenous iduronate 2-sulfatase (IDS) ERT, tolerated a minimum of 4 months of therapy during the period immediately prior to screening.\n\nKey Exclusion Criteria:\n\nUnstable or poorly controlled medical condition(s) or significant medical or psychological comorbidity or comorbidities that, in the opinion of the investigator, would interfere with safe participation in the trial or interpretation of study assessments\nUse of any CNS-targeted MPS II ERT within 3 months before study start for participants aged ≥5 years, and within 6 months before study start for participants aged <5 years.\nUse of IDS gene therapy or stem cell therapy at any time\nClinically significant thrombocytopenia, other clinically significant coagulation abnormality, or significant active bleeding, or required treatment with an anticoagulant or more than two antiplatelet agents\nContraindication for lumbar punctures\nHave a clinically significant history of stroke, status epilepticus, head trauma with loss of consciousness, or any CNS disease that is not MPS II-related within 1 year of screening\nHave had a ventriculoperitoneal (VP) shunt placed, or any other brain surgery, or have a clinically significant VP shunt malfunction within 30 days of screening\nHave any clinically significant CNS trauma or disorder that, in the opinion of the investigator, may interfere with assessment of study endpoints or make participation in the study unsafe"
+          "Key Inclusion Criteria:\n\nConfirmed diagnosis of MPS II\nCohort A: Participants aged ≥5 to ≤10 years with neuronopathic MPS II\nCohort B: Participants aged ≥1 to ≤18 years with non-neuronopathic MPS II, neuronopathic MPS II, or unknown phenotype\nCohort C: Participants aged <4 years with neuronopathic MPS II (this cohort can include participants ≥4 years of age if participant is a blood relative of a participant <4 years of age)\nCohort D: Participants aged ≤18 years with non-neuronopathic MPS II or neuronopathic MPS II with preexisting hepatomegaly who have never taken standard-of-care ERT\nCohort E: Participants aged ≥1 to ≤18 years who have completed at least 48 weeks in Study DNLI-E-0001\nFor participants receiving intravenous iduronate 2-sulfatase (IDS) ERT, tolerated a minimum of 4 months of therapy during the period immediately prior to screening.\n\nKey Exclusion Criteria:\n\nUnstable or poorly controlled medical condition(s) or significant medical or psychological comorbidity or comorbidities that, in the opinion of the investigator, would interfere with safe participation in the trial or interpretation of study assessments\nUse of any CNS-targeted MPS II ERT within 3 months before study start for participants aged ≥5 years, and within 6 months before study start for participants aged <5 years\nUse of IDS gene therapy or stem cell therapy at any time (except for participants in Cohort E)\nClinically significant thrombocytopenia, other clinically significant coagulation abnormality, or significant active bleeding, or required treatment with an anticoagulant or more than two antiplatelet agents\nContraindication for lumbar punctures\nHave a clinically significant history of stroke, status epilepticus, head trauma with loss of consciousness, or any CNS disease that is not MPS II-related within 1 year of screening\nHave had a ventriculoperitoneal (VP) shunt placed, or any other brain surgery, or have a clinically significant VP shunt malfunction within 30 days of screening\nHave any clinically significant CNS trauma or disorder that, in the opinion of the investigator, may interfere with assessment of study endpoints or make participation in the study unsafe"
         ],
-        "MinimumAge": [
-          "2 Years"
-        ],
+        "MinimumAge": [],
         "MaximumAge": [
           "18 Years"
         ],
@@ -17141,7 +17133,7 @@
         "LocationFacility": [
           "UCSF Benioff Children's Hospital",
           "Ann & Robert H. Lurie Children's Hospital of Chicago",
-          "UNC Children's Research Institue",
+          "UNC Children's Research Institute",
           "UPMC | Children's Hospital of Pittsburgh",
           "Erasmus Medical Center"
         ],
@@ -17162,34 +17154,37 @@
         "LocationContactEMail": [
           "esther.melton@ucsf.edu",
           "paul.harmatz@ucsf.edu",
-          "mkrasowski@luriechildrens.org",
+          "mpine@luriechildrens.org",
           "czhu@email.unc.edu",
           "muenzer@med.unc.edu",
           "kolardr@upmc.edu",
           "rajands@upmc.edu",
-          "j.hardon@erasmusmc.nl"
+          "j.hardon@erasmusmc.nl",
+          "t.heemskerk@erasmusmc.nl"
         ],
         "LocationContactName": [
           "Esther Melton",
           "Paul Harmatz, MD",
-          "Marian Krasowski",
+          "Madelaine Pine",
           "Barbara Burton, MD",
           "Chen Zhu",
           "Joseph Muenzer, MD",
           "Dawn Kolar",
           "Deepa Soundara Rajan, MD",
           "Jacqueline Hardon",
+          "Dorine Heemskerk",
           "Hannerieke van den Hout, MD"
         ],
         "LocationContactPhone": [
           "510-428-3885",
-          "312-227-8953",
+          "312-227-8952",
           "919-966-1447",
           "412-692-8343",
-          "0031-6-36115443"
+          "Email:",
+          "Email:"
         ],
         "BriefSummary": [
-          "This is a multicenter, multiregional, open-label study to assess the safety, pharmacokinetics (PK), and pharmacodynamics (PD) of DNL310, an investigational central nervous system (CNS)-penetrant enzyme replacement therapy (ERT), designed to treat both the peripheral and CNS manifestations of Mucopolysaccharidosis type II (MPS II; Hunter syndrome).\n\nThe study has three cohorts:Cohort A will enroll participants with neuronopathic MPS II aged 5 to 10 years; Cohort B will enroll participants with MPS II, either neuronopathic or non-neuronopathic, aged 2 to 18 years; and Cohort C will enroll participants with neuronopathic MPS II aged ≥2 and <4 (Cohort C can include nMPS II participants ≥4 if the participant is a sibling of a participant aged ≥2 and <4).\n\nParticipants, whose physicians feel they are deriving benefit, will have the opportunity to be reconsented into a safety extension for continued evaluation."
+          "This is a multicenter, multiregional, open-label study to assess the safety, pharmacokinetics (PK), and pharmacodynamics (PD) of DNL310, an investigational central nervous system (CNS)-penetrant enzyme replacement therapy (ERT), designed to treat both the peripheral and CNS manifestations of Mucopolysaccharidosis type II (MPS II; Hunter syndrome).\n\nParticipants, whose physicians feel they are deriving benefit, will have the opportunity to be reconsented into a safety extension and then an open-label extension for continued evaluation."
         ],
         "DetailedDescription": []
       },
@@ -24587,6 +24582,68 @@
       {
         "Rank": 379,
         "NCTId": [
+          "NCT05112237"
+        ],
+        "OfficialTitle": [
+          "A Prospective and Retrospective Registry and Biomarker Study to Evaluate the Natural History of Pediatric Patients With Cardiomyopathy Due to MYBPC3 Mutations"
+        ],
+        "Condition": [
+          "Cardiomyopathy"
+        ],
+        "EligibilityCriteria": [
+          "Retrospective\n\nInclusion Criteria:\n\nData is available for patient <18 years of age.\nDocumented results of genotyping showing the presence of at least one pathogenic or likely pathogenic MYBPC3 mutation (heterozygous, homozygous, or compound heterozygous).\n\nExclusion Criteria:\n\nPatient received cardiac transplantation or died >10 years before study initiation.\n\nProspective\n\nInclusion Criteria:\n\nAge <18 at entry into the prospective study.\nDocumented results of genotyping identifying at least one pathogenic or likely pathogenic MYBPC3 mutation (heterozygous, homozygous, or compound heterozygous).\nInfants who are homozygous or compound heterozygous for the known pathogenic truncating MYBPC3 mutations are eligible.\nHeterozygous participants must have a diagnosis of Cardiomyopathy (CM: HCM, DCM, RCM, mixed CM, or LVNC.\n\nExclusion Criteria:\n\nConcurrent participation in an interventional clinical trial unless approved by the sponsor.\nSevere noncardiac disease is anticipated to significantly reduce life expectancy."
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Aurora",
+          "Saint Louis",
+          "Bronx",
+          "New York",
+          "Cincinnati",
+          "Middlefield",
+          "Pittsburgh"
+        ],
+        "LocationFacility": [
+          "University of Colorado Hospital - Anschutz Medical Campus",
+          "St. Louis Children's Hospital",
+          "Montefiore Medical Center, Albert Einstein College of Medicine",
+          "Columbia University Irving Medical Center",
+          "Cincinnati Children's Hospital Medical Center",
+          "DDC Clinic Center for Special Needs Children",
+          "University of Pittsburgh Medical Center - Children's Hospital of Pittsburgh"
+        ],
+        "LocationState": [
+          "Colorado",
+          "Missouri",
+          "New York",
+          "New York",
+          "Ohio",
+          "Ohio",
+          "Pennsylvania"
+        ],
+        "LocationZip": [
+          "80045",
+          "63110",
+          "10467",
+          "10032",
+          "45229",
+          "44062",
+          "15224"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The objective of this study is to collect information on patients with cardiomyopathy (CM) due to mutations in the MYBPC3 gene, to evaluate their disease course, burden of illness, risk factors for this disease, and the quality of life (QoL). This study will also collect information on treatments, procedures and outcome in infants and children up to 18 yrs who have this mutation."
+        ],
+        "DetailedDescription": []
+      },
+      {
+        "Rank": 380,
+        "NCTId": [
           "NCT04075266"
         ],
         "OfficialTitle": [
@@ -24708,7 +24765,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 380,
+        "Rank": 381,
         "NCTId": [
           "NCT04351893"
         ],
@@ -24808,7 +24865,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 381,
+        "Rank": 382,
         "NCTId": [
           "NCT04218851"
         ],
@@ -24999,7 +25056,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 383,
         "NCTId": [
           "NCT04200352"
         ],
@@ -25141,7 +25198,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 383,
+        "Rank": 384,
         "NCTId": [
           "NCT05156398"
         ],
@@ -25355,7 +25412,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 384,
+        "Rank": 385,
         "NCTId": [
           "NCT04015141"
         ],
@@ -25537,7 +25594,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 386,
         "NCTId": [
           "NCT02134301"
         ],
@@ -25628,7 +25685,7 @@
         ]
       },
       {
-        "Rank": 386,
+        "Rank": 387,
         "NCTId": [
           "NCT05059327"
         ],
@@ -25710,7 +25767,7 @@
         ]
       },
       {
-        "Rank": 387,
+        "Rank": 388,
         "NCTId": [
           "NCT01500551"
         ],
@@ -26247,7 +26304,7 @@
         ]
       },
       {
-        "Rank": 388,
+        "Rank": 389,
         "NCTId": [
           "NCT04862221"
         ],
@@ -26452,7 +26509,7 @@
         ]
       },
       {
-        "Rank": 389,
+        "Rank": 390,
         "NCTId": [
           "NCT04114539"
         ],
@@ -26796,7 +26853,7 @@
         ]
       },
       {
-        "Rank": 390,
+        "Rank": 391,
         "NCTId": [
           "NCT03958877"
         ],
@@ -27036,7 +27093,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 391,
+        "Rank": 392,
         "NCTId": [
           "NCT04238819"
         ],
@@ -27155,7 +27212,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 392,
+        "Rank": 393,
         "NCTId": [
           "NCT03275402"
         ],
@@ -27239,7 +27296,7 @@
         ]
       },
       {
-        "Rank": 393,
+        "Rank": 394,
         "NCTId": [
           "NCT03406507"
         ],
@@ -27295,7 +27352,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 394,
+        "Rank": 395,
         "NCTId": [
           "NCT02862132"
         ],
@@ -27418,7 +27475,7 @@
         ]
       },
       {
-        "Rank": 395,
+        "Rank": 396,
         "NCTId": [
           "NCT00903110"
         ],
@@ -27557,7 +27614,7 @@
         ]
       },
       {
-        "Rank": 396,
+        "Rank": 397,
         "NCTId": [
           "NCT05081180"
         ],
@@ -27633,7 +27690,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 397,
+        "Rank": 398,
         "NCTId": [
           "NCT04236414"
         ],
@@ -27773,7 +27830,7 @@
         ]
       },
       {
-        "Rank": 398,
+        "Rank": 399,
         "NCTId": [
           "NCT04143724"
         ],
