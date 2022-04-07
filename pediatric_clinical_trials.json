@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.05",
-    "DataVrs": "2022:04:04 23:06:29.155",
+    "DataVrs": "2022:04:05 23:08:39.457",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 410156,
+    "NStudiesAvail": 410319,
     "NStudiesFound": 401,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -1805,7 +1805,7 @@
           "Mental Health"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nStudents will be identified by trained STRONG clinicians consistent with standard school procedures, which include teacher and other school staff referral, parent nomination, and clinician identification from other support services. Eligibility criteria include (1) newcomer status (students who have migrated to a new country) and (2) difficulties in functioning or coping as assessed by school staff (teacher, school-based clinician). Referral reasons may include general difficulties, academic performance, peer relationships, family relationships, physical problems, behavioral concerns, and/or appearance of affect, among others. The eligibility criteria are intentionally designed to be broad (i.e., not a strict clinical cutoff) with the purpose of supporting a range of refugee and immigrant children in need of support during resettlement.\n\nExclusion Criteria:\n\n-"
+          "Inclusion Criteria:\n\nnewcomer status (students who have migrated to a new country)\ndifficulties in functioning or coping as assessed by school staff (teacher, school-based clinician).\n\nExclusion Criteria:\n\nBorn in mainland United States"
         ],
         "MinimumAge": [
           "8 Years"
@@ -13924,55 +13924,6 @@
       {
         "Rank": 278,
         "NCTId": [
-          "NCT01383915"
-        ],
-        "OfficialTitle": [
-          "Characterizing the Clinical Risk State for Bipolar Disorder in Adolescents"
-        ],
-        "Condition": [
-          "Bipolar Disorder",
-          "Schizophrenia"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAge: 12-18 years;\nSex: male or female;\nRace/ethnicity: no restrictions;\nDefinite or suspected chart diagnosis of BP-II, BP-NOS, cyclothymia, MDD, depressive disorder NOS, dysthymia or mood disorder NOS, schizophrenifiorm disorder or psychotic disorder NOS;\nSubject and parent (if subject<18) willing and able to provide written, informed consent/assent.\n\nExclusion Criteria:\n\nEstimated Premorbid IQ < 70;\nMeets DSM-IV criteria for BP-I or schizophrenia, pervasive developmental disorder, autism spectrum disorders, current substance dependence;\nHistory of medical condition known to affect the brain;\ncurrent group home affiliation."
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Glen Oaks"
-        ],
-        "LocationFacility": [
-          "The Zucker Hillside Hospital, NSLIJ"
-        ],
-        "LocationState": [
-          "New York"
-        ],
-        "LocationZip": [
-          "11004"
-        ],
-        "LocationContactEMail": [
-          "ccorrell@northwell.edu"
-        ],
-        "LocationContactName": [
-          "Christoph U Correll, MD"
-        ],
-        "LocationContactPhone": [
-          "718-470-4812"
-        ],
-        "BriefSummary": [
-          "Aim: The purpose of the study is to characterize the at-risk phases preceding a first episode of bipolar disorder and of schizophrenia, and to identify clinical and biological predictors of the disease development.\n\nHypothesis a: Over 6-24 months, 25% of at-risk youth will develop the full manifestations of Bipolar Disorder (BPD) or schizophrenia.\n\nHypothesis b: The symptoms utilized for characterizing the at-risk phase of BPD will differentiate between individuals developing BPD and schizophrenia."
-        ],
-        "DetailedDescription": [
-          "Prospective, naturalistic, cohort study aiming to characterizing the bipolar and psychotic prodrome thoroughly with a variety of clinical and biological measures."
-        ]
-      },
-      {
-        "Rank": 279,
-        "NCTId": [
           "NCT01304875"
         ],
         "OfficialTitle": [
@@ -14015,7 +13966,7 @@
         ]
       },
       {
-        "Rank": 280,
+        "Rank": 279,
         "NCTId": [
           "NCT01285531"
         ],
@@ -14072,7 +14023,7 @@
         ]
       },
       {
-        "Rank": 281,
+        "Rank": 280,
         "NCTId": [
           "NCT01122095"
         ],
@@ -14125,7 +14076,7 @@
         ]
       },
       {
-        "Rank": 282,
+        "Rank": 281,
         "NCTId": [
           "NCT00906906"
         ],
@@ -14176,7 +14127,7 @@
         ]
       },
       {
-        "Rank": 283,
+        "Rank": 282,
         "NCTId": [
           "NCT00814853"
         ],
@@ -14223,7 +14174,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 283,
         "NCTId": [
           "NCT00792415"
         ],
@@ -14271,7 +14222,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 285,
+        "Rank": 284,
         "NCTId": [
           "NCT00745394"
         ],
@@ -14318,7 +14269,7 @@
         ]
       },
       {
-        "Rank": 286,
+        "Rank": 285,
         "NCTId": [
           "NCT00616317"
         ],
@@ -14356,7 +14307,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 287,
+        "Rank": 286,
         "NCTId": [
           "NCT00494572"
         ],
@@ -14406,7 +14357,7 @@
         ]
       },
       {
-        "Rank": 288,
+        "Rank": 287,
         "NCTId": [
           "NCT00491946"
         ],
@@ -14451,7 +14402,7 @@
         ]
       },
       {
-        "Rank": 289,
+        "Rank": 288,
         "NCTId": [
           "NCT00465699"
         ],
@@ -14495,7 +14446,7 @@
         ]
       },
       {
-        "Rank": 290,
+        "Rank": 289,
         "NCTId": [
           "NCT00320086"
         ],
@@ -14543,7 +14494,7 @@
         ]
       },
       {
-        "Rank": 291,
+        "Rank": 290,
         "NCTId": [
           "NCT00292513"
         ],
@@ -14588,7 +14539,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 292,
+        "Rank": 291,
         "NCTId": [
           "NCT00182572"
         ],
@@ -14632,7 +14583,7 @@
         ]
       },
       {
-        "Rank": 293,
+        "Rank": 292,
         "NCTId": [
           "NCT00036712"
         ],
@@ -14689,7 +14640,7 @@
         ]
       },
       {
-        "Rank": 294,
+        "Rank": 293,
         "NCTId": [
           "NCT00012506"
         ],
@@ -14737,7 +14688,7 @@
         ]
       },
       {
-        "Rank": 295,
+        "Rank": 294,
         "NCTId": [
           "NCT00000112"
         ],
@@ -14778,7 +14729,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 296,
+        "Rank": 295,
         "NCTId": [
           "NCT04815239"
         ],
@@ -14830,7 +14781,7 @@
         ]
       },
       {
-        "Rank": 297,
+        "Rank": 296,
         "NCTId": [
           "NCT04812028"
         ],
@@ -14878,7 +14829,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 297,
         "NCTId": [
           "NCT04810130"
         ],
@@ -14931,7 +14882,7 @@
         ]
       },
       {
-        "Rank": 299,
+        "Rank": 298,
         "NCTId": [
           "NCT04798482"
         ],
@@ -14980,7 +14931,7 @@
         ]
       },
       {
-        "Rank": 300,
+        "Rank": 299,
         "NCTId": [
           "NCT04797559"
         ],
@@ -15029,7 +14980,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 300,
         "NCTId": [
           "NCT04795674"
         ],
@@ -15081,7 +15032,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 301,
         "NCTId": [
           "NCT04788524"
         ],
@@ -15130,7 +15081,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 302,
         "NCTId": [
           "NCT04786977"
         ],
@@ -15177,7 +15128,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 304,
+        "Rank": 303,
         "NCTId": [
           "NCT04784455"
         ],
@@ -15221,7 +15172,7 @@
         ]
       },
       {
-        "Rank": 305,
+        "Rank": 304,
         "NCTId": [
           "NCT04783506"
         ],
@@ -15270,7 +15221,7 @@
         ]
       },
       {
-        "Rank": 306,
+        "Rank": 305,
         "NCTId": [
           "NCT04771338"
         ],
@@ -15323,7 +15274,7 @@
         ]
       },
       {
-        "Rank": 307,
+        "Rank": 306,
         "NCTId": [
           "NCT04768634"
         ],
@@ -15366,7 +15317,7 @@
         ]
       },
       {
-        "Rank": 308,
+        "Rank": 307,
         "NCTId": [
           "NCT04602325"
         ],
@@ -15418,7 +15369,7 @@
         ]
       },
       {
-        "Rank": 309,
+        "Rank": 308,
         "NCTId": [
           "NCT03266016"
         ],
@@ -15460,7 +15411,7 @@
         ]
       },
       {
-        "Rank": 310,
+        "Rank": 309,
         "NCTId": [
           "NCT02420990"
         ],
@@ -15508,7 +15459,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 311,
+        "Rank": 310,
         "NCTId": [
           "NCT05202418"
         ],
@@ -15566,7 +15517,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 311,
         "NCTId": [
           "NCT05124210"
         ],
@@ -15636,7 +15587,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 313,
+        "Rank": 312,
         "NCTId": [
           "NCT04582682"
         ],
@@ -15701,7 +15652,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 313,
         "NCTId": [
           "NCT04465370"
         ],
@@ -15759,7 +15710,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 315,
+        "Rank": 314,
         "NCTId": [
           "NCT02505165"
         ],
@@ -15824,7 +15775,7 @@
         ]
       },
       {
-        "Rank": 316,
+        "Rank": 315,
         "NCTId": [
           "NCT01142882"
         ],
@@ -15888,7 +15839,7 @@
         ]
       },
       {
-        "Rank": 317,
+        "Rank": 316,
         "NCTId": [
           "NCT04602728"
         ],
@@ -15938,7 +15889,7 @@
         ]
       },
       {
-        "Rank": 318,
+        "Rank": 317,
         "NCTId": [
           "NCT03657771"
         ],
@@ -16009,7 +15960,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 318,
         "NCTId": [
           "NCT03412162"
         ],
@@ -16065,7 +16016,7 @@
         ]
       },
       {
-        "Rank": 320,
+        "Rank": 319,
         "NCTId": [
           "NCT04344899"
         ],
@@ -16126,7 +16077,7 @@
         ]
       },
       {
-        "Rank": 321,
+        "Rank": 320,
         "NCTId": [
           "NCT02260856"
         ],
@@ -16209,7 +16160,7 @@
         ]
       },
       {
-        "Rank": 322,
+        "Rank": 321,
         "NCTId": [
           "NCT04156347"
         ],
@@ -16261,7 +16212,7 @@
         ]
       },
       {
-        "Rank": 323,
+        "Rank": 322,
         "NCTId": [
           "NCT04998656"
         ],
@@ -16331,7 +16282,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 324,
+        "Rank": 323,
         "NCTId": [
           "NCT04625686"
         ],
@@ -16401,7 +16352,7 @@
         ]
       },
       {
-        "Rank": 325,
+        "Rank": 324,
         "NCTId": [
           "NCT04621331"
         ],
@@ -16458,7 +16409,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 326,
+        "Rank": 325,
         "NCTId": [
           "NCT04074265"
         ],
@@ -16542,7 +16493,7 @@
         ]
       },
       {
-        "Rank": 327,
+        "Rank": 326,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16611,7 +16562,7 @@
         ]
       },
       {
-        "Rank": 328,
+        "Rank": 327,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16681,7 +16632,7 @@
         ]
       },
       {
-        "Rank": 329,
+        "Rank": 328,
         "NCTId": [
           "NCT02914405"
         ],
@@ -16752,7 +16703,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 330,
+        "Rank": 329,
         "NCTId": [
           "NCT02391324"
         ],
@@ -16814,7 +16765,7 @@
         ]
       },
       {
-        "Rank": 331,
+        "Rank": 330,
         "NCTId": [
           "NCT02134782"
         ],
@@ -16878,7 +16829,7 @@
         ]
       },
       {
-        "Rank": 332,
+        "Rank": 331,
         "NCTId": [
           "NCT04333823"
         ],
@@ -16947,7 +16898,7 @@
         ]
       },
       {
-        "Rank": 333,
+        "Rank": 332,
         "NCTId": [
           "NCT04903314"
         ],
@@ -17021,7 +16972,7 @@
         ]
       },
       {
-        "Rank": 334,
+        "Rank": 333,
         "NCTId": [
           "NCT03240809"
         ],
@@ -17079,7 +17030,7 @@
         ]
       },
       {
-        "Rank": 335,
+        "Rank": 334,
         "NCTId": [
           "NCT04718441"
         ],
@@ -17160,7 +17111,7 @@
         ]
       },
       {
-        "Rank": 336,
+        "Rank": 335,
         "NCTId": [
           "NCT04853316"
         ],
@@ -17237,7 +17188,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 336,
         "NCTId": [
           "NCT04251026"
         ],
@@ -17320,7 +17271,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 338,
+        "Rank": 337,
         "NCTId": [
           "NCT00005105"
         ],
@@ -17384,7 +17335,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 338,
         "NCTId": [
           "NCT04810481"
         ],
@@ -17458,7 +17409,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 339,
         "NCTId": [
           "NCT03505658"
         ],
@@ -17519,7 +17470,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 341,
+        "Rank": 340,
         "NCTId": [
           "NCT03989986"
         ],
@@ -17579,7 +17530,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 341,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17650,7 +17601,7 @@
         ]
       },
       {
-        "Rank": 343,
+        "Rank": 342,
         "NCTId": [
           "NCT05203198"
         ],
@@ -17759,7 +17710,7 @@
         ]
       },
       {
-        "Rank": 344,
+        "Rank": 343,
         "NCTId": [
           "NCT03910933"
         ],
@@ -17842,7 +17793,7 @@
         ]
       },
       {
-        "Rank": 345,
+        "Rank": 344,
         "NCTId": [
           "NCT04816643"
         ],
@@ -18280,7 +18231,7 @@
         ]
       },
       {
-        "Rank": 346,
+        "Rank": 345,
         "NCTId": [
           "NCT04442295"
         ],
@@ -18409,7 +18360,7 @@
         ]
       },
       {
-        "Rank": 347,
+        "Rank": 346,
         "NCTId": [
           "NCT04431453"
         ],
@@ -18580,7 +18531,7 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 347,
         "NCTId": [
           "NCT04318548"
         ],
@@ -18874,7 +18825,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 348,
         "NCTId": [
           "NCT04258943"
         ],
@@ -19241,7 +19192,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 349,
         "NCTId": [
           "NCT04203316"
         ],
@@ -19420,7 +19371,7 @@
         ]
       },
       {
-        "Rank": 351,
+        "Rank": 350,
         "NCTId": [
           "NCT04195399"
         ],
@@ -20117,7 +20068,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 351,
         "NCTId": [
           "NCT02205762"
         ],
@@ -20471,7 +20422,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 352,
         "NCTId": [
           "NCT02121132"
         ],
@@ -20649,7 +20600,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 353,
         "NCTId": [
           "NCT03939637"
         ],
@@ -20832,7 +20783,7 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 354,
         "NCTId": [
           "NCT03719339"
         ],
@@ -20998,7 +20949,7 @@
         ]
       },
       {
-        "Rank": 356,
+        "Rank": 355,
         "NCTId": [
           "NCT04743141"
         ],
@@ -21439,7 +21390,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 357,
+        "Rank": 356,
         "NCTId": [
           "NCT05041712"
         ],
@@ -21527,7 +21478,7 @@
         ]
       },
       {
-        "Rank": 358,
+        "Rank": 357,
         "NCTId": [
           "NCT01987882"
         ],
@@ -21640,7 +21591,7 @@
         ]
       },
       {
-        "Rank": 359,
+        "Rank": 358,
         "NCTId": [
           "NCT00670735"
         ],
@@ -21795,7 +21746,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 360,
+        "Rank": 359,
         "NCTId": [
           "NCT02859896"
         ],
@@ -21951,7 +21902,7 @@
         ]
       },
       {
-        "Rank": 361,
+        "Rank": 360,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22044,7 +21995,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 362,
+        "Rank": 361,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22112,7 +22063,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 363,
+        "Rank": 362,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22215,7 +22166,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 364,
+        "Rank": 363,
         "NCTId": [
           "NCT04614662"
         ],
@@ -22316,7 +22267,7 @@
         ]
       },
       {
-        "Rank": 365,
+        "Rank": 364,
         "NCTId": [
           "NCT03962894"
         ],
@@ -22408,7 +22359,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 366,
+        "Rank": 365,
         "NCTId": [
           "NCT05049330"
         ],
@@ -22544,7 +22495,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 367,
+        "Rank": 366,
         "NCTId": [
           "NCT03118986"
         ],
@@ -22641,7 +22592,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 368,
+        "Rank": 367,
         "NCTId": [
           "NCT03117751"
         ],
@@ -22739,7 +22690,7 @@
         ]
       },
       {
-        "Rank": 369,
+        "Rank": 368,
         "NCTId": [
           "NCT03837899"
         ],
@@ -22853,7 +22804,7 @@
         ]
       },
       {
-        "Rank": 370,
+        "Rank": 369,
         "NCTId": [
           "NCT01148550"
         ],
@@ -23067,7 +23018,7 @@
         ]
       },
       {
-        "Rank": 371,
+        "Rank": 370,
         "NCTId": [
           "NCT03633708"
         ],
@@ -23243,7 +23194,7 @@
         ]
       },
       {
-        "Rank": 372,
+        "Rank": 371,
         "NCTId": [
           "NCT03813407"
         ],
@@ -23403,7 +23354,7 @@
         ]
       },
       {
-        "Rank": 373,
+        "Rank": 372,
         "NCTId": [
           "NCT03268421"
         ],
@@ -23500,7 +23451,7 @@
         ]
       },
       {
-        "Rank": 374,
+        "Rank": 373,
         "NCTId": [
           "NCT04068012"
         ],
@@ -23578,7 +23529,7 @@
         ]
       },
       {
-        "Rank": 375,
+        "Rank": 374,
         "NCTId": [
           "NCT02840409"
         ],
@@ -23716,7 +23667,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 376,
+        "Rank": 375,
         "NCTId": [
           "NCT05074420"
         ],
@@ -23881,7 +23832,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 377,
+        "Rank": 376,
         "NCTId": [
           "NCT02650401"
         ],
@@ -24057,7 +24008,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 378,
+        "Rank": 377,
         "NCTId": [
           "NCT03813238"
         ],
@@ -24382,7 +24333,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 379,
+        "Rank": 378,
         "NCTId": [
           "NCT03785405"
         ],
@@ -24699,7 +24650,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 380,
+        "Rank": 379,
         "NCTId": [
           "NCT05112237"
         ],
@@ -24761,7 +24712,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 381,
+        "Rank": 380,
         "NCTId": [
           "NCT04075266"
         ],
@@ -24884,7 +24835,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 381,
         "NCTId": [
           "NCT04351893"
         ],
@@ -24984,7 +24935,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 383,
+        "Rank": 382,
         "NCTId": [
           "NCT04200352"
         ],
@@ -25126,7 +25077,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 384,
+        "Rank": 383,
         "NCTId": [
           "NCT05156398"
         ],
@@ -25340,7 +25291,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 384,
         "NCTId": [
           "NCT04015141"
         ],
@@ -25522,7 +25473,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 386,
+        "Rank": 385,
         "NCTId": [
           "NCT02134301"
         ],
@@ -25613,7 +25564,7 @@
         ]
       },
       {
-        "Rank": 387,
+        "Rank": 386,
         "NCTId": [
           "NCT05059327"
         ],
@@ -25695,7 +25646,7 @@
         ]
       },
       {
-        "Rank": 388,
+        "Rank": 387,
         "NCTId": [
           "NCT01500551"
         ],
@@ -26232,7 +26183,7 @@
         ]
       },
       {
-        "Rank": 389,
+        "Rank": 388,
         "NCTId": [
           "NCT04862221"
         ],
@@ -26437,7 +26388,7 @@
         ]
       },
       {
-        "Rank": 390,
+        "Rank": 389,
         "NCTId": [
           "NCT04649151"
         ],
@@ -26659,7 +26610,7 @@
         ]
       },
       {
-        "Rank": 391,
+        "Rank": 390,
         "NCTId": [
           "NCT04114539"
         ],
@@ -27003,7 +26954,7 @@
         ]
       },
       {
-        "Rank": 392,
+        "Rank": 391,
         "NCTId": [
           "NCT03958877"
         ],
@@ -27243,7 +27194,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 393,
+        "Rank": 392,
         "NCTId": [
           "NCT04218851"
         ],
@@ -27424,7 +27375,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 394,
+        "Rank": 393,
         "NCTId": [
           "NCT04238819"
         ],
@@ -27543,7 +27494,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 395,
+        "Rank": 394,
         "NCTId": [
           "NCT03275402"
         ],
@@ -27627,7 +27578,7 @@
         ]
       },
       {
-        "Rank": 396,
+        "Rank": 395,
         "NCTId": [
           "NCT03406507"
         ],
@@ -27683,7 +27634,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 397,
+        "Rank": 396,
         "NCTId": [
           "NCT02862132"
         ],
@@ -27806,7 +27757,7 @@
         ]
       },
       {
-        "Rank": 398,
+        "Rank": 397,
         "NCTId": [
           "NCT05081180"
         ],
@@ -27884,7 +27835,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 399,
+        "Rank": 398,
         "NCTId": [
           "NCT00903110"
         ],
@@ -28020,6 +27971,70 @@
         ],
         "DetailedDescription": [
           "This registry is a Post-Authorisation Safety Study called the Increlex® Global Registry which is intended primarily to monitor the safety of Increlex® therapy in children and adolescents with Severe Primary IGF-1 Deficiency and secondly to follow the effectiveness of this treatment. Patients who have already started Increlex® therapy before entering this registry may be included and data will be collected retrospectively.\n\nThe countries participating in this registry are Austria, France, Germany, Italy, Poland, Spain, Sweden, United Kingdom and the USA"
+        ]
+      },
+      {
+        "Rank": 399,
+        "NCTId": [
+          "NCT05244304"
+        ],
+        "OfficialTitle": [
+          "Phase 3, Multicenter, Randomized, Double-Masked, Placebo-Controlled Study to Evaluate the Safety and Efficacy of Tinlarebant in the Treatment of Stargardt Disease in Adolescent Subjects"
+        ],
+        "Condition": [
+          "Stargardt Disease 1"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nMale or female subjects 12 to 18 years old, inclusive.\nSubject must have clinically diagnosed STGD1 (Stargardt disease 1) with at least 1 mutation identified in the ABCA4 gene.\nSubject must have a defined aggregate atrophic lesion size within 3 disc areas (7.62 mm2), as imaged by FAF in the study eye Subjects must have a BCVA of 20/200 or better for the study eye based on ETDRS letter score\nSubject and their parent(s) or legal guardian are willing to provide their consent on an Institutional Review Board (IRB)/Independent Ethics Committee (IEC)/Human Research Ethics Committee (HREC)-approved informed consent form (ICF) prior to participating in any study-related procedures.\nSubject agrees to comply with all protocol requirements.\n\nExclusion Criteria:\n\nAny ocular disease other than Stargardt (STGD1) at baseline that, in the opinion of the investigator, would complicate assessment of a treatment effect.\nHistory of ocular surgery in the study eye in the last 3 months.\nInvestigational drug use of any kind in the last 3 months or within 5 half-lives of the investigational drug, whichever is shorter.\nAny prior gene therapy.\nVitamin A (retinol) deficiency as defined as a retinol serum level less than 20 mcg/dL (=0.7 μmol/L)."
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Palo Alto",
+          "Westmead",
+          "East Melbourne",
+          "South Brisbane",
+          "Kowloon",
+          "Taipei",
+          "Taoyuan City",
+          "London"
+        ],
+        "LocationFacility": [
+          "Stanford Byers Eye Institute",
+          "Westmead Hospital",
+          "Centre For Eye Research Australia Ltd",
+          "Queensland Eye Institute",
+          "Hong Kong Eye Hospital",
+          "National Taiwan University Hospital",
+          "Chang Gung Memorial Hospital, Linkou",
+          "Moorfields Eye Hospital"
+        ],
+        "LocationState": [
+          "California",
+          "New South Wales",
+          "Victoria"
+        ],
+        "LocationZip": [
+          "94303",
+          "2145",
+          "3002",
+          "4101",
+          "10002",
+          "33305",
+          "EC1V 2PD"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The primary objective of this trial is to assesses the efficacy of tinlarebant in slowing the rate of growth of atrophic lesion(s) in adolescent subjects with STGD1"
+        ],
+        "DetailedDescription": [
+          "Approximately 60 subjects will be enrolled in this study. Subjects will be assigned to study drug (tinlarebant 5 mg/placebo) with treatment period of upto 24 months with 28 days of follow-up."
         ]
       },
       {
