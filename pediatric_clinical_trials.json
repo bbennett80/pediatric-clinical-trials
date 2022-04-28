@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.05",
-    "DataVrs": "2022:04:25 23:07:41.951",
+    "DataVrs": "2022:04:26 23:04:37.775",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 412856,
-    "NStudiesFound": 408,
+    "NStudiesAvail": 413028,
+    "NStudiesFound": 407,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 408,
+    "NStudiesReturned": 407,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -2442,7 +2442,7 @@
           "Convulsion, Non-Epileptic"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\n9-18 years old.\nDiagnosis of psychogenic non-epileptic seizures by a medical doctor using video-EEG.\nFamily member (parent if a minor) willing to participate and that the subject with PNES chooses.\n\nExclusion Criteria:\n\nComorbid Epilepsy\nLess than 4 PNES per month\nOther paroxysmal nonepileptic events\nParticipation in other therapy\nSevere intellectual disability\nSevere mental illness (delusions/hallucinations)\n\nExclusion for CPT:\n\nBlood pressure >130/80 mmHg for adolescents greater than or equal to 13 years old\nEither systolic and/or diastolic blood pressure greater than or equal to 95% based on sex and age for children less than 13 years old"
+          "Inclusion Criteria:\n\n9-18 years old.\nDiagnosis of psychogenic non-epileptic seizures by a medical doctor using video-EEG.\nFamily member (parent if a minor) willing to participate and that the subject with PNES chooses.\n\nExclusion Criteria:\n\nComorbid Epilepsy\nLess than 4 PNES per month\nOther paroxysmal nonepileptic events (e.g. episodes related to hypoxic-ischemic phenomena, sleep disorders or migraine-associated disorders)\nParticipation in other therapy\nSevere intellectual disability\nSevere mental illness (delusions/hallucinations)\n\nExclusion for CPT:\n\nBlood pressure >130/80 mmHg for adolescents greater than or equal to 13 years old\nEither systolic and/or diastolic blood pressure greater than or equal to 95% based on sex and age for children less than 13 years old"
         ],
         "MinimumAge": [
           "11 Years"
@@ -4057,55 +4057,6 @@
       {
         "Rank": 78,
         "NCTId": [
-          "NCT04798482"
-        ],
-        "OfficialTitle": [
-          "Effect of Dexmedetomidine of Gastrointestinal Motility"
-        ],
-        "Condition": [
-          "Anesthesia"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAges 3-18 years who are scheduled to have an anorectal manometry followed by an upper or lower endoscopic procedures at Boston Children's Hospital\nPatients are cooperative to do the anorectal manometry without sedation (besides pre-med midazolam)\nAnticipates to receive standard sedation with dexmedetomidine and propofol for a gastrointestinal procedure in the Gastroenterology Procedure Unit (GPU)\nProvides written consent to participate in the research study\nIn females of reproductive age, pregnancy testing\n\nExclusion Criteria:\n\nDo not meet established sedation criteria\nPatients who require sedation prior to their anal manometry testing\nHistory of allergy, intolerance, or reaction to dexmedetomidine or propofol or hypersensitivity\nCurrent, repaired or risk of Moya-Moya disease\nRecent stroke (cerebrovascular accident) within past 6 months\nUncontrolled hypertension\nConcomitant use of opioids, beta antagonist, alpha 2 agonist or calcium channel blocker\nEgg, soy or lecithin allergy\nBMI greater than 30 or weight above 110th percentile\nRefuses insertion of intravenous catheter while awake\nCurrently receiving pharmacologic agents for hypertension or cardiac disease\nCurrently receiving or has received digoxin within the past 3 months\nActive, uncontrolled gastroesophageal reflux - an aspiration risk\nCurrent (or within past 3 months) history of apnea requiring an apnea monitor\nUnstable cardiac status (life threatening arrhythmias, abnormal cardiac anatomy, significant cardiac dysfunction)\nCraniofacial anomaly, which could make it difficult to effectively establish a mask airway for positive pressure ventilation if needed\nActive, current respiratory issues that are different from the baseline status (pneumonia, exacerbation of asthma, bronchiolitis, respiratory syncytial virus)."
-        ],
-        "MinimumAge": [
-          "3 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Boston"
-        ],
-        "LocationFacility": [
-          "Boston Children's Hospital"
-        ],
-        "LocationState": [
-          "Massachusetts"
-        ],
-        "LocationZip": [
-          "02115"
-        ],
-        "LocationContactEMail": [
-          "brooke.sens@childrens.harvard.edu",
-          "karina.lukovits@childrens.harvard.edu"
-        ],
-        "LocationContactName": [
-          "Brooke Sens",
-          "Karina Lukovits",
-          "Keira Mason, MD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Anorectal manometry requires that the patient be able to respond to command and not receive any medications which could alter muscle tone or motility. In the pediatric population, anorectal manometry can be psychologically challenging to parents and their child, as it is traditionally performed without adjuvant sedation or anesthesia. Sedatives and anesthesia can alter motility and smooth muscle activity, as well as render it difficult or impossible for the child to follow commands required of the study. Patient or parent non-compliance, inability to follow commands or to tolerate the procedure often renders the study invalid or impossible to complete. Dexmedetomidine is a sedative who's effect on anorectal musculature has not been studied nor determined. It would be important to determine whether it spares smooth muscle function, as it would provide a viable option to provide sedation to children while still preserving their ability to respond to command. The primary objective of this study is to examine the effects of dexmedetomidine on gastrointestinal smooth muscle by observing changes in anorectal manometry before and after dexmedetomdine administration."
-        ],
-        "DetailedDescription": [
-          "Primary objective:\n\nTo examine the effects of dexmedetomidine on intra-anal pressure and the dose response curve to balloon distention by comparing the baseline measurements with those after dexmedetomidine administration.\n\nDexmedetomidine is an alpha-2 agonist that is considered to be a smooth muscle relaxant. It's a potential use as a sedative for endoscopies has been considered. It is important to know whether or not it has effect on smooth muscle tone and would affect manometry studies in those patients who could receive it. The investigator hypothesizes that dexmedetomidine will have minimal effects in the dosing that is being administered.\n\nBackground:\n\nAnorectal manometry requires that the patient be able to respond to command and not receive any medications which could alter muscle tone or motility. These patients typically have the manometry performed without any adjuvant sedatives, anesthetics or medications. In the pediatric population, anorectal manometry can be psychologically challenging to parents and their child, particularly without adjuvant sedation or anesthesia. There are some exceptional circumstances which require sedation/anesthesia administration for these procedures, either because the children are young (< 5 years), they have behavioral issues (like autism) or because they have severe anxiety. In those patients with severe issues even general anesthesia may be needed. The risk of administering any medication to these patients is that they can alter motility and smooth muscle activity, consequently artificially altering the results of the anal manometry. It is important to know which medications can be administered without affecting anal muscle tone. Dexmedetomidine is a newer sedative and anxiolytic. It could be valuable for anxiolysis for anal manometry. It's effect on anal smooth muscle, however, has never been studied. It would be important to determine whether it spares smooth muscle function, as it would provide a viable option to provide sedation to children while still preserving their ability to respond to command.\n\nDexmedetomidine is one of the standard drugs administered for sedation in children who require sedation for diagnostic (gastroendoscopic upper and lower procedures) and radiologic diagnostic imaging studies (MRI, CT and Nuclear Medicine). Over 17,000 infants, children and developmentally compromised young adults have been sedated with dexmedetomidine at Boston Children's Hospital without a cardiac or respiratory arrest, or a need to provide positive pressure assisted ventilation.\n\nMethods:\n\nPatients will undergo the usual anal manometry study, with no adjuvant medications, per routine practice currently in the gastrointestinal unit. Following completion of manometry, 0.5 mcg/kg DEX will be administered over 1 minute followed by an infusion of 0.15 mcg/kg/hr. Manometry measurements will be followed for 15 minutes in response to DEX.\n\nDefinition of Primary Endpoint:\n\nPrimary outcome: To examine the effects of dexmedetomidine on intra-anal pressure and the dose response curve to balloon distention by comparing the baseline measurements with those after dexmedetomidine administration. The pressure measurements will be recorded by the research team member who will be present, every 30 seconds starting from 5 minutes prior to DEX to 15 minutes following DEX administration.\n\nData Analysis Plan:\n\nData will be analyzed after the completion of the study. The manometry measurements will be done blindly by one of the investigators.\n\nThe following endpoints will be analyzed at the completion of the study: time to meet modified Aldrete discharge criteria, adverse events, need for unplanned airway interventions, intravenous anesthetic duration of sedation, presence of agitation/delirium (PAED score), and time of BIS score to return to baseline (pre-sedation level).\n\nStatistical Power and Sample Considerations:\n\nThe study was powered and sample size calculated assuming a mean intra-anal pressure of 90 mmHg, with a mean reduction to 65 mmHg, and a standard deviation of 32. With a significance level of 0.05, it would require approximately 15 subjects to achieve power of 80.3%."
-        ]
-      },
-      {
-        "Rank": 79,
-        "NCTId": [
           "NCT04752501"
         ],
         "OfficialTitle": [
@@ -4154,7 +4105,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 80,
+        "Rank": 79,
         "NCTId": [
           "NCT04752293"
         ],
@@ -4224,7 +4175,7 @@
         ]
       },
       {
-        "Rank": 81,
+        "Rank": 80,
         "NCTId": [
           "NCT04741139"
         ],
@@ -4272,7 +4223,7 @@
         ]
       },
       {
-        "Rank": 82,
+        "Rank": 81,
         "NCTId": [
           "NCT04738539"
         ],
@@ -4323,7 +4274,7 @@
         ]
       },
       {
-        "Rank": 83,
+        "Rank": 82,
         "NCTId": [
           "NCT04737460"
         ],
@@ -4372,7 +4323,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 84,
+        "Rank": 83,
         "NCTId": [
           "NCT04735874"
         ],
@@ -4421,7 +4372,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 85,
+        "Rank": 84,
         "NCTId": [
           "NCT04725305"
         ],
@@ -4483,7 +4434,7 @@
         ]
       },
       {
-        "Rank": 86,
+        "Rank": 85,
         "NCTId": [
           "NCT04706364"
         ],
@@ -4532,7 +4483,7 @@
         ]
       },
       {
-        "Rank": 87,
+        "Rank": 86,
         "NCTId": [
           "NCT04697966"
         ],
@@ -4576,7 +4527,7 @@
         ]
       },
       {
-        "Rank": 88,
+        "Rank": 87,
         "NCTId": [
           "NCT04688255"
         ],
@@ -4632,7 +4583,7 @@
         ]
       },
       {
-        "Rank": 89,
+        "Rank": 88,
         "NCTId": [
           "NCT04685343"
         ],
@@ -4678,7 +4629,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 90,
+        "Rank": 89,
         "NCTId": [
           "NCT04675567"
         ],
@@ -4729,7 +4680,7 @@
         ]
       },
       {
-        "Rank": 91,
+        "Rank": 90,
         "NCTId": [
           "NCT04671186"
         ],
@@ -4780,7 +4731,7 @@
         ]
       },
       {
-        "Rank": 92,
+        "Rank": 91,
         "NCTId": [
           "NCT04654260"
         ],
@@ -4837,7 +4788,7 @@
         ]
       },
       {
-        "Rank": 93,
+        "Rank": 92,
         "NCTId": [
           "NCT04639336"
         ],
@@ -4887,7 +4838,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 94,
+        "Rank": 93,
         "NCTId": [
           "NCT04638595"
         ],
@@ -4936,7 +4887,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 95,
+        "Rank": 94,
         "NCTId": [
           "NCT04637802"
         ],
@@ -4987,56 +4938,7 @@
         ]
       },
       {
-        "Rank": 96,
-        "NCTId": [
-          "NCT04634643"
-        ],
-        "OfficialTitle": [
-          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
-        ],
-        "Condition": [
-          "NAFLD"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "New Haven"
-        ],
-        "LocationFacility": [
-          "Yale New Haven Hospital"
-        ],
-        "LocationState": [
-          "Connecticut"
-        ],
-        "LocationZip": [
-          "06510"
-        ],
-        "LocationContactEMail": [
-          "jessica.lat@yale.edu",
-          "zhongyao.li@yale.edu"
-        ],
-        "LocationContactName": [
-          "Jessica Lat",
-          "Zhongyao Li",
-          "Nicola Santoro, MD, PhD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
-        ],
-        "DetailedDescription": [
-          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
-        ]
-      },
-      {
-        "Rank": 97,
+        "Rank": 95,
         "NCTId": [
           "NCT04602325"
         ],
@@ -5088,7 +4990,7 @@
         ]
       },
       {
-        "Rank": 98,
+        "Rank": 96,
         "NCTId": [
           "NCT04569708"
         ],
@@ -5144,7 +5046,7 @@
         ]
       },
       {
-        "Rank": 99,
+        "Rank": 97,
         "NCTId": [
           "NCT04562688"
         ],
@@ -5192,7 +5094,7 @@
         ]
       },
       {
-        "Rank": 100,
+        "Rank": 98,
         "NCTId": [
           "NCT04540536"
         ],
@@ -5243,7 +5145,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 101,
+        "Rank": 99,
         "NCTId": [
           "NCT04537390"
         ],
@@ -5290,7 +5192,7 @@
         ]
       },
       {
-        "Rank": 102,
+        "Rank": 100,
         "NCTId": [
           "NCT04529707"
         ],
@@ -5338,7 +5240,7 @@
         ]
       },
       {
-        "Rank": 103,
+        "Rank": 101,
         "NCTId": [
           "NCT04526639"
         ],
@@ -5384,7 +5286,7 @@
         ]
       },
       {
-        "Rank": 104,
+        "Rank": 102,
         "NCTId": [
           "NCT04522778"
         ],
@@ -5436,7 +5338,7 @@
         ]
       },
       {
-        "Rank": 105,
+        "Rank": 103,
         "NCTId": [
           "NCT04518397"
         ],
@@ -5485,7 +5387,7 @@
         ]
       },
       {
-        "Rank": 106,
+        "Rank": 104,
         "NCTId": [
           "NCT04516343"
         ],
@@ -5532,7 +5434,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 107,
+        "Rank": 105,
         "NCTId": [
           "NCT04502758"
         ],
@@ -5575,7 +5477,7 @@
         ]
       },
       {
-        "Rank": 108,
+        "Rank": 106,
         "NCTId": [
           "NCT04485416"
         ],
@@ -5626,7 +5528,7 @@
         ]
       },
       {
-        "Rank": 109,
+        "Rank": 107,
         "NCTId": [
           "NCT04482556"
         ],
@@ -5675,7 +5577,7 @@
         ]
       },
       {
-        "Rank": 110,
+        "Rank": 108,
         "NCTId": [
           "NCT04481243"
         ],
@@ -5721,7 +5623,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 111,
+        "Rank": 109,
         "NCTId": [
           "NCT04472286"
         ],
@@ -5784,7 +5686,7 @@
         ]
       },
       {
-        "Rank": 112,
+        "Rank": 110,
         "NCTId": [
           "NCT04462861"
         ],
@@ -5831,7 +5733,7 @@
         ]
       },
       {
-        "Rank": 113,
+        "Rank": 111,
         "NCTId": [
           "NCT04446910"
         ],
@@ -5879,7 +5781,7 @@
         ]
       },
       {
-        "Rank": 114,
+        "Rank": 112,
         "NCTId": [
           "NCT04403633"
         ],
@@ -5927,7 +5829,7 @@
         ]
       },
       {
-        "Rank": 115,
+        "Rank": 113,
         "NCTId": [
           "NCT04398862"
         ],
@@ -5977,7 +5879,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 116,
+        "Rank": 114,
         "NCTId": [
           "NCT04390035"
         ],
@@ -6025,7 +5927,7 @@
         ]
       },
       {
-        "Rank": 117,
+        "Rank": 115,
         "NCTId": [
           "NCT04365556"
         ],
@@ -6077,7 +5979,7 @@
         ]
       },
       {
-        "Rank": 118,
+        "Rank": 116,
         "NCTId": [
           "NCT04360395"
         ],
@@ -6126,7 +6028,7 @@
         ]
       },
       {
-        "Rank": 119,
+        "Rank": 117,
         "NCTId": [
           "NCT04357132"
         ],
@@ -6177,7 +6079,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 120,
+        "Rank": 118,
         "NCTId": [
           "NCT04351958"
         ],
@@ -6225,7 +6127,7 @@
         ]
       },
       {
-        "Rank": 121,
+        "Rank": 119,
         "NCTId": [
           "NCT04351776"
         ],
@@ -6276,7 +6178,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 122,
+        "Rank": 120,
         "NCTId": [
           "NCT04342000"
         ],
@@ -6327,7 +6229,7 @@
         ]
       },
       {
-        "Rank": 123,
+        "Rank": 121,
         "NCTId": [
           "NCT04338048"
         ],
@@ -6367,7 +6269,7 @@
         ]
       },
       {
-        "Rank": 124,
+        "Rank": 122,
         "NCTId": [
           "NCT04325282"
         ],
@@ -6415,7 +6317,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 125,
+        "Rank": 123,
         "NCTId": [
           "NCT04322734"
         ],
@@ -6469,7 +6371,7 @@
         ]
       },
       {
-        "Rank": 126,
+        "Rank": 124,
         "NCTId": [
           "NCT04314635"
         ],
@@ -6515,7 +6417,7 @@
         ]
       },
       {
-        "Rank": 127,
+        "Rank": 125,
         "NCTId": [
           "NCT04313192"
         ],
@@ -6567,7 +6469,7 @@
         ]
       },
       {
-        "Rank": 128,
+        "Rank": 126,
         "NCTId": [
           "NCT04312919"
         ],
@@ -6614,7 +6516,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 129,
+        "Rank": 127,
         "NCTId": [
           "NCT04309786"
         ],
@@ -6665,7 +6567,7 @@
         ]
       },
       {
-        "Rank": 130,
+        "Rank": 128,
         "NCTId": [
           "NCT04299191"
         ],
@@ -6713,7 +6615,7 @@
         ]
       },
       {
-        "Rank": 131,
+        "Rank": 129,
         "NCTId": [
           "NCT04298203"
         ],
@@ -6761,7 +6663,7 @@
         ]
       },
       {
-        "Rank": 132,
+        "Rank": 130,
         "NCTId": [
           "NCT04298099"
         ],
@@ -6809,7 +6711,7 @@
         ]
       },
       {
-        "Rank": 133,
+        "Rank": 131,
         "NCTId": [
           "NCT04290754"
         ],
@@ -6860,7 +6762,7 @@
         ]
       },
       {
-        "Rank": 134,
+        "Rank": 132,
         "NCTId": [
           "NCT04288206"
         ],
@@ -6905,7 +6807,7 @@
         ]
       },
       {
-        "Rank": 135,
+        "Rank": 133,
         "NCTId": [
           "NCT04264143"
         ],
@@ -6959,7 +6861,7 @@
         ]
       },
       {
-        "Rank": 136,
+        "Rank": 134,
         "NCTId": [
           "NCT04250844"
         ],
@@ -7005,7 +6907,7 @@
         ]
       },
       {
-        "Rank": 137,
+        "Rank": 135,
         "NCTId": [
           "NCT04242602"
         ],
@@ -7053,7 +6955,7 @@
         ]
       },
       {
-        "Rank": 138,
+        "Rank": 136,
         "NCTId": [
           "NCT04219995"
         ],
@@ -7102,7 +7004,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 139,
+        "Rank": 137,
         "NCTId": [
           "NCT04217694"
         ],
@@ -7152,7 +7054,7 @@
         ]
       },
       {
-        "Rank": 140,
+        "Rank": 138,
         "NCTId": [
           "NCT04211935"
         ],
@@ -7201,7 +7103,7 @@
         ]
       },
       {
-        "Rank": 141,
+        "Rank": 139,
         "NCTId": [
           "NCT04208256"
         ],
@@ -7253,7 +7155,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 142,
+        "Rank": 140,
         "NCTId": [
           "NCT04205604"
         ],
@@ -7297,7 +7199,7 @@
         ]
       },
       {
-        "Rank": 143,
+        "Rank": 141,
         "NCTId": [
           "NCT04201106"
         ],
@@ -7343,7 +7245,7 @@
         ]
       },
       {
-        "Rank": 144,
+        "Rank": 142,
         "NCTId": [
           "NCT04199247"
         ],
@@ -7396,7 +7298,7 @@
         ]
       },
       {
-        "Rank": 145,
+        "Rank": 143,
         "NCTId": [
           "NCT04190225"
         ],
@@ -7448,7 +7350,7 @@
         ]
       },
       {
-        "Rank": 146,
+        "Rank": 144,
         "NCTId": [
           "NCT04186429"
         ],
@@ -7498,7 +7400,7 @@
         ]
       },
       {
-        "Rank": 147,
+        "Rank": 145,
         "NCTId": [
           "NCT04180358"
         ],
@@ -7548,7 +7450,7 @@
         ]
       },
       {
-        "Rank": 148,
+        "Rank": 146,
         "NCTId": [
           "NCT04174001"
         ],
@@ -7594,7 +7496,7 @@
         ]
       },
       {
-        "Rank": 149,
+        "Rank": 147,
         "NCTId": [
           "NCT04166526"
         ],
@@ -7640,7 +7542,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 150,
+        "Rank": 148,
         "NCTId": [
           "NCT04164966"
         ],
@@ -7686,7 +7588,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 151,
+        "Rank": 149,
         "NCTId": [
           "NCT04158245"
         ],
@@ -7738,7 +7640,7 @@
         ]
       },
       {
-        "Rank": 152,
+        "Rank": 150,
         "NCTId": [
           "NCT04154865"
         ],
@@ -7786,7 +7688,7 @@
         ]
       },
       {
-        "Rank": 153,
+        "Rank": 151,
         "NCTId": [
           "NCT04153994"
         ],
@@ -7827,7 +7729,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 154,
+        "Rank": 152,
         "NCTId": [
           "NCT04148560"
         ],
@@ -7879,7 +7781,7 @@
         ]
       },
       {
-        "Rank": 155,
+        "Rank": 153,
         "NCTId": [
           "NCT04127331"
         ],
@@ -7925,7 +7827,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 156,
+        "Rank": 154,
         "NCTId": [
           "NCT04125043"
         ],
@@ -7975,7 +7877,7 @@
         ]
       },
       {
-        "Rank": 157,
+        "Rank": 155,
         "NCTId": [
           "NCT04118712"
         ],
@@ -8020,7 +7922,7 @@
         ]
       },
       {
-        "Rank": 158,
+        "Rank": 156,
         "NCTId": [
           "NCT04111991"
         ],
@@ -8066,7 +7968,7 @@
         ]
       },
       {
-        "Rank": 159,
+        "Rank": 157,
         "NCTId": [
           "NCT04111471"
         ],
@@ -8106,7 +8008,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 160,
+        "Rank": 158,
         "NCTId": [
           "NCT04110730"
         ],
@@ -8155,7 +8057,7 @@
         ]
       },
       {
-        "Rank": 161,
+        "Rank": 159,
         "NCTId": [
           "NCT04108988"
         ],
@@ -8204,7 +8106,7 @@
         ]
       },
       {
-        "Rank": 162,
+        "Rank": 160,
         "NCTId": [
           "NCT04104841"
         ],
@@ -8255,7 +8157,7 @@
         ]
       },
       {
-        "Rank": 163,
+        "Rank": 161,
         "NCTId": [
           "NCT04099810"
         ],
@@ -8301,7 +8203,7 @@
         ]
       },
       {
-        "Rank": 164,
+        "Rank": 162,
         "NCTId": [
           "NCT04089332"
         ],
@@ -8349,7 +8251,7 @@
         ]
       },
       {
-        "Rank": 165,
+        "Rank": 163,
         "NCTId": [
           "NCT04060303"
         ],
@@ -8395,7 +8297,7 @@
         ]
       },
       {
-        "Rank": 166,
+        "Rank": 164,
         "NCTId": [
           "NCT04046562"
         ],
@@ -8445,7 +8347,7 @@
         ]
       },
       {
-        "Rank": 167,
+        "Rank": 165,
         "NCTId": [
           "NCT04039750"
         ],
@@ -8491,7 +8393,7 @@
         ]
       },
       {
-        "Rank": 168,
+        "Rank": 166,
         "NCTId": [
           "NCT04038684"
         ],
@@ -8546,7 +8448,7 @@
         ]
       },
       {
-        "Rank": 169,
+        "Rank": 167,
         "NCTId": [
           "NCT04032990"
         ],
@@ -8594,7 +8496,7 @@
         ]
       },
       {
-        "Rank": 170,
+        "Rank": 168,
         "NCTId": [
           "NCT04003012"
         ],
@@ -8640,7 +8542,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 171,
+        "Rank": 169,
         "NCTId": [
           "NCT03995394"
         ],
@@ -8688,7 +8590,7 @@
         ]
       },
       {
-        "Rank": 172,
+        "Rank": 170,
         "NCTId": [
           "NCT03985020"
         ],
@@ -8732,7 +8634,7 @@
         ]
       },
       {
-        "Rank": 173,
+        "Rank": 171,
         "NCTId": [
           "NCT03961854"
         ],
@@ -8772,7 +8674,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 174,
+        "Rank": 172,
         "NCTId": [
           "NCT03961061"
         ],
@@ -8823,7 +8725,7 @@
         ]
       },
       {
-        "Rank": 175,
+        "Rank": 173,
         "NCTId": [
           "NCT03945747"
         ],
@@ -8881,7 +8783,7 @@
         ]
       },
       {
-        "Rank": 176,
+        "Rank": 174,
         "NCTId": [
           "NCT03942952"
         ],
@@ -8934,7 +8836,7 @@
         ]
       },
       {
-        "Rank": 177,
+        "Rank": 175,
         "NCTId": [
           "NCT03911388"
         ],
@@ -9017,7 +8919,7 @@
         ]
       },
       {
-        "Rank": 178,
+        "Rank": 176,
         "NCTId": [
           "NCT03905031"
         ],
@@ -9077,7 +8979,7 @@
         ]
       },
       {
-        "Rank": 179,
+        "Rank": 177,
         "NCTId": [
           "NCT03896867"
         ],
@@ -9123,7 +9025,7 @@
         ]
       },
       {
-        "Rank": 180,
+        "Rank": 178,
         "NCTId": [
           "NCT03882034"
         ],
@@ -9171,7 +9073,7 @@
         ]
       },
       {
-        "Rank": 181,
+        "Rank": 179,
         "NCTId": [
           "NCT03869749"
         ],
@@ -9220,7 +9122,7 @@
         ]
       },
       {
-        "Rank": 182,
+        "Rank": 180,
         "NCTId": [
           "NCT03866707"
         ],
@@ -9271,7 +9173,7 @@
         ]
       },
       {
-        "Rank": 183,
+        "Rank": 181,
         "NCTId": [
           "NCT03866460"
         ],
@@ -9318,7 +9220,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 184,
+        "Rank": 182,
         "NCTId": [
           "NCT03863288"
         ],
@@ -9367,7 +9269,7 @@
         ]
       },
       {
-        "Rank": 185,
+        "Rank": 183,
         "NCTId": [
           "NCT03860311"
         ],
@@ -9420,7 +9322,7 @@
         ]
       },
       {
-        "Rank": 186,
+        "Rank": 184,
         "NCTId": [
           "NCT03855553"
         ],
@@ -9474,7 +9376,7 @@
         ]
       },
       {
-        "Rank": 187,
+        "Rank": 185,
         "NCTId": [
           "NCT03812159"
         ],
@@ -9525,7 +9427,7 @@
         ]
       },
       {
-        "Rank": 188,
+        "Rank": 186,
         "NCTId": [
           "NCT03795818"
         ],
@@ -9576,7 +9478,7 @@
         ]
       },
       {
-        "Rank": 189,
+        "Rank": 187,
         "NCTId": [
           "NCT03730194"
         ],
@@ -9629,7 +9531,7 @@
         ]
       },
       {
-        "Rank": 190,
+        "Rank": 188,
         "NCTId": [
           "NCT03729999"
         ],
@@ -9674,7 +9576,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 191,
+        "Rank": 189,
         "NCTId": [
           "NCT03721068"
         ],
@@ -9721,7 +9623,7 @@
         ]
       },
       {
-        "Rank": 192,
+        "Rank": 190,
         "NCTId": [
           "NCT03718234"
         ],
@@ -9773,7 +9675,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 193,
+        "Rank": 191,
         "NCTId": [
           "NCT03709472"
         ],
@@ -9826,7 +9728,7 @@
         ]
       },
       {
-        "Rank": 194,
+        "Rank": 192,
         "NCTId": [
           "NCT03709199"
         ],
@@ -9876,7 +9778,7 @@
         ]
       },
       {
-        "Rank": 195,
+        "Rank": 193,
         "NCTId": [
           "NCT03687008"
         ],
@@ -9925,7 +9827,7 @@
         ]
       },
       {
-        "Rank": 196,
+        "Rank": 194,
         "NCTId": [
           "NCT03670849"
         ],
@@ -9973,7 +9875,7 @@
         ]
       },
       {
-        "Rank": 197,
+        "Rank": 195,
         "NCTId": [
           "NCT03665337"
         ],
@@ -10018,7 +9920,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 198,
+        "Rank": 196,
         "NCTId": [
           "NCT03653013"
         ],
@@ -10061,7 +9963,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 199,
+        "Rank": 197,
         "NCTId": [
           "NCT03648450"
         ],
@@ -10110,7 +10012,7 @@
         ]
       },
       {
-        "Rank": 200,
+        "Rank": 198,
         "NCTId": [
           "NCT03625011"
         ],
@@ -10162,7 +10064,7 @@
         ]
       },
       {
-        "Rank": 201,
+        "Rank": 199,
         "NCTId": [
           "NCT03584399"
         ],
@@ -10204,7 +10106,7 @@
         ]
       },
       {
-        "Rank": 202,
+        "Rank": 200,
         "NCTId": [
           "NCT03559036"
         ],
@@ -10249,7 +10151,7 @@
         ]
       },
       {
-        "Rank": 203,
+        "Rank": 201,
         "NCTId": [
           "NCT03555708"
         ],
@@ -10302,7 +10204,7 @@
         ]
       },
       {
-        "Rank": 204,
+        "Rank": 202,
         "NCTId": [
           "NCT03553875"
         ],
@@ -10351,7 +10253,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 205,
+        "Rank": 203,
         "NCTId": [
           "NCT03539783"
         ],
@@ -10403,7 +10305,7 @@
         ]
       },
       {
-        "Rank": 206,
+        "Rank": 204,
         "NCTId": [
           "NCT03530852"
         ],
@@ -10452,7 +10354,7 @@
         ]
       },
       {
-        "Rank": 207,
+        "Rank": 205,
         "NCTId": [
           "NCT03528109"
         ],
@@ -10516,57 +10418,7 @@
         ]
       },
       {
-        "Rank": 208,
-        "NCTId": [
-          "NCT03500835"
-        ],
-        "OfficialTitle": [
-          "An Addiction Model Based Mobile Health Weight Loss Intervention With Coaching in Adolescents With Overweight and Obesity: Multi-Site Randomized Controlled Trial"
-        ],
-        "Condition": [
-          "Pediatric Obesity",
-          "Mobile Technology",
-          "Addiction"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAge 14-18 years\nBody mass index [BMI] ≥85th percentile for age and gender\n\nExclusion Criteria:\n\nConcurrent participation in an alternative weight loss intervention\nBlood pressure > 99th percentile for age, gender, and height\nKnown poorly controlled psychiatric illness and/or developmental delay\nParticipants Inability to read English"
-        ],
-        "MinimumAge": [
-          "14 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Los Angeles"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Los Angeles"
-        ],
-        "LocationState": [
-          "California"
-        ],
-        "LocationZip": [
-          "90027"
-        ],
-        "LocationContactEMail": [
-          "ypineda@chla.usc.edu"
-        ],
-        "LocationContactName": [
-          "Yareli Pineda"
-        ],
-        "LocationContactPhone": [
-          "323-361-6446"
-        ],
-        "BriefSummary": [
-          "New and creative approaches are needed to address childhood obesity. Current strategies result in suboptimal outcomes and are intensive and costly. It has been theorized that overeating, may have addictive qualities, although few weight management interventions have tested therapeutic techniques founded on addiction medicine principles, such as, withdrawal, tolerance and craving control1, 2. A pilot study utilizing an addiction model based mobile health (mHealth) weight-loss intervention in adolescents showed that the app intervention reduced BMI Z-score (zBMI) to a greater extent than youth participating in an in-clinic multidisciplinary weight management intervention, and appeared to be a cost-effective, labor efficient method for adolescent weight management.\n\nThe proposed multi-site randomized control trial (RCT) will test the effectiveness of an addiction-based weight loss intervention, embodied first as a smartphone app with telephone coaching and second as an identical approach phone-coaching alone intervention compared to age matched controls participating in an in-clinic weight management interventions in a larger sample of economically, racially and ethnically diverse adolescents (ages 14-18).\n\nOne hundred and eighty adolescents will be recruited from pediatric interdisciplinary weight management clinics operating out of five different hospital systems in Southern California and through targeted mailing to 40 ethnically, racially and economically diverse neighborhoods in Los Angeles County. The adolescents will be randomized 1:1 via stratified block randomization to either receive 1) interactive addiction model based mobile health (mHealth) weight-loss intervention with personalized phone-coaching (AppCoach), 2) interactive addiction model based mHealth weight-loss intervention alone (App) or 3) Multidisciplinary in-clinic weight management program (Clinic). Assessment of the intervention's effect on zBMI and percent over the 95th percentile (%BMIp95), fasting metabolic parameters, addictive eating habits, executive function, and motivation for change will be obtained at enrollment, 3, 6, 12 and 18 months (1 year post intervention follow up). In addition, a real-life economic analysis (cost, cost-saving and non-monetary benefits) analysis will be completed comparing AppCoach to 1) App and 2) Clinic. We will further explore whether primary and secondary outcomes differ by race and whether race moderates the relationship between initial intervention efficacy and prolonged weight maintenance."
-        ],
-        "DetailedDescription": [
-          "Aim 1 (Primary Outcomes): To test the effectiveness of an addiction-based weight loss intervention, embodied first as a smartphone app with telephone coaching (AppCoach) compared to (1) addiction model based weight-loss app alone (App) and (2) multi-disciplinary in-clinic weight loss intervention (Clinic) on weight outcomes of overweight and obese adolescents at 3, 6, 12 and 18 months post enrollment.\n\nHypothesis 1a: Participants who complete the six month AppCoach will have a greater decrease in their zBMI and %BMIp95 compared to baseline at completion of the 6 months intervention, than those receiving App or Clinic.\n\nHypothesis 1b: Participants who completed the six month AppCoach will have greater decrease in their zBMI and %BMIp95 compared to baseline at 6 and 12 months post intervention completion compared to App and Clinic.\n\nAim 2 (Secondary Outcomes): To compare the effects of AppCoach on addictive eating behaviors, motivation and self-regulatory behaviors at completion of the intervention and 6 and 12 months post intervention.\n\nHypothesis 2: Compared to App or Clinic, AppCoach will result in lower YFAS-c scores, higher motivation and improved self- regulatory behaviors scores when evaluated at completion of the intervention and 6 and 12 months post intervention.\n\nAim 3 (Mediators): To test whether baseline traits and behaviors mediate the effect of AppCoach compared to App and Clinic.\n\nHypothesis 3: Higher baseline YFAS-c scores lower executive function scores and previous history with mobile platforms will mediate the efficacy of AppCoach and App.\n\nAim 4: To conduct a real-life economic analysis (costs, cost-savings and non-monetary benefits) of delivering AppCoach compared to 1) App and 2) Clinic.\n\nHypothesis 4: An addiction-based weight loss mHealth intervention will be more cost-effective than weight-loss coaching alone and in-person delivery of multidisciplinary weight-loss intervention.\n\nResearch Design Methods:\n\nStudy Design:\n\nMulti-center, randomized, controlled, trial of an addiction based mobile health (mHealth) weight loss intervention plus personalized coaching (AppCoach) compared to receive 1)interactive addiction model based mHealth weight-loss intervention alone (App) and 2) Multidisciplinary in-clinic weight management program (Clinic).\n\nRecruitment and Eligibility:\n\nStudy procedures will be approved by the Children's Hospital Los Angeles (CHLA), the Los Angeles Biomedical Research Institute at Harbor-UCLA Medical Center, Alta Med, UCLA, and Cedars Sinai Institutional Review Boards. Participants will be recruited for the intervention arms from newly referred patients of 5 interdisciplinary weight management clinics (CHLA, Alta Med, Los Angeles Biomedical Research Institute at Harbor-UCLA (LA Biomed), UCLA, and Cedars Sinai).\n\nPatient Subjects:\n\nInclusion criteria include:\n\n1. Age 14-18 years 2. Body mass index [BMI] ≥85th percentile for age and gender\n\nExclusion criteria include:\n\nConcurrent participation in an alternative weight loss intervention\nBlood pressure > 99th percentile for age, gender, and height\nKnown psychiatric illness and/or developmental delay\nParticipants Inability to read English\n\nParent Criteria:\n\nHave an eligible child who meets the eligibility requirements listed above\nMinimum age of 18 years old\n\nPre-Screening:\n\nClinic Recruitment:\n\nNewly referred patients to the interdisciplinary clinics will be pre-screened for eligibility prior to their first clinic visit by an on-site clinical research coordinator (CRC). Those participants who meet eligibility criteria will be contacted via phone by the on-site CRC. The CRC will briefly introduce the study aims and intervention and request the youth and family to consider participation to be fully discussed at the first visit. The CRC will obtain the eligible participants' email address and send them a recruitment email.\n\nInitial Visit:\n\nOn-site CRC will meet with eligible participants and provide details about the study procedures, obtain written consent from one parent/guardian and assent from each participant and answer any questions the participants and there parent may have.\n\na. In order to standardize the study description, the CRC will first play an introductory video clip describing the study, the participant responsibilities and follow-up requirements.\n\nb. Upon obtaining verbal and written consent from one parent or guardian and verbal and written assent from each youth to participate in the study participants will be randomized to one of 3 intervention arms (AppCoach vs. App vs. Clinic)\n\nAll consenting participants will complete a battery of surveys (Refer to Measurements section).\n\nCovariates/Moderators:\n\na. Yale Food Addiction Scale b. The Center for Epidemiologic Studies Depression scale c. The Perceived Stress Scale d. Behavior Rating Inventory of Executive function\n\nOutcomes:\n\nIntervention Satisfaction Survey\nThe Adolescent Self-Regulatory Inventory (ASRI)\nFood Cravings Questionnaire\n\nAll consenting participants:\n\nAppCoach and App Groups will receive:\n\n1. iPhones (as needed; participants will be required to have an iPhone). b. All Participants will receive: Wireless Bluetooth body weight scale (Wahoo Fitness Balance Scale; Wahoo fitness, Atlanta, GA) and a wireless Bluetooth digital food scale (Escali Smart Connect Kitchen Scale, Escali Corp., Burnsville, MN) both of which interfaced to the app.\n\nc. Participants who require an iPhone will be loaned an iPhone 5S and accessories (including protective case), with an AT&T service plan for the duration of the study that includes: unlimited texting, unlimited plan, unlimited voice calls to and from other cell telephones, 700 voice call minutes for calls to and from landlines, unlimited night and weekend calls to and from landlines, International calls or texts including Canada are NOT allowed and not covered.\n\nd. Participants will return the loaned phones at the completion of the intervention (Visit 3).\n\ne. The referring provider will receive a letter informing them that the youth they referred to the weight management clinic will be participating in this study for 6 months and then will be offered enrollment back into the initial referral program is desired.\n\n4. AppCoach Participants:\n\nEach participant will register via a computer and then login with the app.\nParticipants will weigh-in on a scale in a private area and enter weight data on their iPhones.\nOn-site CRC will go through each section of app and have participants enter data.\n\nFollow Up: Participants will schedule weekly 15 minute phone meetings with a coach and return for clinic visits at 3,6,12 and 18 months. The first phone visit will be via HIPAA secure video conferencing between the coach and the participant.\n\n5. App Participants:\n\na. Each participant will register via a computer and then login with the app. b. Participants will weigh-in on a scale in a private area and enter weight data on their iPhones.\n\nc. On-site CRC will go through each section of app and have participants enter data.\n\nd. Follow Up: Participants will schedule clinic visits at 3,6,12 and 18 months. 6. Clinic Participants:\n\nEach participant will attend a multi-disciplinary in-clinic intervention that consists of 6 sessions (100 minutes for the first visit and 80 minutes for follow up visits).\nThey will travel to the local site of recruitment and attend 6 sessions in which they will meet with a provider team.\nParticipants will weigh-in on a scale in a private area and receive a wireless body and food scale\nFollow Up: Participants will return clinic visits monthly for 6 months and then at 12 and 18 months post consent for maintenance follow-up."
-        ]
-      },
-      {
-        "Rank": 209,
+        "Rank": 206,
         "NCTId": [
           "NCT03495388"
         ],
@@ -10619,7 +10471,7 @@
         ]
       },
       {
-        "Rank": 210,
+        "Rank": 207,
         "NCTId": [
           "NCT03492944"
         ],
@@ -10663,7 +10515,7 @@
         ]
       },
       {
-        "Rank": 211,
+        "Rank": 208,
         "NCTId": [
           "NCT03489434"
         ],
@@ -10707,7 +10559,7 @@
         ]
       },
       {
-        "Rank": 212,
+        "Rank": 209,
         "NCTId": [
           "NCT03472768"
         ],
@@ -10753,7 +10605,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 213,
+        "Rank": 210,
         "NCTId": [
           "NCT03467750"
         ],
@@ -10803,7 +10655,7 @@
         ]
       },
       {
-        "Rank": 214,
+        "Rank": 211,
         "NCTId": [
           "NCT03453541"
         ],
@@ -10862,7 +10714,7 @@
         ]
       },
       {
-        "Rank": 215,
+        "Rank": 212,
         "NCTId": [
           "NCT03451435"
         ],
@@ -10910,7 +10762,7 @@
         ]
       },
       {
-        "Rank": 216,
+        "Rank": 213,
         "NCTId": [
           "NCT03438656"
         ],
@@ -10959,7 +10811,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 217,
+        "Rank": 214,
         "NCTId": [
           "NCT03429114"
         ],
@@ -11007,7 +10859,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 218,
+        "Rank": 215,
         "NCTId": [
           "NCT03423940"
         ],
@@ -11059,7 +10911,7 @@
         ]
       },
       {
-        "Rank": 219,
+        "Rank": 216,
         "NCTId": [
           "NCT03419260"
         ],
@@ -11105,7 +10957,7 @@
         ]
       },
       {
-        "Rank": 220,
+        "Rank": 217,
         "NCTId": [
           "NCT03384134"
         ],
@@ -11156,7 +11008,7 @@
         ]
       },
       {
-        "Rank": 221,
+        "Rank": 218,
         "NCTId": [
           "NCT03363919"
         ],
@@ -11208,7 +11060,7 @@
         ]
       },
       {
-        "Rank": 222,
+        "Rank": 219,
         "NCTId": [
           "NCT03337594"
         ],
@@ -11260,7 +11112,7 @@
         ]
       },
       {
-        "Rank": 223,
+        "Rank": 220,
         "NCTId": [
           "NCT03334942"
         ],
@@ -11315,7 +11167,7 @@
         ]
       },
       {
-        "Rank": 224,
+        "Rank": 221,
         "NCTId": [
           "NCT03304574"
         ],
@@ -11370,7 +11222,7 @@
         ]
       },
       {
-        "Rank": 225,
+        "Rank": 222,
         "NCTId": [
           "NCT03297658"
         ],
@@ -11416,7 +11268,7 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 223,
         "NCTId": [
           "NCT03283033"
         ],
@@ -11465,7 +11317,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 227,
+        "Rank": 224,
         "NCTId": [
           "NCT03239977"
         ],
@@ -11511,7 +11363,7 @@
         ]
       },
       {
-        "Rank": 228,
+        "Rank": 225,
         "NCTId": [
           "NCT03229837"
         ],
@@ -11561,7 +11413,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 226,
         "NCTId": [
           "NCT03225014"
         ],
@@ -11610,7 +11462,7 @@
         ]
       },
       {
-        "Rank": 230,
+        "Rank": 227,
         "NCTId": [
           "NCT03222570"
         ],
@@ -11656,7 +11508,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 231,
+        "Rank": 228,
         "NCTId": [
           "NCT03202303"
         ],
@@ -11704,7 +11556,7 @@
         ]
       },
       {
-        "Rank": 232,
+        "Rank": 229,
         "NCTId": [
           "NCT03192566"
         ],
@@ -11756,7 +11608,7 @@
         ]
       },
       {
-        "Rank": 233,
+        "Rank": 230,
         "NCTId": [
           "NCT03166358"
         ],
@@ -11804,7 +11656,7 @@
         ]
       },
       {
-        "Rank": 234,
+        "Rank": 231,
         "NCTId": [
           "NCT03154359"
         ],
@@ -11855,7 +11707,7 @@
         ]
       },
       {
-        "Rank": 235,
+        "Rank": 232,
         "NCTId": [
           "NCT03132948"
         ],
@@ -11904,7 +11756,7 @@
         ]
       },
       {
-        "Rank": 236,
+        "Rank": 233,
         "NCTId": [
           "NCT03072849"
         ],
@@ -11955,7 +11807,7 @@
         ]
       },
       {
-        "Rank": 237,
+        "Rank": 234,
         "NCTId": [
           "NCT03055533"
         ],
@@ -12004,7 +11856,7 @@
         ]
       },
       {
-        "Rank": 238,
+        "Rank": 235,
         "NCTId": [
           "NCT03032328"
         ],
@@ -12055,7 +11907,7 @@
         ]
       },
       {
-        "Rank": 239,
+        "Rank": 236,
         "NCTId": [
           "NCT03023566"
         ],
@@ -12104,7 +11956,7 @@
         ]
       },
       {
-        "Rank": 240,
+        "Rank": 237,
         "NCTId": [
           "NCT03005951"
         ],
@@ -12155,7 +12007,7 @@
         ]
       },
       {
-        "Rank": 241,
+        "Rank": 238,
         "NCTId": [
           "NCT02914067"
         ],
@@ -12208,7 +12060,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 242,
+        "Rank": 239,
         "NCTId": [
           "NCT02895711"
         ],
@@ -12257,7 +12109,7 @@
         ]
       },
       {
-        "Rank": 243,
+        "Rank": 240,
         "NCTId": [
           "NCT02889016"
         ],
@@ -12304,7 +12156,7 @@
         ]
       },
       {
-        "Rank": 244,
+        "Rank": 241,
         "NCTId": [
           "NCT02846272"
         ],
@@ -12353,7 +12205,7 @@
         ]
       },
       {
-        "Rank": 245,
+        "Rank": 242,
         "NCTId": [
           "NCT02824627"
         ],
@@ -12403,7 +12255,7 @@
         ]
       },
       {
-        "Rank": 246,
+        "Rank": 243,
         "NCTId": [
           "NCT02775643"
         ],
@@ -12450,7 +12302,7 @@
         ]
       },
       {
-        "Rank": 247,
+        "Rank": 244,
         "NCTId": [
           "NCT02769975"
         ],
@@ -12502,7 +12354,7 @@
         ]
       },
       {
-        "Rank": 248,
+        "Rank": 245,
         "NCTId": [
           "NCT02742272"
         ],
@@ -12555,7 +12407,7 @@
         ]
       },
       {
-        "Rank": 249,
+        "Rank": 246,
         "NCTId": [
           "NCT02722486"
         ],
@@ -12603,7 +12455,7 @@
         ]
       },
       {
-        "Rank": 250,
+        "Rank": 247,
         "NCTId": [
           "NCT02703597"
         ],
@@ -12650,7 +12502,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 251,
+        "Rank": 248,
         "NCTId": [
           "NCT02699190"
         ],
@@ -12698,7 +12550,7 @@
         ]
       },
       {
-        "Rank": 252,
+        "Rank": 249,
         "NCTId": [
           "NCT02651493"
         ],
@@ -12749,7 +12601,7 @@
         ]
       },
       {
-        "Rank": 253,
+        "Rank": 250,
         "NCTId": [
           "NCT02616796"
         ],
@@ -12797,7 +12649,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 254,
+        "Rank": 251,
         "NCTId": [
           "NCT02610946"
         ],
@@ -12848,7 +12700,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 252,
         "NCTId": [
           "NCT02535936"
         ],
@@ -12899,7 +12751,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 253,
         "NCTId": [
           "NCT02512718"
         ],
@@ -12943,7 +12795,7 @@
         ]
       },
       {
-        "Rank": 257,
+        "Rank": 254,
         "NCTId": [
           "NCT02498925"
         ],
@@ -12991,7 +12843,7 @@
         ]
       },
       {
-        "Rank": 258,
+        "Rank": 255,
         "NCTId": [
           "NCT02485418"
         ],
@@ -13038,7 +12890,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 259,
+        "Rank": 256,
         "NCTId": [
           "NCT02453126"
         ],
@@ -13084,7 +12936,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 260,
+        "Rank": 257,
         "NCTId": [
           "NCT02398539"
         ],
@@ -13129,7 +12981,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 261,
+        "Rank": 258,
         "NCTId": [
           "NCT02395003"
         ],
@@ -13173,7 +13025,7 @@
         ]
       },
       {
-        "Rank": 262,
+        "Rank": 259,
         "NCTId": [
           "NCT02312635"
         ],
@@ -13225,7 +13077,7 @@
         ]
       },
       {
-        "Rank": 263,
+        "Rank": 260,
         "NCTId": [
           "NCT02257229"
         ],
@@ -13272,7 +13124,7 @@
         ]
       },
       {
-        "Rank": 264,
+        "Rank": 261,
         "NCTId": [
           "NCT02245997"
         ],
@@ -13319,7 +13171,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 265,
+        "Rank": 262,
         "NCTId": [
           "NCT02202174"
         ],
@@ -13364,7 +13216,7 @@
         ]
       },
       {
-        "Rank": 266,
+        "Rank": 263,
         "NCTId": [
           "NCT02130180"
         ],
@@ -13412,7 +13264,7 @@
         ]
       },
       {
-        "Rank": 267,
+        "Rank": 264,
         "NCTId": [
           "NCT02127658"
         ],
@@ -13454,7 +13306,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 268,
+        "Rank": 265,
         "NCTId": [
           "NCT02117063"
         ],
@@ -13511,7 +13363,7 @@
         ]
       },
       {
-        "Rank": 269,
+        "Rank": 266,
         "NCTId": [
           "NCT02055105"
         ],
@@ -13559,7 +13411,7 @@
         ]
       },
       {
-        "Rank": 270,
+        "Rank": 267,
         "NCTId": [
           "NCT02021604"
         ],
@@ -13602,7 +13454,7 @@
         ]
       },
       {
-        "Rank": 271,
+        "Rank": 268,
         "NCTId": [
           "NCT01960166"
         ],
@@ -13644,7 +13496,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 272,
+        "Rank": 269,
         "NCTId": [
           "NCT01857791"
         ],
@@ -13691,7 +13543,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 273,
+        "Rank": 270,
         "NCTId": [
           "NCT01839747"
         ],
@@ -13740,7 +13592,7 @@
         ]
       },
       {
-        "Rank": 274,
+        "Rank": 271,
         "NCTId": [
           "NCT01724463"
         ],
@@ -13795,7 +13647,7 @@
         ]
       },
       {
-        "Rank": 275,
+        "Rank": 272,
         "NCTId": [
           "NCT01665326"
         ],
@@ -13845,7 +13697,7 @@
         ]
       },
       {
-        "Rank": 276,
+        "Rank": 273,
         "NCTId": [
           "NCT01629017"
         ],
@@ -13894,7 +13746,7 @@
         ]
       },
       {
-        "Rank": 277,
+        "Rank": 274,
         "NCTId": [
           "NCT01598766"
         ],
@@ -13946,7 +13798,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 278,
+        "Rank": 275,
         "NCTId": [
           "NCT01577810"
         ],
@@ -13997,7 +13849,7 @@
         ]
       },
       {
-        "Rank": 279,
+        "Rank": 276,
         "NCTId": [
           "NCT01543438"
         ],
@@ -14044,7 +13896,7 @@
         ]
       },
       {
-        "Rank": 280,
+        "Rank": 277,
         "NCTId": [
           "NCT01504373"
         ],
@@ -14090,7 +13942,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 281,
+        "Rank": 278,
         "NCTId": [
           "NCT01422759"
         ],
@@ -14142,7 +13994,7 @@
         ]
       },
       {
-        "Rank": 282,
+        "Rank": 279,
         "NCTId": [
           "NCT01422746"
         ],
@@ -14192,7 +14044,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 283,
+        "Rank": 280,
         "NCTId": [
           "NCT01421810"
         ],
@@ -14243,7 +14095,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 281,
         "NCTId": [
           "NCT01421797"
         ],
@@ -14295,7 +14147,7 @@
         ]
       },
       {
-        "Rank": 285,
+        "Rank": 282,
         "NCTId": [
           "NCT01386736"
         ],
@@ -14344,7 +14196,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 286,
+        "Rank": 283,
         "NCTId": [
           "NCT01304875"
         ],
@@ -14388,7 +14240,7 @@
         ]
       },
       {
-        "Rank": 287,
+        "Rank": 284,
         "NCTId": [
           "NCT01285531"
         ],
@@ -14445,7 +14297,7 @@
         ]
       },
       {
-        "Rank": 288,
+        "Rank": 285,
         "NCTId": [
           "NCT01122095"
         ],
@@ -14498,7 +14350,7 @@
         ]
       },
       {
-        "Rank": 289,
+        "Rank": 286,
         "NCTId": [
           "NCT00906906"
         ],
@@ -14549,7 +14401,7 @@
         ]
       },
       {
-        "Rank": 290,
+        "Rank": 287,
         "NCTId": [
           "NCT00814853"
         ],
@@ -14596,7 +14448,7 @@
         ]
       },
       {
-        "Rank": 291,
+        "Rank": 288,
         "NCTId": [
           "NCT00792415"
         ],
@@ -14644,7 +14496,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 292,
+        "Rank": 289,
         "NCTId": [
           "NCT00745394"
         ],
@@ -14691,7 +14543,7 @@
         ]
       },
       {
-        "Rank": 293,
+        "Rank": 290,
         "NCTId": [
           "NCT00616317"
         ],
@@ -14729,7 +14581,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 294,
+        "Rank": 291,
         "NCTId": [
           "NCT00494572"
         ],
@@ -14779,7 +14631,7 @@
         ]
       },
       {
-        "Rank": 295,
+        "Rank": 292,
         "NCTId": [
           "NCT00491946"
         ],
@@ -14824,7 +14676,7 @@
         ]
       },
       {
-        "Rank": 296,
+        "Rank": 293,
         "NCTId": [
           "NCT00465699"
         ],
@@ -14868,7 +14720,7 @@
         ]
       },
       {
-        "Rank": 297,
+        "Rank": 294,
         "NCTId": [
           "NCT00320086"
         ],
@@ -14916,7 +14768,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 295,
         "NCTId": [
           "NCT00292513"
         ],
@@ -14961,7 +14813,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 299,
+        "Rank": 296,
         "NCTId": [
           "NCT00182572"
         ],
@@ -15005,7 +14857,7 @@
         ]
       },
       {
-        "Rank": 300,
+        "Rank": 297,
         "NCTId": [
           "NCT00167219"
         ],
@@ -15051,7 +14903,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 298,
         "NCTId": [
           "NCT00036712"
         ],
@@ -15108,7 +14960,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 299,
         "NCTId": [
           "NCT00012506"
         ],
@@ -15156,7 +15008,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 300,
         "NCTId": [
           "NCT00000112"
         ],
@@ -15197,7 +15049,56 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 304,
+        "Rank": 301,
+        "NCTId": [
+          "NCT04798482"
+        ],
+        "OfficialTitle": [
+          "Effect of Dexmedetomidine of Gastrointestinal Motility"
+        ],
+        "Condition": [
+          "Anesthesia"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nAges 3-18 years who are scheduled to have an anorectal manometry followed by an upper or lower endoscopic procedures at Boston Children's Hospital\nPatients are cooperative to do the anorectal manometry without sedation (besides pre-med midazolam)\nAnticipates to receive standard sedation with dexmedetomidine and propofol for a gastrointestinal procedure in the Gastroenterology Procedure Unit (GPU)\nProvides written consent to participate in the research study\nIn females of reproductive age, pregnancy testing\n\nExclusion Criteria:\n\nDo not meet established sedation criteria\nPatients who require sedation prior to their anal manometry testing\nHistory of allergy, intolerance, or reaction to dexmedetomidine or propofol or hypersensitivity\nCurrent, repaired or risk of Moya-Moya disease\nRecent stroke (cerebrovascular accident) within past 6 months\nUncontrolled hypertension\nConcomitant use of opioids, beta antagonist, alpha 2 agonist or calcium channel blocker\nEgg, soy or lecithin allergy\nBMI greater than 30 or weight above 110th percentile\nRefuses insertion of intravenous catheter while awake\nCurrently receiving pharmacologic agents for hypertension or cardiac disease\nCurrently receiving or has received digoxin within the past 3 months\nActive, uncontrolled gastroesophageal reflux - an aspiration risk\nCurrent (or within past 3 months) history of apnea requiring an apnea monitor\nUnstable cardiac status (life threatening arrhythmias, abnormal cardiac anatomy, significant cardiac dysfunction)\nCraniofacial anomaly, which could make it difficult to effectively establish a mask airway for positive pressure ventilation if needed\nActive, current respiratory issues that are different from the baseline status (pneumonia, exacerbation of asthma, bronchiolitis, respiratory syncytial virus)."
+        ],
+        "MinimumAge": [
+          "3 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Boston"
+        ],
+        "LocationFacility": [
+          "Boston Children's Hospital"
+        ],
+        "LocationState": [
+          "Massachusetts"
+        ],
+        "LocationZip": [
+          "02115"
+        ],
+        "LocationContactEMail": [
+          "brooke.sens@childrens.harvard.edu",
+          "karina.lukovits@childrens.harvard.edu"
+        ],
+        "LocationContactName": [
+          "Brooke Sens",
+          "Karina Lukovits",
+          "Keira Mason, MD"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Anorectal manometry requires that the patient be able to respond to command and not receive any medications which could alter muscle tone or motility. In the pediatric population, anorectal manometry can be psychologically challenging to parents and their child, as it is traditionally performed without adjuvant sedation or anesthesia. Sedatives and anesthesia can alter motility and smooth muscle activity, as well as render it difficult or impossible for the child to follow commands required of the study. Patient or parent non-compliance, inability to follow commands or to tolerate the procedure often renders the study invalid or impossible to complete. Dexmedetomidine is a sedative who's effect on anorectal musculature has not been studied nor determined. It would be important to determine whether it spares smooth muscle function, as it would provide a viable option to provide sedation to children while still preserving their ability to respond to command. The primary objective of this study is to examine the effects of dexmedetomidine on gastrointestinal smooth muscle by observing changes in anorectal manometry before and after dexmedetomdine administration."
+        ],
+        "DetailedDescription": [
+          "Primary objective:\n\nTo examine the effects of dexmedetomidine on intra-anal pressure and the dose response curve to balloon distention by comparing the baseline measurements with those after dexmedetomidine administration.\n\nDexmedetomidine is an alpha-2 agonist that is considered to be a smooth muscle relaxant. It's a potential use as a sedative for endoscopies has been considered. It is important to know whether or not it has effect on smooth muscle tone and would affect manometry studies in those patients who could receive it. The investigator hypothesizes that dexmedetomidine will have minimal effects in the dosing that is being administered.\n\nBackground:\n\nAnorectal manometry requires that the patient be able to respond to command and not receive any medications which could alter muscle tone or motility. These patients typically have the manometry performed without any adjuvant sedatives, anesthetics or medications. In the pediatric population, anorectal manometry can be psychologically challenging to parents and their child, particularly without adjuvant sedation or anesthesia. There are some exceptional circumstances which require sedation/anesthesia administration for these procedures, either because the children are young (< 5 years), they have behavioral issues (like autism) or because they have severe anxiety. In those patients with severe issues even general anesthesia may be needed. The risk of administering any medication to these patients is that they can alter motility and smooth muscle activity, consequently artificially altering the results of the anal manometry. It is important to know which medications can be administered without affecting anal muscle tone. Dexmedetomidine is a newer sedative and anxiolytic. It could be valuable for anxiolysis for anal manometry. It's effect on anal smooth muscle, however, has never been studied. It would be important to determine whether it spares smooth muscle function, as it would provide a viable option to provide sedation to children while still preserving their ability to respond to command.\n\nDexmedetomidine is one of the standard drugs administered for sedation in children who require sedation for diagnostic (gastroendoscopic upper and lower procedures) and radiologic diagnostic imaging studies (MRI, CT and Nuclear Medicine). Over 17,000 infants, children and developmentally compromised young adults have been sedated with dexmedetomidine at Boston Children's Hospital without a cardiac or respiratory arrest, or a need to provide positive pressure assisted ventilation.\n\nMethods:\n\nPatients will undergo the usual anal manometry study, with no adjuvant medications, per routine practice currently in the gastrointestinal unit. Following completion of manometry, 0.5 mcg/kg DEX will be administered over 1 minute followed by an infusion of 0.15 mcg/kg/hr. Manometry measurements will be followed for 15 minutes in response to DEX.\n\nDefinition of Primary Endpoint:\n\nPrimary outcome: To examine the effects of dexmedetomidine on intra-anal pressure and the dose response curve to balloon distention by comparing the baseline measurements with those after dexmedetomidine administration. The pressure measurements will be recorded by the research team member who will be present, every 30 seconds starting from 5 minutes prior to DEX to 15 minutes following DEX administration.\n\nData Analysis Plan:\n\nData will be analyzed after the completion of the study. The manometry measurements will be done blindly by one of the investigators.\n\nThe following endpoints will be analyzed at the completion of the study: time to meet modified Aldrete discharge criteria, adverse events, need for unplanned airway interventions, intravenous anesthetic duration of sedation, presence of agitation/delirium (PAED score), and time of BIS score to return to baseline (pre-sedation level).\n\nStatistical Power and Sample Considerations:\n\nThe study was powered and sample size calculated assuming a mean intra-anal pressure of 90 mmHg, with a mean reduction to 65 mmHg, and a standard deviation of 32. With a significance level of 0.05, it would require approximately 15 subjects to achieve power of 80.3%."
+        ]
+      },
+      {
+        "Rank": 302,
         "NCTId": [
           "NCT04797559"
         ],
@@ -15246,7 +15147,7 @@
         ]
       },
       {
-        "Rank": 305,
+        "Rank": 303,
         "NCTId": [
           "NCT04795674"
         ],
@@ -15298,7 +15199,7 @@
         ]
       },
       {
-        "Rank": 306,
+        "Rank": 304,
         "NCTId": [
           "NCT04788524"
         ],
@@ -15347,7 +15248,7 @@
         ]
       },
       {
-        "Rank": 307,
+        "Rank": 305,
         "NCTId": [
           "NCT04786977"
         ],
@@ -15394,7 +15295,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 308,
+        "Rank": 306,
         "NCTId": [
           "NCT04784455"
         ],
@@ -15438,7 +15339,7 @@
         ]
       },
       {
-        "Rank": 309,
+        "Rank": 307,
         "NCTId": [
           "NCT04783506"
         ],
@@ -15487,7 +15388,7 @@
         ]
       },
       {
-        "Rank": 310,
+        "Rank": 308,
         "NCTId": [
           "NCT04771338"
         ],
@@ -15540,7 +15441,7 @@
         ]
       },
       {
-        "Rank": 311,
+        "Rank": 309,
         "NCTId": [
           "NCT04768634"
         ],
@@ -15583,7 +15484,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 310,
         "NCTId": [
           "NCT04756427"
         ],
@@ -15629,7 +15530,56 @@
         ]
       },
       {
-        "Rank": 313,
+        "Rank": 311,
+        "NCTId": [
+          "NCT04634643"
+        ],
+        "OfficialTitle": [
+          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
+        ],
+        "Condition": [
+          "NAFLD"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "New Haven"
+        ],
+        "LocationFacility": [
+          "Yale New Haven Hospital"
+        ],
+        "LocationState": [
+          "Connecticut"
+        ],
+        "LocationZip": [
+          "06510"
+        ],
+        "LocationContactEMail": [
+          "jessica.lat@yale.edu",
+          "zhongyao.li@yale.edu"
+        ],
+        "LocationContactName": [
+          "Jessica Lat",
+          "Zhongyao Li",
+          "Nicola Santoro, MD, PhD"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
+        ],
+        "DetailedDescription": [
+          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
+        ]
+      },
+      {
+        "Rank": 312,
         "NCTId": [
           "NCT04621890"
         ],
@@ -15680,7 +15630,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 313,
         "NCTId": [
           "NCT03266016"
         ],
@@ -15722,7 +15672,7 @@
         ]
       },
       {
-        "Rank": 315,
+        "Rank": 314,
         "NCTId": [
           "NCT02420990"
         ],
@@ -15770,7 +15720,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 316,
+        "Rank": 315,
         "NCTId": [
           "NCT05202418"
         ],
@@ -15828,7 +15778,7 @@
         ]
       },
       {
-        "Rank": 317,
+        "Rank": 316,
         "NCTId": [
           "NCT05124210"
         ],
@@ -15898,7 +15848,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 318,
+        "Rank": 317,
         "NCTId": [
           "NCT04602728"
         ],
@@ -15948,7 +15898,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 318,
         "NCTId": [
           "NCT04582682"
         ],
@@ -16013,7 +15963,7 @@
         ]
       },
       {
-        "Rank": 320,
+        "Rank": 319,
         "NCTId": [
           "NCT04465370"
         ],
@@ -16071,7 +16021,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 321,
+        "Rank": 320,
         "NCTId": [
           "NCT01142882"
         ],
@@ -16135,7 +16085,7 @@
         ]
       },
       {
-        "Rank": 322,
+        "Rank": 321,
         "NCTId": [
           "NCT03657771"
         ],
@@ -16206,7 +16156,7 @@
         ]
       },
       {
-        "Rank": 323,
+        "Rank": 322,
         "NCTId": [
           "NCT03412162"
         ],
@@ -16262,7 +16212,7 @@
         ]
       },
       {
-        "Rank": 324,
+        "Rank": 323,
         "NCTId": [
           "NCT05335538"
         ],
@@ -16318,7 +16268,7 @@
         ]
       },
       {
-        "Rank": 325,
+        "Rank": 324,
         "NCTId": [
           "NCT04344899"
         ],
@@ -16379,7 +16329,7 @@
         ]
       },
       {
-        "Rank": 326,
+        "Rank": 325,
         "NCTId": [
           "NCT02260856"
         ],
@@ -16462,7 +16412,7 @@
         ]
       },
       {
-        "Rank": 327,
+        "Rank": 326,
         "NCTId": [
           "NCT04156347"
         ],
@@ -16514,7 +16464,7 @@
         ]
       },
       {
-        "Rank": 328,
+        "Rank": 327,
         "NCTId": [
           "NCT04998656"
         ],
@@ -16584,7 +16534,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 329,
+        "Rank": 328,
         "NCTId": [
           "NCT04625686"
         ],
@@ -16654,7 +16604,7 @@
         ]
       },
       {
-        "Rank": 330,
+        "Rank": 329,
         "NCTId": [
           "NCT04621331"
         ],
@@ -16711,7 +16661,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 331,
+        "Rank": 330,
         "NCTId": [
           "NCT04074265"
         ],
@@ -16795,7 +16745,7 @@
         ]
       },
       {
-        "Rank": 332,
+        "Rank": 331,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16864,7 +16814,7 @@
         ]
       },
       {
-        "Rank": 333,
+        "Rank": 332,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16934,7 +16884,7 @@
         ]
       },
       {
-        "Rank": 334,
+        "Rank": 333,
         "NCTId": [
           "NCT02914405"
         ],
@@ -17005,7 +16955,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 335,
+        "Rank": 334,
         "NCTId": [
           "NCT02391324"
         ],
@@ -17067,7 +17017,7 @@
         ]
       },
       {
-        "Rank": 336,
+        "Rank": 335,
         "NCTId": [
           "NCT02134782"
         ],
@@ -17131,7 +17081,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 336,
         "NCTId": [
           "NCT04333823"
         ],
@@ -17200,7 +17150,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 337,
         "NCTId": [
           "NCT04903314"
         ],
@@ -17274,7 +17224,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 338,
         "NCTId": [
           "NCT03240809"
         ],
@@ -17332,7 +17282,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 339,
         "NCTId": [
           "NCT04718441"
         ],
@@ -17413,7 +17363,7 @@
         ]
       },
       {
-        "Rank": 341,
+        "Rank": 340,
         "NCTId": [
           "NCT04853316"
         ],
@@ -17490,7 +17440,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 341,
         "NCTId": [
           "NCT04251026"
         ],
@@ -17573,7 +17523,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 343,
+        "Rank": 342,
         "NCTId": [
           "NCT00005105"
         ],
@@ -17637,7 +17587,7 @@
         ]
       },
       {
-        "Rank": 344,
+        "Rank": 343,
         "NCTId": [
           "NCT04810481"
         ],
@@ -17711,7 +17661,7 @@
         ]
       },
       {
-        "Rank": 345,
+        "Rank": 344,
         "NCTId": [
           "NCT03505658"
         ],
@@ -17772,7 +17722,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 346,
+        "Rank": 345,
         "NCTId": [
           "NCT03989986"
         ],
@@ -17832,7 +17782,7 @@
         ]
       },
       {
-        "Rank": 347,
+        "Rank": 346,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17903,7 +17853,7 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 347,
         "NCTId": [
           "NCT05203198"
         ],
@@ -18012,7 +17962,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 348,
         "NCTId": [
           "NCT03910933"
         ],
@@ -18095,7 +18045,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 349,
         "NCTId": [
           "NCT04816643"
         ],
@@ -18541,7 +18491,7 @@
         ]
       },
       {
-        "Rank": 351,
+        "Rank": 350,
         "NCTId": [
           "NCT04442295"
         ],
@@ -18670,7 +18620,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 351,
         "NCTId": [
           "NCT04431453"
         ],
@@ -18841,7 +18791,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 352,
         "NCTId": [
           "NCT04318548"
         ],
@@ -19167,7 +19117,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 353,
         "NCTId": [
           "NCT04258943"
         ],
@@ -19534,7 +19484,7 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 354,
         "NCTId": [
           "NCT04203316"
         ],
@@ -19713,7 +19663,7 @@
         ]
       },
       {
-        "Rank": 356,
+        "Rank": 355,
         "NCTId": [
           "NCT04195399"
         ],
@@ -20410,7 +20360,7 @@
         ]
       },
       {
-        "Rank": 357,
+        "Rank": 356,
         "NCTId": [
           "NCT02205762"
         ],
@@ -20764,7 +20714,7 @@
         ]
       },
       {
-        "Rank": 358,
+        "Rank": 357,
         "NCTId": [
           "NCT02121132"
         ],
@@ -20942,7 +20892,7 @@
         ]
       },
       {
-        "Rank": 359,
+        "Rank": 358,
         "NCTId": [
           "NCT04614662"
         ],
@@ -21101,7 +21051,7 @@
         ]
       },
       {
-        "Rank": 360,
+        "Rank": 359,
         "NCTId": [
           "NCT03939637"
         ],
@@ -21284,7 +21234,7 @@
         ]
       },
       {
-        "Rank": 361,
+        "Rank": 360,
         "NCTId": [
           "NCT03719339"
         ],
@@ -21450,7 +21400,7 @@
         ]
       },
       {
-        "Rank": 362,
+        "Rank": 361,
         "NCTId": [
           "NCT04743141"
         ],
@@ -21905,7 +21855,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 363,
+        "Rank": 362,
         "NCTId": [
           "NCT05041712"
         ],
@@ -21993,7 +21943,7 @@
         ]
       },
       {
-        "Rank": 364,
+        "Rank": 363,
         "NCTId": [
           "NCT01987882"
         ],
@@ -22106,7 +22056,7 @@
         ]
       },
       {
-        "Rank": 365,
+        "Rank": 364,
         "NCTId": [
           "NCT00670735"
         ],
@@ -22261,7 +22211,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 366,
+        "Rank": 365,
         "NCTId": [
           "NCT02859896"
         ],
@@ -22417,7 +22367,7 @@
         ]
       },
       {
-        "Rank": 367,
+        "Rank": 366,
         "NCTId": [
           "NCT05112237"
         ],
@@ -22483,7 +22433,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 368,
+        "Rank": 367,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22576,7 +22526,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 369,
+        "Rank": 368,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22644,7 +22594,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 370,
+        "Rank": 369,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22747,7 +22697,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 371,
+        "Rank": 370,
         "NCTId": [
           "NCT03962894"
         ],
@@ -22839,7 +22789,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 372,
+        "Rank": 371,
         "NCTId": [
           "NCT05049330"
         ],
@@ -22975,7 +22925,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 373,
+        "Rank": 372,
         "NCTId": [
           "NCT03118986"
         ],
@@ -23072,7 +23022,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 374,
+        "Rank": 373,
         "NCTId": [
           "NCT03117751"
         ],
@@ -23170,7 +23120,7 @@
         ]
       },
       {
-        "Rank": 375,
+        "Rank": 374,
         "NCTId": [
           "NCT03837899"
         ],
@@ -23284,7 +23234,7 @@
         ]
       },
       {
-        "Rank": 376,
+        "Rank": 375,
         "NCTId": [
           "NCT01148550"
         ],
@@ -23498,7 +23448,7 @@
         ]
       },
       {
-        "Rank": 377,
+        "Rank": 376,
         "NCTId": [
           "NCT03633708"
         ],
@@ -23674,7 +23624,7 @@
         ]
       },
       {
-        "Rank": 378,
+        "Rank": 377,
         "NCTId": [
           "NCT03813407"
         ],
@@ -23888,7 +23838,7 @@
         ]
       },
       {
-        "Rank": 379,
+        "Rank": 378,
         "NCTId": [
           "NCT03268421"
         ],
@@ -23985,7 +23935,7 @@
         ]
       },
       {
-        "Rank": 380,
+        "Rank": 379,
         "NCTId": [
           "NCT04068012"
         ],
@@ -24063,7 +24013,7 @@
         ]
       },
       {
-        "Rank": 381,
+        "Rank": 380,
         "NCTId": [
           "NCT02840409"
         ],
@@ -24201,7 +24151,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 381,
         "NCTId": [
           "NCT05074420"
         ],
@@ -24366,7 +24316,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 383,
+        "Rank": 382,
         "NCTId": [
           "NCT02650401"
         ],
@@ -24542,7 +24492,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 384,
+        "Rank": 383,
         "NCTId": [
           "NCT03813238"
         ],
@@ -24867,7 +24817,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 384,
         "NCTId": [
           "NCT03785405"
         ],
@@ -25184,7 +25134,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 386,
+        "Rank": 385,
         "NCTId": [
           "NCT04075266"
         ],
@@ -25307,7 +25257,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 387,
+        "Rank": 386,
         "NCTId": [
           "NCT04351893"
         ],
@@ -25407,7 +25357,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 388,
+        "Rank": 387,
         "NCTId": [
           "NCT04200352"
         ],
@@ -25549,7 +25499,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 389,
+        "Rank": 388,
         "NCTId": [
           "NCT05156398"
         ],
@@ -25763,7 +25713,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 390,
+        "Rank": 389,
         "NCTId": [
           "NCT05260021"
         ],
@@ -26125,7 +26075,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 391,
+        "Rank": 390,
         "NCTId": [
           "NCT04015141"
         ],
@@ -26137,7 +26087,7 @@
           "Partial-onset Seizures"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nMale or female participants. Cohort 1: age 1 month to less than 18 years; Cohort 2: age 1 month to less than 2 years at the time of informed consent/assent. Children age 1 month to less than 2 years will be enrolled only after approval is obtained for a Substantial Protocol Amendment outlining the dose schedule for this age range.\nHave a diagnosis of epilepsy with a pediatric epileptic syndrome (Cohort 1) or epilepsy with partial-onset seizures (POS) with or without secondary generalization (Cohort 2).\nHave had 4 or more seizures during the 4-week screening/baseline period.\nHave had brain imaging (example, magnetic resonance imaging [MRI] scan or computed tomography [CT] [or ultrasound for less than 1 year old]) before screening visit that ruled out a progressive cause of epilepsy.\nCurrently maintained on stable doses of 1 to a maximum of 4 approved antiepileptic drugs (AEDs). A prescription medical marijuana (including products containing cannabidiol) is counted as 1 of the maximum of 4 allowed AEDs; however, it cannot be the only concomitant AED if this product is not an approved AED in the country where the study site is located. Doses must be stable for at least 4 weeks (at least 2 weeks for participant less than [<] 6 months old) before Visit 1; only 1 EIAED (defined as carbamazepine, phenytoin, oxcarbazepine, or eslicarbazepine) out of the maximum of 4 AEDs is allowed.\n\nExclusion Criteria:\n\nCurrent or history of pseudo-seizures (psychogenic nonepileptic seizures) within approximately 5 years before screening visit.\nHave a history of status epilepticus that required hospitalization within 6 months before screening visit.\nHave an unstable psychiatric diagnosis that may confound participants' ability to participate in the study or that may prevent completion of the protocol specified tests (example, significant suicide risk, including suicidal behavior and ideation within 6 months before screening visit 1, current psychotic disorder, acute mania).\nAny suicidal ideation with intent with or without a plan within 6 months before randomization visit (answering \"Yes\" to questions 4 or 5 on the Suicidal Ideation section of the C-SSRS) in participants aged 6 and above or based on the opinion of the Investigator for participants less than 6 years.\nAre scheduled or confirmed or both to have epilepsy surgery within 6 months after screening visit ; however, those who have previously documented \"failed\" epilepsy surgery will be allowed.\nHave a progressive central nervous system (CNS) disease, including degenerative CNS diseases and progressive tumors.\nBenzodiazepines for any indications other than epilepsy (example, anxiety/sleep disorders) prohibited from 1 month before Visit 1 and during the study. Benzodiazepines for seizure control are allowed.\nA vagal nerve stimulator (VNS), responsive neurostimulator (RNS), or deep brain stimulator (DBS) implanted less than 5 months before screening visit or changes in parameter less than 4 weeks before screening visit (or thereafter during the study).\nUse of perampanel within 30 days before screening visit, or perampanel was discontinued due to adverse reactions (perampanel-related) or lack of efficacy in case of previous exposure."
+          "Inclusion Criteria:\n\nMale or female participants. Cohort 1: age 1 month to less than 18 years; Cohort 2: age 1 month to less than 2 years at the time of informed consent/assent. Participants below the age of 1 year must have been at least 36 weeks of gestational age at birth.\nHave a diagnosis of epilepsy with a pediatric epileptic syndrome (Cohort 1) or epilepsy with POS with or without secondary generalization (Cohort 2).\nHave had equal or greater than 4 seizures over the 4-week interval prior to enrollment visit.\nAbsence of any progressive cause of epilepsy that has been confirmed clinically or based on brain imaging (example, magnetic resonance imaging [MRI] scan or computed tomography [CT] or ultrasound [for less than 1 year old]).\nCurrently maintained on stable doses of 1 to a maximum of 4 approved antiepileptic drugs (AEDs). A prescription medical marijuana (including products containing cannabidiol) is counted as 1 of the maximum of 4 allowed AEDs; however, it cannot be the only concomitant AED if this product is not an approved AED in the country where the study site is located. Doses must be stable for at least 4 weeks (at least 2 weeks for participant less than [<] 6 months old) before Visit 1/Baseline or screening; only 1 enzyme-inducing antiepileptic drug (EIAED) (defined as carbamazepine, phenytoin, oxcarbazepine, or eslicarbazepine) out of the maximum of 4 AEDs is allowed.\n\nExclusion Criteria:\n\nCurrent or history of pseudo-seizures (psychogenic nonepileptic seizures) within approximately 5 years before screening visit.\nHave a history of status epilepticus that required hospitalization within 6 months before screening visit.\nHave an unstable psychiatric diagnosis that may confound participant's ability to participate in the study or that may prevent completion of the protocol specified tests (example, significant suicide risk, including suicidal behavior and ideation within 6 months before screening visit 1, current psychotic disorder, acute mania).\nAny suicidal ideation with intent with or without a plan within 6 months before enrollment visit (answering \"Yes\" to questions 4 or 5 on the Suicidal Ideation section of the C-SSRS) in participants aged 6 and above or based on the opinion of the Investigator for participants less than 6 years.\nAre scheduled or confirmed or both to have epilepsy surgery within 6 months after screening visit; however, those who have previously documented \"failed\" epilepsy surgery will be allowed.\nHave a progressive central nervous system (CNS) disease, including degenerative CNS diseases and progressive tumors.\nBenzodiazepines for any indications other than epilepsy (example, anxiety/sleep disorders) prohibited from 1 month before Visit 1/Baseline or screening and during the study. Benzodiazepines for seizure control and as rescue medication are allowed.\nA vagal nerve stimulator (VNS), responsive neurostimulator (RNS), or deep brain stimulator (DBS) implanted less than 5 months before screening visit or changes in parameter less than 4 weeks before screening visit (or thereafter during the study).\nUse of perampanel within 30 days before screening visit, or perampanel was discontinued due to adverse reactions (perampanel-related) or lack of efficacy in case of previous exposure.\nWeight less than 4.0 kilogram (kg) at Visit 1 (Baseline or screening)."
         ],
         "MinimumAge": [
           "1 Month"
@@ -26304,10 +26254,12 @@
         "BriefSummary": [
           "The purpose of the study is to evaluate the efficacy of perampanel as measured by the 50 percent (%) responder rate during the maintenance period of the core study for seizure frequency in participants with pediatric epileptic syndrome (Cohort 1) and partial-onset seizures (POS) (Cohort 2)."
         ],
-        "DetailedDescription": []
+        "DetailedDescription": [
+          "This study will consist of a Core Study, Extension Phase A and Extension Phase B.\n\nCore Study will consist of the following 2 phases: Pretreatment (4 weeks screening or baseline period) and Treatment Period. The Treatment Period (23 weeks) of Core study include Titration period (10 weeks) and Maintenance period (13 weeks).\nExtension Phase A will consist of a Treatment Period (33 weeks) and a Follow-up Period (4 weeks). All participants who will complete the Core Study will be eligible to participate in Extension Phase A of the study.\nExtension Phase B will only be for participants who reside in countries where perampanel (oral tablets or oral suspension) is not commercially available or an extended access program (EAP) is not yet implemented, participants have completed Extension Phase A, and who, in the opinion of the investigator, will continue to benefit from treatment with perampanel."
+        ]
       },
       {
-        "Rank": 392,
+        "Rank": 391,
         "NCTId": [
           "NCT02134301"
         ],
@@ -26398,7 +26350,7 @@
         ]
       },
       {
-        "Rank": 393,
+        "Rank": 392,
         "NCTId": [
           "NCT05059327"
         ],
@@ -26480,7 +26432,7 @@
         ]
       },
       {
-        "Rank": 394,
+        "Rank": 393,
         "NCTId": [
           "NCT01500551"
         ],
@@ -27017,7 +26969,7 @@
         ]
       },
       {
-        "Rank": 395,
+        "Rank": 394,
         "NCTId": [
           "NCT04862221"
         ],
@@ -27222,7 +27174,7 @@
         ]
       },
       {
-        "Rank": 396,
+        "Rank": 395,
         "NCTId": [
           "NCT04649151"
         ],
@@ -27444,7 +27396,7 @@
         ]
       },
       {
-        "Rank": 397,
+        "Rank": 396,
         "NCTId": [
           "NCT04114539"
         ],
@@ -27788,7 +27740,7 @@
         ]
       },
       {
-        "Rank": 398,
+        "Rank": 397,
         "NCTId": [
           "NCT03958877"
         ],
@@ -28028,7 +27980,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 399,
+        "Rank": 398,
         "NCTId": [
           "NCT04218851"
         ],
@@ -28209,7 +28161,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 400,
+        "Rank": 399,
         "NCTId": [
           "NCT04238819"
         ],
@@ -28328,7 +28280,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 401,
+        "Rank": 400,
         "NCTId": [
           "NCT03275402"
         ],
@@ -28412,7 +28364,7 @@
         ]
       },
       {
-        "Rank": 402,
+        "Rank": 401,
         "NCTId": [
           "NCT03406507"
         ],
@@ -28468,7 +28420,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 403,
+        "Rank": 402,
         "NCTId": [
           "NCT02862132"
         ],
@@ -28591,7 +28543,7 @@
         ]
       },
       {
-        "Rank": 404,
+        "Rank": 403,
         "NCTId": [
           "NCT05081180"
         ],
@@ -28669,7 +28621,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 405,
+        "Rank": 404,
         "NCTId": [
           "NCT00903110"
         ],
@@ -28808,7 +28760,7 @@
         ]
       },
       {
-        "Rank": 406,
+        "Rank": 405,
         "NCTId": [
           "NCT05244304"
         ],
@@ -28886,7 +28838,7 @@
         ]
       },
       {
-        "Rank": 407,
+        "Rank": 406,
         "NCTId": [
           "NCT04236414"
         ],
@@ -29026,7 +28978,7 @@
         ]
       },
       {
-        "Rank": 408,
+        "Rank": 407,
         "NCTId": [
           "NCT04143724"
         ],
