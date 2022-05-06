@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.05",
-    "DataVrs": "2022:05:03 23:03:10.113",
+    "DataVrs": "2022:05:04 23:04:35.053",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 413909,
-    "NStudiesFound": 402,
+    "NStudiesAvail": 414049,
+    "NStudiesFound": 401,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 402,
+    "NStudiesReturned": 401,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -24034,15 +24034,15 @@
           "Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine",
           "Centre Leon Berard; Pediatrie",
           "Hôpital de la Timone, Oncologie Pédiatrique",
-          "Hopital Purpan; Pédiatrie - Hématologie - Oncologie pédiatrique",
+          "Hopital Purpan; Pediatrie - Hematologie - Oncologie pediatrique",
           "Institut Gustave Roussy; Service de Pathologie Morphologique",
-          "Universitätsklinikum Heidelberg",
+          "Universitaetsklinikum Heidelberg",
           "Hong Kong Children's Hospital",
           "Fondazione IRCCS Istituto Nazionale dei Tumori; Struttura Complessa di Pediatria Oncologica",
           "A. O. Città della Salute e della Scienza di Torino; SC Oncoematologia e Centro Trapianti AOOIRM",
           "Seoul National University Hospital",
           "Hospital Sant Joan de Deu; Servicio de Oncologia y Hematologia",
-          "Hospital Infantil Universitario Niño Jesus; Servicio de Onco-hematologia",
+          "Hospital Infantil Universitario Nino Jesus",
           "National Taiwan University Hospital; Department of Paediatrics",
           "Chang Gung Memorial Hospital, Linkou; Department of Pediatric Internal Medicine",
           "Leeds General Infirmary",
@@ -26011,6 +26011,7 @@
           "Roseville",
           "Hawthorne",
           "Durham",
+          "Cleveland",
           "Dallas",
           "Houston",
           "Tacoma"
@@ -26022,8 +26023,9 @@
           "Helen DeVos Children Hospital (Site #: 112)",
           "William Beaumont Hospital - Royal Oak (Site #: 104)",
           "Minnesota Epilepsy Group PA (Site #: 105)",
-          "Boston Children's Health Physicians (BCHP)",
+          "Boston Children's Health Physicians (BCHP) (Site #: 111)",
           "Duke Children's Hospital and Health Center (Site #: 106)",
+          "University Hospitals Cleveland Medical Center, Rainbow Babies and Childrens Hospital (Site #: 107)",
           "Texas Scottish Rite Hospital For Children (Site #: 113)",
           "The University of Texas Medical School at Houston (Site #: 103)",
           "Multicare Health System (Site#: 109)"
@@ -26037,6 +26039,7 @@
           "Minnesota",
           "New York",
           "North Carolina",
+          "Ohio",
           "Texas",
           "Texas",
           "Washington"
@@ -26050,13 +26053,20 @@
           "55113-1306",
           "10532",
           "27705-4699",
+          "44106-1716",
           "75219-3924",
           "77030-3000",
           "98405-4048"
         ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
+        "LocationContactEMail": [
+          "brittany.hirth@uhhospitals.org"
+        ],
+        "LocationContactName": [
+          "Brittany Hirth"
+        ],
+        "LocationContactPhone": [
+          "216-844-8270"
+        ],
         "BriefSummary": [
           "The study intends to show that basimglurant provides effective seizure control in children and adolescents with Tuberous Sclerosis Complex (TSC)."
         ],
@@ -26123,6 +26133,7 @@
           "Bronx",
           "Lake Success",
           "New Hyde Park",
+          "New York",
           "New York",
           "Charlotte",
           "Charlotte",
@@ -26222,7 +26233,8 @@
           "Ivano-Frankivsk",
           "Lviv",
           "Vinnytsia",
-          "Birmingham"
+          "Birmingham",
+          "Glasgow"
         ],
         "LocationFacility": [
           "Phoenix Children's Hospital- Inpatient Pharmacy",
@@ -26263,6 +26275,7 @@
           "Montefiore Medical Center",
           "Cohen Children's Medical Center of New York",
           "Cohen Children's Medical Center of New York",
+          "Hospital for Special Surgery",
           "Columbia University Medical Center-Herbert Irving Pavillion",
           "Pediatric Research",
           "Levine Children's Specialty Center",
@@ -26362,7 +26375,8 @@
           "Municipal non-Profit Enterprise",
           "Communal Institution of Lviv Regional Council",
           "Vinnytsia Regional Children's Clinical Hospital of Vinnytsia Regional Council",
-          "Birmingham Woman's and Children's NHS Foundation Trust"
+          "Birmingham Woman's and Children's NHS Foundation Trust",
+          "NHS Greater Glasgow and Clyde Royal Hospital for Children"
         ],
         "LocationState": [
           "Arizona",
@@ -26400,6 +26414,7 @@
           "Minnesota",
           "New Jersey",
           "New Jersey",
+          "New York",
           "New York",
           "New York",
           "New York",
@@ -26490,6 +26505,7 @@
           "10467",
           "11042",
           "11040",
+          "10021",
           "10031",
           "20207",
           "28203",
@@ -26589,7 +26605,8 @@
           "76014",
           "79035",
           "21000",
-          "B4 6NH"
+          "B4 6NH",
+          "G51 4TF"
         ],
         "LocationContactEMail": [],
         "LocationContactName": [],
@@ -28055,129 +28072,6 @@
       {
         "Rank": 397,
         "NCTId": [
-          "NCT02862132"
-        ],
-        "OfficialTitle": [
-          "Predicting Response to Vedolizumab in Pediatric Inflammatory Bowel Diseases (IBD) Including Drug Levels: a Multi-center Prospective Cohort Study, From the Pediatric IBD Porto Group of European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN)"
-        ],
-        "Condition": [
-          "Crohn's Disease",
-          "Ulcerative Colitis",
-          "Inflammatory Bowel Disease"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nChildren under the age of 18 years.\nIBD Diagnosis\nInitiating Vedolizumab therapy\n\nExclusion Criteria:\n\n1. Starting Vedolizumab to prevent post operative recurrence"
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Morristown",
-          "New York",
-          "Philadelphia",
-          "Copenhagen",
-          "Helsinki",
-          "Dublin",
-          "Haifa",
-          "Holon",
-          "Jerusalem",
-          "Petach Tikva",
-          "Ramat Gan",
-          "Tel Aviv",
-          "Tzrifin",
-          "Ljubljana",
-          "Glasgow"
-        ],
-        "LocationFacility": [
-          "Atlantic Children's Health-Goryeb Children's Hospital",
-          "Cohen Children's Medical Center of NY, Northwell",
-          "Children's Hospital of Philadelphia",
-          "Hvidovre University Hospital",
-          "Hospital for Children and Adolescents Helsinki University Hospital",
-          "Our Lady's Children's Hospital Crumlin",
-          "Rambam Medical Cener",
-          "Wolfson Medical Center",
-          "Shaare Zedek Medical Center",
-          "Schneider Medical Center",
-          "Sheba Medical Center",
-          "Ichilov",
-          "Assaf Harofeh",
-          "University Children's Hospital Ljubljana",
-          "The Royal Hospital for Children Glasgow"
-        ],
-        "LocationState": [
-          "New Jersey",
-          "New York",
-          "Pennsylvania"
-        ],
-        "LocationZip": [],
-        "LocationContactEMail": [
-          "Mary.Kennedy@atlantichealth.org",
-          "Annette.Langseder@atlantichealth.org",
-          "WALDC2@chop.edu",
-          "christoph.norden@regionh.dk",
-          "kaija-leena.kolho@helsinki.fi",
-          "Sarah.Cooper@olchc.ie",
-          "liat.rambam@gmail.com",
-          "michal.yaakov@walla.com",
-          "danam@szmc.org.il",
-          "reutkl@clalit.org.il",
-          "hadassa@clalit.org.il",
-          "Shiri.Lahav@sheba.health.gov.il",
-          "shaniel@tlvmc.gov.il",
-          "Gastrolab@asaf.health.gov.il",
-          "darja.urlep@gmail.com",
-          "lisa.richmond@nhs.net"
-        ],
-        "LocationContactName": [
-          "Mary Kennedy",
-          "Annette Langseder",
-          "Joel Rosh",
-          "Corey Wald",
-          "Ronen Stein, MD",
-          "Christoph Norden",
-          "Christoph Norden, MD",
-          "Kaija-Leena Kolho, MD",
-          "Kaija-Leena Kolho, MD",
-          "Sarah Cooper, PhD",
-          "Seamus Hussey, MD",
-          "Liat Pritzker",
-          "Ron Shaoul, MD",
-          "Michal Yaakov",
-          "Arie Levine, MD",
-          "Dana Marcus, Msc.",
-          "Dan Turner, MD",
-          "Reut Klein",
-          "Sara Hadas",
-          "Amit Assa, MD",
-          "Shiri Lahav",
-          "Dror Shouval, MD",
-          "Shani Eldar",
-          "Shlomi Cohen, MD",
-          "Gilad Ben Yehuda",
-          "Efrat Broide, MD",
-          "Darja Urlep",
-          "Darja Urlep, MD",
-          "Lisa Richmond, MD",
-          "Richard Russell, MD"
-        ],
-        "LocationContactPhone": [
-          "973-971-6489",
-          "972-2-5645524",
-          "972-3-9253039",
-          "972-3-9253039"
-        ],
-        "BriefSummary": [
-          "Vedolizumab (VDZ) is a humanized immunoglobulin G1 monoclonal antibody acting against α4β7 integrin which modulates lymphocyte trafficking in the gut.\n\nResults from the adult GEMINI-1 and GEMINI-2 trials demonstrated clinical efficacy in induction and maintenance of remission in both ulcerative colitis (UC) and Crohn's disease (CD), respectively.\n\nRecent real life cohorts in adults support the effectiveness of VDZ in inducing and maintaining remission, both in CD and UC. In pediatrics, there are very limited data on the use of VDZ besides two retrospective case series.\n\nData on immunogenicity and therapeutic drug monitoring (TDM) of VDZ is conflicting in adults and practically non-existent in children.\n\nThe investigators aim to prospectively explore the real life short and longer term outcomes of VDZ in pediatric IBD (including growth) and to develop a prediction model for treatment success based on VDZ trough levels and other clinical and laboratory variables."
-        ],
-        "DetailedDescription": [
-          "This is a multi-center prospective cohort study in which the investigators are aim to enroll 140 children under the age of 18 years, diagnosed with CD, inflammatory bowel disease unclassified (IBDU) or UC (approximately 70 in UC/IBDU and 70 in the CD group) who commenced on Vedolizumab for any reason at the discretion of the treating physician.\n\nPatients will be followed up to 3 years at 8 different time points: week 0, week 2, week 6, week 14, week 30, week 54 (1 year), week 108 (2 years) and week 162 (3 years). Blood work will be collected at each visit during the time of venous access insertion for the drug infusion for serum and stool sample will be collected at visits 0, 14, 30, and 54. In addition, at week 0 and 14 whole blood will be collected into a PaxGene tube for gene expression analysis."
-        ]
-      },
-      {
-        "Rank": 398,
-        "NCTId": [
           "NCT05081180"
         ],
         "OfficialTitle": [
@@ -28254,7 +28148,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 399,
+        "Rank": 398,
         "NCTId": [
           "NCT00903110"
         ],
@@ -28393,7 +28287,7 @@
         ]
       },
       {
-        "Rank": 400,
+        "Rank": 399,
         "NCTId": [
           "NCT05244304"
         ],
@@ -28471,7 +28365,7 @@
         ]
       },
       {
-        "Rank": 401,
+        "Rank": 400,
         "NCTId": [
           "NCT04236414"
         ],
@@ -28611,7 +28505,7 @@
         ]
       },
       {
-        "Rank": 402,
+        "Rank": 401,
         "NCTId": [
           "NCT04143724"
         ],
