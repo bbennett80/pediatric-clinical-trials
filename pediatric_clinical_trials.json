@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.05",
-    "DataVrs": "2022:05:17 23:15:01.581",
+    "DataVrs": "2022:05:18 23:13:06.209",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 415358,
-    "NStudiesFound": 400,
+    "NStudiesAvail": 415564,
+    "NStudiesFound": 399,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 400,
+    "NStudiesReturned": 399,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -3358,6 +3358,59 @@
       {
         "Rank": 64,
         "NCTId": [
+          "NCT04922983"
+        ],
+        "OfficialTitle": [
+          "Incobotulinumtoxin A and Yoga-like Isometric Exercise in Adolescent Idiopathic Lumbar Scoliosis"
+        ],
+        "Condition": [
+          "Scoliosis Idiopathic",
+          "Scoliosis; Adolescence",
+          "Scoliosis; Lumbar Region"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\n1. Fourteen - 18 years of age, 2. Scoliotic curve greater than 25 degrees, less than 45 degrees, 3. Stated willingness to do the yoga and yoga-like poses daily, 4. Written, signed consent by patient and parent/guardian 5. Pre-test Cobb films no less than 3 months old read by independent radiologists.\n\nExclusion Criteria:\n\nNeurological, muscular or neuromuscular disease, (e.gs., cerebral palsy, myopathy, stroke),\nGenetic abnormalities that affect limb growth, proportionality or metabolism, (e.gs., mucopolysaccharidoses, Marfan's syndrome, Refsums disease).\nPregnancy and other conditions prohibiting X-rays or minute(s)-long exertion (e.gs., congestive heart failure, great weakness, COPD).\nPrevious exposure to botulinum neurotoxin Type A. Sexually active female subjects must present a recent negative pregnancy test."
+        ],
+        "MinimumAge": [
+          "14 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Manhattan"
+        ],
+        "LocationFacility": [
+          "Manhattan Physical Medicine and Rehabilitation, PLLC"
+        ],
+        "LocationState": [
+          "New York"
+        ],
+        "LocationZip": [
+          "10022"
+        ],
+        "LocationContactEMail": [
+          "carampmr@gmail.com",
+          "loren@sciatica.org"
+        ],
+        "LocationContactName": [
+          "Cara Cipriano, BA, MA",
+          "Loren Fishman, MD"
+        ],
+        "LocationContactPhone": [
+          "212-472-0077",
+          "646-642-0700"
+        ],
+        "BriefSummary": [
+          "The study uses a yoga-like isometric posture and botulinum injections to reduce the curves in adolescent idiopathic lumbar scoliosis."
+        ],
+        "DetailedDescription": [
+          "The randomized control 5-month study employs an isometric yoga-like posture to strengthen the weak side, and one set of botulinum injections to weaken the strong side of adolescent idiopathic lumbar scoliosis between 25 and 45 degrees. It is open to people between 14 and 18 years of age who are willing to do the pose every day for the study period."
+        ]
+      },
+      {
+        "Rank": 65,
+        "NCTId": [
           "NCT04911270"
         ],
         "OfficialTitle": [
@@ -3403,7 +3456,7 @@
         ]
       },
       {
-        "Rank": 65,
+        "Rank": 66,
         "NCTId": [
           "NCT04896645"
         ],
@@ -3451,7 +3504,7 @@
         ]
       },
       {
-        "Rank": 66,
+        "Rank": 67,
         "NCTId": [
           "NCT04848532"
         ],
@@ -3506,7 +3559,7 @@
         ]
       },
       {
-        "Rank": 67,
+        "Rank": 68,
         "NCTId": [
           "NCT04845932"
         ],
@@ -3554,7 +3607,56 @@
         ]
       },
       {
-        "Rank": 68,
+        "Rank": 69,
+        "NCTId": [
+          "NCT04783506"
+        ],
+        "OfficialTitle": [
+          "Characterizing Inflammatory Profiles and Suicidal Behavior in Adolescents"
+        ],
+        "Condition": [
+          "Suicide and Depression"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria\n\nStudy participants must:\n\nBe adolescents (aged 12-18 years);\nHave the ability to speak, read, and understand English. The parent(s) or legal guardians of minors must also speak, read and understand English;\nBe willing to provide consent/assent. Consent will be provided by parents/LAR/guardian for youth under age 18 or by young adult participant, aged 18. Youth, aged 8-17, must be willing to provide assent;\nHave the ability to complete clinical evaluations and self-report measures;\n\nMeet criteria for one of these three groups:\n\nAdolescent with suicidal behaviors, defined as having a recent (within 3 months) suicide attempt or suicidal ideation warranting urgent evaluation;\nAdolescents at risk for mood disorders, defined by either personal history of anxiety disorder or substance use disorder or a history of trauma, or a first degree relative with a history of a mood disorder or suicidal history;\nHealthy adolescents with no lifetime history of any psychiatric or substance use disorders or a history of trauma. Additionally, no first-degree family member with a history of a mood disorder or suicidal history..\n\nExclusion Criteria\n\nStudy participants must not:\n\nHave current poorly controlled asthma, acute/chronic infection or other medical condition(s) that may affect immune marker levels;\nHave a current medication (e.g., corticosteroids) that may affect immune marker levels of reactivity;\nHave any condition for which, in the opinion of the investigator or designee, study participation would not be in their best interest (including but not limited to cognitive impairment, unstable general medical condition, intoxication, active psychosis) or that could prevent, limit, or confound the protocol-specified assessments;\nBe unable to provide a stable home address and contact information"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Dallas"
+        ],
+        "LocationFacility": [
+          "University of Texas Southwestern Medical Center"
+        ],
+        "LocationState": [
+          "Texas"
+        ],
+        "LocationZip": [
+          "75235"
+        ],
+        "LocationContactEMail": [
+          "sarah.gibson2@utsouthwestern.edu"
+        ],
+        "LocationContactName": [
+          "Sarah Gibson, M.A.",
+          "Madhukar H Trivedi, MD"
+        ],
+        "LocationContactPhone": [
+          "214-648-2921"
+        ],
+        "BriefSummary": [
+          "Despite increasing suicide rates in adolescents, there remains a paucity of approaches to use to prevent re-attempts. Any hope for breaking the code to prevent youth suicide lies in understanding biological factors that play a role. Evidence suggests that inflammation and immune system dysfunction may be linked to suicide. The investigators will develop immune profiles for adolescents with suicidal behavior and those at risk in order to develop tools that can be implemented for prevention efforts.\n\nThis study involves blood draws, answering questions, and completing questionnaires - no treatment or intervention is provided as part of this study. Participants will be screened to see if they qualify for this study using questionnaires.\n\nParticipants will be teens (ages 12-18 years) with recent suicidal behavior, teens at-risk for developing depression, and healthy control teens. Participants complete all study-related tasks four times over a period of 12 months. Electronic surveys will be sent to participants to complete monthly. Both the adolescent and if applicable, their parent (or legally authorized representatives, LARs), will answer questions regarding depression, anxiety, and suicidal thoughts/behaviors."
+        ],
+        "DetailedDescription": [
+          "The purpose of this study is to map inflammatory dysfunction to suicidal behavior and establish a reliable immune signature of suicide risk that can 1) guide future research into fundamental pathophysiology and 2) identify targets for drug development and guide clinical screening and risk management.\n\nBackground: In previous research, the investigators have identified targets of clinical utility for both suicide-risk identification and novel therapeutic development. Specifically, a state of immune hyper-reactivity that predisposes to suicidal behavior can be corrected by use of immunomodulatory agents.\n\nBlood tests screening for presence of autoantibodies may be implemented as diagnostic tests to predict future suicide risk. Monoclonal antibodies have gained recent attention for their use in CNS disorders (such as multiple sclerosis and migraine) and have been shown to be effective for some patients with depression.\n\nHowever, the utility of anti-inflammatory treatments for depression has been limited by a lack of biomarkers to guide their use. Thus, presence of autoantibodies may identify a sub-group of adolescents and young adults with suicidality who are candidates for treatment with monoclonal antibodies.\n\nThe investigators specifically hypothesize that depressed youths with suicide behavior have immune hyper-reactivity, as reflected in dysfunctional cells mediating both innate and adaptive immune response.\n\nStudy Items: Since this is an observational study, investigators will explore a comprehensive panel of carefully selected participant specific parameters: socio-demographic (age, ethnicity, economic); symptom severity measures (depressive symptoms, mood, and feelings); clinical (medical history, anxious depression, early life trauma), biological (biomarkers in blood), behavioral (cognitive, emotional), with the goal to develop the most robust predictive models of treatment response and of depression outcomes. There is no medication or non-medication treatment or intervention provided by this study."
+        ]
+      },
+      {
+        "Rank": 70,
         "NCTId": [
           "NCT04771338"
         ],
@@ -3607,7 +3709,7 @@
         ]
       },
       {
-        "Rank": 69,
+        "Rank": 71,
         "NCTId": [
           "NCT04768634"
         ],
@@ -3650,7 +3752,7 @@
         ]
       },
       {
-        "Rank": 70,
+        "Rank": 72,
         "NCTId": [
           "NCT04756427"
         ],
@@ -3696,7 +3798,7 @@
         ]
       },
       {
-        "Rank": 71,
+        "Rank": 73,
         "NCTId": [
           "NCT04752501"
         ],
@@ -3746,7 +3848,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 72,
+        "Rank": 74,
         "NCTId": [
           "NCT04752293"
         ],
@@ -3816,7 +3918,7 @@
         ]
       },
       {
-        "Rank": 73,
+        "Rank": 75,
         "NCTId": [
           "NCT04741139"
         ],
@@ -3864,7 +3966,7 @@
         ]
       },
       {
-        "Rank": 74,
+        "Rank": 76,
         "NCTId": [
           "NCT04738539"
         ],
@@ -3915,7 +4017,7 @@
         ]
       },
       {
-        "Rank": 75,
+        "Rank": 77,
         "NCTId": [
           "NCT04737460"
         ],
@@ -3964,7 +4066,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 76,
+        "Rank": 78,
         "NCTId": [
           "NCT04735874"
         ],
@@ -4013,7 +4115,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 77,
+        "Rank": 79,
         "NCTId": [
           "NCT04725305"
         ],
@@ -4075,7 +4177,7 @@
         ]
       },
       {
-        "Rank": 78,
+        "Rank": 80,
         "NCTId": [
           "NCT04706364"
         ],
@@ -4124,7 +4226,7 @@
         ]
       },
       {
-        "Rank": 79,
+        "Rank": 81,
         "NCTId": [
           "NCT04697966"
         ],
@@ -4168,7 +4270,7 @@
         ]
       },
       {
-        "Rank": 80,
+        "Rank": 82,
         "NCTId": [
           "NCT04688255"
         ],
@@ -4224,7 +4326,7 @@
         ]
       },
       {
-        "Rank": 81,
+        "Rank": 83,
         "NCTId": [
           "NCT04685343"
         ],
@@ -4270,7 +4372,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 82,
+        "Rank": 84,
         "NCTId": [
           "NCT04675567"
         ],
@@ -4321,7 +4423,7 @@
         ]
       },
       {
-        "Rank": 83,
+        "Rank": 85,
         "NCTId": [
           "NCT04671186"
         ],
@@ -4372,7 +4474,7 @@
         ]
       },
       {
-        "Rank": 84,
+        "Rank": 86,
         "NCTId": [
           "NCT04654260"
         ],
@@ -4429,7 +4531,7 @@
         ]
       },
       {
-        "Rank": 85,
+        "Rank": 87,
         "NCTId": [
           "NCT04639336"
         ],
@@ -4479,7 +4581,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 86,
+        "Rank": 88,
         "NCTId": [
           "NCT04638595"
         ],
@@ -4528,7 +4630,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 87,
+        "Rank": 89,
         "NCTId": [
           "NCT04637802"
         ],
@@ -4579,7 +4681,7 @@
         ]
       },
       {
-        "Rank": 88,
+        "Rank": 90,
         "NCTId": [
           "NCT04634643"
         ],
@@ -4628,7 +4730,7 @@
         ]
       },
       {
-        "Rank": 89,
+        "Rank": 91,
         "NCTId": [
           "NCT04602325"
         ],
@@ -4680,7 +4782,7 @@
         ]
       },
       {
-        "Rank": 90,
+        "Rank": 92,
         "NCTId": [
           "NCT04569708"
         ],
@@ -4736,7 +4838,7 @@
         ]
       },
       {
-        "Rank": 91,
+        "Rank": 93,
         "NCTId": [
           "NCT04562688"
         ],
@@ -4784,7 +4886,7 @@
         ]
       },
       {
-        "Rank": 92,
+        "Rank": 94,
         "NCTId": [
           "NCT04540536"
         ],
@@ -4835,7 +4937,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 93,
+        "Rank": 95,
         "NCTId": [
           "NCT04537390"
         ],
@@ -4882,7 +4984,7 @@
         ]
       },
       {
-        "Rank": 94,
+        "Rank": 96,
         "NCTId": [
           "NCT04529707"
         ],
@@ -4930,7 +5032,7 @@
         ]
       },
       {
-        "Rank": 95,
+        "Rank": 97,
         "NCTId": [
           "NCT04526639"
         ],
@@ -4976,7 +5078,7 @@
         ]
       },
       {
-        "Rank": 96,
+        "Rank": 98,
         "NCTId": [
           "NCT04522778"
         ],
@@ -5028,7 +5130,7 @@
         ]
       },
       {
-        "Rank": 97,
+        "Rank": 99,
         "NCTId": [
           "NCT04518397"
         ],
@@ -5077,7 +5179,7 @@
         ]
       },
       {
-        "Rank": 98,
+        "Rank": 100,
         "NCTId": [
           "NCT04516343"
         ],
@@ -5124,7 +5226,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 99,
+        "Rank": 101,
         "NCTId": [
           "NCT04502758"
         ],
@@ -5167,7 +5269,7 @@
         ]
       },
       {
-        "Rank": 100,
+        "Rank": 102,
         "NCTId": [
           "NCT04485416"
         ],
@@ -5218,7 +5320,7 @@
         ]
       },
       {
-        "Rank": 101,
+        "Rank": 103,
         "NCTId": [
           "NCT04482556"
         ],
@@ -5267,7 +5369,7 @@
         ]
       },
       {
-        "Rank": 102,
+        "Rank": 104,
         "NCTId": [
           "NCT04481243"
         ],
@@ -5313,7 +5415,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 103,
+        "Rank": 105,
         "NCTId": [
           "NCT04472286"
         ],
@@ -5376,7 +5478,7 @@
         ]
       },
       {
-        "Rank": 104,
+        "Rank": 106,
         "NCTId": [
           "NCT04462861"
         ],
@@ -5423,7 +5525,7 @@
         ]
       },
       {
-        "Rank": 105,
+        "Rank": 107,
         "NCTId": [
           "NCT04446910"
         ],
@@ -5471,7 +5573,7 @@
         ]
       },
       {
-        "Rank": 106,
+        "Rank": 108,
         "NCTId": [
           "NCT04403633"
         ],
@@ -5519,7 +5621,7 @@
         ]
       },
       {
-        "Rank": 107,
+        "Rank": 109,
         "NCTId": [
           "NCT04398862"
         ],
@@ -5569,7 +5671,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 108,
+        "Rank": 110,
         "NCTId": [
           "NCT04390035"
         ],
@@ -5617,7 +5719,7 @@
         ]
       },
       {
-        "Rank": 109,
+        "Rank": 111,
         "NCTId": [
           "NCT04365556"
         ],
@@ -5669,7 +5771,7 @@
         ]
       },
       {
-        "Rank": 110,
+        "Rank": 112,
         "NCTId": [
           "NCT04360395"
         ],
@@ -5718,7 +5820,7 @@
         ]
       },
       {
-        "Rank": 111,
+        "Rank": 113,
         "NCTId": [
           "NCT04357132"
         ],
@@ -5769,7 +5871,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 112,
+        "Rank": 114,
         "NCTId": [
           "NCT04351958"
         ],
@@ -5817,7 +5919,7 @@
         ]
       },
       {
-        "Rank": 113,
+        "Rank": 115,
         "NCTId": [
           "NCT04351776"
         ],
@@ -5868,7 +5970,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 114,
+        "Rank": 116,
         "NCTId": [
           "NCT04342000"
         ],
@@ -5919,7 +6021,7 @@
         ]
       },
       {
-        "Rank": 115,
+        "Rank": 117,
         "NCTId": [
           "NCT04338048"
         ],
@@ -5959,7 +6061,7 @@
         ]
       },
       {
-        "Rank": 116,
+        "Rank": 118,
         "NCTId": [
           "NCT04325282"
         ],
@@ -6007,7 +6109,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 117,
+        "Rank": 119,
         "NCTId": [
           "NCT04322734"
         ],
@@ -6061,7 +6163,7 @@
         ]
       },
       {
-        "Rank": 118,
+        "Rank": 120,
         "NCTId": [
           "NCT04314635"
         ],
@@ -6107,7 +6209,7 @@
         ]
       },
       {
-        "Rank": 119,
+        "Rank": 121,
         "NCTId": [
           "NCT04313192"
         ],
@@ -6159,7 +6261,7 @@
         ]
       },
       {
-        "Rank": 120,
+        "Rank": 122,
         "NCTId": [
           "NCT04312919"
         ],
@@ -6206,7 +6308,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 121,
+        "Rank": 123,
         "NCTId": [
           "NCT04309786"
         ],
@@ -6257,7 +6359,7 @@
         ]
       },
       {
-        "Rank": 122,
+        "Rank": 124,
         "NCTId": [
           "NCT04299191"
         ],
@@ -6305,7 +6407,7 @@
         ]
       },
       {
-        "Rank": 123,
+        "Rank": 125,
         "NCTId": [
           "NCT04298203"
         ],
@@ -6353,7 +6455,7 @@
         ]
       },
       {
-        "Rank": 124,
+        "Rank": 126,
         "NCTId": [
           "NCT04298099"
         ],
@@ -6401,7 +6503,7 @@
         ]
       },
       {
-        "Rank": 125,
+        "Rank": 127,
         "NCTId": [
           "NCT04290754"
         ],
@@ -6452,7 +6554,7 @@
         ]
       },
       {
-        "Rank": 126,
+        "Rank": 128,
         "NCTId": [
           "NCT04288206"
         ],
@@ -6497,7 +6599,7 @@
         ]
       },
       {
-        "Rank": 127,
+        "Rank": 129,
         "NCTId": [
           "NCT04264143"
         ],
@@ -6551,7 +6653,7 @@
         ]
       },
       {
-        "Rank": 128,
+        "Rank": 130,
         "NCTId": [
           "NCT04250844"
         ],
@@ -6597,7 +6699,7 @@
         ]
       },
       {
-        "Rank": 129,
+        "Rank": 131,
         "NCTId": [
           "NCT04242602"
         ],
@@ -6645,7 +6747,7 @@
         ]
       },
       {
-        "Rank": 130,
+        "Rank": 132,
         "NCTId": [
           "NCT04219995"
         ],
@@ -6694,7 +6796,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 131,
+        "Rank": 133,
         "NCTId": [
           "NCT04217694"
         ],
@@ -6744,7 +6846,7 @@
         ]
       },
       {
-        "Rank": 132,
+        "Rank": 134,
         "NCTId": [
           "NCT04211935"
         ],
@@ -6793,7 +6895,7 @@
         ]
       },
       {
-        "Rank": 133,
+        "Rank": 135,
         "NCTId": [
           "NCT04208256"
         ],
@@ -6845,7 +6947,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 134,
+        "Rank": 136,
         "NCTId": [
           "NCT04205604"
         ],
@@ -6889,7 +6991,7 @@
         ]
       },
       {
-        "Rank": 135,
+        "Rank": 137,
         "NCTId": [
           "NCT04201106"
         ],
@@ -6935,7 +7037,7 @@
         ]
       },
       {
-        "Rank": 136,
+        "Rank": 138,
         "NCTId": [
           "NCT04190225"
         ],
@@ -6987,7 +7089,7 @@
         ]
       },
       {
-        "Rank": 137,
+        "Rank": 139,
         "NCTId": [
           "NCT04186429"
         ],
@@ -7037,7 +7139,7 @@
         ]
       },
       {
-        "Rank": 138,
+        "Rank": 140,
         "NCTId": [
           "NCT04180358"
         ],
@@ -7087,7 +7189,7 @@
         ]
       },
       {
-        "Rank": 139,
+        "Rank": 141,
         "NCTId": [
           "NCT04174001"
         ],
@@ -7133,7 +7235,7 @@
         ]
       },
       {
-        "Rank": 140,
+        "Rank": 142,
         "NCTId": [
           "NCT04166526"
         ],
@@ -7179,7 +7281,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 141,
+        "Rank": 143,
         "NCTId": [
           "NCT04164966"
         ],
@@ -7225,7 +7327,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 142,
+        "Rank": 144,
         "NCTId": [
           "NCT04158245"
         ],
@@ -7277,7 +7379,7 @@
         ]
       },
       {
-        "Rank": 143,
+        "Rank": 145,
         "NCTId": [
           "NCT04154865"
         ],
@@ -7325,7 +7427,7 @@
         ]
       },
       {
-        "Rank": 144,
+        "Rank": 146,
         "NCTId": [
           "NCT04153994"
         ],
@@ -7366,7 +7468,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 145,
+        "Rank": 147,
         "NCTId": [
           "NCT04148560"
         ],
@@ -7418,7 +7520,7 @@
         ]
       },
       {
-        "Rank": 146,
+        "Rank": 148,
         "NCTId": [
           "NCT04127331"
         ],
@@ -7464,7 +7566,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 147,
+        "Rank": 149,
         "NCTId": [
           "NCT04125043"
         ],
@@ -7514,7 +7616,7 @@
         ]
       },
       {
-        "Rank": 148,
+        "Rank": 150,
         "NCTId": [
           "NCT04118712"
         ],
@@ -7559,7 +7661,7 @@
         ]
       },
       {
-        "Rank": 149,
+        "Rank": 151,
         "NCTId": [
           "NCT04111991"
         ],
@@ -7605,7 +7707,7 @@
         ]
       },
       {
-        "Rank": 150,
+        "Rank": 152,
         "NCTId": [
           "NCT04111471"
         ],
@@ -7645,7 +7747,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 151,
+        "Rank": 153,
         "NCTId": [
           "NCT04110730"
         ],
@@ -7694,7 +7796,7 @@
         ]
       },
       {
-        "Rank": 152,
+        "Rank": 154,
         "NCTId": [
           "NCT04108988"
         ],
@@ -7743,7 +7845,7 @@
         ]
       },
       {
-        "Rank": 153,
+        "Rank": 155,
         "NCTId": [
           "NCT04104841"
         ],
@@ -7794,7 +7896,7 @@
         ]
       },
       {
-        "Rank": 154,
+        "Rank": 156,
         "NCTId": [
           "NCT04099810"
         ],
@@ -7840,7 +7942,7 @@
         ]
       },
       {
-        "Rank": 155,
+        "Rank": 157,
         "NCTId": [
           "NCT04089332"
         ],
@@ -7888,7 +7990,7 @@
         ]
       },
       {
-        "Rank": 156,
+        "Rank": 158,
         "NCTId": [
           "NCT04060303"
         ],
@@ -7934,7 +8036,7 @@
         ]
       },
       {
-        "Rank": 157,
+        "Rank": 159,
         "NCTId": [
           "NCT04046562"
         ],
@@ -7984,7 +8086,7 @@
         ]
       },
       {
-        "Rank": 158,
+        "Rank": 160,
         "NCTId": [
           "NCT04039750"
         ],
@@ -8030,7 +8132,7 @@
         ]
       },
       {
-        "Rank": 159,
+        "Rank": 161,
         "NCTId": [
           "NCT04038684"
         ],
@@ -8085,7 +8187,7 @@
         ]
       },
       {
-        "Rank": 160,
+        "Rank": 162,
         "NCTId": [
           "NCT04032990"
         ],
@@ -8133,7 +8235,7 @@
         ]
       },
       {
-        "Rank": 161,
+        "Rank": 163,
         "NCTId": [
           "NCT04003012"
         ],
@@ -8179,7 +8281,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 162,
+        "Rank": 164,
         "NCTId": [
           "NCT03995394"
         ],
@@ -8227,7 +8329,7 @@
         ]
       },
       {
-        "Rank": 163,
+        "Rank": 165,
         "NCTId": [
           "NCT03985020"
         ],
@@ -8271,7 +8373,7 @@
         ]
       },
       {
-        "Rank": 164,
+        "Rank": 166,
         "NCTId": [
           "NCT03961854"
         ],
@@ -8311,7 +8413,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 165,
+        "Rank": 167,
         "NCTId": [
           "NCT03961061"
         ],
@@ -8362,7 +8464,7 @@
         ]
       },
       {
-        "Rank": 166,
+        "Rank": 168,
         "NCTId": [
           "NCT03945747"
         ],
@@ -8420,7 +8522,7 @@
         ]
       },
       {
-        "Rank": 167,
+        "Rank": 169,
         "NCTId": [
           "NCT03942952"
         ],
@@ -8473,7 +8575,7 @@
         ]
       },
       {
-        "Rank": 168,
+        "Rank": 170,
         "NCTId": [
           "NCT03911388"
         ],
@@ -8556,7 +8658,7 @@
         ]
       },
       {
-        "Rank": 169,
+        "Rank": 171,
         "NCTId": [
           "NCT03905031"
         ],
@@ -8616,7 +8718,7 @@
         ]
       },
       {
-        "Rank": 170,
+        "Rank": 172,
         "NCTId": [
           "NCT03896867"
         ],
@@ -8662,7 +8764,7 @@
         ]
       },
       {
-        "Rank": 171,
+        "Rank": 173,
         "NCTId": [
           "NCT03882034"
         ],
@@ -8710,7 +8812,7 @@
         ]
       },
       {
-        "Rank": 172,
+        "Rank": 174,
         "NCTId": [
           "NCT03869749"
         ],
@@ -8759,7 +8861,7 @@
         ]
       },
       {
-        "Rank": 173,
+        "Rank": 175,
         "NCTId": [
           "NCT03866707"
         ],
@@ -8810,7 +8912,7 @@
         ]
       },
       {
-        "Rank": 174,
+        "Rank": 176,
         "NCTId": [
           "NCT03866460"
         ],
@@ -8857,7 +8959,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 175,
+        "Rank": 177,
         "NCTId": [
           "NCT03863288"
         ],
@@ -8906,7 +9008,7 @@
         ]
       },
       {
-        "Rank": 176,
+        "Rank": 178,
         "NCTId": [
           "NCT03860311"
         ],
@@ -8959,7 +9061,7 @@
         ]
       },
       {
-        "Rank": 177,
+        "Rank": 179,
         "NCTId": [
           "NCT03855553"
         ],
@@ -9013,7 +9115,7 @@
         ]
       },
       {
-        "Rank": 178,
+        "Rank": 180,
         "NCTId": [
           "NCT03812159"
         ],
@@ -9064,7 +9166,7 @@
         ]
       },
       {
-        "Rank": 179,
+        "Rank": 181,
         "NCTId": [
           "NCT03795818"
         ],
@@ -9115,60 +9217,7 @@
         ]
       },
       {
-        "Rank": 180,
-        "NCTId": [
-          "NCT03730194"
-        ],
-        "OfficialTitle": [
-          "A SMART Design to Improve Sleep Disturbance in Adolescents With Neurodevelopmental Disorders"
-        ],
-        "Condition": [
-          "Autism Spectrum Disorder",
-          "Attention Deficit Hyperactivity Disorder",
-          "Sleep Disturbance"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAge 10-18 years and consistently living with parental (or legal guardian) supervision.\nDiagnostic report of confirmed NDD diagnosis (ASD or ADHD).\nDocumentation of adolescent being classified as non-intellectually impaired (e.g. IQ>70).\nParent report of adolescent spending less than or equal to 8 hours in bed per night on 3 or more nights per week in the past month or a composite score greater than 41 on the Children's Sleep Habits Questionnaire.\nMedication-free or on a stable dose of medications (no changes within 30 days prior to enrollment) with parental agreement to avoid changes in current medication (unless provider directed) during study participation.\n\nExclusion Criteria:\n\nUnwillingness to stop melatonin 2 months prior to enrollment in the study.\nParent report of adolescent with a known sleep disorder (e.g. sleep apnea).\nAdolescents who are not able to take oral medication.\nAdolescents who are visually impaired with known inability to detect light.\nAdolescents with an NDD with known genetic etiology (e.g. Angelman syndrome).\nUnwillingness to wear actigraph daily and complete daily sleep diary throughout the 9-week trial."
-        ],
-        "MinimumAge": [
-          "10 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Omaha"
-        ],
-        "LocationFacility": [
-          "University of Nebraska Medical Center, Center for Nursing Science"
-        ],
-        "LocationState": [
-          "Nebraska"
-        ],
-        "LocationZip": [
-          "68198-5330"
-        ],
-        "LocationContactEMail": [
-          "alyson.hanish@unmc.edu"
-        ],
-        "LocationContactName": [
-          "Alyson E Hanish, PhD, MSN, RN",
-          "Alyson E Hanish, PhD, MSN, RN",
-          "Danielle J Stappert, BSN, RN",
-          "Abbey J Klein, BSN, RN"
-        ],
-        "LocationContactPhone": [
-          "402-559-6731"
-        ],
-        "BriefSummary": [
-          "The objective of this study is to pilot a sequential, multiple assignment, randomized trial (SMART) design to compare the impact of a sequence of sleep interventions, based on participant treatment response, to optimize sleep health in adolescents 10-18 years of age with neurodevelopmental disorders (NDDs)."
-        ],
-        "DetailedDescription": [
-          "The investigators propose to conduct a sequential, multiple assignment, randomized trial (SMART) pilot feasibility study to inform implementation of a future full-scale SMART design that will be used to construct adaptive biobehavioral sleep intervention strategies involving melatonin, a behavioral sleep intervention (The Bedtime Bank), and their combination for the management of sleep disturbance in adolescents with NDDs. SMARTs allow for a 3-arm trial offering a significant advantage in comparing interventions and combinations of interventions within a single study design. First, participants are randomly assigned to either melatonin or The Bedtime Bank. Response (>/= 18 minute nightly increase in total sleep time [TST]) will be measured at Week 4 and 8. Participants who respond remain on the assigned treatment. Participants who are non-responsive are re-randomized to a different treatment option. To the knowledge of the investigators, a clinically meaningful increase in TST has not been reported in children. However, a nightly increase of 18 minutes in TST has been reported to improve school-performance. After a careful review of the literature, investigators chose to aim for a nightly increase of 18 minutes as a meaningful increase in TST."
-        ]
-      },
-      {
-        "Rank": 181,
+        "Rank": 182,
         "NCTId": [
           "NCT03729999"
         ],
@@ -9213,7 +9262,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 182,
+        "Rank": 183,
         "NCTId": [
           "NCT03721068"
         ],
@@ -9260,7 +9309,7 @@
         ]
       },
       {
-        "Rank": 183,
+        "Rank": 184,
         "NCTId": [
           "NCT03718234"
         ],
@@ -9312,7 +9361,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 184,
+        "Rank": 185,
         "NCTId": [
           "NCT03709472"
         ],
@@ -9365,7 +9414,7 @@
         ]
       },
       {
-        "Rank": 185,
+        "Rank": 186,
         "NCTId": [
           "NCT03709199"
         ],
@@ -9415,7 +9464,7 @@
         ]
       },
       {
-        "Rank": 186,
+        "Rank": 187,
         "NCTId": [
           "NCT03687008"
         ],
@@ -9464,7 +9513,7 @@
         ]
       },
       {
-        "Rank": 187,
+        "Rank": 188,
         "NCTId": [
           "NCT03670849"
         ],
@@ -9512,7 +9561,7 @@
         ]
       },
       {
-        "Rank": 188,
+        "Rank": 189,
         "NCTId": [
           "NCT03665337"
         ],
@@ -9557,7 +9606,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 189,
+        "Rank": 190,
         "NCTId": [
           "NCT03653013"
         ],
@@ -9600,7 +9649,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 190,
+        "Rank": 191,
         "NCTId": [
           "NCT03648450"
         ],
@@ -9649,7 +9698,7 @@
         ]
       },
       {
-        "Rank": 191,
+        "Rank": 192,
         "NCTId": [
           "NCT03625011"
         ],
@@ -9701,7 +9750,7 @@
         ]
       },
       {
-        "Rank": 192,
+        "Rank": 193,
         "NCTId": [
           "NCT03584399"
         ],
@@ -9743,7 +9792,7 @@
         ]
       },
       {
-        "Rank": 193,
+        "Rank": 194,
         "NCTId": [
           "NCT03555708"
         ],
@@ -9796,7 +9845,7 @@
         ]
       },
       {
-        "Rank": 194,
+        "Rank": 195,
         "NCTId": [
           "NCT03553875"
         ],
@@ -9845,7 +9894,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 195,
+        "Rank": 196,
         "NCTId": [
           "NCT03539783"
         ],
@@ -9897,7 +9946,7 @@
         ]
       },
       {
-        "Rank": 196,
+        "Rank": 197,
         "NCTId": [
           "NCT03530852"
         ],
@@ -9946,7 +9995,7 @@
         ]
       },
       {
-        "Rank": 197,
+        "Rank": 198,
         "NCTId": [
           "NCT03528109"
         ],
@@ -10010,7 +10059,7 @@
         ]
       },
       {
-        "Rank": 198,
+        "Rank": 199,
         "NCTId": [
           "NCT03495388"
         ],
@@ -10063,7 +10112,7 @@
         ]
       },
       {
-        "Rank": 199,
+        "Rank": 200,
         "NCTId": [
           "NCT03492944"
         ],
@@ -10107,7 +10156,7 @@
         ]
       },
       {
-        "Rank": 200,
+        "Rank": 201,
         "NCTId": [
           "NCT03489434"
         ],
@@ -10151,7 +10200,7 @@
         ]
       },
       {
-        "Rank": 201,
+        "Rank": 202,
         "NCTId": [
           "NCT03472768"
         ],
@@ -10197,7 +10246,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 202,
+        "Rank": 203,
         "NCTId": [
           "NCT03467750"
         ],
@@ -10247,7 +10296,7 @@
         ]
       },
       {
-        "Rank": 203,
+        "Rank": 204,
         "NCTId": [
           "NCT03453541"
         ],
@@ -10306,7 +10355,7 @@
         ]
       },
       {
-        "Rank": 204,
+        "Rank": 205,
         "NCTId": [
           "NCT03451435"
         ],
@@ -10354,7 +10403,7 @@
         ]
       },
       {
-        "Rank": 205,
+        "Rank": 206,
         "NCTId": [
           "NCT03438656"
         ],
@@ -10403,7 +10452,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 206,
+        "Rank": 207,
         "NCTId": [
           "NCT03429114"
         ],
@@ -10451,7 +10500,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 207,
+        "Rank": 208,
         "NCTId": [
           "NCT03423940"
         ],
@@ -10503,7 +10552,7 @@
         ]
       },
       {
-        "Rank": 208,
+        "Rank": 209,
         "NCTId": [
           "NCT03419260"
         ],
@@ -10549,7 +10598,7 @@
         ]
       },
       {
-        "Rank": 209,
+        "Rank": 210,
         "NCTId": [
           "NCT03384134"
         ],
@@ -10600,7 +10649,7 @@
         ]
       },
       {
-        "Rank": 210,
+        "Rank": 211,
         "NCTId": [
           "NCT03363919"
         ],
@@ -10652,7 +10701,7 @@
         ]
       },
       {
-        "Rank": 211,
+        "Rank": 212,
         "NCTId": [
           "NCT03337594"
         ],
@@ -10704,7 +10753,7 @@
         ]
       },
       {
-        "Rank": 212,
+        "Rank": 213,
         "NCTId": [
           "NCT03334942"
         ],
@@ -10759,7 +10808,7 @@
         ]
       },
       {
-        "Rank": 213,
+        "Rank": 214,
         "NCTId": [
           "NCT03304574"
         ],
@@ -10814,7 +10863,7 @@
         ]
       },
       {
-        "Rank": 214,
+        "Rank": 215,
         "NCTId": [
           "NCT03297658"
         ],
@@ -10860,7 +10909,7 @@
         ]
       },
       {
-        "Rank": 215,
+        "Rank": 216,
         "NCTId": [
           "NCT03283033"
         ],
@@ -10909,7 +10958,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 216,
+        "Rank": 217,
         "NCTId": [
           "NCT03239977"
         ],
@@ -10955,7 +11004,7 @@
         ]
       },
       {
-        "Rank": 217,
+        "Rank": 218,
         "NCTId": [
           "NCT03229837"
         ],
@@ -11005,7 +11054,7 @@
         ]
       },
       {
-        "Rank": 218,
+        "Rank": 219,
         "NCTId": [
           "NCT03225014"
         ],
@@ -11054,7 +11103,7 @@
         ]
       },
       {
-        "Rank": 219,
+        "Rank": 220,
         "NCTId": [
           "NCT03222570"
         ],
@@ -11100,7 +11149,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 220,
+        "Rank": 221,
         "NCTId": [
           "NCT03202303"
         ],
@@ -11148,7 +11197,7 @@
         ]
       },
       {
-        "Rank": 221,
+        "Rank": 222,
         "NCTId": [
           "NCT03192566"
         ],
@@ -11200,7 +11249,7 @@
         ]
       },
       {
-        "Rank": 222,
+        "Rank": 223,
         "NCTId": [
           "NCT03166358"
         ],
@@ -11248,7 +11297,7 @@
         ]
       },
       {
-        "Rank": 223,
+        "Rank": 224,
         "NCTId": [
           "NCT03154359"
         ],
@@ -11299,7 +11348,7 @@
         ]
       },
       {
-        "Rank": 224,
+        "Rank": 225,
         "NCTId": [
           "NCT03132948"
         ],
@@ -11348,7 +11397,7 @@
         ]
       },
       {
-        "Rank": 225,
+        "Rank": 226,
         "NCTId": [
           "NCT03072849"
         ],
@@ -11399,7 +11448,7 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 227,
         "NCTId": [
           "NCT03055533"
         ],
@@ -11448,7 +11497,7 @@
         ]
       },
       {
-        "Rank": 227,
+        "Rank": 228,
         "NCTId": [
           "NCT03023566"
         ],
@@ -11497,7 +11546,7 @@
         ]
       },
       {
-        "Rank": 228,
+        "Rank": 229,
         "NCTId": [
           "NCT03005951"
         ],
@@ -11548,7 +11597,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 230,
         "NCTId": [
           "NCT02914067"
         ],
@@ -11601,7 +11650,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 230,
+        "Rank": 231,
         "NCTId": [
           "NCT02895711"
         ],
@@ -11650,7 +11699,7 @@
         ]
       },
       {
-        "Rank": 231,
+        "Rank": 232,
         "NCTId": [
           "NCT02889016"
         ],
@@ -11697,7 +11746,7 @@
         ]
       },
       {
-        "Rank": 232,
+        "Rank": 233,
         "NCTId": [
           "NCT02846272"
         ],
@@ -11746,7 +11795,7 @@
         ]
       },
       {
-        "Rank": 233,
+        "Rank": 234,
         "NCTId": [
           "NCT02824627"
         ],
@@ -11796,7 +11845,7 @@
         ]
       },
       {
-        "Rank": 234,
+        "Rank": 235,
         "NCTId": [
           "NCT02775643"
         ],
@@ -11840,58 +11889,6 @@
         ],
         "DetailedDescription": [
           "Investigators will study the DNA and RNA in tumor cells and blood cells to look for changes that may be related to the development of the tumor, as well as changes that may influence how the tumor responds or doesn't respond to treatment. Normal blood cells will be studied to compare to the tumor cells. Investigators will also look at basic information about the treatment received and how the tumor responds, i.e. what kind of chemotherapy, surgery, radiation treatment, or other therapy the participant received, whether they had serious side effects, and how well the tumor responded to the treatment.\n\nAs part of regular medical care, tumor will be obtained to determine the type of cancer. For participants who consent to this study, leftover tumor tissue not needed for diagnosis or regular medical care will be studied at St. Jude Children's Research Hospital where scientists will look for changes in the genes of the tumor cells. No additional surgeries or procedures are needed for this study. A small amount of blood (2-3 tablespoons) will be collected and analyzed to determine if the genetic changes in the tumor cells are also found in the blood cells. Small children (<42 lbs.) will have a smaller amount drawn (1-2 tablespoons)."
-        ]
-      },
-      {
-        "Rank": 235,
-        "NCTId": [
-          "NCT02769975"
-        ],
-        "OfficialTitle": [
-          "Evaluation of Children With Endocrine and Metabolic-Related Conditions"
-        ],
-        "Condition": [
-          "Adrenal Insufficiency",
-          "Growth Disorder",
-          "Endocrine Diseases",
-          "Metabolic Disease",
-          "Bone Diseases, Metabolic"
-        ],
-        "EligibilityCriteria": [
-          "INCLUSION CRITERIA:\nParticipants with known or suspected endocrine disorder ages 1-18 years are eligible for this protocol. Protocol investigators will make the actual selection of patients most appropriate for clinical training.\nRelatives ages 3 months- 100 years may be enrolled if clinically indicated for the diagnosis of a proband.\n\nEXCLUSION CRITERIA:\n\nThere are no formal exclusion criteria\nAny medical, physical, psychiatric, or social conditions, which, in the opinion of the investigators, would make participation in this protocol not in the best interest of the patient, will exclude participation. Patients who are critically ill, unstable, or with severe organ failure that may affect/limit the endocrine evaluation and place unsustainable demands on Clinical Center or NICHD resources will be excluded."
-        ],
-        "MinimumAge": [
-          "3 Months"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Bethesda"
-        ],
-        "LocationFacility": [
-          "National Institutes of Health Clinical Center"
-        ],
-        "LocationState": [
-          "Maryland"
-        ],
-        "LocationZip": [
-          "20892"
-        ],
-        "LocationContactEMail": [
-          "prpl@cc.nih.gov"
-        ],
-        "LocationContactName": [
-          "For more information at the NIH Clinical Center contact Office of Patient Recruitment (OPR)"
-        ],
-        "LocationContactPhone": [
-          "800-411-1222"
-        ],
-        "BriefSummary": [
-          "Background:\n\nEndocrine glands give off hormones. Researchers want to learn more about the disorders that affect these glands in children. These disorders might be caused by changes in genes. Genes contain DNA, which is the blueprint of how a cell works. Researchers want to identify the genes involved in endocrine and metabolic disorders. This might help develop new ways to diagnose and treat the disorders.\n\nObjective:\n\nTo study the inheritance of endocrine or metabolism disorders.\n\nEligibility:\n\nChildren ages 3month-18 with known or suspected endocrine or metabolism disorders.\n\nFamily members ages 3months-100. They may participate in the DNA part of the study.\n\nDesign:\n\nParticipants will be screened with a review of their medical records. Their parents or guardians will allow the records to be released.\n\nParticipants will have a clinic visit. This may include a physical exam and medical history.\n\nParents or guardians will give their consent for the study. Participants may have tests, surgery, or other procedures to help diagnose or treat their condition. These could include:\n\nBlood, urine, and saliva tests\n\nGrowth hormone test\n\nPituitary and adrenal function tests\n\nPicture of chromosomes\n\nImaging tests. These may include X-ray, ultrasound, scans, or a skeletal survey.\n\nGenetic tests\n\nSleep study\n\nMedical photographs\n\nIf surgery is done, a tissue sample will be taken.\n\nParticipants may have follow-up visits for diagnosis and treatment.\n\nParticipating relatives will have one visit. This will include medical history and blood and saliva tests. The blood and saliva will be used for DNA testing."
-        ],
-        "DetailedDescription": [
-          "This protocol is designed to allow endocrine-related evaluations of children with known or suspected endocrine or metabolic disorders. Children with endocrine or metabolic-related condition(s) who may or may not be eligible for a specific NICHD research protocol, may be evaluated under the auspices of this protocol to advance the clinical skills of physicians participating in NICHD clinical research and training programs, and to provide stimuli for new clinical research initiatives. Standard medically-indicated laboratory or radiological studies may be performed to confirm a diagnosis or to aid in the management of the patient. In some cases, the child participant may receive medical or surgical treatment for their disorder at the National Institutes of Health (NIH) Clinical Center (CC) according to current clinical practice. The overall purpose of endocrine evaluations under this protocol is to support our clinical training and research missions. Family members of children evaluated on this protocol (who have informative meiotic inheritance relationships to the proband or index case) may be enrolled in the genetic/DNA testing part of the protocol."
         ]
       },
       {
@@ -14779,59 +14776,6 @@
       {
         "Rank": 296,
         "NCTId": [
-          "NCT04922983"
-        ],
-        "OfficialTitle": [
-          "Incobotulinumtoxin A and Yoga-like Isometric Exercise in Adolescent Idiopathic Lumbar Scoliosis"
-        ],
-        "Condition": [
-          "Scoliosis Idiopathic",
-          "Scoliosis; Adolescence",
-          "Scoliosis; Lumbar Region"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\n1. Fourteen - 18 years of age, 2. Scoliotic curve greater than 25 degrees, less than 45 degrees, 3. Stated willingness to do the yoga and yoga-like poses daily, 4. Written, signed consent by patient and parent/guardian 5. Pre-test Cobb films no less than 3 months old read by independent radiologists.\n\nExclusion Criteria:\n\nNeurological, muscular or neuromuscular disease, (e.gs., cerebral palsy, myopathy, stroke),\nGenetic abnormalities that affect limb growth, proportionality or metabolism, (e.gs., mucopolysaccharidoses, Marfan's syndrome, Refsums disease).\nPregnancy and other conditions prohibiting X-rays or minute(s)-long exertion (e.gs., congestive heart failure, great weakness, COPD).\nPrevious exposure to botulinum neurotoxin Type A. Sexually active female subjects must present a recent negative pregnancy test."
-        ],
-        "MinimumAge": [
-          "14 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Manhattan"
-        ],
-        "LocationFacility": [
-          "Manhattan Physical Medicine and Rehabilitation, PLLC"
-        ],
-        "LocationState": [
-          "New York"
-        ],
-        "LocationZip": [
-          "10022"
-        ],
-        "LocationContactEMail": [
-          "carampmr@gmail.com",
-          "loren@sciatica.org"
-        ],
-        "LocationContactName": [
-          "Cara Cipriano, BA, MA",
-          "Loren Fishman, MD"
-        ],
-        "LocationContactPhone": [
-          "212-472-0077",
-          "646-642-0700"
-        ],
-        "BriefSummary": [
-          "The study uses a yoga-like isometric posture and botulinum injections to reduce the curves in adolescent idiopathic lumbar scoliosis."
-        ],
-        "DetailedDescription": [
-          "The randomized control 5-month study employs an isometric yoga-like posture to strengthen the weak side, and one set of botulinum injections to weaken the strong side of adolescent idiopathic lumbar scoliosis between 25 and 45 degrees. It is open to people between 14 and 18 years of age who are willing to do the pose every day for the study period."
-        ]
-      },
-      {
-        "Rank": 297,
-        "NCTId": [
           "NCT04825587"
         ],
         "OfficialTitle": [
@@ -14878,7 +14822,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 297,
         "NCTId": [
           "NCT04815239"
         ],
@@ -14930,7 +14874,7 @@
         ]
       },
       {
-        "Rank": 299,
+        "Rank": 298,
         "NCTId": [
           "NCT04812028"
         ],
@@ -14978,7 +14922,7 @@
         ]
       },
       {
-        "Rank": 300,
+        "Rank": 299,
         "NCTId": [
           "NCT04810130"
         ],
@@ -15031,7 +14975,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 300,
         "NCTId": [
           "NCT04798482"
         ],
@@ -15080,7 +15024,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 301,
         "NCTId": [
           "NCT04797559"
         ],
@@ -15129,7 +15073,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 302,
         "NCTId": [
           "NCT04795674"
         ],
@@ -15181,7 +15125,7 @@
         ]
       },
       {
-        "Rank": 304,
+        "Rank": 303,
         "NCTId": [
           "NCT04788524"
         ],
@@ -15230,7 +15174,7 @@
         ]
       },
       {
-        "Rank": 305,
+        "Rank": 304,
         "NCTId": [
           "NCT04786977"
         ],
@@ -15277,7 +15221,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 306,
+        "Rank": 305,
         "NCTId": [
           "NCT04784455"
         ],
@@ -15321,56 +15265,7 @@
         ]
       },
       {
-        "Rank": 307,
-        "NCTId": [
-          "NCT04783506"
-        ],
-        "OfficialTitle": [
-          "Characterizing Inflammatory Profiles and Suicidal Behavior in Adolescents"
-        ],
-        "Condition": [
-          "Suicide and Depression"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria\n\nStudy participants must:\n\nBe adolescents (aged 12-18 years);\nHave the ability to speak, read, and understand English. The parent(s) or legal guardians of minors must also speak, read and understand English;\nBe willing to provide consent/assent. Consent will be provided by parents/LAR/guardian for youth under age 18 or by young adult participant, aged 18. Youth, aged 8-17, must be willing to provide assent;\nHave the ability to complete clinical evaluations and self-report measures;\n\nMeet criteria for one of these three groups:\n\nAdolescent with suicidal behaviors, defined as having a recent (within 3 months) suicide attempt or suicidal ideation warranting urgent evaluation;\nAdolescents at risk for mood disorders, defined by either personal history of anxiety disorder or substance use disorder or a history of trauma, or a first degree relative with a history of a mood disorder or suicidal history;\nHealthy adolescents with no lifetime history of any psychiatric or substance use disorders or a history of trauma. Additionally, no first-degree family member with a history of a mood disorder or suicidal history..\n\nExclusion Criteria\n\nStudy participants must not:\n\nHave current poorly controlled asthma, acute/chronic infection or other medical condition(s) that may affect immune marker levels;\nHave a current medication (e.g., corticosteroids) that may affect immune marker levels of reactivity;\nHave any condition for which, in the opinion of the investigator or designee, study participation would not be in their best interest (including but not limited to cognitive impairment, unstable general medical condition, intoxication, active psychosis) or that could prevent, limit, or confound the protocol-specified assessments;\nBe unable to provide a stable home address and contact information"
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Dallas"
-        ],
-        "LocationFacility": [
-          "University of Texas Southwestern Medical Center"
-        ],
-        "LocationState": [
-          "Texas"
-        ],
-        "LocationZip": [
-          "75235"
-        ],
-        "LocationContactEMail": [
-          "sarah.gibson2@utsouthwestern.edu"
-        ],
-        "LocationContactName": [
-          "Sarah Gibson, M.A.",
-          "Madhukar H Trivedi, MD"
-        ],
-        "LocationContactPhone": [
-          "214-648-2921"
-        ],
-        "BriefSummary": [
-          "Despite increasing suicide rates in adolescents, there remains a paucity of approaches to use to prevent re-attempts. Any hope for breaking the code to prevent youth suicide lies in understanding biological factors that play a role. Evidence suggests that inflammation and immune system dysfunction may be linked to suicide. The investigators will develop immune profiles for adolescents with suicidal behavior and those at risk in order to develop tools that can be implemented for prevention efforts.\n\nThis study involves blood draws, answering questions, and completing questionnaires - no treatment or intervention is provided as part of this study. Participants will be screened to see if they qualify for this study using questionnaires.\n\nParticipants will be teens (ages 12-18 years) with recent suicidal behavior, teens at-risk for developing depression, and healthy control teens. Participants complete all study-related tasks four times over a period of 12 months. Electronic surveys will be sent to participants to complete monthly. Both the adolescent and if applicable, their parent (or legally authorized representatives, LARs), will answer questions regarding depression, anxiety, and suicidal thoughts/behaviors."
-        ],
-        "DetailedDescription": [
-          "The purpose of this study is to map inflammatory dysfunction to suicidal behavior and establish a reliable immune signature of suicide risk that can 1) guide future research into fundamental pathophysiology and 2) identify targets for drug development and guide clinical screening and risk management.\n\nBackground: In previous research, the investigators have identified targets of clinical utility for both suicide-risk identification and novel therapeutic development. Specifically, a state of immune hyper-reactivity that predisposes to suicidal behavior can be corrected by use of immunomodulatory agents.\n\nBlood tests screening for presence of autoantibodies may be implemented as diagnostic tests to predict future suicide risk. Monoclonal antibodies have gained recent attention for their use in CNS disorders (such as multiple sclerosis and migraine) and have been shown to be effective for some patients with depression.\n\nHowever, the utility of anti-inflammatory treatments for depression has been limited by a lack of biomarkers to guide their use. Thus, presence of autoantibodies may identify a sub-group of adolescents and young adults with suicidality who are candidates for treatment with monoclonal antibodies.\n\nThe investigators specifically hypothesize that depressed youths with suicide behavior have immune hyper-reactivity, as reflected in dysfunctional cells mediating both innate and adaptive immune response.\n\nStudy Items: Since this is an observational study, investigators will explore a comprehensive panel of carefully selected participant specific parameters: socio-demographic (age, ethnicity, economic); symptom severity measures (depressive symptoms, mood, and feelings); clinical (medical history, anxious depression, early life trauma), biological (biomarkers in blood), behavioral (cognitive, emotional), with the goal to develop the most robust predictive models of treatment response and of depression outcomes. There is no medication or non-medication treatment or intervention provided by this study."
-        ]
-      },
-      {
-        "Rank": 308,
+        "Rank": 306,
         "NCTId": [
           "NCT04621890"
         ],
@@ -15421,7 +15316,7 @@
         ]
       },
       {
-        "Rank": 309,
+        "Rank": 307,
         "NCTId": [
           "NCT03266016"
         ],
@@ -15463,7 +15358,7 @@
         ]
       },
       {
-        "Rank": 310,
+        "Rank": 308,
         "NCTId": [
           "NCT02420990"
         ],
@@ -15511,7 +15406,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 311,
+        "Rank": 309,
         "NCTId": [
           "NCT05202418"
         ],
@@ -15569,7 +15464,7 @@
         ]
       },
       {
-        "Rank": 312,
+        "Rank": 310,
         "NCTId": [
           "NCT04602728"
         ],
@@ -15619,7 +15514,7 @@
         ]
       },
       {
-        "Rank": 313,
+        "Rank": 311,
         "NCTId": [
           "NCT04582682"
         ],
@@ -15684,7 +15579,7 @@
         ]
       },
       {
-        "Rank": 314,
+        "Rank": 312,
         "NCTId": [
           "NCT04465370"
         ],
@@ -15742,7 +15637,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 315,
+        "Rank": 313,
         "NCTId": [
           "NCT01142882"
         ],
@@ -15806,7 +15701,7 @@
         ]
       },
       {
-        "Rank": 316,
+        "Rank": 314,
         "NCTId": [
           "NCT03657771"
         ],
@@ -15877,7 +15772,7 @@
         ]
       },
       {
-        "Rank": 317,
+        "Rank": 315,
         "NCTId": [
           "NCT03412162"
         ],
@@ -15933,7 +15828,7 @@
         ]
       },
       {
-        "Rank": 318,
+        "Rank": 316,
         "NCTId": [
           "NCT05335538"
         ],
@@ -15989,7 +15884,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 317,
         "NCTId": [
           "NCT04344899"
         ],
@@ -16050,7 +15945,7 @@
         ]
       },
       {
-        "Rank": 320,
+        "Rank": 318,
         "NCTId": [
           "NCT02260856"
         ],
@@ -16133,7 +16028,7 @@
         ]
       },
       {
-        "Rank": 321,
+        "Rank": 319,
         "NCTId": [
           "NCT04156347"
         ],
@@ -16185,7 +16080,68 @@
         ]
       },
       {
-        "Rank": 322,
+        "Rank": 320,
+        "NCTId": [
+          "NCT05382962"
+        ],
+        "OfficialTitle": [
+          "iCanCope With Post-Operative Pain (iCanCope PostOp): Development of a Smartphone-based Pain Self-management Program for Adolescents Following Surgery"
+        ],
+        "Condition": [
+          "Pain, Chronic",
+          "Pain, Chronic Post-Surgical"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\naged 12 to 18 years;\nown a smartphone compatible with the iCanCope app (iOS or Android);\ndiagnosed with adolescent idiopathic scoliosis or pectus carinatum or pectus excavatum;\nare able to speak and read English; and\nscheduled to undergo scoliosis or minimally invasive pectus repair surgery.\n\nExclusion Criteria:\n\nsignificant cognitive impairment or other co-existing medical condition that could limit the ability to use the iCanCope app, as identified by their health care provider;\nparticipated in a previous study of iCanCope PostOp;\na diagnosed chronic pain condition not related to the surgical condition; or"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Boston",
+          "Toronto"
+        ],
+        "LocationFacility": [
+          "Boston Children's Hospital",
+          "Hospital for Sick Children"
+        ],
+        "LocationState": [
+          "Massachusetts",
+          "Ontario"
+        ],
+        "LocationZip": [
+          "02115",
+          "M5G 1X8"
+        ],
+        "LocationContactEMail": [
+          "justin.chimoff@childrens.harvard.edu",
+          "rachelr.kelly@sickkids.ca",
+          "chitra.lalloo@sickkids.ca"
+        ],
+        "LocationContactName": [
+          "Justin Chimoff",
+          "Joe Kossowsky, PhD, MMSc.",
+          "Rachel Kelly, BA",
+          "Chitra Lalloo, BHSc, PhD",
+          "Jennifer Stinson, RN, PhD"
+        ],
+        "LocationContactPhone": [
+          "617-877-0014",
+          "416-813-7654",
+          "416-813-7654"
+        ],
+        "BriefSummary": [
+          "There are few applications available in the community to help teenagers manage pain after surgery. The focus of this study is to better understand the pain experience of children after having surgery and to design a Smartphone app called \"iCanCope with Post-Operative Pain\" (iCanCope PostOp), to help children and parents to better manage pain at home after surgery. The app will help keep track of pain, provide information about the teenager's surgery and provides \"in-the-moment\" advice wherever and whenever the patient needs it."
+        ],
+        "DetailedDescription": [
+          "More than 80,000 Canadian children undergo surgery each year. Despite evidence-based pain management and clinical standards, moderate to severe postoperative pain in children is common. Inadequate postoperative pain management contributes to poor health outcomes, increased opioid use, and the development of chronic postsurgical pain. Successful postoperative pain management requires regular monitoring and treatment of pain after hospital discharge. Smartphones are nearly ubiquitous, and growing evidence supports their use to overcome barriers to pain care. Computerized clinical decision support systems (CDSS) can improve pain self-management by tracking symptoms over time and offering tailored evidence-informed pain management advice based on standardized algorithms. A comprehensive and sustainable approach is needed to address poorly managed pediatric postoperative pain in the home setting. To address these gaps in care, we are developing \"iCanCope with Post-Operative Pain\" (or iCanCope PostOp), a smartphone-based CDSS app that provides remote, in-the-moment advice to improve pain and health-related quality of life (HRQL) for adolescents following surgery."
+        ]
+      },
+      {
+        "Rank": 321,
         "NCTId": [
           "NCT04998656"
         ],
@@ -16255,7 +16211,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 323,
+        "Rank": 322,
         "NCTId": [
           "NCT04625686"
         ],
@@ -16325,7 +16281,7 @@
         ]
       },
       {
-        "Rank": 324,
+        "Rank": 323,
         "NCTId": [
           "NCT04621331"
         ],
@@ -16382,7 +16338,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 325,
+        "Rank": 324,
         "NCTId": [
           "NCT04074265"
         ],
@@ -16466,7 +16422,7 @@
         ]
       },
       {
-        "Rank": 326,
+        "Rank": 325,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16535,7 +16491,7 @@
         ]
       },
       {
-        "Rank": 327,
+        "Rank": 326,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16605,7 +16561,7 @@
         ]
       },
       {
-        "Rank": 328,
+        "Rank": 327,
         "NCTId": [
           "NCT02914405"
         ],
@@ -16676,7 +16632,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 329,
+        "Rank": 328,
         "NCTId": [
           "NCT02391324"
         ],
@@ -16738,7 +16694,7 @@
         ]
       },
       {
-        "Rank": 330,
+        "Rank": 329,
         "NCTId": [
           "NCT02134782"
         ],
@@ -16802,7 +16758,7 @@
         ]
       },
       {
-        "Rank": 331,
+        "Rank": 330,
         "NCTId": [
           "NCT04333823"
         ],
@@ -16871,7 +16827,7 @@
         ]
       },
       {
-        "Rank": 332,
+        "Rank": 331,
         "NCTId": [
           "NCT04903314"
         ],
@@ -16945,7 +16901,7 @@
         ]
       },
       {
-        "Rank": 333,
+        "Rank": 332,
         "NCTId": [
           "NCT03240809"
         ],
@@ -17003,7 +16959,7 @@
         ]
       },
       {
-        "Rank": 334,
+        "Rank": 333,
         "NCTId": [
           "NCT04718441"
         ],
@@ -17084,7 +17040,7 @@
         ]
       },
       {
-        "Rank": 335,
+        "Rank": 334,
         "NCTId": [
           "NCT04251026"
         ],
@@ -17167,7 +17123,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 336,
+        "Rank": 335,
         "NCTId": [
           "NCT00005105"
         ],
@@ -17231,7 +17187,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 336,
         "NCTId": [
           "NCT04810481"
         ],
@@ -17305,7 +17261,7 @@
         ]
       },
       {
-        "Rank": 338,
+        "Rank": 337,
         "NCTId": [
           "NCT03505658"
         ],
@@ -17366,7 +17322,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 339,
+        "Rank": 338,
         "NCTId": [
           "NCT03989986"
         ],
@@ -17426,7 +17382,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 339,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17497,7 +17453,7 @@
         ]
       },
       {
-        "Rank": 341,
+        "Rank": 340,
         "NCTId": [
           "NCT05203198"
         ],
@@ -17606,7 +17562,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 341,
         "NCTId": [
           "NCT03910933"
         ],
@@ -17689,7 +17645,7 @@
         ]
       },
       {
-        "Rank": 343,
+        "Rank": 342,
         "NCTId": [
           "NCT05124210"
         ],
@@ -17789,7 +17745,307 @@
         "DetailedDescription": []
       },
       {
+        "Rank": 343,
+        "NCTId": [
+          "NCT04442295"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
+        ],
+        "Condition": [
+          "Dravet Syndrome"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
+        ],
+        "MinimumAge": [
+          "2 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "San Francisco",
+          "Aurora",
+          "Washington",
+          "Miami",
+          "Orlando",
+          "Chicago",
+          "Iowa City",
+          "Boston",
+          "Ann Arbor",
+          "Rochester",
+          "New York",
+          "Portland",
+          "Philadelphia",
+          "Memphis",
+          "Fort Worth",
+          "Salt Lake City",
+          "Seattle",
+          "Tacoma"
+        ],
+        "LocationFacility": [
+          "UCSF Benioff Children's Hospital",
+          "Children's Hospital Colorado",
+          "Children's National Medical Center",
+          "Nicklaus Children's Hospital",
+          "AdventHealth Orlando",
+          "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "University of Iowa Hospitals and Clinics; Pediatric Specialty Clinic",
+          "Massachusetts General Hospital - Pediatric Epilepsy Program",
+          "University of Michigan - Mott Children's Hospital",
+          "Mayo Clinic",
+          "NYU Comprehensive Epilepsy Center",
+          "Oregon Health & Science University",
+          "Children's Hospital of Philadelphia",
+          "Le Bonheur Children's Hospital",
+          "Cook Children's Health Care System",
+          "Primary Children's Hospital",
+          "Seattle Children's Hospital",
+          "Multicare Institute for Research and Innovation"
+        ],
+        "LocationState": [
+          "California",
+          "Colorado",
+          "District of Columbia",
+          "Florida",
+          "Florida",
+          "Illinois",
+          "Iowa",
+          "Massachusetts",
+          "Michigan",
+          "Minnesota",
+          "New York",
+          "Oregon",
+          "Pennsylvania",
+          "Tennessee",
+          "Texas",
+          "Utah",
+          "Washington",
+          "Washington"
+        ],
+        "LocationZip": [
+          "94158",
+          "80045",
+          "20010",
+          "33155",
+          "32803",
+          "60611",
+          "52242",
+          "02114",
+          "48109",
+          "55905",
+          "10016",
+          "97239",
+          "19104",
+          "38105",
+          "76104",
+          "84108",
+          "98105",
+          "98405"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant",
+          "Research Assistant"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
+        ],
+        "DetailedDescription": [
+          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
+        ]
+      },
+      {
         "Rank": 344,
+        "NCTId": [
+          "NCT04431453"
+        ],
+        "OfficialTitle": [
+          "A Phase 2/3 Single-Arm, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of Remdesivir (GS-5734™) in Participants From Birth to < 18 Years of Age With COVID-19"
+        ],
+        "Condition": [
+          "COVID-19"
+        ],
+        "EligibilityCriteria": [
+          "Key Inclusion Criteria:\n\nAged < 18 years of age who meet one of the following weight criteria (where permitted according to local law and approved nationally and by relevant institutional review board (IRB) or independent ethics committee (IEC)).\n\na) Cohort 1: ≥ 12 years to < 18 years of age and weight at screening ≥ 40 kg\nb) Cohorts 2-4: ≥ 28 days to < 18 years of age and weight at screening ≥ 3 kg and < 40 kg\nc) Cohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nd) Cohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight of ≥ 2.5 kg\ne) Cohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight of ≥ 1.5 kg\nf) Cohort 8: < 12 years of age and weight at screening ≥ 40 kg\nSevere acute respiratory syndrome coronavirus (SARS-CoV-2) infection confirmed by polymerase chain reaction (PCR)\nHospitalized and requiring medical care for coronavirus disease 2019 (COVID-19)\n\nKey Exclusion Criteria:\n\nConcurrent treatment with other agents with actual or possible direct antiviral activity against SARS-CoV-2 < 24 hours prior to study drug dosing\nAlanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit of normal (ULN)\nEstimated glomerular filtration rate (eGFR) < 30 mL/min/1.73m^2 using Schwartz formula for individuals ≥ 1 year of age\nCreatinine above protocol specified thresholds for < 1 year of age\nPositive pregnancy test at Screening only for female of child bearing potential. Note: If female participants who become pregnant during the study or are discovered to be pregnant after receiving at least one dose may continue study drug, after discussion with the investigator\nOn renal replacement therapies (intermittent hemodialysis (iHD), peritoneal dialysis (PD), continuous renal replacement therapy (CRRT))\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply"
+        ],
+        "MinimumAge": [],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Los Angeles",
+          "Los Angeles",
+          "Madera",
+          "San Diego",
+          "Tampa",
+          "Chicago",
+          "Louisville",
+          "New Orleans",
+          "Baltimore",
+          "Boston",
+          "Worcester",
+          "Detroit",
+          "Grand Rapids",
+          "Minneapolis",
+          "Omaha",
+          "Bronx",
+          "Bronx",
+          "New Hyde Park",
+          "Charlotte",
+          "Allentown",
+          "Philadelphia",
+          "Dallas",
+          "Houston",
+          "Florence",
+          "Padova",
+          "Parma",
+          "Barcelona",
+          "Esplugues de llobregat",
+          "Madrid",
+          "Madrid",
+          "Madrid",
+          "Santiago de Compostela",
+          "Birmingham",
+          "Liverpool",
+          "London",
+          "London"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Alabama",
+          "Children's Hospital Los Angeles",
+          "Ronald Reagan University of California, Los Angeles Medical Center",
+          "Valley Children's Hospital",
+          "Rady Children's Hospital San Diego",
+          "Tampa General Hospital (Inpatient Visits)",
+          "Ann & Robert H. Lurie Children's Hospital",
+          "Norton Children's Hospital",
+          "Tulane University School of Medicine",
+          "Johns Hopkins Children's Center",
+          "Boston Children's Hospital",
+          "UMass Memorial Medical Center - University Campus",
+          "Children's Hospital of Michigan",
+          "Spectrum Health/Helen De Vos Children's Hospital",
+          "Children's Minnesota",
+          "Children's Hospital & Medical Center",
+          "NYC Health + Hospitals/Jacobi Medical Center",
+          "Montefiore Medical Center",
+          "Northwell Health-Cohen Children's Medical Center",
+          "Carolinas Medical Center-Levine Children's Hospital",
+          "Lehigh Valley Hospital/Lehigh Valley Health Network (LVH/LVHN)",
+          "St. Christopher's Hospital for Children",
+          "Children's Medical Center",
+          "Texas Children's Hospital",
+          "Azienda Ospedaliero Universitaria Meyer",
+          "University Hospital of Padova, Clinic of Pediatric Hematology-Oncology",
+          "University Hospital of Parma",
+          "Hospital Universitari Vall D'Hebron",
+          "Hospital Sant Joan de Déu",
+          "Hospital General Universitario Gregorio Maranon",
+          "Hospital Universitario 12 de Octubre",
+          "Hospital Universitario La Paz",
+          "Hospital Clínico Universitario de Santiago",
+          "University Hospitals Birmingham NHS Foundation Trust",
+          "Alder Hey Children's NHS Foundation Trust",
+          "Guy's and St Thomas' NHS Foundation Trust",
+          "King's College NHS Foundation Trust"
+        ],
+        "LocationState": [
+          "Alabama",
+          "California",
+          "California",
+          "California",
+          "California",
+          "Florida",
+          "Illinois",
+          "Kentucky",
+          "Louisiana",
+          "Maryland",
+          "Massachusetts",
+          "Massachusetts",
+          "Michigan",
+          "Michigan",
+          "Minnesota",
+          "Nebraska",
+          "New York",
+          "New York",
+          "New York",
+          "North Carolina",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Texas",
+          "Texas"
+        ],
+        "LocationZip": [
+          "35233",
+          "90027",
+          "90095",
+          "93636",
+          "92123",
+          "33606",
+          "60611",
+          "40202",
+          "70112",
+          "21287",
+          "02115",
+          "01605",
+          "48201",
+          "49503",
+          "55404",
+          "68114",
+          "10461",
+          "10467",
+          "11040",
+          "28203",
+          "18103",
+          "19134",
+          "75235",
+          "77030",
+          "50139",
+          "35128",
+          "43126",
+          "8035",
+          "8950",
+          "28009",
+          "28041",
+          "28041",
+          "15706",
+          "B95SS",
+          "L12 2AP",
+          "SE1 7EU",
+          "SE5 9RS"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The primary objectives of this study are to evaluate the safety, tolerability, and pharmacokinetics (PK) of remdesivir (RDV) in participants with laboratory-confirmed coronavirus disease 2019 (COVID-19) aged 0 days to < 18 years."
+        ],
+        "DetailedDescription": [
+          "Pediatric participants will be enrolled as follows:\n\nPediatric participants ≥ 28 days to < 18 years old:\n\nCohort 1: ≥ 12 years to < 18 years and weight ≥ 40 kg\nCohort 2: ≥ 28 days to < 18 years and weight ≥ 20 kg to < 40 kg\nCohort 3: ≥ 28 days to < 18 years and weight ≥ 12 kg to < 20 kg\nCohort 4: ≥ 28 days to < 18 years and weight ≥ 3 kg to < 12 kg\nCohort 8: < 12 years and weight ≥ 40 kg\n\nTerm neonatal participants 0 days to < 28 days old:\n\nCohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nCohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight ≥ 2.5 kg\n\nPreterm neonates and infants 0 days to < 56 days old:\n\nCohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight ≥ 1.5 kg"
+        ]
+      },
+      {
+        "Rank": 345,
         "NCTId": [
           "NCT04318548"
         ],
@@ -18115,7 +18371,7 @@
         ]
       },
       {
-        "Rank": 345,
+        "Rank": 346,
         "NCTId": [
           "NCT04258943"
         ],
@@ -18496,7 +18752,186 @@
         ]
       },
       {
-        "Rank": 346,
+        "Rank": 347,
+        "NCTId": [
+          "NCT04203316"
+        ],
+        "OfficialTitle": [
+          "An Open-Label Feasibility Study to Assess the Safety and Pharmacokinetics of Enasidenib in Pediatric Patients With Relapsed/Refractory Acute Myeloid Leukemia (R/R-AML) With an Isocitrate Dehydrogenase-2 (IDH2) Mutation"
+        ],
+        "Condition": [
+          "Recurrent Acute Myeloid Leukemia",
+          "Refractory Acute Myeloid Leukemia"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nPatient must have AML with an IDH2 mutation identified from a peripheral blood or bone marrow sample at the time of diagnosis and/or relapsed/refractory disease\n\nPatient must have bone marrow assessment (aspiration or biopsy) with > 5% leukemic blasts by morphology and/or flow cytometry in at least one of the following clinical scenarios:\n\nSecond or greater relapse after chemotherapy or hematopoietic stem cell transplant (HSCT)\nRefractory after >= 2 attempts at induction therapy\n\nRelapsed patients\n\nMust not have received prior re-induction therapy for this relapse\nEach block of chemotherapy (i.e., cytarabine, daunorubicin and etoposide [ADE], cytarabine and mitoxantrone [MA]) is a separate re-induction attempt\nDonor lymphocyte infusion (DLI) is considered a re-induction attempt\n\nRefractory patients\n\nEach attempt at induction therapy may include up to two chemotherapy courses\nKarnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age. Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score\nPatient's current disease state must be one for which there is no known curative therapy or therapy proven to prolong survival with an acceptable quality of life\nEvaluation of cerebrospinal fluid (CSF) is only required if there is a clinical suspicion of central nervous system (CNS) involvement by leukemia during eligibility screening. Should a patient be found to have CNS2 or CNS3 status by CSF prior to eligibility screening, patient may receive intrathecal chemotherapy > 72 hours prior to starting study drug. CNS1 status must be established before starting study drug\n\nPatients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy and must meet the following minimum duration from prior anti-cancer directed therapy prior to enrollment. If after the required timeframe, the numerical eligibility criteria are met, e.g., blood count criteria, the patient is considered to have recovered adequately\n\nCytotoxic chemotherapy or other anti-cancer agents known to be myelosuppressive. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\n\n>= 14 days must have elapsed after the completion of other cytotoxic therapy with the exception of hydroxyurea. Additionally, patients must have fully recovered from all acute toxic effects of prior therapy. NOTE: Cytoreduction with hydroxyurea must be discontinued >= 24 hours prior to the start of protocol therapy\nIntrathecal chemotherapy must be completed >= 72 hours prior to the start of the first cycle of treatment\nAnti-cancer agents not known to be myelosuppressive (e.g. not associated with reduced platelet or absolute neutrophil count [ANC] counts): >= 7 days after the last dose of agent. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\nAntibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1\nCorticosteroids: If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid\nHematopoietic growth factors: >= 14 days after the last dose of a long-acting growth factor (e.g., pegfilgrastim) or 7 days for short-acting growth factor. For agents that have known adverse events occurring beyond 7 days after administration, this period must be extended beyond the time during which adverse events are known to occur. The duration of this interval must be discussed with the study chair and the study research coordinator\nInterleukins, interferons and cytokines (other than hematopoietic growth factors): >= 21 days after the completion of interleukins, interferon or cytokines (other than hematopoietic growth factors)\n\nStem cell Infusions (with or without total body irradiation [TBI]):\n\nAllogeneic (non-autologous) bone marrow or stem cell transplant, or any stem cell infusion including DLI or boost infusion:\n\n>= 60 days after infusion for bone marrow or stem cell transplant and\n>= 4 weeks after infusion for any stem cell infusion including DLI or boost infusion\nThere must be no evidence of graft versus host disease (GVHD)\nAutologous stem cell infusion including boost infusion: >= 42 days\nCellular Therapy: >= 42 days after the completion of any type of cellular therapy (e.g. modified T cells, natural killer [NK] cells, dendritic cells, etc.)\nXRT/external beam irradiation including protons: >= 14 days after local XRT; >= 150 days after TBI, craniospinal XRT or if radiation to >= 50% of the pelvis; >= 42 days if other substantial bone marrow (BM) radiation\nRadiopharmaceutical therapy (e.g., radiolabeled antibody, 131I-metaiodobenzylguanidine [MIBG]): >= 42 days after systemically administered radiopharmaceutical therapy\nStudy-specific limitations on prior therapy: small molecule investigational agents: >= 14 days or > 5 half-lives must have elapsed from the last dose of the agent, whichever is greater\nPlatelet count >= 20,000/mm^3 (may receive platelet transfusions). These patients must not be known to be refractory to red cell or platelet transfusion\nHemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)\n\nCreatinine clearance or radioisotope glomerular filtration rate [GFR] >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\n\nAge: Maximum serum creatinine (mg/dL)\n\n2 to < 6 years: 0.8 (male and female)\n6 to < 10 years: 1 (male and female)\n10 to < 13 years: 1.2 (male and female)\n13 to < 16 years: 1.5 (male); 1.4 (female\n>= 16 years: 1.7 (male); 1.4 (female)\nBilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age\nSerum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 225 U/L. For the purpose of this study, the ULN for SGPT is 45 U/L\nSerum albumin >= 2 g/dL\nLeft ventricular ejection fraction of >= 50% by echocardiogram\n\nRegulatory Requirements\n\nAll patients and/or their parents or legal authorized representatives must sign a written informed consent. Assent, when appropriate, will be obtained according to institutional guidelines\nAll institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met\n\nExclusion Criteria:\n\nAML associated with Down syndrome or t(15;17) is not eligible for study\nPregnant or breast-feeding women will not be entered on this study due to risks of fetal and teratogenic adverse events as seen in animal/human studies. Pregnancy tests must be obtained in girls who are post-menarchal. Males or females of reproductive potential may not participate unless they have agreed to use an effective contraceptive method for the duration of study therapy and for 4 months after the last dose of enasidenib. Abstinence is an acceptable method of birth control. It is not known if enasidenib is present in breast milk. Breastfeeding is not recommended during therapy or for at least 30 days after the last dose of enasidenib\n\nConcomitant Medications:\n\nCorticosteroids: Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible. If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid. The use of corticosteroids to manage the side effect of IDH inhibitor-associated differentiation syndrome (IDH-DS), is permitted on study\nInvestigational drugs: Patients who are currently receiving another investigational drug are not eligible\nAnti-cancer agents: Patients who are currently receiving other anti-cancer agents are not eligible (except leukemia patients receiving hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy; the use of hydroxyurea to manage the side effect of IDH-DS, is permitted on study)\nAnti-GVHD agents post-transplant: Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial\n\nPatients must be able to swallow intact tablets whole.\n\nPatients with known hypersensitivity to any of the components of enasidenib are not eligible.\nPatients with prior exposure to enasidenib or another IDH2 inhibitor are not eligible.\n\nPatients taking the following drugs will be excluded from study entry unless these drugs are discontinued or patients are transferred to a medically acceptable alternative > 5 half-lives before the first dose of enasidenib.\n\nDrugs with a narrow therapeutic range that are sensitive substrates of the following cytochrome P450 (CYP) enzymes: CYP2C8 (e.g. paclitaxel), 2C9 (e.g. phenytoin and warfarin), 2C19 (e.g. s-mephenytoin), 2D6 (e.g. thioridazine), and 1A2 (e.g. theophylline and tizanidine).\nBreast cancer resistant protein (BCRP) transporter-sensitive substrate rosuvastatin\n\nPatients with the following leukemia complications are not eligible for this trial:\n\nNo intrathecal chemotherapy is permitted on study. Prior to study enrollment, cerebrospinal fluid (CSF) evaluation is only required if there is a clinical suspicion for CNS leukemia. Clinical signs of CNS leukemia (such as facial nerve palsy, brain/eye involvement or hypothalamic syndrome) are not eligible for this trial\nImmediately life-threatening, severe complications of leukemia including uncontrolled bleeding, pneumonia with hypoxia or shock, and/or disseminated intravascular coagulation\nInfection: Patients who have an uncontrolled infection or patients with known human immunodeficiency virus (HIV) or active hepatitis B or C are not eligible\nPatients who have received a prior solid organ transplantation are not eligible\nPatients who in the opinion of the investigator may not be able to comply with the safety monitoring requirements of the study are not eligible"
+        ],
+        "MinimumAge": [
+          "24 Months"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Birmingham",
+          "Little Rock",
+          "Wilmington",
+          "Washington",
+          "Gainesville",
+          "Indianapolis",
+          "Ann Arbor",
+          "Kansas City",
+          "Hackensack",
+          "Syracuse",
+          "Cincinnati",
+          "Oklahoma City",
+          "Pittsburgh",
+          "Memphis",
+          "Nashville",
+          "Dallas",
+          "Norfolk",
+          "Montreal"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Alabama",
+          "Arkansas Children's Hospital",
+          "Alfred I duPont Hospital for Children",
+          "Children's National Medical Center",
+          "University of Florida Health Science Center - Gainesville",
+          "Riley Hospital for Children",
+          "C S Mott Children's Hospital",
+          "Children's Mercy Hospitals and Clinics",
+          "Hackensack University Medical Center",
+          "State University of New York Upstate Medical University",
+          "Cincinnati Children's Hospital Medical Center",
+          "University of Oklahoma Health Sciences Center",
+          "Children's Hospital of Pittsburgh of UPMC",
+          "Saint Jude Children's Research Hospital",
+          "Vanderbilt University/Ingram Cancer Center",
+          "UT Southwestern/Simmons Cancer Center-Dallas",
+          "Children's Hospital of The King's Daughters",
+          "Centre Hospitalier Universitaire Sainte-Justine"
+        ],
+        "LocationState": [
+          "Alabama",
+          "Arkansas",
+          "Delaware",
+          "District of Columbia",
+          "Florida",
+          "Indiana",
+          "Michigan",
+          "Missouri",
+          "New Jersey",
+          "New York",
+          "Ohio",
+          "Oklahoma",
+          "Pennsylvania",
+          "Tennessee",
+          "Tennessee",
+          "Texas",
+          "Virginia",
+          "Quebec"
+        ],
+        "LocationZip": [
+          "35233",
+          "72202-3591",
+          "19803",
+          "20010",
+          "32610",
+          "46202",
+          "48109",
+          "64108",
+          "07601",
+          "13210",
+          "45229",
+          "73104",
+          "15224",
+          "38105",
+          "37232",
+          "75390",
+          "23507",
+          "H3T 1C5"
+        ],
+        "LocationContactEMail": [
+          "oncologyresearch@peds.uab.edu",
+          "dperry@nemours.org",
+          "cancer-center@ufl.edu",
+          "rryan@cmh.edu",
+          "cancer@cchmc.org",
+          "ou-clinical-trials@ouhsc.edu",
+          "jean.tersak@chp.edu",
+          "referralinfo@stjude.org",
+          "canceranswerline@UTSouthwestern.edu",
+          "CCBDCresearch@chkd.org",
+          "yvan.samson@umontreal.ca"
+        ],
+        "LocationContactName": [
+          "Site Public Contact",
+          "Matthew A. Kutny",
+          "Site Public Contact",
+          "David L. Becton",
+          "Site Public Contact",
+          "Scott M. Bradfield",
+          "Site Public Contact",
+          "AeRang Kim",
+          "Site Public Contact",
+          "William B. Slayton",
+          "Site Public Contact",
+          "Sandeep Batra",
+          "Site Public Contact",
+          "Rajen Mody",
+          "Site Public Contact",
+          "Kevin F. Ginn",
+          "Site Public Contact",
+          "Jing Chen",
+          "Site Public Contact",
+          "Philip M. Monteleone",
+          "Site Public Contact",
+          "Joseph G. Pressey",
+          "Site Public Contact",
+          "Rene Y. McNall-Knapp",
+          "Site Public Contact",
+          "Andrew Bukowinski",
+          "Site Public Contact",
+          "Jeffrey E. Rubnitz",
+          "Site Public Contact",
+          "Sara Zarnegar-Lumley",
+          "Site Public Contact",
+          "Kathleen (Wiertel) Ludwig",
+          "Site Public Contact",
+          "Eric J. Lowe",
+          "Site Public Contact",
+          "Yvan Samson"
+        ],
+        "LocationContactPhone": [
+          "205-638-9285",
+          "501-364-7373",
+          "302-651-6884",
+          "202-884-2549",
+          "352-273-8010",
+          "800-248-1199",
+          "800-865-1125",
+          "816-302-6808",
+          "201-996-2879",
+          "315-464-5476",
+          "513-636-2799",
+          "405-271-8777",
+          "412-692-8570",
+          "888-226-4343",
+          "800-811-8480",
+          "214-648-7097",
+          "757-668-7243",
+          "514-345-4931"
+        ],
+        "BriefSummary": [
+          "This trial studies the side effects of enasidenib and to see how well it works in treating patients with acute myeloid leukemia that has come back after treatment (relapsed) or has been difficult to treat with chemotherapy (refractory). Patients must also have a specific genetic change, also called a mutation, in a protein called IDH2. Enasidenib may stop the growth of cancer cells by blocking the mutated IDH2 protein, which is needed for cell growth."
+        ],
+        "DetailedDescription": [
+          "PRIMARY OBJECTIVES:\n\nI. To determine the safety of treatment with enasidenib mesylate (enasidenib) administered at continuous daily oral dosing for a 28-day cycle up to 12 cycles in pediatric patients with IDH2-mutant relapsed/refractory (R/R)-acute myeloid leukemia (AML).\n\nII. To characterize the plasma pharmacokinetic (PK) profile of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nSECONDARY OBJECTIVES:\n\nI. To investigate the pharmacodynamic (PD) relationship of oncogenic metabolite 2-hydroxyglutarate (2-HG) to enasidenib treatment in pediatric patients with IDH2-mutant R/R-AML.\n\nII. To describe the clinical activity of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nOUTLINE:\n\nPatients receive enasidenib orally (PO) once daily (QD) on days 1-28. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days, then periodically up to 1 year."
+        ]
+      },
+      {
+        "Rank": 348,
         "NCTId": [
           "NCT04195399"
         ],
@@ -19215,7 +19650,7 @@
         ]
       },
       {
-        "Rank": 347,
+        "Rank": 349,
         "NCTId": [
           "NCT02205762"
         ],
@@ -19569,7 +20004,7 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 350,
         "NCTId": [
           "NCT02121132"
         ],
@@ -19747,7 +20182,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 351,
         "NCTId": [
           "NCT04816643"
         ],
@@ -20193,7 +20628,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 352,
         "NCTId": [
           "NCT04614662"
         ],
@@ -20352,486 +20787,7 @@
         ]
       },
       {
-        "Rank": 351,
-        "NCTId": [
-          "NCT04442295"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome"
-        ],
-        "Condition": [
-          "Dravet Syndrome"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nDiagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.\n\nNo history of causal MRI lesion\nNo other known etiology\nNormal development at seizure onset.\nDocumented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.\nUse of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).\nCurrently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.\nStable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.\n\nExclusion Criteria:\n\nKnown pathogenic mutation in another gene that causes epilepsy\nCurrently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.\nClinically significant unstable medical conditions other than epilepsy.\nClinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.\nHistory of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation\nSpinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.\nAny other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study."
-        ],
-        "MinimumAge": [
-          "2 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "San Francisco",
-          "Aurora",
-          "Washington",
-          "Miami",
-          "Orlando",
-          "Chicago",
-          "Iowa City",
-          "Boston",
-          "Ann Arbor",
-          "Rochester",
-          "New York",
-          "Portland",
-          "Philadelphia",
-          "Memphis",
-          "Fort Worth",
-          "Salt Lake City",
-          "Seattle",
-          "Tacoma"
-        ],
-        "LocationFacility": [
-          "UCSF Benioff Children's Hospital",
-          "Children's Hospital Colorado",
-          "Children's National Medical Center",
-          "Nicklaus Children's Hospital",
-          "AdventHealth Orlando",
-          "Ann & Robert H. Lurie Children's Hospital of Chicago",
-          "University of Iowa Hospitals and Clinics; Pediatric Specialty Clinic",
-          "Massachusetts General Hospital - Pediatric Epilepsy Program",
-          "University of Michigan - Mott Children's Hospital",
-          "Mayo Clinic",
-          "NYU Comprehensive Epilepsy Center",
-          "Oregon Health & Science University",
-          "Children's Hospital of Philadelphia",
-          "Le Bonheur Children's Hospital",
-          "Cook Children's Health Care System",
-          "Primary Children's Hospital",
-          "Seattle Children's Hospital",
-          "Multicare Institute for Research and Innovation"
-        ],
-        "LocationState": [
-          "California",
-          "Colorado",
-          "District of Columbia",
-          "Florida",
-          "Florida",
-          "Illinois",
-          "Iowa",
-          "Massachusetts",
-          "Michigan",
-          "Minnesota",
-          "New York",
-          "Oregon",
-          "Pennsylvania",
-          "Tennessee",
-          "Texas",
-          "Utah",
-          "Washington",
-          "Washington"
-        ],
-        "LocationZip": [
-          "94158",
-          "80045",
-          "20010",
-          "33155",
-          "32803",
-          "60611",
-          "52242",
-          "02114",
-          "48109",
-          "55905",
-          "10016",
-          "97239",
-          "19104",
-          "38105",
-          "76104",
-          "84108",
-          "98105",
-          "98405"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant",
-          "Research Assistant"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study."
-        ],
-        "DetailedDescription": [
-          "STK-001 is an investigational new medicine for the treatment of Dravet syndrome. STK-001 is an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein. This RNA-based approach is not gene therapy, but rather RNA modulation, as it does not manipulate nor insert genetic deoxyribonucleic acid (DNA).\n\nSTK-001 is designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels. Nav1.1 levels are reduced in people with Dravet syndrome. Stoke has generated preclinical data demonstrating proof-of-mechanism for STK-001."
-        ]
-      },
-      {
-        "Rank": 352,
-        "NCTId": [
-          "NCT04431453"
-        ],
-        "OfficialTitle": [
-          "A Phase 2/3 Single-Arm, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of Remdesivir (GS-5734™) in Participants From Birth to < 18 Years of Age With COVID-19"
-        ],
-        "Condition": [
-          "COVID-19"
-        ],
-        "EligibilityCriteria": [
-          "Key Inclusion Criteria:\n\nAged < 18 years of age who meet one of the following weight criteria (where permitted according to local law and approved nationally and by relevant institutional review board (IRB) or independent ethics committee (IEC)).\n\na) Cohort 1: ≥ 12 years to < 18 years of age and weight at screening ≥ 40 kg\nb) Cohorts 2-4: ≥ 28 days to < 18 years of age and weight at screening ≥ 3 kg and < 40 kg\nc) Cohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nd) Cohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight of ≥ 2.5 kg\ne) Cohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight of ≥ 1.5 kg\nf) Cohort 8: < 12 years of age and weight at screening ≥ 40 kg\nSevere acute respiratory syndrome coronavirus (SARS-CoV-2) infection confirmed by polymerase chain reaction (PCR)\nHospitalized and requiring medical care for coronavirus disease 2019 (COVID-19)\n\nKey Exclusion Criteria:\n\nConcurrent treatment with other agents with actual or possible direct antiviral activity against SARS-CoV-2 < 24 hours prior to study drug dosing\nAlanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit of normal (ULN)\nEstimated glomerular filtration rate (eGFR) < 30 mL/min/1.73m^2 using Schwartz formula for individuals ≥ 1 year of age\nCreatinine above protocol specified thresholds for < 1 year of age\nPositive pregnancy test at Screening only for female of child bearing potential. Note: If female participants who become pregnant during the study or are discovered to be pregnant after receiving at least one dose may continue study drug, after discussion with the investigator\nOn renal replacement therapies (intermittent hemodialysis (iHD), peritoneal dialysis (PD), continuous renal replacement therapy (CRRT))\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply"
-        ],
-        "MinimumAge": [],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Birmingham",
-          "Los Angeles",
-          "Los Angeles",
-          "Madera",
-          "San Diego",
-          "Tampa",
-          "Chicago",
-          "Louisville",
-          "New Orleans",
-          "Baltimore",
-          "Boston",
-          "Worcester",
-          "Detroit",
-          "Grand Rapids",
-          "Minneapolis",
-          "Omaha",
-          "Bronx",
-          "Bronx",
-          "New Hyde Park",
-          "Charlotte",
-          "Allentown",
-          "Philadelphia",
-          "Dallas",
-          "Houston",
-          "Florence",
-          "Padova",
-          "Parma",
-          "Barcelona",
-          "Esplugues de llobregat",
-          "Madrid",
-          "Madrid",
-          "Madrid",
-          "Santiago de Compostela",
-          "Birmingham",
-          "Liverpool",
-          "London",
-          "London"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Alabama",
-          "Children's Hospital Los Angeles",
-          "Ronald Reagan University of California, Los Angeles Medical Center",
-          "Valley Children's Hospital",
-          "Rady Children's Hospital San Diego",
-          "Tampa General Hospital (Inpatient Visits)",
-          "Ann & Robert H. Lurie Children's Hospital",
-          "Norton Children's Hospital",
-          "Tulane University School of Medicine",
-          "Johns Hopkins Children's Center",
-          "Boston Children's Hospital",
-          "UMass Memorial Medical Center - University Campus",
-          "Children's Hospital of Michigan",
-          "Spectrum Health/Helen De Vos Children's Hospital",
-          "Children's Minnesota",
-          "Children's Hospital & Medical Center",
-          "NYC Health + Hospitals/Jacobi Medical Center",
-          "Montefiore Medical Center",
-          "Northwell Health-Cohen Children's Medical Center",
-          "Carolinas Medical Center-Levine Children's Hospital",
-          "Lehigh Valley Hospital/Lehigh Valley Health Network (LVH/LVHN)",
-          "St. Christopher's Hospital for Children",
-          "Children's Medical Center",
-          "Texas Children's Hospital",
-          "Azienda Ospedaliero Universitaria Meyer",
-          "University Hospital of Padova, Clinic of Pediatric Hematology-Oncology",
-          "University Hospital of Parma",
-          "Hospital Universitari Vall D'Hebron",
-          "Hospital Sant Joan de Déu",
-          "Hospital General Universitario Gregorio Maranon",
-          "Hospital Universitario 12 de Octubre",
-          "Hospital Universitario La Paz",
-          "Hospital Clínico Universitario de Santiago",
-          "University Hospitals Birmingham NHS Foundation Trust",
-          "Alder Hey Children's NHS Foundation Trust",
-          "Guy's and St Thomas' NHS Foundation Trust",
-          "King's College NHS Foundation Trust"
-        ],
-        "LocationState": [
-          "Alabama",
-          "California",
-          "California",
-          "California",
-          "California",
-          "Florida",
-          "Illinois",
-          "Kentucky",
-          "Louisiana",
-          "Maryland",
-          "Massachusetts",
-          "Massachusetts",
-          "Michigan",
-          "Michigan",
-          "Minnesota",
-          "Nebraska",
-          "New York",
-          "New York",
-          "New York",
-          "North Carolina",
-          "Pennsylvania",
-          "Pennsylvania",
-          "Texas",
-          "Texas"
-        ],
-        "LocationZip": [
-          "35233",
-          "90027",
-          "90095",
-          "93636",
-          "92123",
-          "33606",
-          "60611",
-          "40202",
-          "70112",
-          "21287",
-          "02115",
-          "01605",
-          "48201",
-          "49503",
-          "55404",
-          "68114",
-          "10461",
-          "10467",
-          "11040",
-          "28203",
-          "18103",
-          "19134",
-          "75235",
-          "77030",
-          "50139",
-          "35128",
-          "43126",
-          "8035",
-          "8950",
-          "28009",
-          "28041",
-          "28041",
-          "15706",
-          "B95SS",
-          "L12 2AP",
-          "SE1 7EU",
-          "SE5 9RS"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The primary objectives of this study are to evaluate the safety, tolerability, and pharmacokinetics (PK) of remdesivir (RDV) in participants with laboratory-confirmed coronavirus disease 2019 (COVID-19) aged 0 days to < 18 years."
-        ],
-        "DetailedDescription": [
-          "Pediatric participants will be enrolled as follows:\n\nPediatric participants ≥ 28 days to < 18 years old:\n\nCohort 1: ≥ 12 years to < 18 years and weight ≥ 40 kg\nCohort 2: ≥ 28 days to < 18 years and weight ≥ 20 kg to < 40 kg\nCohort 3: ≥ 28 days to < 18 years and weight ≥ 12 kg to < 20 kg\nCohort 4: ≥ 28 days to < 18 years and weight ≥ 3 kg to < 12 kg\nCohort 8: < 12 years and weight ≥ 40 kg\n\nTerm neonatal participants 0 days to < 28 days old:\n\nCohort 5: ≥ 14 days to < 28 days of age, gestational age > 37 weeks and weight at screening ≥ 2.5 kg\nCohort 6: 0 days to < 14 days of age, gestational age > 37 weeks and birth weight ≥ 2.5 kg\n\nPreterm neonates and infants 0 days to < 56 days old:\n\nCohort 7: 0 days to < 56 days of age, gestational age ≤ 37 weeks and birth weight ≥ 1.5 kg"
-        ]
-      },
-      {
         "Rank": 353,
-        "NCTId": [
-          "NCT04203316"
-        ],
-        "OfficialTitle": [
-          "An Open-Label Feasibility Study to Assess the Safety and Pharmacokinetics of Enasidenib in Pediatric Patients With Relapsed/Refractory Acute Myeloid Leukemia (R/R-AML) With an Isocitrate Dehydrogenase-2 (IDH2) Mutation"
-        ],
-        "Condition": [
-          "Recurrent Acute Myeloid Leukemia",
-          "Refractory Acute Myeloid Leukemia"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nPatient must have AML with an IDH2 mutation identified from a peripheral blood or bone marrow sample at the time of diagnosis and/or relapsed/refractory disease\n\nPatient must have bone marrow assessment (aspiration or biopsy) with > 5% leukemic blasts by morphology and/or flow cytometry in at least one of the following clinical scenarios:\n\nSecond or greater relapse after chemotherapy or hematopoietic stem cell transplant (HSCT)\nRefractory after >= 2 attempts at induction therapy\n\nRelapsed patients\n\nMust not have received prior re-induction therapy for this relapse\nEach block of chemotherapy (i.e., cytarabine, daunorubicin and etoposide [ADE], cytarabine and mitoxantrone [MA]) is a separate re-induction attempt\nDonor lymphocyte infusion (DLI) is considered a re-induction attempt\n\nRefractory patients\n\nEach attempt at induction therapy may include up to two chemotherapy courses\nKarnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age. Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score\nPatient's current disease state must be one for which there is no known curative therapy or therapy proven to prolong survival with an acceptable quality of life\nEvaluation of cerebrospinal fluid (CSF) is only required if there is a clinical suspicion of central nervous system (CNS) involvement by leukemia during eligibility screening. Should a patient be found to have CNS2 or CNS3 status by CSF prior to eligibility screening, patient may receive intrathecal chemotherapy > 72 hours prior to starting study drug. CNS1 status must be established before starting study drug\n\nPatients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy and must meet the following minimum duration from prior anti-cancer directed therapy prior to enrollment. If after the required timeframe, the numerical eligibility criteria are met, e.g., blood count criteria, the patient is considered to have recovered adequately\n\nCytotoxic chemotherapy or other anti-cancer agents known to be myelosuppressive. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\n\n>= 14 days must have elapsed after the completion of other cytotoxic therapy with the exception of hydroxyurea. Additionally, patients must have fully recovered from all acute toxic effects of prior therapy. NOTE: Cytoreduction with hydroxyurea must be discontinued >= 24 hours prior to the start of protocol therapy\nIntrathecal chemotherapy must be completed >= 72 hours prior to the start of the first cycle of treatment\nAnti-cancer agents not known to be myelosuppressive (e.g. not associated with reduced platelet or absolute neutrophil count [ANC] counts): >= 7 days after the last dose of agent. The duration of this interval must be discussed with the study chair and the study-assigned research coordinator prior to enrollment\nAntibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1\nCorticosteroids: If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid\nHematopoietic growth factors: >= 14 days after the last dose of a long-acting growth factor (e.g., pegfilgrastim) or 7 days for short-acting growth factor. For agents that have known adverse events occurring beyond 7 days after administration, this period must be extended beyond the time during which adverse events are known to occur. The duration of this interval must be discussed with the study chair and the study research coordinator\nInterleukins, interferons and cytokines (other than hematopoietic growth factors): >= 21 days after the completion of interleukins, interferon or cytokines (other than hematopoietic growth factors)\n\nStem cell Infusions (with or without total body irradiation [TBI]):\n\nAllogeneic (non-autologous) bone marrow or stem cell transplant, or any stem cell infusion including DLI or boost infusion:\n\n>= 60 days after infusion for bone marrow or stem cell transplant and\n>= 4 weeks after infusion for any stem cell infusion including DLI or boost infusion\nThere must be no evidence of graft versus host disease (GVHD)\nAutologous stem cell infusion including boost infusion: >= 42 days\nCellular Therapy: >= 42 days after the completion of any type of cellular therapy (e.g. modified T cells, natural killer [NK] cells, dendritic cells, etc.)\nXRT/external beam irradiation including protons: >= 14 days after local XRT; >= 150 days after TBI, craniospinal XRT or if radiation to >= 50% of the pelvis; >= 42 days if other substantial bone marrow (BM) radiation\nRadiopharmaceutical therapy (e.g., radiolabeled antibody, 131I-metaiodobenzylguanidine [MIBG]): >= 42 days after systemically administered radiopharmaceutical therapy\nStudy-specific limitations on prior therapy: small molecule investigational agents: >= 14 days or > 5 half-lives must have elapsed from the last dose of the agent, whichever is greater\nPlatelet count >= 20,000/mm^3 (may receive platelet transfusions). These patients must not be known to be refractory to red cell or platelet transfusion\nHemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)\n\nCreatinine clearance or radioisotope glomerular filtration rate [GFR] >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\n\nAge: Maximum serum creatinine (mg/dL)\n\n2 to < 6 years: 0.8 (male and female)\n6 to < 10 years: 1 (male and female)\n10 to < 13 years: 1.2 (male and female)\n13 to < 16 years: 1.5 (male); 1.4 (female\n>= 16 years: 1.7 (male); 1.4 (female)\nBilirubin (sum of conjugated + unconjugated) =< 1.5 x upper limit of normal (ULN) for age\nSerum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 225 U/L. For the purpose of this study, the ULN for SGPT is 45 U/L\nSerum albumin >= 2 g/dL\nLeft ventricular ejection fraction of >= 50% by echocardiogram\n\nRegulatory Requirements\n\nAll patients and/or their parents or legal authorized representatives must sign a written informed consent. Assent, when appropriate, will be obtained according to institutional guidelines\nAll institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met\n\nExclusion Criteria:\n\nAML associated with Down syndrome or t(15;17) is not eligible for study\nPregnant or breast-feeding women will not be entered on this study due to risks of fetal and teratogenic adverse events as seen in animal/human studies. Pregnancy tests must be obtained in girls who are post-menarchal. Males or females of reproductive potential may not participate unless they have agreed to use an effective contraceptive method for the duration of study therapy and for 4 months after the last dose of enasidenib. Abstinence is an acceptable method of birth control. It is not known if enasidenib is present in breast milk. Breastfeeding is not recommended during therapy or for at least 30 days after the last dose of enasidenib\n\nConcomitant Medications:\n\nCorticosteroids: Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible. If used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid. The use of corticosteroids to manage the side effect of IDH inhibitor-associated differentiation syndrome (IDH-DS), is permitted on study\nInvestigational drugs: Patients who are currently receiving another investigational drug are not eligible\nAnti-cancer agents: Patients who are currently receiving other anti-cancer agents are not eligible (except leukemia patients receiving hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy; the use of hydroxyurea to manage the side effect of IDH-DS, is permitted on study)\nAnti-GVHD agents post-transplant: Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial\n\nPatients must be able to swallow intact tablets whole.\n\nPatients with known hypersensitivity to any of the components of enasidenib are not eligible.\nPatients with prior exposure to enasidenib or another IDH2 inhibitor are not eligible.\n\nPatients taking the following drugs will be excluded from study entry unless these drugs are discontinued or patients are transferred to a medically acceptable alternative > 5 half-lives before the first dose of enasidenib.\n\nDrugs with a narrow therapeutic range that are sensitive substrates of the following cytochrome P450 (CYP) enzymes: CYP2C8 (e.g. paclitaxel), 2C9 (e.g. phenytoin and warfarin), 2C19 (e.g. s-mephenytoin), 2D6 (e.g. thioridazine), and 1A2 (e.g. theophylline and tizanidine).\nBreast cancer resistant protein (BCRP) transporter-sensitive substrate rosuvastatin\n\nPatients with the following leukemia complications are not eligible for this trial:\n\nNo intrathecal chemotherapy is permitted on study. Prior to study enrollment, cerebrospinal fluid (CSF) evaluation is only required if there is a clinical suspicion for CNS leukemia. Clinical signs of CNS leukemia (such as facial nerve palsy, brain/eye involvement or hypothalamic syndrome) are not eligible for this trial\nImmediately life-threatening, severe complications of leukemia including uncontrolled bleeding, pneumonia with hypoxia or shock, and/or disseminated intravascular coagulation\nInfection: Patients who have an uncontrolled infection or patients with known human immunodeficiency virus (HIV) or active hepatitis B or C are not eligible\nPatients who have received a prior solid organ transplantation are not eligible\nPatients who in the opinion of the investigator may not be able to comply with the safety monitoring requirements of the study are not eligible"
-        ],
-        "MinimumAge": [
-          "24 Months"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Birmingham",
-          "Little Rock",
-          "Wilmington",
-          "Washington",
-          "Gainesville",
-          "Indianapolis",
-          "Ann Arbor",
-          "Kansas City",
-          "Hackensack",
-          "Syracuse",
-          "Cincinnati",
-          "Oklahoma City",
-          "Pittsburgh",
-          "Memphis",
-          "Nashville",
-          "Dallas",
-          "Norfolk",
-          "Montreal"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Alabama",
-          "Arkansas Children's Hospital",
-          "Alfred I duPont Hospital for Children",
-          "Children's National Medical Center",
-          "University of Florida Health Science Center - Gainesville",
-          "Riley Hospital for Children",
-          "C S Mott Children's Hospital",
-          "Children's Mercy Hospitals and Clinics",
-          "Hackensack University Medical Center",
-          "State University of New York Upstate Medical University",
-          "Cincinnati Children's Hospital Medical Center",
-          "University of Oklahoma Health Sciences Center",
-          "Children's Hospital of Pittsburgh of UPMC",
-          "Saint Jude Children's Research Hospital",
-          "Vanderbilt University/Ingram Cancer Center",
-          "UT Southwestern/Simmons Cancer Center-Dallas",
-          "Children's Hospital of The King's Daughters",
-          "Centre Hospitalier Universitaire Sainte-Justine"
-        ],
-        "LocationState": [
-          "Alabama",
-          "Arkansas",
-          "Delaware",
-          "District of Columbia",
-          "Florida",
-          "Indiana",
-          "Michigan",
-          "Missouri",
-          "New Jersey",
-          "New York",
-          "Ohio",
-          "Oklahoma",
-          "Pennsylvania",
-          "Tennessee",
-          "Tennessee",
-          "Texas",
-          "Virginia",
-          "Quebec"
-        ],
-        "LocationZip": [
-          "35233",
-          "72202-3591",
-          "19803",
-          "20010",
-          "32610",
-          "46202",
-          "48109",
-          "64108",
-          "07601",
-          "13210",
-          "45229",
-          "73104",
-          "15224",
-          "38105",
-          "37232",
-          "75390",
-          "23507",
-          "H3T 1C5"
-        ],
-        "LocationContactEMail": [
-          "oncologyresearch@peds.uab.edu",
-          "dperry@nemours.org",
-          "cancer-center@ufl.edu",
-          "rryan@cmh.edu",
-          "cancer@cchmc.org",
-          "ou-clinical-trials@ouhsc.edu",
-          "jean.tersak@chp.edu",
-          "referralinfo@stjude.org",
-          "canceranswerline@UTSouthwestern.edu",
-          "CCBDCresearch@chkd.org",
-          "yvan.samson@umontreal.ca"
-        ],
-        "LocationContactName": [
-          "Site Public Contact",
-          "Matthew A. Kutny",
-          "Site Public Contact",
-          "David L. Becton",
-          "Site Public Contact",
-          "Scott M. Bradfield",
-          "Site Public Contact",
-          "AeRang Kim",
-          "Site Public Contact",
-          "William B. Slayton",
-          "Site Public Contact",
-          "Sandeep Batra",
-          "Site Public Contact",
-          "Rajen Mody",
-          "Site Public Contact",
-          "Kevin F. Ginn",
-          "Site Public Contact",
-          "Jing Chen",
-          "Site Public Contact",
-          "Philip M. Monteleone",
-          "Site Public Contact",
-          "Joseph G. Pressey",
-          "Site Public Contact",
-          "Rene Y. McNall-Knapp",
-          "Site Public Contact",
-          "Andrew Bukowinski",
-          "Site Public Contact",
-          "Jeffrey E. Rubnitz",
-          "Site Public Contact",
-          "Sara Zarnegar-Lumley",
-          "Site Public Contact",
-          "Kathleen (Wiertel) Ludwig",
-          "Site Public Contact",
-          "Eric J. Lowe",
-          "Site Public Contact",
-          "Yvan Samson"
-        ],
-        "LocationContactPhone": [
-          "205-638-9285",
-          "501-364-7373",
-          "302-651-6884",
-          "202-884-2549",
-          "352-273-8010",
-          "800-248-1199",
-          "800-865-1125",
-          "816-302-6808",
-          "201-996-2879",
-          "315-464-5476",
-          "513-636-2799",
-          "405-271-8777",
-          "412-692-8570",
-          "888-226-4343",
-          "800-811-8480",
-          "214-648-7097",
-          "757-668-7243",
-          "514-345-4931"
-        ],
-        "BriefSummary": [
-          "This trial studies the side effects of enasidenib and to see how well it works in treating patients with acute myeloid leukemia that has come back after treatment (relapsed) or has been difficult to treat with chemotherapy (refractory). Patients must also have a specific genetic change, also called a mutation, in a protein called IDH2. Enasidenib may stop the growth of cancer cells by blocking the mutated IDH2 protein, which is needed for cell growth."
-        ],
-        "DetailedDescription": [
-          "PRIMARY OBJECTIVES:\n\nI. To determine the safety of treatment with enasidenib mesylate (enasidenib) administered at continuous daily oral dosing for a 28-day cycle up to 12 cycles in pediatric patients with IDH2-mutant relapsed/refractory (R/R)-acute myeloid leukemia (AML).\n\nII. To characterize the plasma pharmacokinetic (PK) profile of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nSECONDARY OBJECTIVES:\n\nI. To investigate the pharmacodynamic (PD) relationship of oncogenic metabolite 2-hydroxyglutarate (2-HG) to enasidenib treatment in pediatric patients with IDH2-mutant R/R-AML.\n\nII. To describe the clinical activity of enasidenib in pediatric patients with IDH2-mutant R/R-AML.\n\nOUTLINE:\n\nPatients receive enasidenib orally (PO) once daily (QD) on days 1-28. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days, then periodically up to 1 year."
-        ]
-      },
-      {
-        "Rank": 354,
         "NCTId": [
           "NCT03939637"
         ],
@@ -21014,7 +20970,7 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 354,
         "NCTId": [
           "NCT03719339"
         ],
@@ -21180,7 +21136,7 @@
         ]
       },
       {
-        "Rank": 356,
+        "Rank": 355,
         "NCTId": [
           "NCT04743141"
         ],
@@ -21722,7 +21678,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 357,
+        "Rank": 356,
         "NCTId": [
           "NCT05041712"
         ],
@@ -21810,7 +21766,7 @@
         ]
       },
       {
-        "Rank": 358,
+        "Rank": 357,
         "NCTId": [
           "NCT01987882"
         ],
@@ -21923,7 +21879,7 @@
         ]
       },
       {
-        "Rank": 359,
+        "Rank": 358,
         "NCTId": [
           "NCT00670735"
         ],
@@ -22078,7 +22034,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 360,
+        "Rank": 359,
         "NCTId": [
           "NCT05112237"
         ],
@@ -22144,7 +22100,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 361,
+        "Rank": 360,
         "NCTId": [
           "NCT04914507"
         ],
@@ -22223,7 +22179,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 362,
+        "Rank": 361,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22316,7 +22272,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 363,
+        "Rank": 362,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22384,7 +22340,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 364,
+        "Rank": 363,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22487,7 +22443,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 365,
+        "Rank": 364,
         "NCTId": [
           "NCT03962894"
         ],
@@ -22579,7 +22535,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 366,
+        "Rank": 365,
         "NCTId": [
           "NCT05049330"
         ],
@@ -22715,7 +22671,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 367,
+        "Rank": 366,
         "NCTId": [
           "NCT03118986"
         ],
@@ -22812,7 +22768,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 368,
+        "Rank": 367,
         "NCTId": [
           "NCT03117751"
         ],
@@ -22910,7 +22866,7 @@
         ]
       },
       {
-        "Rank": 369,
+        "Rank": 368,
         "NCTId": [
           "NCT03837899"
         ],
@@ -23027,7 +22983,7 @@
         ]
       },
       {
-        "Rank": 370,
+        "Rank": 369,
         "NCTId": [
           "NCT01148550"
         ],
@@ -23241,7 +23197,7 @@
         ]
       },
       {
-        "Rank": 371,
+        "Rank": 370,
         "NCTId": [
           "NCT03633708"
         ],
@@ -23417,7 +23373,7 @@
         ]
       },
       {
-        "Rank": 372,
+        "Rank": 371,
         "NCTId": [
           "NCT03813407"
         ],
@@ -23631,7 +23587,7 @@
         ]
       },
       {
-        "Rank": 373,
+        "Rank": 372,
         "NCTId": [
           "NCT03268421"
         ],
@@ -23728,7 +23684,7 @@
         ]
       },
       {
-        "Rank": 374,
+        "Rank": 373,
         "NCTId": [
           "NCT04068012"
         ],
@@ -23806,7 +23762,7 @@
         ]
       },
       {
-        "Rank": 375,
+        "Rank": 374,
         "NCTId": [
           "NCT02840409"
         ],
@@ -23944,7 +23900,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 376,
+        "Rank": 375,
         "NCTId": [
           "NCT05074420"
         ],
@@ -24109,7 +24065,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 377,
+        "Rank": 376,
         "NCTId": [
           "NCT02650401"
         ],
@@ -24285,7 +24241,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 378,
+        "Rank": 377,
         "NCTId": [
           "NCT03813238"
         ],
@@ -24610,7 +24566,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 379,
+        "Rank": 378,
         "NCTId": [
           "NCT03785405"
         ],
@@ -24927,7 +24883,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 380,
+        "Rank": 379,
         "NCTId": [
           "NCT05156398"
         ],
@@ -25173,7 +25129,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 381,
+        "Rank": 380,
         "NCTId": [
           "NCT04075266"
         ],
@@ -25296,7 +25252,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 381,
         "NCTId": [
           "NCT04351893"
         ],
@@ -25396,7 +25352,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 383,
+        "Rank": 382,
         "NCTId": [
           "NCT04200352"
         ],
@@ -25538,7 +25494,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 384,
+        "Rank": 383,
         "NCTId": [
           "NCT05260021"
         ],
@@ -25899,7 +25855,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 384,
         "NCTId": [
           "NCT04015141"
         ],
@@ -26083,7 +26039,7 @@
         ]
       },
       {
-        "Rank": 386,
+        "Rank": 385,
         "NCTId": [
           "NCT02134301"
         ],
@@ -26174,7 +26130,7 @@
         ]
       },
       {
-        "Rank": 387,
+        "Rank": 386,
         "NCTId": [
           "NCT05059327"
         ],
@@ -26266,7 +26222,7 @@
         ]
       },
       {
-        "Rank": 388,
+        "Rank": 387,
         "NCTId": [
           "NCT01500551"
         ],
@@ -26810,7 +26766,7 @@
         ]
       },
       {
-        "Rank": 389,
+        "Rank": 388,
         "NCTId": [
           "NCT04862221"
         ],
@@ -27015,7 +26971,7 @@
         ]
       },
       {
-        "Rank": 390,
+        "Rank": 389,
         "NCTId": [
           "NCT04649151"
         ],
@@ -27237,7 +27193,7 @@
         ]
       },
       {
-        "Rank": 391,
+        "Rank": 390,
         "NCTId": [
           "NCT04114539"
         ],
@@ -27581,7 +27537,7 @@
         ]
       },
       {
-        "Rank": 392,
+        "Rank": 391,
         "NCTId": [
           "NCT03958877"
         ],
@@ -27821,7 +27777,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 393,
+        "Rank": 392,
         "NCTId": [
           "NCT04218851"
         ],
@@ -28002,7 +27958,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 394,
+        "Rank": 393,
         "NCTId": [
           "NCT04238819"
         ],
@@ -28121,7 +28077,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 395,
+        "Rank": 394,
         "NCTId": [
           "NCT03275402"
         ],
@@ -28205,7 +28161,7 @@
         ]
       },
       {
-        "Rank": 396,
+        "Rank": 395,
         "NCTId": [
           "NCT00903110"
         ],
@@ -28370,7 +28326,7 @@
         ]
       },
       {
-        "Rank": 397,
+        "Rank": 396,
         "NCTId": [
           "NCT05081180"
         ],
@@ -28448,7 +28404,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 398,
+        "Rank": 397,
         "NCTId": [
           "NCT05244304"
         ],
@@ -28529,7 +28485,7 @@
         ]
       },
       {
-        "Rank": 399,
+        "Rank": 398,
         "NCTId": [
           "NCT04236414"
         ],
@@ -28669,7 +28625,7 @@
         ]
       },
       {
-        "Rank": 400,
+        "Rank": 399,
         "NCTId": [
           "NCT04143724"
         ],
