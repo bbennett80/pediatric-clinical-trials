@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.05",
-    "DataVrs": "2022:05:25 23:20:56.140",
+    "DataVrs": "2022:05:26 23:19:51.823",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 416396,
+    "NStudiesAvail": 416555,
     "NStudiesFound": 401,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -2835,7 +2835,7 @@
           "Traumatic Brain Injury, Mild"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nage 12 to 18 years; presenting chief complaint of headache, head injury, or concussion within the first 48 hours of injury; GCS > 13 on arrival\n\nExclusion Criteria:\n\nage < 12 years or > 18 years; inability to provide informed consent; vomiting > 2 episodes following injury; physical or mental disability hindering adequate response to assessment of symptoms; hemodynamic instability/medical condition requiring further acute life-saving medical intervention; known brain mass, intracranial hemorrhage, skull fracture; known contraindications to magnesium use; known contraindications to ondansetron use; pregnant patients"
+          "Inclusion Criteria:\n\nage 12 to 18 years;\npresenting chief complaint of headache, head injury, or concussion within the first 48 hours of injury;\nGCS > 13 on arrival\n\nExclusion Criteria:\n\nage < 12 years or > 18 years;\ninability to provide informed consent;\nvomiting > 2 episodes following injury;\nphysical or mental disability hindering adequate response to assessment of symptoms;\nhemodynamic instability/medical condition requiring further acute life-saving medical intervention;\nknown brain mass, intracranial hemorrhage, skull fracture;\nknown contraindications/allergy to magnesium, ondansetron, or acetaminophen\npregnant patients"
         ],
         "MinimumAge": [
           "12 Years"
@@ -2865,9 +2865,11 @@
           "269-985-4562"
         ],
         "BriefSummary": [
-          "This randomized trial will compare the clinical efficacy of oral magnesium oxide, acetaminophen and ondansetron, to that of PO acetaminophen and ondansetron in the treatment of adolescents presenting within 48 hours of a mild traumatic brain injury. Our primary endpoint will be to evaluate if magnesium has an impact on patient's Post-Concussion Symptom Severity Score Index."
+          "This randomized trial will compare the clinical efficacy of adding oral magnesium oxide to acetaminophen and ondansetron in the treatment of adolescents presenting within 48 hours of a mild traumatic brain injury using the Post-Concussion Symptom Severity Score Index."
         ],
-        "DetailedDescription": []
+        "DetailedDescription": [
+          "This randomized trial will compare the clinical efficacy of oral magnesium oxide, acetaminophen and ondansetron, to that of PO acetaminophen and ondansetron in the treatment of adolescents presenting within 48 hours of a mild traumatic brain injury. Our primary endpoint will be to evaluate if magnesium has an impact on patient's Post-Concussion Symptom Severity Score Index. This will be evaluated both at the initial presentation in-person and then at 24, 48, and 72 hours via phone"
+        ]
       },
       {
         "Rank": 54,
@@ -3266,16 +3268,16 @@
       {
         "Rank": 62,
         "NCTId": [
-          "NCT04978571"
+          "NCT04931927"
         ],
         "OfficialTitle": [
-          "A Prospective Study on the Effect of Auricular Percutaneous Electrical Nerve Field Stimulation (PENFS) in Patients With Post Concussion Syndrome (PCS)"
+          "Impact of Telehealth on Engagement in Psychotherapy and/or Medication Treatment"
         ],
         "Condition": [
-          "Post-Concussion Syndrome"
+          "Psychiatric Diagnosis"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nClinical diagnosis of Post-Concussion Syndrome\nPost-Concussion Symptoms for at least 3 months along with lack of other explanation for their symptoms\nEnglish and Spanish-speaking families\n\nExclusion Criteria:\n\nSeizure disorders\nSignificant developmental delay\nInfection or severe dermatological condition of ear\nBleeding disorders\nImplanted electrical device"
+          "Inclusion Criteria: Youth Sample\n\nYouth ages 12-18 years of age receiving an evaluation in the diagnostic evaluation service, the Diagnostic Evaluation and Stabilization Clinic (DESC), or another clinical service in the outpatient Child Behavioral Health Service at NewYork Presbyterian (NYP) - Morgan Stanley Children's Hospital (MSCH)/ NYP-MSCH.\nEnglish speaking\n\nExclusion Criteria: Youth Sample\n\nActive Suicidal Ideation with current plan and/or intent that requires a higher level of care than outpatient treatment or treatment in DESC\nDiagnosis of intellectual disability\n\nInclusion Criteria: Clinician Sample\n\nWork as a clinician in any MSCH Outpatient Behavioral Health Service or DESC\nClinician consent\nEnglish or bilingual in English and Spanish\n\nExclusion Criteria: Clinician Sample\n\n1. None"
         ],
         "MinimumAge": [
           "12 Years"
@@ -3284,80 +3286,38 @@
           "18 Years"
         ],
         "LocationCity": [
-          "Orange"
+          "New York"
         ],
         "LocationFacility": [
-          "CHOC Children's"
+          "New York State Psychiatric Institute"
         ],
         "LocationState": [
-          "California"
+          "New York"
         ],
         "LocationZip": [
-          "92868"
+          "10032"
         ],
         "LocationContactEMail": [
-          "elisa.ornelas@choc.org"
+          "Laura.Mufson@nyspi.columbia.edu",
+          "Valasia.Makridis@nyspi.columbia.edu"
         ],
         "LocationContactName": [
-          "Elisa Ornelas"
+          "Laura Mufson, Ph.D",
+          "Valasia Makridis, B.S."
         ],
-        "LocationContactPhone": [],
+        "LocationContactPhone": [
+          "646-774-5791",
+          "646-774-5827"
+        ],
         "BriefSummary": [
-          "The purpose of this study is to test the effect of Auricular Percutaneous Electrical Nerve Field Stimulation (a Neurostim device) on children with pain and Post Concussion symptoms."
+          "In the present study, investigators aim to (1) adapt the Making Connections Intervention (MCI) as an intervention to address telehealth engagement and examine whether this targeted intervention can improve youth engagement in telehealth treatment; and (2) assess attitudes towards help-seeking and therapeutic alliance from both the youth and clinician viewpoint to examine the impact of these factors on engagement in telemental health treatment. Forty adolescent participants ages 12-18 will be randomized to either telehealth treatment as usual (TAU) plus the telehealth Making Connections Intervention (MCI-T) engagement session or telehealth TAU alone and followed for 12 weeks from baseline assessment. All clinicians will receive training in the MCI-T intervention and provide either MCI-T + usual care or usual care only depending on the condition to which the adolescents are randomized. All evaluations and therapy sessions will be done over telehealth platform."
         ],
         "DetailedDescription": [
-          "The purpose of this study is to test the effect of Auricular Percutaneous Electrical Nerve Field Stimulation (a Neurostim device) on children with pain and Post Concussion symptoms. Patient will be offered a Neurostim device. This device is placed on the outer ear through tiny needles. Since this is a randomized trial, patients may receive an active (experiment) or nonactive (control) Neurostim device. However, the nonactive control Neurostim device group will be given the option to receive an active device after the initial study procedures. The experiment group may be in this study up to 8 weeks and the control group may be in this study up to 12 weeks. The control group will have 4 additional weeks due to the transition to an active device following the first 8 weeks. The device is worn weekly for 4 weeks. Each device is worn for 5 consecutive days for the full 24 hours. The participant will be able to easily take the device off on the 6th day. Study procedures include: Neurological testing- a balance test and computerized neurological standard testing, Cardiology testing- electrocardiogram for heart rate variability (heart electrical pulse test), a pupilometer (eye) test, and parent/child questionnaires. You may benefit from this research, but there is no guarantee that being in this study will help you."
+          "Clinicians who participate in the study may be assigned more than one study case, and therefore will complete measures on each study case. All of the clinicians will receive training in the Making Connections Intervention-Telehealth (MCI-T) intervention. The clinicians will deliver the intervention based on the random assignment of the adolescent participants to a treatment arm. When clinicians provide care to adolescents randomized to the MCI-T condition, they will participate in a monthly consultation over telehealth to review cases to promote adherence and fidelity to the treatment."
         ]
       },
       {
         "Rank": 63,
-        "NCTId": [
-          "NCT04977830"
-        ],
-        "OfficialTitle": [
-          "New Strategies for Pulmonary Assessment in Spinal and Chest Wall Deformity"
-        ],
-        "Condition": [
-          "Thoracic Insufficiency Syndrome"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nMales or females 6 to 18 years old diagnosed with thoracic insufficiency syndrome who are undergoing surgery\n\nExclusion Criteria:\n\npatients not diagnosed with thoracic insufficiency syndrome"
-        ],
-        "MinimumAge": [
-          "6 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Philadelphia"
-        ],
-        "LocationFacility": [
-          "Children's Hospital of Philadelphia"
-        ],
-        "LocationState": [
-          "Pennsylvania"
-        ],
-        "LocationZip": [
-          "19104"
-        ],
-        "LocationContactEMail": [
-          "clarkaj@chop.edu"
-        ],
-        "LocationContactName": [
-          "Abigail Clark, MEng",
-          "Patrick Cahill, MD"
-        ],
-        "LocationContactPhone": [
-          "267-426-5433"
-        ],
-        "BriefSummary": [
-          "Thoracic insufficiency syndrome (TIS) is a complex condition that involves chest wall deformities that can affect normal breathing and lung growth. In most cases, children with TIS are also born with spine disorders such as scoliosis. The inability of the thorax to support normal respiration or lung growth can cause respiratory distress and even mortality. Investigators aim to validate MRI imaging sequences to use as an assessment tool for pulmonary function."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 64,
         "NCTId": [
           "NCT04927286"
         ],
@@ -3403,7 +3363,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 65,
+        "Rank": 64,
         "NCTId": [
           "NCT04922983"
         ],
@@ -3456,7 +3416,7 @@
         ]
       },
       {
-        "Rank": 66,
+        "Rank": 65,
         "NCTId": [
           "NCT04911270"
         ],
@@ -3503,7 +3463,7 @@
         ]
       },
       {
-        "Rank": 67,
+        "Rank": 66,
         "NCTId": [
           "NCT04896645"
         ],
@@ -3551,7 +3511,7 @@
         ]
       },
       {
-        "Rank": 68,
+        "Rank": 67,
         "NCTId": [
           "NCT04848532"
         ],
@@ -3606,7 +3566,7 @@
         ]
       },
       {
-        "Rank": 69,
+        "Rank": 68,
         "NCTId": [
           "NCT04845932"
         ],
@@ -3654,7 +3614,7 @@
         ]
       },
       {
-        "Rank": 70,
+        "Rank": 69,
         "NCTId": [
           "NCT04825587"
         ],
@@ -3702,7 +3662,7 @@
         ]
       },
       {
-        "Rank": 71,
+        "Rank": 70,
         "NCTId": [
           "NCT04815239"
         ],
@@ -3754,7 +3714,7 @@
         ]
       },
       {
-        "Rank": 72,
+        "Rank": 71,
         "NCTId": [
           "NCT04812028"
         ],
@@ -3802,7 +3762,7 @@
         ]
       },
       {
-        "Rank": 73,
+        "Rank": 72,
         "NCTId": [
           "NCT04810130"
         ],
@@ -3855,7 +3815,7 @@
         ]
       },
       {
-        "Rank": 74,
+        "Rank": 73,
         "NCTId": [
           "NCT04798482"
         ],
@@ -3904,7 +3864,7 @@
         ]
       },
       {
-        "Rank": 75,
+        "Rank": 74,
         "NCTId": [
           "NCT04797559"
         ],
@@ -3953,18 +3913,21 @@
         ]
       },
       {
-        "Rank": 76,
+        "Rank": 75,
         "NCTId": [
-          "NCT04795674"
+          "NCT04752501"
         ],
         "OfficialTitle": [
-          "Behavioral and Neural Target Engagement for ADHD Executive Working Memory Training"
+          "Maladaptive Psychosocial Beliefs and Adolescents With Patellofemoral Pain"
         ],
         "Condition": [
-          "ADHD"
+          "Patellofemoral Pain Syndrome",
+          "Knee Pain Chronic",
+          "Patellofemoral Syndrome",
+          "Anterior Knee Pain Syndrome"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nDiagnosis of ADHD\nEnglish speaking\nRight-handed\n>5th grade reading level\n>80 IQ level\n\nExclusion Criteria:\n\nBraces, metal or implant devices\nBrain abnormality, neurological disorder\nTBI or loss of consciousness>30 minutes\nDiagnosis of Psychosis, Bipolar Disorder, ASD, PTSD, OCD, SUD, Tourette's Disorder"
+          "Inclusion Criteria:\n\n• Having patellofemoral pain as defined as: Pain around or behind the patella, which is aggravated by at least one activity that loads the patellofemoral joint during weight bearing on a flexed knee (e.g., squatting, stair ambulation, jogging/running, hopping/jumping).\n\nExclusion Criteria:\n\nPrior history of patellar dislocation.\nSuspicion of other diagnosis of the knee by evaluating physical therapist or principal investigator.\nOther concomitant injury of the leg.\nPrior history of knee surgery.\nRed flags present for non-musculoskeletal involvement (bowel/bladder problems, saddle anesthesia, progressive neurological deficits, recent fever or infection, unexplained weight loss, unable to change symptoms with mechanical testing).\nNumbness and tingling in any lumbar dermatome."
         ],
         "MinimumAge": [
           "12 Years"
@@ -3973,35 +3936,100 @@
           "18 Years"
         ],
         "LocationCity": [
-          "Hartford"
+          "Columbus"
         ],
         "LocationFacility": [
-          "Institute of Living/Hartford Hospital"
+          "Nationwide Children's Hospital Sports and Ortho PT East Broad"
         ],
         "LocationState": [
-          "Connecticut"
+          "Ohio"
         ],
         "LocationZip": [
-          "06106"
+          "43213"
         ],
         "LocationContactEMail": [
-          "Karen.kesten@hhchealth.org",
-          "Jacey.anderson@hhchealth.org"
+          "Mitchell.Selhorst@Nationwidechildrens.org"
         ],
         "LocationContactName": [
-          "Karen L Kesten, MS",
-          "Jacey Anderson, BS",
-          "Michael C Stevens, PhD"
+          "Mitchell Selhorst, DPT, PHD",
+          "Mitchell C Selhorst, DPT,PHD"
         ],
         "LocationContactPhone": [
-          "860-545-7776",
-          "(860) 545-7531"
+          "614-355-9764"
         ],
         "BriefSummary": [
-          "This study will assess whether or not a novel executive working memory training intervention for Attention-Deficit/Hyperactivity Disorder can engage frontoparietal brain network treatment targets and behavioral performance."
+          "This is a randomized prospective study assessing the impact of psychosocial factors on pain and physical performance among adolescents with patellofemoral pain. A set of psychosocial surveys assessing fear avoidance beliefs, kinesiophobia, and pain catastrophizing will be completed by the participant/parents. Participants will then complete an activity questionnaire, numeric pain rating scale, and a self-report questionnaire of functional ability. Participants will then be randomized into one of two groups (psychologically informed education group and a control group). Participants will view a series of educational videos (based upon group assignment) and complete physical therapy exercises for lower extremity strengthening, flexibility, and neuromuscular control. Participants with patellofemoral pain will then complete follow-up surveys of their psychosocial beliefs, pain and self-reported functional ability through REDcap at immediately post-intervention, 1 week, 3 weeks, 6 weeks, and 3 months."
+        ],
+        "DetailedDescription": []
+      },
+      {
+        "Rank": 76,
+        "NCTId": [
+          "NCT04752293"
+        ],
+        "OfficialTitle": [
+          "Pediatric Hypertension and the Renin-Angiotensin SystEm (PHRASE): The Role of Angiotensin-(1-7) in Hypertension and Hypertension-Induced Heart and Kidney Damage"
+        ],
+        "Condition": [
+          "Hypertension",
+          "Left Ventricular Hypertrophy",
+          "Left Ventricular Dysfunction",
+          "Left Atrial Dilatation",
+          "Left Ventricular Diastolic Dysfunction",
+          "Kidney Diseases",
+          "Kidney Injury",
+          "Kidney Dysfunction",
+          "Sodium Urine High",
+          "Vascular Stiffness",
+          "Blood Pressure Disorders",
+          "Uric Acid Retention",
+          "Angiotensin Hypertension",
+          "Autonomic Dysfunction",
+          "Autonomic Imbalance",
+          "Pediatric Kidney Disease",
+          "Pediatric Obesity",
+          "Proteinuria",
+          "Albuminuria"
+        ],
+        "EligibilityCriteria": [
+          "INCLUSION CRITERIA: HYPERTENSION COHORT\n\n7-18 years of age at time of enrollment\n\nConfirmed new diagnosis of primary hypertension: no identifiable secondary cause and ≥3 prior office blood pressure (BP) measurements on separate days;\n\nAge <13 years: BP ≥95th %ile or ≥130/80 mmHg (whichever is lower)\nAge ≥13 years: BP ≥130/80 mmHg\nParticipants and their caregivers must be willing and able to commit to completing the study assessments\n\nEXCLUSION CRITERIA: HYPERTENSION COHORT\n\n<7 years or >18 years of age at time of enrollment\n\nBP confirmed as normal or in the elevated BP category based on ≥3 prior office BP measurements on separate days;\n\nAge <13 years: BP <95th %ile or <130/80 mmHg (whichever is lower)\nAge ≥13 years: BP <130/80 mmHg\nA confirmed secondary cause of hypertension\nConfounding medical condition (heart or kidney disease [except hypertension-associated heart changes on echocardiogram or albuminuria], vascular/inflammatory disease, or diabetes)\nInability to complete study assessments\nNon-English/Spanish speakers\nCurrent pregnancy\nWard of the State\n\nINCLUSION CRITERIA: CONTROL COHORT\n\n7-18 years of age at time of enrollment\n\nNormal BP based on ≥3 prior office BP measurements on separate days;\n\nAge <13 years: BP <90th %ile or <120/80 mmHg (whichever is lower)\nAge ≥13 years: BP <120/80 mmHg\nParticipants and their caregivers must be willing and able to commit to completing the study assessments\n\nEXCLUSION CRITERIA: CONTROL COHORT\n\n<7 or >18 years of age at time of enrollment\n\nElevated BP or hypertension, based on ≥3 prior office BP measurements on separate days:\n\nAge <13 years: BP ≥90th %ile or ≥120/80 mmHg (whichever is lower)\nAge ≥13 years: BP ≥120/80 mmHg\nHistory of elevated BP or hypertension\nCurrent use of BP-lowering medications\nConfounding medical condition (heart or kidney disease, vascular/inflammatory disease, or diabetes)\nInability to complete study assessments\nNon-English/Spanish speakers\nCurrent pregnancy\nWard of the State"
+        ],
+        "MinimumAge": [
+          "7 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Winston-Salem"
+        ],
+        "LocationFacility": [
+          "Wake Forest Health Sciences"
+        ],
+        "LocationState": [
+          "North Carolina"
+        ],
+        "LocationZip": [
+          "27157"
+        ],
+        "LocationContactEMail": [
+          "asouth@wakehealth.edu",
+          "cblucas@wakehealth.edu"
+        ],
+        "LocationContactName": [
+          "Andrew M South, MD, MS",
+          "Caroline B Lucas",
+          "Andrew M South, MD, MS"
+        ],
+        "LocationContactPhone": [
+          "336-716-9640",
+          "336.713.8038"
+        ],
+        "BriefSummary": [
+          "Studying the causal roles of components of the renin-angiotensin-aldosterone system (including angiotensin-(1-7) (Ang-(1-7)), angiotensin-converting enzyme 2 (ACE2), Ang II, and ACE), uric acid, and klotho in pediatric hypertension and related target organ injury, including in the heart, kidneys, vasculature, and brain. Recruiting children with a new hypertension diagnosis over a 2-year period from the Hypertension and Pediatric Nephrology Clinics affiliated with Brenner Children's Hospital at Atrium Health Wake Forest Baptist and Atrium Health Levine Children's Hospital. Healthy control participants will be recruited from local general primary care practices. Collecting blood and urine samples to analyze components of the renin-angiotensin-aldosterone system (Ang-(1-7), ACE2, Ang II, ACE), uric acid, and klotho, and measuring blood pressure, heart structure and function, autonomic function, vascular function, and kidney function at baseline, year 1, and year 2. Objectives are to investigate phenotypic and treatment response variability and to causally infer if Ang-(1-7), ACE2, Ang II, ACE, uric acid, and klotho contribute to target organ injury due to hypertension."
         ],
         "DetailedDescription": [
-          "This proposal seeks support for a 2-year milestone-driven R61 initial test of target engagement in n=62 ADHD diagnosed adolescents randomized to a 'sham training' placebo or to train 4 times each week using 4 different EWM exercises that have been combined into the format of a typical cognitive training intervention. Exercise difficulty levels in the active intervention will increase across 5 weeks to continually challenge EWM ability. EWM training will use a novel, remotely-supervised 'at home' computerized training approach. If R61 EWM training target engagement milestones are met, a 3-year R33 phase will begin. The R33 will replicate target engagement in another randomized placebo-controlled trial of n=90 new ADHD adolescents and attempt to establish a convincing link between the hypothesized targets and ADHD symptom expression. It also will characterize ADHD brain activity or EWM ability changes relative to typical levels seen in an n=40 non-ADHD control group."
+          "This longitudinal prospective cohort study is recruiting children and adolescents aged 7-18 years with newly diagnosed primary hypertension over a 2-year period from the Hypertension and Pediatric Nephrology Clinics affiliated with Brenner Children's Hospital at Atrium Health Wake Forest Baptist, which sees over 300 new patients a year, and the Pediatric Nephrology Clinic at Atrium Health Levine Children's Hospital (Hypertension Cohort). Also recruiting healthy control participants aged 7-18 years with normal blood pressure from local primary care practices (Control Cohort). Collecting blood and urine to analyze Ang-(1-7), ACE2, Ang II, ACE, uric acid, and klotho and measuring pediatric-specific outcomes (blood pressure (casual and ambulatory monitoring), indices of heart structure and function on echocardiogram (left ventricular systolic and diastolic function, left ventricular hypertrophy, etc.), kidney function (creatinine, estimated glomerular filtration rate, albuminuria, proteinuria, urine sodium/potassium), autonomic function (heart rate variability, blood pressure variability, baroreflex sensitivity), and vascular function (arterial stiffness, augmentation index)) at baseline and year 1 (Hypertension Cohort and Control Cohort) and year 2 (Hypertension Cohort). The objectives are to investigate if Ang-(1-7), ACE2, Ang II, and ACE identify phenotypic and treatment response variability and to causally infer if Ang-(1-7), ACE2, Ang II, ACE, uric acid, and klotho contribute to target organ injury, with these Specific Aims:\n\nAim 1:\n\n(1) Determine if plasma Ang-(1-7) or urine Ang-(1-7)/creatinine differ between the Hypertension vs. Control Cohorts and (2) assess if plasma Ang-(1-7) or urine Ang-(1-7)/creatinine mediate the effect of lisinopril-induced blood pressure reduction on the outcomes (change in heart function and structure, autonomic function, vascular function, and kidney function).\n\nHypothesis 1a: Baseline Ang-(1-7) is lower in the Hypertension vs. Control Cohort.\n\nHypothesis 1b: Increased Ang-(1-7) levels over time mediate the effect of lisinopril-induced decreased blood pressure on improved outcomes over 2 years in the Hypertension Cohort.\n\nAim 2:\n\n(1) Evaluate if plasma Ang-(1-7) or urine Ang-(1-7)/creatinine predict treatment response in participants in the Hypertension Cohort (change in casual blood pressure, ambulatory blood pressure, heart function/structure, autonomic function, vascular function, and kidney function); (2) compare to plasma renin activity and aldosterone; and (3) employ sensitivity analyses to quantify the impact of unmeasured confounding.\n\nHypothesis 2: Lower baseline Ang-(1-7) predicts greater outcome improvements in the Hypertension Cohort with lower unmeasured confounding and with greater predictive ability compared to plasma renin activity and aldosterone.\n\nAim 3:\n\nDetermine if plasma Ang-(1-7) or urine Ang-(1-7)/creatinine mediate the effects of uric acid and klotho on the outcomes in participants in the Hypertension Cohort. (1) Apply causal mediation to estimate if plasma Ang-(1-7) mediates the effects of uric acid on the outcomes (change in casual blood pressure, ambulatory blood pressure, heart function/structure, autonomic function, and vascular function). (2) Apply causal mediation to estimate if urine Ang-(1-7)/creatinine mediates the effects of klotho on the outcomes (change in casual blood pressure, ambulatory blood pressure, and kidney function).\n\nHypothesis 3a: Lower plasma Ang-(1-7) mediates the effect of high uric acid on the outcomes in the Hypertension Cohort.\n\nHypothesis 3b: Lower urine Ang-(1-7)/creatinine mediates the effect of low klotho on the outcomes in the Hypertension Cohort.\n\nAnticipated results have great potential to impact patient care by establishing Ang-(1-7), ACE2, Ang II, and ACE as biomarkers of treatment response, by establishing how Ang-(1-7) and other components of the renin-angiotensin-aldosterone system change in response to an ACE inhibitor, by indicating which patients would benefit most from ACE inhibitors, by identifying novel etiologies of hypertension centered on alterations to the renin-angiotensin-aldosterone system, uric acid, and klotho, and by leading to novel treatments. Indeed, these have been questions of great interest during the COVID-19 pandemic, as ACE2 is the binding site for Severe acute respiratory syndrome (SARS)-CoV-2. Ultimately, the results from this study will improve patient outcomes by promoting cardiovascular health and preventing cardiovascular disease across the lifecourse."
         ]
       },
       {
@@ -4770,55 +4798,6 @@
       {
         "Rank": 92,
         "NCTId": [
-          "NCT04634643"
-        ],
-        "OfficialTitle": [
-          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
-        ],
-        "Condition": [
-          "NAFLD"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "New Haven"
-        ],
-        "LocationFacility": [
-          "Yale New Haven Hospital"
-        ],
-        "LocationState": [
-          "Connecticut"
-        ],
-        "LocationZip": [
-          "06510"
-        ],
-        "LocationContactEMail": [
-          "jessica.lat@yale.edu",
-          "zhongyao.li@yale.edu"
-        ],
-        "LocationContactName": [
-          "Jessica Lat",
-          "Zhongyao Li",
-          "Nicola Santoro, MD, PhD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
-        ],
-        "DetailedDescription": [
-          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
-        ]
-      },
-      {
-        "Rank": 93,
-        "NCTId": [
           "NCT04602325"
         ],
         "OfficialTitle": [
@@ -4869,7 +4848,7 @@
         ]
       },
       {
-        "Rank": 94,
+        "Rank": 93,
         "NCTId": [
           "NCT04569708"
         ],
@@ -4925,7 +4904,7 @@
         ]
       },
       {
-        "Rank": 95,
+        "Rank": 94,
         "NCTId": [
           "NCT04562688"
         ],
@@ -4973,7 +4952,7 @@
         ]
       },
       {
-        "Rank": 96,
+        "Rank": 95,
         "NCTId": [
           "NCT04540536"
         ],
@@ -5024,7 +5003,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 97,
+        "Rank": 96,
         "NCTId": [
           "NCT04537390"
         ],
@@ -5071,7 +5050,7 @@
         ]
       },
       {
-        "Rank": 98,
+        "Rank": 97,
         "NCTId": [
           "NCT04529707"
         ],
@@ -5119,7 +5098,7 @@
         ]
       },
       {
-        "Rank": 99,
+        "Rank": 98,
         "NCTId": [
           "NCT04526639"
         ],
@@ -5165,7 +5144,7 @@
         ]
       },
       {
-        "Rank": 100,
+        "Rank": 99,
         "NCTId": [
           "NCT04522778"
         ],
@@ -5217,7 +5196,7 @@
         ]
       },
       {
-        "Rank": 101,
+        "Rank": 100,
         "NCTId": [
           "NCT04518397"
         ],
@@ -5266,7 +5245,7 @@
         ]
       },
       {
-        "Rank": 102,
+        "Rank": 101,
         "NCTId": [
           "NCT04516343"
         ],
@@ -5313,7 +5292,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 103,
+        "Rank": 102,
         "NCTId": [
           "NCT04502758"
         ],
@@ -5356,7 +5335,7 @@
         ]
       },
       {
-        "Rank": 104,
+        "Rank": 103,
         "NCTId": [
           "NCT04485416"
         ],
@@ -5407,7 +5386,7 @@
         ]
       },
       {
-        "Rank": 105,
+        "Rank": 104,
         "NCTId": [
           "NCT04482556"
         ],
@@ -5456,7 +5435,7 @@
         ]
       },
       {
-        "Rank": 106,
+        "Rank": 105,
         "NCTId": [
           "NCT04481243"
         ],
@@ -5502,7 +5481,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 107,
+        "Rank": 106,
         "NCTId": [
           "NCT04472286"
         ],
@@ -5565,7 +5544,7 @@
         ]
       },
       {
-        "Rank": 108,
+        "Rank": 107,
         "NCTId": [
           "NCT04462861"
         ],
@@ -5612,7 +5591,7 @@
         ]
       },
       {
-        "Rank": 109,
+        "Rank": 108,
         "NCTId": [
           "NCT04446910"
         ],
@@ -5660,7 +5639,7 @@
         ]
       },
       {
-        "Rank": 110,
+        "Rank": 109,
         "NCTId": [
           "NCT04403633"
         ],
@@ -5708,7 +5687,7 @@
         ]
       },
       {
-        "Rank": 111,
+        "Rank": 110,
         "NCTId": [
           "NCT04398862"
         ],
@@ -5758,7 +5737,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 112,
+        "Rank": 111,
         "NCTId": [
           "NCT04390035"
         ],
@@ -5806,7 +5785,7 @@
         ]
       },
       {
-        "Rank": 113,
+        "Rank": 112,
         "NCTId": [
           "NCT04365556"
         ],
@@ -5858,7 +5837,7 @@
         ]
       },
       {
-        "Rank": 114,
+        "Rank": 113,
         "NCTId": [
           "NCT04360395"
         ],
@@ -5907,7 +5886,7 @@
         ]
       },
       {
-        "Rank": 115,
+        "Rank": 114,
         "NCTId": [
           "NCT04357132"
         ],
@@ -5958,7 +5937,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 116,
+        "Rank": 115,
         "NCTId": [
           "NCT04351958"
         ],
@@ -6006,7 +5985,7 @@
         ]
       },
       {
-        "Rank": 117,
+        "Rank": 116,
         "NCTId": [
           "NCT04351776"
         ],
@@ -6057,7 +6036,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 118,
+        "Rank": 117,
         "NCTId": [
           "NCT04342000"
         ],
@@ -6108,7 +6087,7 @@
         ]
       },
       {
-        "Rank": 119,
+        "Rank": 118,
         "NCTId": [
           "NCT04338048"
         ],
@@ -6148,7 +6127,7 @@
         ]
       },
       {
-        "Rank": 120,
+        "Rank": 119,
         "NCTId": [
           "NCT04325282"
         ],
@@ -6196,7 +6175,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 121,
+        "Rank": 120,
         "NCTId": [
           "NCT04322734"
         ],
@@ -6250,7 +6229,7 @@
         ]
       },
       {
-        "Rank": 122,
+        "Rank": 121,
         "NCTId": [
           "NCT04314635"
         ],
@@ -6296,7 +6275,7 @@
         ]
       },
       {
-        "Rank": 123,
+        "Rank": 122,
         "NCTId": [
           "NCT04313192"
         ],
@@ -6348,7 +6327,7 @@
         ]
       },
       {
-        "Rank": 124,
+        "Rank": 123,
         "NCTId": [
           "NCT04312919"
         ],
@@ -6395,7 +6374,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 125,
+        "Rank": 124,
         "NCTId": [
           "NCT04309786"
         ],
@@ -6446,7 +6425,7 @@
         ]
       },
       {
-        "Rank": 126,
+        "Rank": 125,
         "NCTId": [
           "NCT04299191"
         ],
@@ -6494,7 +6473,7 @@
         ]
       },
       {
-        "Rank": 127,
+        "Rank": 126,
         "NCTId": [
           "NCT04298203"
         ],
@@ -6542,7 +6521,7 @@
         ]
       },
       {
-        "Rank": 128,
+        "Rank": 127,
         "NCTId": [
           "NCT04298099"
         ],
@@ -6590,7 +6569,7 @@
         ]
       },
       {
-        "Rank": 129,
+        "Rank": 128,
         "NCTId": [
           "NCT04290754"
         ],
@@ -6641,7 +6620,7 @@
         ]
       },
       {
-        "Rank": 130,
+        "Rank": 129,
         "NCTId": [
           "NCT04288206"
         ],
@@ -6686,7 +6665,7 @@
         ]
       },
       {
-        "Rank": 131,
+        "Rank": 130,
         "NCTId": [
           "NCT04264143"
         ],
@@ -6740,7 +6719,7 @@
         ]
       },
       {
-        "Rank": 132,
+        "Rank": 131,
         "NCTId": [
           "NCT04250844"
         ],
@@ -6786,7 +6765,7 @@
         ]
       },
       {
-        "Rank": 133,
+        "Rank": 132,
         "NCTId": [
           "NCT04242602"
         ],
@@ -6834,7 +6813,7 @@
         ]
       },
       {
-        "Rank": 134,
+        "Rank": 133,
         "NCTId": [
           "NCT04219995"
         ],
@@ -6883,7 +6862,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 135,
+        "Rank": 134,
         "NCTId": [
           "NCT04217694"
         ],
@@ -6933,7 +6912,7 @@
         ]
       },
       {
-        "Rank": 136,
+        "Rank": 135,
         "NCTId": [
           "NCT04211935"
         ],
@@ -6982,7 +6961,7 @@
         ]
       },
       {
-        "Rank": 137,
+        "Rank": 136,
         "NCTId": [
           "NCT04208256"
         ],
@@ -7034,7 +7013,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 138,
+        "Rank": 137,
         "NCTId": [
           "NCT04205604"
         ],
@@ -7078,7 +7057,7 @@
         ]
       },
       {
-        "Rank": 139,
+        "Rank": 138,
         "NCTId": [
           "NCT04201106"
         ],
@@ -7124,7 +7103,7 @@
         ]
       },
       {
-        "Rank": 140,
+        "Rank": 139,
         "NCTId": [
           "NCT04190225"
         ],
@@ -7176,7 +7155,7 @@
         ]
       },
       {
-        "Rank": 141,
+        "Rank": 140,
         "NCTId": [
           "NCT04186429"
         ],
@@ -7226,7 +7205,7 @@
         ]
       },
       {
-        "Rank": 142,
+        "Rank": 141,
         "NCTId": [
           "NCT04180358"
         ],
@@ -7276,7 +7255,7 @@
         ]
       },
       {
-        "Rank": 143,
+        "Rank": 142,
         "NCTId": [
           "NCT04174001"
         ],
@@ -7322,7 +7301,7 @@
         ]
       },
       {
-        "Rank": 144,
+        "Rank": 143,
         "NCTId": [
           "NCT04166526"
         ],
@@ -7368,7 +7347,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 145,
+        "Rank": 144,
         "NCTId": [
           "NCT04164966"
         ],
@@ -7414,7 +7393,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 146,
+        "Rank": 145,
         "NCTId": [
           "NCT04158245"
         ],
@@ -7466,7 +7445,7 @@
         ]
       },
       {
-        "Rank": 147,
+        "Rank": 146,
         "NCTId": [
           "NCT04154865"
         ],
@@ -7514,7 +7493,7 @@
         ]
       },
       {
-        "Rank": 148,
+        "Rank": 147,
         "NCTId": [
           "NCT04153994"
         ],
@@ -7555,7 +7534,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 149,
+        "Rank": 148,
         "NCTId": [
           "NCT04148560"
         ],
@@ -7607,7 +7586,7 @@
         ]
       },
       {
-        "Rank": 150,
+        "Rank": 149,
         "NCTId": [
           "NCT04127331"
         ],
@@ -7653,7 +7632,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 151,
+        "Rank": 150,
         "NCTId": [
           "NCT04125043"
         ],
@@ -7703,7 +7682,7 @@
         ]
       },
       {
-        "Rank": 152,
+        "Rank": 151,
         "NCTId": [
           "NCT04118712"
         ],
@@ -7748,7 +7727,7 @@
         ]
       },
       {
-        "Rank": 153,
+        "Rank": 152,
         "NCTId": [
           "NCT04111991"
         ],
@@ -7794,7 +7773,7 @@
         ]
       },
       {
-        "Rank": 154,
+        "Rank": 153,
         "NCTId": [
           "NCT04111471"
         ],
@@ -7834,7 +7813,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 155,
+        "Rank": 154,
         "NCTId": [
           "NCT04110730"
         ],
@@ -7883,7 +7862,7 @@
         ]
       },
       {
-        "Rank": 156,
+        "Rank": 155,
         "NCTId": [
           "NCT04108988"
         ],
@@ -7932,7 +7911,7 @@
         ]
       },
       {
-        "Rank": 157,
+        "Rank": 156,
         "NCTId": [
           "NCT04104841"
         ],
@@ -7983,7 +7962,7 @@
         ]
       },
       {
-        "Rank": 158,
+        "Rank": 157,
         "NCTId": [
           "NCT04099810"
         ],
@@ -8029,7 +8008,7 @@
         ]
       },
       {
-        "Rank": 159,
+        "Rank": 158,
         "NCTId": [
           "NCT04089332"
         ],
@@ -8077,7 +8056,7 @@
         ]
       },
       {
-        "Rank": 160,
+        "Rank": 159,
         "NCTId": [
           "NCT04060303"
         ],
@@ -8123,7 +8102,7 @@
         ]
       },
       {
-        "Rank": 161,
+        "Rank": 160,
         "NCTId": [
           "NCT04046562"
         ],
@@ -8173,7 +8152,7 @@
         ]
       },
       {
-        "Rank": 162,
+        "Rank": 161,
         "NCTId": [
           "NCT04039750"
         ],
@@ -8219,7 +8198,7 @@
         ]
       },
       {
-        "Rank": 163,
+        "Rank": 162,
         "NCTId": [
           "NCT04038684"
         ],
@@ -8274,7 +8253,7 @@
         ]
       },
       {
-        "Rank": 164,
+        "Rank": 163,
         "NCTId": [
           "NCT04032990"
         ],
@@ -8322,7 +8301,7 @@
         ]
       },
       {
-        "Rank": 165,
+        "Rank": 164,
         "NCTId": [
           "NCT04003012"
         ],
@@ -8368,7 +8347,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 166,
+        "Rank": 165,
         "NCTId": [
           "NCT03995394"
         ],
@@ -8416,7 +8395,7 @@
         ]
       },
       {
-        "Rank": 167,
+        "Rank": 166,
         "NCTId": [
           "NCT03985020"
         ],
@@ -8460,7 +8439,7 @@
         ]
       },
       {
-        "Rank": 168,
+        "Rank": 167,
         "NCTId": [
           "NCT03961854"
         ],
@@ -8500,7 +8479,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 169,
+        "Rank": 168,
         "NCTId": [
           "NCT03961061"
         ],
@@ -8551,7 +8530,7 @@
         ]
       },
       {
-        "Rank": 170,
+        "Rank": 169,
         "NCTId": [
           "NCT03945747"
         ],
@@ -8609,7 +8588,7 @@
         ]
       },
       {
-        "Rank": 171,
+        "Rank": 170,
         "NCTId": [
           "NCT03942952"
         ],
@@ -8662,7 +8641,7 @@
         ]
       },
       {
-        "Rank": 172,
+        "Rank": 171,
         "NCTId": [
           "NCT03911388"
         ],
@@ -8745,7 +8724,7 @@
         ]
       },
       {
-        "Rank": 173,
+        "Rank": 172,
         "NCTId": [
           "NCT03905031"
         ],
@@ -8805,7 +8784,7 @@
         ]
       },
       {
-        "Rank": 174,
+        "Rank": 173,
         "NCTId": [
           "NCT03896867"
         ],
@@ -8851,7 +8830,7 @@
         ]
       },
       {
-        "Rank": 175,
+        "Rank": 174,
         "NCTId": [
           "NCT03882034"
         ],
@@ -8899,7 +8878,7 @@
         ]
       },
       {
-        "Rank": 176,
+        "Rank": 175,
         "NCTId": [
           "NCT03869749"
         ],
@@ -8948,7 +8927,7 @@
         ]
       },
       {
-        "Rank": 177,
+        "Rank": 176,
         "NCTId": [
           "NCT03866707"
         ],
@@ -8999,7 +8978,7 @@
         ]
       },
       {
-        "Rank": 178,
+        "Rank": 177,
         "NCTId": [
           "NCT03866460"
         ],
@@ -9046,7 +9025,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 179,
+        "Rank": 178,
         "NCTId": [
           "NCT03863288"
         ],
@@ -9095,7 +9074,7 @@
         ]
       },
       {
-        "Rank": 180,
+        "Rank": 179,
         "NCTId": [
           "NCT03860311"
         ],
@@ -9148,7 +9127,7 @@
         ]
       },
       {
-        "Rank": 181,
+        "Rank": 180,
         "NCTId": [
           "NCT03855553"
         ],
@@ -9202,7 +9181,7 @@
         ]
       },
       {
-        "Rank": 182,
+        "Rank": 181,
         "NCTId": [
           "NCT03812159"
         ],
@@ -9253,7 +9232,7 @@
         ]
       },
       {
-        "Rank": 183,
+        "Rank": 182,
         "NCTId": [
           "NCT03795818"
         ],
@@ -9304,7 +9283,7 @@
         ]
       },
       {
-        "Rank": 184,
+        "Rank": 183,
         "NCTId": [
           "NCT03729999"
         ],
@@ -9349,7 +9328,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 185,
+        "Rank": 184,
         "NCTId": [
           "NCT03721068"
         ],
@@ -9396,7 +9375,7 @@
         ]
       },
       {
-        "Rank": 186,
+        "Rank": 185,
         "NCTId": [
           "NCT03718234"
         ],
@@ -9448,7 +9427,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 187,
+        "Rank": 186,
         "NCTId": [
           "NCT03709472"
         ],
@@ -9501,7 +9480,7 @@
         ]
       },
       {
-        "Rank": 188,
+        "Rank": 187,
         "NCTId": [
           "NCT03709199"
         ],
@@ -9551,7 +9530,7 @@
         ]
       },
       {
-        "Rank": 189,
+        "Rank": 188,
         "NCTId": [
           "NCT03687008"
         ],
@@ -9600,7 +9579,7 @@
         ]
       },
       {
-        "Rank": 190,
+        "Rank": 189,
         "NCTId": [
           "NCT03670849"
         ],
@@ -9648,7 +9627,7 @@
         ]
       },
       {
-        "Rank": 191,
+        "Rank": 190,
         "NCTId": [
           "NCT03665337"
         ],
@@ -9693,7 +9672,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 192,
+        "Rank": 191,
         "NCTId": [
           "NCT03653013"
         ],
@@ -9736,7 +9715,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 193,
+        "Rank": 192,
         "NCTId": [
           "NCT03648450"
         ],
@@ -9785,7 +9764,7 @@
         ]
       },
       {
-        "Rank": 194,
+        "Rank": 193,
         "NCTId": [
           "NCT03625011"
         ],
@@ -9837,7 +9816,7 @@
         ]
       },
       {
-        "Rank": 195,
+        "Rank": 194,
         "NCTId": [
           "NCT03584399"
         ],
@@ -9879,7 +9858,7 @@
         ]
       },
       {
-        "Rank": 196,
+        "Rank": 195,
         "NCTId": [
           "NCT03555708"
         ],
@@ -9932,7 +9911,7 @@
         ]
       },
       {
-        "Rank": 197,
+        "Rank": 196,
         "NCTId": [
           "NCT03553875"
         ],
@@ -9981,7 +9960,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 198,
+        "Rank": 197,
         "NCTId": [
           "NCT03539783"
         ],
@@ -10033,7 +10012,7 @@
         ]
       },
       {
-        "Rank": 199,
+        "Rank": 198,
         "NCTId": [
           "NCT03530852"
         ],
@@ -10082,7 +10061,7 @@
         ]
       },
       {
-        "Rank": 200,
+        "Rank": 199,
         "NCTId": [
           "NCT03528109"
         ],
@@ -10146,7 +10125,7 @@
         ]
       },
       {
-        "Rank": 201,
+        "Rank": 200,
         "NCTId": [
           "NCT03495388"
         ],
@@ -10199,7 +10178,7 @@
         ]
       },
       {
-        "Rank": 202,
+        "Rank": 201,
         "NCTId": [
           "NCT03492944"
         ],
@@ -10243,7 +10222,7 @@
         ]
       },
       {
-        "Rank": 203,
+        "Rank": 202,
         "NCTId": [
           "NCT03489434"
         ],
@@ -10287,7 +10266,7 @@
         ]
       },
       {
-        "Rank": 204,
+        "Rank": 203,
         "NCTId": [
           "NCT03472768"
         ],
@@ -10333,7 +10312,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 205,
+        "Rank": 204,
         "NCTId": [
           "NCT03467750"
         ],
@@ -10383,7 +10362,7 @@
         ]
       },
       {
-        "Rank": 206,
+        "Rank": 205,
         "NCTId": [
           "NCT03453541"
         ],
@@ -10442,7 +10421,7 @@
         ]
       },
       {
-        "Rank": 207,
+        "Rank": 206,
         "NCTId": [
           "NCT03451435"
         ],
@@ -10490,7 +10469,7 @@
         ]
       },
       {
-        "Rank": 208,
+        "Rank": 207,
         "NCTId": [
           "NCT03438656"
         ],
@@ -10539,7 +10518,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 209,
+        "Rank": 208,
         "NCTId": [
           "NCT03429114"
         ],
@@ -10587,7 +10566,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 210,
+        "Rank": 209,
         "NCTId": [
           "NCT03423940"
         ],
@@ -10639,7 +10618,7 @@
         ]
       },
       {
-        "Rank": 211,
+        "Rank": 210,
         "NCTId": [
           "NCT03419260"
         ],
@@ -10685,7 +10664,7 @@
         ]
       },
       {
-        "Rank": 212,
+        "Rank": 211,
         "NCTId": [
           "NCT03384134"
         ],
@@ -10736,7 +10715,7 @@
         ]
       },
       {
-        "Rank": 213,
+        "Rank": 212,
         "NCTId": [
           "NCT03363919"
         ],
@@ -10788,7 +10767,7 @@
         ]
       },
       {
-        "Rank": 214,
+        "Rank": 213,
         "NCTId": [
           "NCT03337594"
         ],
@@ -10840,7 +10819,7 @@
         ]
       },
       {
-        "Rank": 215,
+        "Rank": 214,
         "NCTId": [
           "NCT03334942"
         ],
@@ -10895,7 +10874,7 @@
         ]
       },
       {
-        "Rank": 216,
+        "Rank": 215,
         "NCTId": [
           "NCT03304574"
         ],
@@ -10950,7 +10929,7 @@
         ]
       },
       {
-        "Rank": 217,
+        "Rank": 216,
         "NCTId": [
           "NCT03297658"
         ],
@@ -10996,7 +10975,7 @@
         ]
       },
       {
-        "Rank": 218,
+        "Rank": 217,
         "NCTId": [
           "NCT03283033"
         ],
@@ -11045,7 +11024,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 219,
+        "Rank": 218,
         "NCTId": [
           "NCT03239977"
         ],
@@ -11091,7 +11070,7 @@
         ]
       },
       {
-        "Rank": 220,
+        "Rank": 219,
         "NCTId": [
           "NCT03229837"
         ],
@@ -11141,7 +11120,7 @@
         ]
       },
       {
-        "Rank": 221,
+        "Rank": 220,
         "NCTId": [
           "NCT03225014"
         ],
@@ -11190,7 +11169,7 @@
         ]
       },
       {
-        "Rank": 222,
+        "Rank": 221,
         "NCTId": [
           "NCT03222570"
         ],
@@ -11236,7 +11215,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 223,
+        "Rank": 222,
         "NCTId": [
           "NCT03202303"
         ],
@@ -11284,7 +11263,7 @@
         ]
       },
       {
-        "Rank": 224,
+        "Rank": 223,
         "NCTId": [
           "NCT03192566"
         ],
@@ -11336,7 +11315,7 @@
         ]
       },
       {
-        "Rank": 225,
+        "Rank": 224,
         "NCTId": [
           "NCT03166358"
         ],
@@ -11384,7 +11363,7 @@
         ]
       },
       {
-        "Rank": 226,
+        "Rank": 225,
         "NCTId": [
           "NCT03154359"
         ],
@@ -11435,7 +11414,7 @@
         ]
       },
       {
-        "Rank": 227,
+        "Rank": 226,
         "NCTId": [
           "NCT03132948"
         ],
@@ -11484,7 +11463,7 @@
         ]
       },
       {
-        "Rank": 228,
+        "Rank": 227,
         "NCTId": [
           "NCT03072849"
         ],
@@ -11535,7 +11514,7 @@
         ]
       },
       {
-        "Rank": 229,
+        "Rank": 228,
         "NCTId": [
           "NCT03055533"
         ],
@@ -11584,7 +11563,7 @@
         ]
       },
       {
-        "Rank": 230,
+        "Rank": 229,
         "NCTId": [
           "NCT03005951"
         ],
@@ -11635,7 +11614,7 @@
         ]
       },
       {
-        "Rank": 231,
+        "Rank": 230,
         "NCTId": [
           "NCT02914067"
         ],
@@ -11688,7 +11667,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 232,
+        "Rank": 231,
         "NCTId": [
           "NCT02895711"
         ],
@@ -11737,7 +11716,7 @@
         ]
       },
       {
-        "Rank": 233,
+        "Rank": 232,
         "NCTId": [
           "NCT02889016"
         ],
@@ -11784,7 +11763,7 @@
         ]
       },
       {
-        "Rank": 234,
+        "Rank": 233,
         "NCTId": [
           "NCT02846272"
         ],
@@ -11833,7 +11812,7 @@
         ]
       },
       {
-        "Rank": 235,
+        "Rank": 234,
         "NCTId": [
           "NCT02824627"
         ],
@@ -11883,7 +11862,7 @@
         ]
       },
       {
-        "Rank": 236,
+        "Rank": 235,
         "NCTId": [
           "NCT02775643"
         ],
@@ -11930,7 +11909,7 @@
         ]
       },
       {
-        "Rank": 237,
+        "Rank": 236,
         "NCTId": [
           "NCT02742272"
         ],
@@ -11983,7 +11962,7 @@
         ]
       },
       {
-        "Rank": 238,
+        "Rank": 237,
         "NCTId": [
           "NCT02722486"
         ],
@@ -12031,7 +12010,7 @@
         ]
       },
       {
-        "Rank": 239,
+        "Rank": 238,
         "NCTId": [
           "NCT02703597"
         ],
@@ -12078,7 +12057,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 240,
+        "Rank": 239,
         "NCTId": [
           "NCT02699190"
         ],
@@ -12126,7 +12105,7 @@
         ]
       },
       {
-        "Rank": 241,
+        "Rank": 240,
         "NCTId": [
           "NCT02651493"
         ],
@@ -12177,7 +12156,7 @@
         ]
       },
       {
-        "Rank": 242,
+        "Rank": 241,
         "NCTId": [
           "NCT02616796"
         ],
@@ -12225,7 +12204,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 243,
+        "Rank": 242,
         "NCTId": [
           "NCT02610946"
         ],
@@ -12276,7 +12255,7 @@
         ]
       },
       {
-        "Rank": 244,
+        "Rank": 243,
         "NCTId": [
           "NCT02535936"
         ],
@@ -12327,7 +12306,7 @@
         ]
       },
       {
-        "Rank": 245,
+        "Rank": 244,
         "NCTId": [
           "NCT02512718"
         ],
@@ -12371,7 +12350,7 @@
         ]
       },
       {
-        "Rank": 246,
+        "Rank": 245,
         "NCTId": [
           "NCT02498925"
         ],
@@ -12419,7 +12398,7 @@
         ]
       },
       {
-        "Rank": 247,
+        "Rank": 246,
         "NCTId": [
           "NCT02485418"
         ],
@@ -12466,7 +12445,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 248,
+        "Rank": 247,
         "NCTId": [
           "NCT02453126"
         ],
@@ -12512,7 +12491,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 249,
+        "Rank": 248,
         "NCTId": [
           "NCT02398539"
         ],
@@ -12557,7 +12536,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 250,
+        "Rank": 249,
         "NCTId": [
           "NCT02395003"
         ],
@@ -12601,7 +12580,7 @@
         ]
       },
       {
-        "Rank": 251,
+        "Rank": 250,
         "NCTId": [
           "NCT02312635"
         ],
@@ -12653,7 +12632,7 @@
         ]
       },
       {
-        "Rank": 252,
+        "Rank": 251,
         "NCTId": [
           "NCT02257229"
         ],
@@ -12700,7 +12679,7 @@
         ]
       },
       {
-        "Rank": 253,
+        "Rank": 252,
         "NCTId": [
           "NCT02245997"
         ],
@@ -12747,7 +12726,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 254,
+        "Rank": 253,
         "NCTId": [
           "NCT02202174"
         ],
@@ -12792,7 +12771,7 @@
         ]
       },
       {
-        "Rank": 255,
+        "Rank": 254,
         "NCTId": [
           "NCT02130180"
         ],
@@ -12840,7 +12819,7 @@
         ]
       },
       {
-        "Rank": 256,
+        "Rank": 255,
         "NCTId": [
           "NCT02127658"
         ],
@@ -12882,7 +12861,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 257,
+        "Rank": 256,
         "NCTId": [
           "NCT02117063"
         ],
@@ -12939,7 +12918,7 @@
         ]
       },
       {
-        "Rank": 258,
+        "Rank": 257,
         "NCTId": [
           "NCT02055105"
         ],
@@ -12987,7 +12966,7 @@
         ]
       },
       {
-        "Rank": 259,
+        "Rank": 258,
         "NCTId": [
           "NCT02021604"
         ],
@@ -13030,7 +13009,7 @@
         ]
       },
       {
-        "Rank": 260,
+        "Rank": 259,
         "NCTId": [
           "NCT01960166"
         ],
@@ -13072,7 +13051,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 261,
+        "Rank": 260,
         "NCTId": [
           "NCT01857791"
         ],
@@ -13119,7 +13098,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 262,
+        "Rank": 261,
         "NCTId": [
           "NCT01839747"
         ],
@@ -13168,7 +13147,7 @@
         ]
       },
       {
-        "Rank": 263,
+        "Rank": 262,
         "NCTId": [
           "NCT01724463"
         ],
@@ -13223,7 +13202,7 @@
         ]
       },
       {
-        "Rank": 264,
+        "Rank": 263,
         "NCTId": [
           "NCT01665326"
         ],
@@ -13273,7 +13252,7 @@
         ]
       },
       {
-        "Rank": 265,
+        "Rank": 264,
         "NCTId": [
           "NCT01629017"
         ],
@@ -13322,7 +13301,7 @@
         ]
       },
       {
-        "Rank": 266,
+        "Rank": 265,
         "NCTId": [
           "NCT01598766"
         ],
@@ -13374,7 +13353,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 267,
+        "Rank": 266,
         "NCTId": [
           "NCT01577810"
         ],
@@ -13425,7 +13404,7 @@
         ]
       },
       {
-        "Rank": 268,
+        "Rank": 267,
         "NCTId": [
           "NCT01543438"
         ],
@@ -13472,7 +13451,7 @@
         ]
       },
       {
-        "Rank": 269,
+        "Rank": 268,
         "NCTId": [
           "NCT01504373"
         ],
@@ -13518,7 +13497,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 270,
+        "Rank": 269,
         "NCTId": [
           "NCT01422759"
         ],
@@ -13570,7 +13549,7 @@
         ]
       },
       {
-        "Rank": 271,
+        "Rank": 270,
         "NCTId": [
           "NCT01422746"
         ],
@@ -13620,7 +13599,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 272,
+        "Rank": 271,
         "NCTId": [
           "NCT01421810"
         ],
@@ -13671,7 +13650,7 @@
         ]
       },
       {
-        "Rank": 273,
+        "Rank": 272,
         "NCTId": [
           "NCT01421797"
         ],
@@ -13723,7 +13702,7 @@
         ]
       },
       {
-        "Rank": 274,
+        "Rank": 273,
         "NCTId": [
           "NCT01386736"
         ],
@@ -13772,7 +13751,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 275,
+        "Rank": 274,
         "NCTId": [
           "NCT01304875"
         ],
@@ -13816,7 +13795,7 @@
         ]
       },
       {
-        "Rank": 276,
+        "Rank": 275,
         "NCTId": [
           "NCT01285531"
         ],
@@ -13873,7 +13852,7 @@
         ]
       },
       {
-        "Rank": 277,
+        "Rank": 276,
         "NCTId": [
           "NCT01122095"
         ],
@@ -13926,7 +13905,7 @@
         ]
       },
       {
-        "Rank": 278,
+        "Rank": 277,
         "NCTId": [
           "NCT00906906"
         ],
@@ -13977,7 +13956,7 @@
         ]
       },
       {
-        "Rank": 279,
+        "Rank": 278,
         "NCTId": [
           "NCT00814853"
         ],
@@ -14024,7 +14003,7 @@
         ]
       },
       {
-        "Rank": 280,
+        "Rank": 279,
         "NCTId": [
           "NCT00792415"
         ],
@@ -14072,7 +14051,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 281,
+        "Rank": 280,
         "NCTId": [
           "NCT00745394"
         ],
@@ -14119,7 +14098,7 @@
         ]
       },
       {
-        "Rank": 282,
+        "Rank": 281,
         "NCTId": [
           "NCT00616317"
         ],
@@ -14157,7 +14136,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 283,
+        "Rank": 282,
         "NCTId": [
           "NCT00494572"
         ],
@@ -14207,7 +14186,7 @@
         ]
       },
       {
-        "Rank": 284,
+        "Rank": 283,
         "NCTId": [
           "NCT00491946"
         ],
@@ -14252,7 +14231,7 @@
         ]
       },
       {
-        "Rank": 285,
+        "Rank": 284,
         "NCTId": [
           "NCT00465699"
         ],
@@ -14296,7 +14275,7 @@
         ]
       },
       {
-        "Rank": 286,
+        "Rank": 285,
         "NCTId": [
           "NCT00320086"
         ],
@@ -14344,7 +14323,7 @@
         ]
       },
       {
-        "Rank": 287,
+        "Rank": 286,
         "NCTId": [
           "NCT00292513"
         ],
@@ -14389,7 +14368,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 288,
+        "Rank": 287,
         "NCTId": [
           "NCT00182572"
         ],
@@ -14433,7 +14412,7 @@
         ]
       },
       {
-        "Rank": 289,
+        "Rank": 288,
         "NCTId": [
           "NCT00167219"
         ],
@@ -14479,7 +14458,7 @@
         ]
       },
       {
-        "Rank": 290,
+        "Rank": 289,
         "NCTId": [
           "NCT00036712"
         ],
@@ -14536,7 +14515,7 @@
         ]
       },
       {
-        "Rank": 291,
+        "Rank": 290,
         "NCTId": [
           "NCT00012506"
         ],
@@ -14584,7 +14563,7 @@
         ]
       },
       {
-        "Rank": 292,
+        "Rank": 291,
         "NCTId": [
           "NCT00000112"
         ],
@@ -14625,7 +14604,100 @@
         "DetailedDescription": []
       },
       {
+        "Rank": 292,
+        "NCTId": [
+          "NCT04978571"
+        ],
+        "OfficialTitle": [
+          "A Prospective Study on the Effect of Auricular Percutaneous Electrical Nerve Field Stimulation (PENFS) in Patients With Post Concussion Syndrome (PCS)"
+        ],
+        "Condition": [
+          "Post-Concussion Syndrome"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nClinical diagnosis of Post-Concussion Syndrome\nPost-Concussion Symptoms for at least 3 months along with lack of other explanation for their symptoms\nEnglish and Spanish-speaking families\n\nExclusion Criteria:\n\nSeizure disorders\nSignificant developmental delay\nInfection or severe dermatological condition of ear\nBleeding disorders\nImplanted electrical device"
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Orange"
+        ],
+        "LocationFacility": [
+          "CHOC Children's"
+        ],
+        "LocationState": [
+          "California"
+        ],
+        "LocationZip": [
+          "92868"
+        ],
+        "LocationContactEMail": [
+          "elisa.ornelas@choc.org"
+        ],
+        "LocationContactName": [
+          "Elisa Ornelas"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The purpose of this study is to test the effect of Auricular Percutaneous Electrical Nerve Field Stimulation (a Neurostim device) on children with pain and Post Concussion symptoms."
+        ],
+        "DetailedDescription": [
+          "The purpose of this study is to test the effect of Auricular Percutaneous Electrical Nerve Field Stimulation (a Neurostim device) on children with pain and Post Concussion symptoms. Patient will be offered a Neurostim device. This device is placed on the outer ear through tiny needles. Since this is a randomized trial, patients may receive an active (experiment) or nonactive (control) Neurostim device. However, the nonactive control Neurostim device group will be given the option to receive an active device after the initial study procedures. The experiment group may be in this study up to 8 weeks and the control group may be in this study up to 12 weeks. The control group will have 4 additional weeks due to the transition to an active device following the first 8 weeks. The device is worn weekly for 4 weeks. Each device is worn for 5 consecutive days for the full 24 hours. The participant will be able to easily take the device off on the 6th day. Study procedures include: Neurological testing- a balance test and computerized neurological standard testing, Cardiology testing- electrocardiogram for heart rate variability (heart electrical pulse test), a pupilometer (eye) test, and parent/child questionnaires. You may benefit from this research, but there is no guarantee that being in this study will help you."
+        ]
+      },
+      {
         "Rank": 293,
+        "NCTId": [
+          "NCT04977830"
+        ],
+        "OfficialTitle": [
+          "New Strategies for Pulmonary Assessment in Spinal and Chest Wall Deformity"
+        ],
+        "Condition": [
+          "Thoracic Insufficiency Syndrome"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nMales or females 6 to 18 years old diagnosed with thoracic insufficiency syndrome who are undergoing surgery\n\nExclusion Criteria:\n\npatients not diagnosed with thoracic insufficiency syndrome"
+        ],
+        "MinimumAge": [
+          "6 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Philadelphia"
+        ],
+        "LocationFacility": [
+          "Children's Hospital of Philadelphia"
+        ],
+        "LocationState": [
+          "Pennsylvania"
+        ],
+        "LocationZip": [
+          "19104"
+        ],
+        "LocationContactEMail": [
+          "clarkaj@chop.edu"
+        ],
+        "LocationContactName": [
+          "Abigail Clark, MEng",
+          "Patrick Cahill, MD"
+        ],
+        "LocationContactPhone": [
+          "267-426-5433"
+        ],
+        "BriefSummary": [
+          "Thoracic insufficiency syndrome (TIS) is a complex condition that involves chest wall deformities that can affect normal breathing and lung growth. In most cases, children with TIS are also born with spine disorders such as scoliosis. The inability of the thorax to support normal respiration or lung growth can cause respiratory distress and even mortality. Investigators aim to validate MRI imaging sequences to use as an assessment tool for pulmonary function."
+        ],
+        "DetailedDescription": []
+      },
+      {
+        "Rank": 294,
         "NCTId": [
           "NCT04974307"
         ],
@@ -14674,7 +14746,7 @@
         ]
       },
       {
-        "Rank": 294,
+        "Rank": 295,
         "NCTId": [
           "NCT04959097"
         ],
@@ -14722,7 +14794,7 @@
         ]
       },
       {
-        "Rank": 295,
+        "Rank": 296,
         "NCTId": [
           "NCT04941742"
         ],
@@ -14764,18 +14836,18 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 296,
+        "Rank": 297,
         "NCTId": [
-          "NCT04931927"
+          "NCT04795674"
         ],
         "OfficialTitle": [
-          "Impact of Telehealth on Engagement in Psychotherapy and/or Medication Treatment"
+          "Behavioral and Neural Target Engagement for ADHD Executive Working Memory Training"
         ],
         "Condition": [
-          "Psychiatric Diagnosis"
+          "ADHD"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria: Youth Sample\n\nYouth ages 12-18 years of age receiving an evaluation in the diagnostic evaluation service, the Diagnostic Evaluation and Stabilization Clinic (DESC), or another clinical service in the outpatient Child Behavioral Health Service at NewYork Presbyterian (NYP) - Morgan Stanley Children's Hospital (MSCH)/ NYP-MSCH.\nEnglish speaking\n\nExclusion Criteria: Youth Sample\n\nActive Suicidal Ideation with current plan and/or intent that requires a higher level of care than outpatient treatment or treatment in DESC\nDiagnosis of intellectual disability\n\nInclusion Criteria: Clinician Sample\n\nWork as a clinician in any MSCH Outpatient Behavioral Health Service or DESC\nClinician consent\nEnglish or bilingual in English and Spanish\n\nExclusion Criteria: Clinician Sample\n\n1. None"
+          "Inclusion Criteria:\n\nDiagnosis of ADHD\nEnglish speaking\nRight-handed\n>5th grade reading level\n>80 IQ level\n\nExclusion Criteria:\n\nBraces, metal or implant devices\nBrain abnormality, neurological disorder\nTBI or loss of consciousness>30 minutes\nDiagnosis of Psychosis, Bipolar Disorder, ASD, PTSD, OCD, SUD, Tourette's Disorder"
         ],
         "MinimumAge": [
           "12 Years"
@@ -14784,38 +14856,39 @@
           "18 Years"
         ],
         "LocationCity": [
-          "New York"
+          "Hartford"
         ],
         "LocationFacility": [
-          "New York State Psychiatric Institute"
+          "Institute of Living/Hartford Hospital"
         ],
         "LocationState": [
-          "New York"
+          "Connecticut"
         ],
         "LocationZip": [
-          "10032"
+          "06106"
         ],
         "LocationContactEMail": [
-          "Laura.Mufson@nyspi.columbia.edu",
-          "Valasia.Makridis@nyspi.columbia.edu"
+          "Karen.kesten@hhchealth.org",
+          "Jacey.anderson@hhchealth.org"
         ],
         "LocationContactName": [
-          "Laura Mufson, Ph.D",
-          "Valasia Makridis, B.S."
+          "Karen L Kesten, MS",
+          "Jacey Anderson, BS",
+          "Michael C Stevens, PhD"
         ],
         "LocationContactPhone": [
-          "646-774-5791",
-          "646-774-5827"
+          "860-545-7776",
+          "(860) 545-7531"
         ],
         "BriefSummary": [
-          "In the present study, investigators aim to (1) adapt the Making Connections Intervention (MCI) as an intervention to address telehealth engagement and examine whether this targeted intervention can improve youth engagement in telehealth treatment; and (2) assess attitudes towards help-seeking and therapeutic alliance from both the youth and clinician viewpoint to examine the impact of these factors on engagement in telemental health treatment. Forty adolescent participants ages 12-18 will be randomized to either telehealth treatment as usual (TAU) plus the telehealth Making Connections Intervention (MCI-T) engagement session or telehealth TAU alone and followed for 12 weeks from baseline assessment. All clinicians will receive training in the MCI-T intervention and provide either MCI-T + usual care or usual care only depending on the condition to which the adolescents are randomized. All evaluations and therapy sessions will be done over telehealth platform."
+          "This study will assess whether or not a novel executive working memory training intervention for Attention-Deficit/Hyperactivity Disorder can engage frontoparietal brain network treatment targets and behavioral performance."
         ],
         "DetailedDescription": [
-          "Clinicians who participate in the study may be assigned more than one study case, and therefore will complete measures on each study case. All of the clinicians will receive training in the Making Connections Intervention-Telehealth (MCI-T) intervention. The clinicians will deliver the intervention based on the random assignment of the adolescent participants to a treatment arm. When clinicians provide care to adolescents randomized to the MCI-T condition, they will participate in a monthly consultation over telehealth to review cases to promote adherence and fidelity to the treatment."
+          "This proposal seeks support for a 2-year milestone-driven R61 initial test of target engagement in n=62 ADHD diagnosed adolescents randomized to a 'sham training' placebo or to train 4 times each week using 4 different EWM exercises that have been combined into the format of a typical cognitive training intervention. Exercise difficulty levels in the active intervention will increase across 5 weeks to continually challenge EWM ability. EWM training will use a novel, remotely-supervised 'at home' computerized training approach. If R61 EWM training target engagement milestones are met, a 3-year R33 phase will begin. The R33 will replicate target engagement in another randomized placebo-controlled trial of n=90 new ADHD adolescents and attempt to establish a convincing link between the hypothesized targets and ADHD symptom expression. It also will characterize ADHD brain activity or EWM ability changes relative to typical levels seen in an n=40 non-ADHD control group."
         ]
       },
       {
-        "Rank": 297,
+        "Rank": 298,
         "NCTId": [
           "NCT04788524"
         ],
@@ -14864,7 +14937,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 299,
         "NCTId": [
           "NCT04786977"
         ],
@@ -14911,7 +14984,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 299,
+        "Rank": 300,
         "NCTId": [
           "NCT04784455"
         ],
@@ -14955,7 +15028,7 @@
         ]
       },
       {
-        "Rank": 300,
+        "Rank": 301,
         "NCTId": [
           "NCT04783506"
         ],
@@ -15004,7 +15077,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 302,
         "NCTId": [
           "NCT04771338"
         ],
@@ -15057,7 +15130,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 303,
         "NCTId": [
           "NCT04768634"
         ],
@@ -15100,7 +15173,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 304,
         "NCTId": [
           "NCT04756427"
         ],
@@ -15146,21 +15219,18 @@
         ]
       },
       {
-        "Rank": 304,
+        "Rank": 305,
         "NCTId": [
-          "NCT04752501"
+          "NCT04634643"
         ],
         "OfficialTitle": [
-          "Maladaptive Psychosocial Beliefs and Adolescents With Patellofemoral Pain"
+          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
         ],
         "Condition": [
-          "Patellofemoral Pain Syndrome",
-          "Knee Pain Chronic",
-          "Patellofemoral Syndrome",
-          "Anterior Knee Pain Syndrome"
+          "NAFLD"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\n• Having patellofemoral pain as defined as: Pain around or behind the patella, which is aggravated by at least one activity that loads the patellofemoral joint during weight bearing on a flexed knee (e.g., squatting, stair ambulation, jogging/running, hopping/jumping).\n\nExclusion Criteria:\n\nPrior history of patellar dislocation.\nSuspicion of other diagnosis of the knee by evaluating physical therapist or principal investigator.\nOther concomitant injury of the leg.\nPrior history of knee surgery.\nRed flags present for non-musculoskeletal involvement (bowel/bladder problems, saddle anesthesia, progressive neurological deficits, recent fever or infection, unexplained weight loss, unable to change symptoms with mechanical testing).\nNumbness and tingling in any lumbar dermatome."
+          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
         ],
         "MinimumAge": [
           "12 Years"
@@ -15169,100 +15239,32 @@
           "18 Years"
         ],
         "LocationCity": [
-          "Columbus"
+          "New Haven"
         ],
         "LocationFacility": [
-          "Nationwide Children's Hospital Sports and Ortho PT East Broad"
+          "Yale New Haven Hospital"
         ],
         "LocationState": [
-          "Ohio"
+          "Connecticut"
         ],
         "LocationZip": [
-          "43213"
+          "06510"
         ],
         "LocationContactEMail": [
-          "Mitchell.Selhorst@Nationwidechildrens.org"
+          "jessica.lat@yale.edu",
+          "zhongyao.li@yale.edu"
         ],
         "LocationContactName": [
-          "Mitchell Selhorst, DPT, PHD",
-          "Mitchell C Selhorst, DPT,PHD"
+          "Jessica Lat",
+          "Zhongyao Li",
+          "Nicola Santoro, MD, PhD"
         ],
-        "LocationContactPhone": [
-          "614-355-9764"
-        ],
+        "LocationContactPhone": [],
         "BriefSummary": [
-          "This is a randomized prospective study assessing the impact of psychosocial factors on pain and physical performance among adolescents with patellofemoral pain. A set of psychosocial surveys assessing fear avoidance beliefs, kinesiophobia, and pain catastrophizing will be completed by the participant/parents. Participants will then complete an activity questionnaire, numeric pain rating scale, and a self-report questionnaire of functional ability. Participants will then be randomized into one of two groups (psychologically informed education group and a control group). Participants will view a series of educational videos (based upon group assignment) and complete physical therapy exercises for lower extremity strengthening, flexibility, and neuromuscular control. Participants with patellofemoral pain will then complete follow-up surveys of their psychosocial beliefs, pain and self-reported functional ability through REDcap at immediately post-intervention, 1 week, 3 weeks, 6 weeks, and 3 months."
-        ],
-        "DetailedDescription": []
-      },
-      {
-        "Rank": 305,
-        "NCTId": [
-          "NCT04752293"
-        ],
-        "OfficialTitle": [
-          "Pediatric Hypertension and the Renin-Angiotensin SystEm (PHRASE): The Role of Angiotensin-(1-7) in Hypertension and Hypertension-Induced Heart and Kidney Damage"
-        ],
-        "Condition": [
-          "Hypertension",
-          "Left Ventricular Hypertrophy",
-          "Left Ventricular Dysfunction",
-          "Left Atrial Dilatation",
-          "Left Ventricular Diastolic Dysfunction",
-          "Kidney Diseases",
-          "Kidney Injury",
-          "Kidney Dysfunction",
-          "Sodium Urine High",
-          "Vascular Stiffness",
-          "Blood Pressure Disorders",
-          "Uric Acid Retention",
-          "Angiotensin Hypertension",
-          "Autonomic Dysfunction",
-          "Autonomic Imbalance",
-          "Pediatric Kidney Disease",
-          "Pediatric Obesity",
-          "Proteinuria",
-          "Albuminuria"
-        ],
-        "EligibilityCriteria": [
-          "INCLUSION CRITERIA: HYPERTENSION COHORT\n\n7-18 years of age at time of enrollment\n\nConfirmed new diagnosis of primary hypertension: no identifiable secondary cause and ≥3 prior office blood pressure (BP) measurements on separate days;\n\nAge <13 years: BP ≥95th %ile or ≥130/80 mmHg (whichever is lower)\nAge ≥13 years: BP ≥130/80 mmHg\nParticipants and their caregivers must be willing and able to commit to completing the study assessments\n\nEXCLUSION CRITERIA: HYPERTENSION COHORT\n\n<7 years or >18 years of age at time of enrollment\n\nBP confirmed as normal or in the elevated BP category based on ≥3 prior office BP measurements on separate days;\n\nAge <13 years: BP <95th %ile or <130/80 mmHg (whichever is lower)\nAge ≥13 years: BP <130/80 mmHg\nA confirmed secondary cause of hypertension\nConfounding medical condition (heart or kidney disease [except hypertension-associated heart changes on echocardiogram or albuminuria], vascular/inflammatory disease, or diabetes)\nInability to complete study assessments\nNon-English/Spanish speakers\nCurrent pregnancy\nWard of the State\n\nINCLUSION CRITERIA: CONTROL COHORT\n\n7-18 years of age at time of enrollment\n\nNormal BP based on ≥3 prior office BP measurements on separate days;\n\nAge <13 years: BP <90th %ile or <120/80 mmHg (whichever is lower)\nAge ≥13 years: BP <120/80 mmHg\nParticipants and their caregivers must be willing and able to commit to completing the study assessments\n\nEXCLUSION CRITERIA: CONTROL COHORT\n\n<7 or >18 years of age at time of enrollment\n\nElevated BP or hypertension, based on ≥3 prior office BP measurements on separate days:\n\nAge <13 years: BP ≥90th %ile or ≥120/80 mmHg (whichever is lower)\nAge ≥13 years: BP ≥120/80 mmHg\nHistory of elevated BP or hypertension\nCurrent use of BP-lowering medications\nConfounding medical condition (heart or kidney disease, vascular/inflammatory disease, or diabetes)\nInability to complete study assessments\nNon-English/Spanish speakers\nCurrent pregnancy\nWard of the State"
-        ],
-        "MinimumAge": [
-          "7 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Winston-Salem"
-        ],
-        "LocationFacility": [
-          "Wake Forest Health Sciences"
-        ],
-        "LocationState": [
-          "North Carolina"
-        ],
-        "LocationZip": [
-          "27157"
-        ],
-        "LocationContactEMail": [
-          "asouth@wakehealth.edu",
-          "cblucas@wakehealth.edu"
-        ],
-        "LocationContactName": [
-          "Andrew M South, MD, MS",
-          "Caroline B Lucas",
-          "Andrew M South, MD, MS"
-        ],
-        "LocationContactPhone": [
-          "336-716-9640",
-          "336.713.8038"
-        ],
-        "BriefSummary": [
-          "Studying the causal roles of components of the renin-angiotensin-aldosterone system (including angiotensin-(1-7) (Ang-(1-7)), angiotensin-converting enzyme 2 (ACE2), Ang II, and ACE), uric acid, and klotho in pediatric hypertension and related target organ injury, including in the heart, kidneys, vasculature, and brain. Recruiting children with a new hypertension diagnosis over a 2-year period from the Hypertension and Pediatric Nephrology Clinics affiliated with Brenner Children's Hospital at Atrium Health Wake Forest Baptist and Atrium Health Levine Children's Hospital. Healthy control participants will be recruited from local general primary care practices. Collecting blood and urine samples to analyze components of the renin-angiotensin-aldosterone system (Ang-(1-7), ACE2, Ang II, ACE), uric acid, and klotho, and measuring blood pressure, heart structure and function, autonomic function, vascular function, and kidney function at baseline, year 1, and year 2. Objectives are to investigate phenotypic and treatment response variability and to causally infer if Ang-(1-7), ACE2, Ang II, ACE, uric acid, and klotho contribute to target organ injury due to hypertension."
+          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
         ],
         "DetailedDescription": [
-          "This longitudinal prospective cohort study is recruiting children and adolescents aged 7-18 years with newly diagnosed primary hypertension over a 2-year period from the Hypertension and Pediatric Nephrology Clinics affiliated with Brenner Children's Hospital at Atrium Health Wake Forest Baptist, which sees over 300 new patients a year, and the Pediatric Nephrology Clinic at Atrium Health Levine Children's Hospital (Hypertension Cohort). Also recruiting healthy control participants aged 7-18 years with normal blood pressure from local primary care practices (Control Cohort). Collecting blood and urine to analyze Ang-(1-7), ACE2, Ang II, ACE, uric acid, and klotho and measuring pediatric-specific outcomes (blood pressure (casual and ambulatory monitoring), indices of heart structure and function on echocardiogram (left ventricular systolic and diastolic function, left ventricular hypertrophy, etc.), kidney function (creatinine, estimated glomerular filtration rate, albuminuria, proteinuria, urine sodium/potassium), autonomic function (heart rate variability, blood pressure variability, baroreflex sensitivity), and vascular function (arterial stiffness, augmentation index)) at baseline and year 1 (Hypertension Cohort and Control Cohort) and year 2 (Hypertension Cohort). The objectives are to investigate if Ang-(1-7), ACE2, Ang II, and ACE identify phenotypic and treatment response variability and to causally infer if Ang-(1-7), ACE2, Ang II, ACE, uric acid, and klotho contribute to target organ injury, with these Specific Aims:\n\nAim 1:\n\n(1) Determine if plasma Ang-(1-7) or urine Ang-(1-7)/creatinine differ between the Hypertension vs. Control Cohorts and (2) assess if plasma Ang-(1-7) or urine Ang-(1-7)/creatinine mediate the effect of lisinopril-induced blood pressure reduction on the outcomes (change in heart function and structure, autonomic function, vascular function, and kidney function).\n\nHypothesis 1a: Baseline Ang-(1-7) is lower in the Hypertension vs. Control Cohort.\n\nHypothesis 1b: Increased Ang-(1-7) levels over time mediate the effect of lisinopril-induced decreased blood pressure on improved outcomes over 2 years in the Hypertension Cohort.\n\nAim 2:\n\n(1) Evaluate if plasma Ang-(1-7) or urine Ang-(1-7)/creatinine predict treatment response in participants in the Hypertension Cohort (change in casual blood pressure, ambulatory blood pressure, heart function/structure, autonomic function, vascular function, and kidney function); (2) compare to plasma renin activity and aldosterone; and (3) employ sensitivity analyses to quantify the impact of unmeasured confounding.\n\nHypothesis 2: Lower baseline Ang-(1-7) predicts greater outcome improvements in the Hypertension Cohort with lower unmeasured confounding and with greater predictive ability compared to plasma renin activity and aldosterone.\n\nAim 3:\n\nDetermine if plasma Ang-(1-7) or urine Ang-(1-7)/creatinine mediate the effects of uric acid and klotho on the outcomes in participants in the Hypertension Cohort. (1) Apply causal mediation to estimate if plasma Ang-(1-7) mediates the effects of uric acid on the outcomes (change in casual blood pressure, ambulatory blood pressure, heart function/structure, autonomic function, and vascular function). (2) Apply causal mediation to estimate if urine Ang-(1-7)/creatinine mediates the effects of klotho on the outcomes (change in casual blood pressure, ambulatory blood pressure, and kidney function).\n\nHypothesis 3a: Lower plasma Ang-(1-7) mediates the effect of high uric acid on the outcomes in the Hypertension Cohort.\n\nHypothesis 3b: Lower urine Ang-(1-7)/creatinine mediates the effect of low klotho on the outcomes in the Hypertension Cohort.\n\nAnticipated results have great potential to impact patient care by establishing Ang-(1-7), ACE2, Ang II, and ACE as biomarkers of treatment response, by establishing how Ang-(1-7) and other components of the renin-angiotensin-aldosterone system change in response to an ACE inhibitor, by indicating which patients would benefit most from ACE inhibitors, by identifying novel etiologies of hypertension centered on alterations to the renin-angiotensin-aldosterone system, uric acid, and klotho, and by leading to novel treatments. Indeed, these have been questions of great interest during the COVID-19 pandemic, as ACE2 is the binding site for Severe acute respiratory syndrome (SARS)-CoV-2. Ultimately, the results from this study will improve patient outcomes by promoting cardiovascular health and preventing cardiovascular disease across the lifecourse."
+          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
         ]
       },
       {
@@ -28824,6 +28826,7 @@
           "Genoa",
           "Napoli",
           "Orbassano",
+          "Orbassano",
           "Bangkok",
           "Izmir"
         ],
@@ -28834,6 +28837,7 @@
           "Ente Ospedaliero Ospedali Galliera - Centro della Microcitemia e delle Anemie Congenite",
           "Azienda Ospedaliera Universitaria \"Federico II\"",
           "Azienda Ospedaliero Universitaria S. Luigi Gonzaga",
+          "Local Institution - 301",
           "Siriraj Hospital Mahidol University",
           "Ege Universitesi Tip Fakultesi Hastanesi"
         ],
@@ -28846,6 +28850,7 @@
           "115 27",
           "16128",
           "80131",
+          "10043",
           "10043",
           "10700",
           "35100"
