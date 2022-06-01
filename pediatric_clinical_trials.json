@@ -1,13 +1,13 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.05",
-    "DataVrs": "2022:05:26 23:19:51.823",
+    "DataVrs": "2022:05:30 23:06:04.825",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 416555,
-    "NStudiesFound": 401,
+    "NStudiesAvail": 416733,
+    "NStudiesFound": 402,
     "MinRank": 1,
     "MaxRank": 1000,
-    "NStudiesReturned": 401,
+    "NStudiesReturned": 402,
     "FieldList": [
       "NCTId",
       "OfficialTitle",
@@ -1598,6 +1598,57 @@
       {
         "Rank": 28,
         "NCTId": [
+          "NCT05398120"
+        ],
+        "OfficialTitle": [
+          "Testing the Feasibility of a Skills Group for Adolescents and Young Adults at Clinical High-risk for Psychosis"
+        ],
+        "Condition": [
+          "Clinical High-Risk",
+          "Psychological"
+        ],
+        "EligibilityCriteria": [
+          "Participant Inclusion Criteria:\n\n13-18 years of age\nMeet criteria for clinical high-risk syndrome (i.e., at clinical high risk for developing a psychotic disorder). CHR status is determined based off of scoring a 3 (moderate) - 5 (severe) on the Structured Interview for Psychosis-Risk Syndromes and/or having a first degree relative with psychotic disorder and/or the individual meets criteria for schizotypal personality disorder. Additionally individuals with a brief intermittent psychotic symptoms can be included as well (e.g., frankly psychotic symptoms that are very brief)\nIndividuals must be enrolled in the HOPE team at the University of Pittsburgh since this group is embedded within that service\n\nParticipation Exclusion Criteria:\n\nGroup member meeting criteria for a current/past psychotic disorder\n\nInclusion Criteria for Parents or Legal Guardians:\n\nMust be the parent, legal guardian of a 13-18 year-old\nFor parents of CHR adolescents, their adolescent must meet criteria for a psychosis-risk syndrome"
+        ],
+        "MinimumAge": [
+          "13 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Pittsburgh"
+        ],
+        "LocationFacility": [
+          "Bellefield Towers"
+        ],
+        "LocationState": [
+          "Pennsylvania"
+        ],
+        "LocationZip": [
+          "15213"
+        ],
+        "LocationContactEMail": [
+          "guptat3@upmc.edu"
+        ],
+        "LocationContactName": [
+          "Tina Gupta, MA",
+          "Leslie Horton, PHD",
+          "Leslie Horton, PHD"
+        ],
+        "LocationContactPhone": [
+          "412-246-5845"
+        ],
+        "BriefSummary": [
+          "This study is intended to test the feasibility of an integrated cognitive behavioral therapy (CBT) and dialectical behavioral therapy (DBT) skills group for adolescents and young adults at clinical high-risk (CHR) for psychosis. The current study applies a skills group drawing from evidence-based practices (e.g., cognitive behavioral therapy (CBT), dialectical behavioral therapy (DBT)) to those at CHR for psychosis. Up to 16 CHR individuals (starting with a minimum of 3 participants, N accounts for attrition as well), aged 13-18, already receiving clinical services within the HOPE team at University of Pittsburgh will be offered a weekly skills group. Data collected on feasibility and outcome measures will occur within 1 month of the start of the group, at the midpoint (approximately 3-4 months after baseline), and at the end of the group (approximately 6-7 months after). Some measures will be collected continuously. Furthermore, measures will be collected after each group by the participants and leaders to assess feasibility. Taken together, the aim of the proposed group intervention is to provide novel insights regarding the utility of a newly developed intervention that integrates both CBT and DBT skills for those at CHR for psychosis."
+        ],
+        "DetailedDescription": [
+          "The goal of the current study is to integrate cognitive behavioral therapy and dialectical behavioral therapy skills and implement in a group format to a sample of individuals at risk for developing a psychotic disorder. These data have the potential to provide a foundation for intervention development in this area. The group will include weekly sessions for 90 minutes with up to 8 members in the group at a time. Each session will include mindfulness, homework review, and skill development. Each individual in the group will be asked to complete the group for 6 months. In the first section of the group, skills will be taught to manage and reduce stress. The second set of skills will include teaching individuals how to increase cognitive flexibility. The final section of the group will include helping participants improve social skills. Furthermore, parents will be asked to participate in a parent/guardian session 1x a month and will also be asked to also fill out a post-group surveys although this is not mandatory.\n\nIt is important to note that all hypotheses are exploratory given the feasibility nature of this study and the sample size. Even so, it is predicted, in an exploratory fashion, that this group will be feasible to implement and there will be improvements in symptoms and functioning at the midpoint (approximately 3-4 months after the start of the group) and post group (approximately 6-7 months from baseline)."
+        ]
+      },
+      {
+        "Rank": 29,
+        "NCTId": [
           "NCT05393570"
         ],
         "OfficialTitle": [
@@ -1646,7 +1697,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 29,
+        "Rank": 30,
         "NCTId": [
           "NCT05379920"
         ],
@@ -1693,7 +1744,7 @@
         ]
       },
       {
-        "Rank": 30,
+        "Rank": 31,
         "NCTId": [
           "NCT05318222"
         ],
@@ -1739,7 +1790,7 @@
         ]
       },
       {
-        "Rank": 31,
+        "Rank": 32,
         "NCTId": [
           "NCT05293145"
         ],
@@ -1788,7 +1839,7 @@
         ]
       },
       {
-        "Rank": 32,
+        "Rank": 33,
         "NCTId": [
           "NCT05275543"
         ],
@@ -1840,7 +1891,7 @@
         ]
       },
       {
-        "Rank": 33,
+        "Rank": 34,
         "NCTId": [
           "NCT05244447"
         ],
@@ -1888,7 +1939,7 @@
         ]
       },
       {
-        "Rank": 34,
+        "Rank": 35,
         "NCTId": [
           "NCT05217706"
         ],
@@ -1933,7 +1984,7 @@
         ]
       },
       {
-        "Rank": 35,
+        "Rank": 36,
         "NCTId": [
           "NCT05212129"
         ],
@@ -1988,7 +2039,7 @@
         ]
       },
       {
-        "Rank": 36,
+        "Rank": 37,
         "NCTId": [
           "NCT05208359"
         ],
@@ -2036,7 +2087,7 @@
         ]
       },
       {
-        "Rank": 37,
+        "Rank": 38,
         "NCTId": [
           "NCT05199857"
         ],
@@ -2085,7 +2136,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 38,
+        "Rank": 39,
         "NCTId": [
           "NCT05185128"
         ],
@@ -2135,7 +2186,7 @@
         ]
       },
       {
-        "Rank": 39,
+        "Rank": 40,
         "NCTId": [
           "NCT05154214"
         ],
@@ -2183,7 +2234,7 @@
         ]
       },
       {
-        "Rank": 40,
+        "Rank": 41,
         "NCTId": [
           "NCT05146167"
         ],
@@ -2236,7 +2287,7 @@
         ]
       },
       {
-        "Rank": 41,
+        "Rank": 42,
         "NCTId": [
           "NCT05121142"
         ],
@@ -2283,7 +2334,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 42,
+        "Rank": 43,
         "NCTId": [
           "NCT05119660"
         ],
@@ -2329,7 +2380,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 43,
+        "Rank": 44,
         "NCTId": [
           "NCT05110729"
         ],
@@ -2374,7 +2425,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 44,
+        "Rank": 45,
         "NCTId": [
           "NCT05102864"
         ],
@@ -2422,7 +2473,7 @@
         ]
       },
       {
-        "Rank": 45,
+        "Rank": 46,
         "NCTId": [
           "NCT05098366"
         ],
@@ -2468,7 +2519,7 @@
         ]
       },
       {
-        "Rank": 46,
+        "Rank": 47,
         "NCTId": [
           "NCT05096273"
         ],
@@ -2519,7 +2570,7 @@
         ]
       },
       {
-        "Rank": 47,
+        "Rank": 48,
         "NCTId": [
           "NCT05088694"
         ],
@@ -2574,7 +2625,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 48,
+        "Rank": 49,
         "NCTId": [
           "NCT05079984"
         ],
@@ -2626,7 +2677,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 49,
+        "Rank": 50,
         "NCTId": [
           "NCT05075395"
         ],
@@ -2678,7 +2729,7 @@
         ]
       },
       {
-        "Rank": 50,
+        "Rank": 51,
         "NCTId": [
           "NCT05068544"
         ],
@@ -2728,7 +2779,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 51,
+        "Rank": 52,
         "NCTId": [
           "NCT05067634"
         ],
@@ -2773,7 +2824,7 @@
         ]
       },
       {
-        "Rank": 52,
+        "Rank": 53,
         "NCTId": [
           "NCT05066893"
         ],
@@ -2823,7 +2874,7 @@
         ]
       },
       {
-        "Rank": 53,
+        "Rank": 54,
         "NCTId": [
           "NCT05065528"
         ],
@@ -2872,7 +2923,7 @@
         ]
       },
       {
-        "Rank": 54,
+        "Rank": 55,
         "NCTId": [
           "NCT05055336"
         ],
@@ -2920,7 +2971,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 55,
+        "Rank": 56,
         "NCTId": [
           "NCT05034913"
         ],
@@ -2971,7 +3022,7 @@
         ]
       },
       {
-        "Rank": 56,
+        "Rank": 57,
         "NCTId": [
           "NCT05020314"
         ],
@@ -3019,7 +3070,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 57,
+        "Rank": 58,
         "NCTId": [
           "NCT05010304"
         ],
@@ -3067,7 +3118,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 58,
+        "Rank": 59,
         "NCTId": [
           "NCT04998643"
         ],
@@ -3117,7 +3168,7 @@
         ]
       },
       {
-        "Rank": 59,
+        "Rank": 60,
         "NCTId": [
           "NCT04992611"
         ],
@@ -3170,7 +3221,7 @@
         ]
       },
       {
-        "Rank": 60,
+        "Rank": 61,
         "NCTId": [
           "NCT04991389"
         ],
@@ -3218,7 +3269,7 @@
         ]
       },
       {
-        "Rank": 61,
+        "Rank": 62,
         "NCTId": [
           "NCT04986631"
         ],
@@ -3266,7 +3317,7 @@
         ]
       },
       {
-        "Rank": 62,
+        "Rank": 63,
         "NCTId": [
           "NCT04931927"
         ],
@@ -3317,7 +3368,7 @@
         ]
       },
       {
-        "Rank": 63,
+        "Rank": 64,
         "NCTId": [
           "NCT04927286"
         ],
@@ -3363,7 +3414,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 64,
+        "Rank": 65,
         "NCTId": [
           "NCT04922983"
         ],
@@ -3416,7 +3467,7 @@
         ]
       },
       {
-        "Rank": 65,
+        "Rank": 66,
         "NCTId": [
           "NCT04911270"
         ],
@@ -3463,7 +3514,7 @@
         ]
       },
       {
-        "Rank": 66,
+        "Rank": 67,
         "NCTId": [
           "NCT04896645"
         ],
@@ -3511,7 +3562,7 @@
         ]
       },
       {
-        "Rank": 67,
+        "Rank": 68,
         "NCTId": [
           "NCT04848532"
         ],
@@ -3566,7 +3617,7 @@
         ]
       },
       {
-        "Rank": 68,
+        "Rank": 69,
         "NCTId": [
           "NCT04845932"
         ],
@@ -3614,7 +3665,7 @@
         ]
       },
       {
-        "Rank": 69,
+        "Rank": 70,
         "NCTId": [
           "NCT04825587"
         ],
@@ -3662,7 +3713,7 @@
         ]
       },
       {
-        "Rank": 70,
+        "Rank": 71,
         "NCTId": [
           "NCT04815239"
         ],
@@ -3714,7 +3765,7 @@
         ]
       },
       {
-        "Rank": 71,
+        "Rank": 72,
         "NCTId": [
           "NCT04812028"
         ],
@@ -3762,7 +3813,7 @@
         ]
       },
       {
-        "Rank": 72,
+        "Rank": 73,
         "NCTId": [
           "NCT04810130"
         ],
@@ -3815,105 +3866,7 @@
         ]
       },
       {
-        "Rank": 73,
-        "NCTId": [
-          "NCT04798482"
-        ],
-        "OfficialTitle": [
-          "Effect of Dexmedetomidine of Gastrointestinal Motility"
-        ],
-        "Condition": [
-          "Anesthesia"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAges 3-18 years who are scheduled to have an anorectal manometry followed by an upper or lower endoscopic procedures at Boston Children's Hospital\nPatients are cooperative to do the anorectal manometry without sedation (besides pre-med midazolam)\nAnticipates to receive standard sedation with dexmedetomidine and propofol for a gastrointestinal procedure in the Gastroenterology Procedure Unit (GPU)\nProvides written consent to participate in the research study\nIn females of reproductive age, pregnancy testing\n\nExclusion Criteria:\n\nDo not meet established sedation criteria\nPatients who require sedation prior to their anal manometry testing\nHistory of allergy, intolerance, or reaction to dexmedetomidine or propofol or hypersensitivity\nCurrent, repaired or risk of Moya-Moya disease\nRecent stroke (cerebrovascular accident) within past 6 months\nUncontrolled hypertension\nConcomitant use of opioids, beta antagonist, alpha 2 agonist or calcium channel blocker\nEgg, soy or lecithin allergy\nBMI greater than 30 or weight above 110th percentile\nRefuses insertion of intravenous catheter while awake\nCurrently receiving pharmacologic agents for hypertension or cardiac disease\nCurrently receiving or has received digoxin within the past 3 months\nActive, uncontrolled gastroesophageal reflux - an aspiration risk\nCurrent (or within past 3 months) history of apnea requiring an apnea monitor\nUnstable cardiac status (life threatening arrhythmias, abnormal cardiac anatomy, significant cardiac dysfunction)\nCraniofacial anomaly, which could make it difficult to effectively establish a mask airway for positive pressure ventilation if needed\nActive, current respiratory issues that are different from the baseline status (pneumonia, exacerbation of asthma, bronchiolitis, respiratory syncytial virus)."
-        ],
-        "MinimumAge": [
-          "3 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Boston"
-        ],
-        "LocationFacility": [
-          "Boston Children's Hospital"
-        ],
-        "LocationState": [
-          "Massachusetts"
-        ],
-        "LocationZip": [
-          "02115"
-        ],
-        "LocationContactEMail": [
-          "brooke.sens@childrens.harvard.edu",
-          "karina.lukovits@childrens.harvard.edu"
-        ],
-        "LocationContactName": [
-          "Brooke Sens",
-          "Karina Lukovits",
-          "Keira Mason, MD"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "Anorectal manometry requires that the patient be able to respond to command and not receive any medications which could alter muscle tone or motility. In the pediatric population, anorectal manometry can be psychologically challenging to parents and their child, as it is traditionally performed without adjuvant sedation or anesthesia. Sedatives and anesthesia can alter motility and smooth muscle activity, as well as render it difficult or impossible for the child to follow commands required of the study. Patient or parent non-compliance, inability to follow commands or to tolerate the procedure often renders the study invalid or impossible to complete. Dexmedetomidine is a sedative who's effect on anorectal musculature has not been studied nor determined. It would be important to determine whether it spares smooth muscle function, as it would provide a viable option to provide sedation to children while still preserving their ability to respond to command. The primary objective of this study is to examine the effects of dexmedetomidine on gastrointestinal smooth muscle by observing changes in anorectal manometry before and after dexmedetomdine administration."
-        ],
-        "DetailedDescription": [
-          "Primary objective:\n\nTo examine the effects of dexmedetomidine on intra-anal pressure and the dose response curve to balloon distention by comparing the baseline measurements with those after dexmedetomidine administration.\n\nDexmedetomidine is an alpha-2 agonist that is considered to be a smooth muscle relaxant. It's a potential use as a sedative for endoscopies has been considered. It is important to know whether or not it has effect on smooth muscle tone and would affect manometry studies in those patients who could receive it. The investigator hypothesizes that dexmedetomidine will have minimal effects in the dosing that is being administered.\n\nBackground:\n\nAnorectal manometry requires that the patient be able to respond to command and not receive any medications which could alter muscle tone or motility. These patients typically have the manometry performed without any adjuvant sedatives, anesthetics or medications. In the pediatric population, anorectal manometry can be psychologically challenging to parents and their child, particularly without adjuvant sedation or anesthesia. There are some exceptional circumstances which require sedation/anesthesia administration for these procedures, either because the children are young (< 5 years), they have behavioral issues (like autism) or because they have severe anxiety. In those patients with severe issues even general anesthesia may be needed. The risk of administering any medication to these patients is that they can alter motility and smooth muscle activity, consequently artificially altering the results of the anal manometry. It is important to know which medications can be administered without affecting anal muscle tone. Dexmedetomidine is a newer sedative and anxiolytic. It could be valuable for anxiolysis for anal manometry. It's effect on anal smooth muscle, however, has never been studied. It would be important to determine whether it spares smooth muscle function, as it would provide a viable option to provide sedation to children while still preserving their ability to respond to command.\n\nDexmedetomidine is one of the standard drugs administered for sedation in children who require sedation for diagnostic (gastroendoscopic upper and lower procedures) and radiologic diagnostic imaging studies (MRI, CT and Nuclear Medicine). Over 17,000 infants, children and developmentally compromised young adults have been sedated with dexmedetomidine at Boston Children's Hospital without a cardiac or respiratory arrest, or a need to provide positive pressure assisted ventilation.\n\nMethods:\n\nPatients will undergo the usual anal manometry study, with no adjuvant medications, per routine practice currently in the gastrointestinal unit. Following completion of manometry, 0.5 mcg/kg DEX will be administered over 1 minute followed by an infusion of 0.15 mcg/kg/hr. Manometry measurements will be followed for 15 minutes in response to DEX.\n\nDefinition of Primary Endpoint:\n\nPrimary outcome: To examine the effects of dexmedetomidine on intra-anal pressure and the dose response curve to balloon distention by comparing the baseline measurements with those after dexmedetomidine administration. The pressure measurements will be recorded by the research team member who will be present, every 30 seconds starting from 5 minutes prior to DEX to 15 minutes following DEX administration.\n\nData Analysis Plan:\n\nData will be analyzed after the completion of the study. The manometry measurements will be done blindly by one of the investigators.\n\nThe following endpoints will be analyzed at the completion of the study: time to meet modified Aldrete discharge criteria, adverse events, need for unplanned airway interventions, intravenous anesthetic duration of sedation, presence of agitation/delirium (PAED score), and time of BIS score to return to baseline (pre-sedation level).\n\nStatistical Power and Sample Considerations:\n\nThe study was powered and sample size calculated assuming a mean intra-anal pressure of 90 mmHg, with a mean reduction to 65 mmHg, and a standard deviation of 32. With a significance level of 0.05, it would require approximately 15 subjects to achieve power of 80.3%."
-        ]
-      },
-      {
         "Rank": 74,
-        "NCTId": [
-          "NCT04797559"
-        ],
-        "OfficialTitle": [
-          "Suprazygomatic Maxillary Nerve (SZMN) Blocks for Pain Control in Pediatric Patients Undergoing T&A: Randomized Controlled Trial ]"
-        ],
-        "Condition": [
-          "Postoperative Pain",
-          "Opioid Use"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAges 0-18\nGive consent/parental consent to participate in study\nPatients undergoing tonsillectomy and adenoidectomy\n\nExclusion Criteria:\n\nParticipants who do not consent or have parental consent\nPatients who are clinically unstable or require urgent/emergent intervention\nPatients under age 6 months"
-        ],
-        "MinimumAge": [
-          "6 Months"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Palo Alto"
-        ],
-        "LocationFacility": [
-          "Lucille Packard Children's Hospital"
-        ],
-        "LocationState": [
-          "California"
-        ],
-        "LocationZip": [
-          "94304"
-        ],
-        "LocationContactEMail": [
-          "bantsui@stanford.edu"
-        ],
-        "LocationContactName": [
-          "Ban Tsui, MD"
-        ],
-        "LocationContactPhone": [
-          "650-200-9107"
-        ],
-        "BriefSummary": [
-          "The suprazygomatic maxillary nerve (SZaMN) block is a well-established, safe and effective regional technique for pain management following cleft palate procedures, however, have not been studied for patients undergoing tonsillectomy and adenoidectomy (T&A) procedures. The goals of this study are to determine if SZaMN block can be utilized for pain control and decrease morbidity in pediatric patients undergoing T&A."
-        ],
-        "DetailedDescription": [
-          "Patients between 6 months and 18 years undergoing T&A surgical procedures will be reviewed for potential study enrollment. If participants agree to participate, they will be randomized into either the suprazygomatic maxillary nerve (SZaMN) block treatment cohort or the control cohort i.e standard of care.\n\nAfter anesthesia induction, patients randomized into the SZaMN- treatment group will receive a bilateral single injection SZaMN block under general anesthesia in the operating room. The injection will occur near the temples above the cheek bones.\n\nParticipants enrolled into the control group will receive standard of care with no changes to their anesthetic or surgical care. Both groups will be asked for their verbal pain scores in the PACU and we will track their opioid consumption throughout the next few days after their procedure."
-        ]
-      },
-      {
-        "Rank": 75,
         "NCTId": [
           "NCT04752501"
         ],
@@ -3963,7 +3916,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 76,
+        "Rank": 75,
         "NCTId": [
           "NCT04752293"
         ],
@@ -4033,7 +3986,7 @@
         ]
       },
       {
-        "Rank": 77,
+        "Rank": 76,
         "NCTId": [
           "NCT04741139"
         ],
@@ -4081,7 +4034,7 @@
         ]
       },
       {
-        "Rank": 78,
+        "Rank": 77,
         "NCTId": [
           "NCT04738539"
         ],
@@ -4132,7 +4085,7 @@
         ]
       },
       {
-        "Rank": 79,
+        "Rank": 78,
         "NCTId": [
           "NCT04737460"
         ],
@@ -4181,7 +4134,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 80,
+        "Rank": 79,
         "NCTId": [
           "NCT04735874"
         ],
@@ -4230,7 +4183,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 81,
+        "Rank": 80,
         "NCTId": [
           "NCT04725305"
         ],
@@ -4292,7 +4245,7 @@
         ]
       },
       {
-        "Rank": 82,
+        "Rank": 81,
         "NCTId": [
           "NCT04706364"
         ],
@@ -4341,7 +4294,7 @@
         ]
       },
       {
-        "Rank": 83,
+        "Rank": 82,
         "NCTId": [
           "NCT04697966"
         ],
@@ -4385,7 +4338,7 @@
         ]
       },
       {
-        "Rank": 84,
+        "Rank": 83,
         "NCTId": [
           "NCT04688255"
         ],
@@ -4441,7 +4394,7 @@
         ]
       },
       {
-        "Rank": 85,
+        "Rank": 84,
         "NCTId": [
           "NCT04685343"
         ],
@@ -4487,7 +4440,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 86,
+        "Rank": 85,
         "NCTId": [
           "NCT04675567"
         ],
@@ -4538,7 +4491,7 @@
         ]
       },
       {
-        "Rank": 87,
+        "Rank": 86,
         "NCTId": [
           "NCT04671186"
         ],
@@ -4589,7 +4542,7 @@
         ]
       },
       {
-        "Rank": 88,
+        "Rank": 87,
         "NCTId": [
           "NCT04654260"
         ],
@@ -4646,7 +4599,7 @@
         ]
       },
       {
-        "Rank": 89,
+        "Rank": 88,
         "NCTId": [
           "NCT04639336"
         ],
@@ -4696,7 +4649,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 90,
+        "Rank": 89,
         "NCTId": [
           "NCT04638595"
         ],
@@ -4745,7 +4698,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 91,
+        "Rank": 90,
         "NCTId": [
           "NCT04637802"
         ],
@@ -4796,55 +4749,103 @@
         ]
       },
       {
-        "Rank": 92,
+        "Rank": 91,
         "NCTId": [
-          "NCT04602325"
+          "NCT04634643"
         ],
         "OfficialTitle": [
-          "Systemic Biomarkers of Brain Injury From Hyperammonemia"
+          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
         ],
         "Condition": [
-          "Urea Cycle Disorder",
-          "Organic Acidemia",
-          "Maple Syrup Urine Disease",
-          "Glutaric Acidemia I",
-          "Fatty Acid Oxidation Disorder",
-          "Hypoxic-Ischemic Encephalopathy"
+          "NAFLD"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nInherited Hyperammonemias:\n\nA clinical diagnosis of 1 of 7 diagnosed urea cycle disorders:\n\nN-acetylglutamate Synthetase Deficiency (NAGS)\nCarbamyl Phosphate Synthetase Deficiency (CPSD)\nOrnithine Transcarbamylase Deficiency (OTCD)\nArgininosuccinate Synthetase Deficiency (ASD)\nArgininosuccinate Lyase Deficiency (ALD)\nArginase Deficiency (AD)\nHyperammonemia-Hyperornithinemia-Homocitrullinuria (HHH)\n\nA clinical diagnosis of 1 of 2 organic acidemias:\n\nPropionic Acidemia (PA)\nMethylmalonic Acidemia (MMA)\n\nAcute metabolic disorder without hyperammonemia, with neurological sequelae\n\nMaple Syrup Urine Disease (MSUD)\nGlutaric Acidemia (GA1)\n\nAcute metabolic disorder without hyperammonemia and without neurological sequelae\n\nFatty Acid Oxidation Disorders:\nMedium Chain-Acyl CoA Dehydrogenase Deficiency\nVery Long Chain-Acyl CoA Dehydrogenase Deficiency\nTrifunctional Protein Deficiency\nLong Chain Hydroxyacyl-CoA Dehydrogenase Deficiency\nCarnitine Palmitoyltransferase I or II Deficiency\nCarnitine/Acylcarnitine Translocase Deficiency\nPrimary Carnitine Transport Deficiency\nHypoxic-Ischemic Encephalopathy\n\nExclusion Criteria:\n\nPrior Solid-Organ Transplant\nUse of any other investigational drug, biologic, or therapy or any clinical or laboratory abnormality or medical condition that, as determined by the investigator, may interfere with or obscure the biomarker measurements"
+          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
         ],
         "MinimumAge": [
-          "7 Years"
+          "12 Years"
         ],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "Washington"
+          "New Haven"
         ],
         "LocationFacility": [
-          "Children's National Research Institute"
+          "Yale New Haven Hospital"
         ],
         "LocationState": [
-          "District of Columbia"
+          "Connecticut"
         ],
         "LocationZip": [
-          "20010"
+          "06510"
         ],
         "LocationContactEMail": [
-          "krice3@childrensnational.org"
+          "jessica.lat@yale.edu",
+          "zhongyao.li@yale.edu"
         ],
         "LocationContactName": [
-          "Katie Rice, MPH, CCRP",
-          "Nicholas Ah Mew, MD"
+          "Jessica Lat",
+          "Zhongyao Li",
+          "Nicola Santoro, MD, PhD"
         ],
         "LocationContactPhone": [],
         "BriefSummary": [
-          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. High blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. The following aims are proposed:\n\nAim 1 of this study will be to determine the chronology of biomarkers of brain injury in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder.\n\nAim 2 will be to determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1)."
+          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
         ],
         "DetailedDescription": [
-          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. The onslaught of high blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. In addition, clinical hyperammonemia recurs at varying intervals, which can increase the cumulative damage to the brain and the chance of irreversible coma and death during a hyperammonemia episode due to vascular compromise or brain herniation. The threshold of tolerance for elevated blood ammonia is very low and concentrations above 100 µM can cause brain dysfunction manifested as nausea, vomiting, lethargy, and abnormal behavior; higher concentrations can cause coma and even death. Failure to remove ammonia can be due to inherited defects of the urea cycle, some defects in amino acid catabolism, and degradation of fatty acids.\n\nAim 1 - To determine the chronology of biomarkers of brain injury - S100B, NSE, and UCHL1 - in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder. We hypothesized that elevations of S100B, NSE, and UCHL1 will parallel the rise in blood ammonia. These biomarkers will be measured concurrently to ammonia levels throughout hospitalizations for HA until normalization of patient's blood ammonia and mental status.\n\nAim 2 - To determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism in which the primary pathology is neurological injury, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1). We hypothesize that neuronal and astroglial injury in these disorders may also result in increased levels of S100B, NSE, and UCHL1.\n\nMetabolic patients will be enrolled either during a hospitalization or in outpatient clinic, but outpatient enrollment is preferred. Metabolic patients typically have multiple laboratory tests performed at their outpatient visits. We will obtain the discarded blood samples from such laboratory tests in order to measure S100B, NSE, and UCHL1 levels at baseline (normal blood ammonia), which will provide data on biomarker levels following recovery from a hyperammonemic episode.\n\nDuring hospitalization for metabolic decompensation or for hypoxic-ischemic encephalopathy, sequential measurements of S100B, NSE and UCHL1 levels will be obtained from discarded blood samples. We will obtain S100B, NSE, and UCHL1 levels from collected discarded blood samples at all subjects' next outpatient visit following their hospitalization, to determine if levels return to baseline."
+          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
+        ]
+      },
+      {
+        "Rank": 92,
+        "NCTId": [
+          "NCT04621890"
+        ],
+        "OfficialTitle": [
+          "Behavioral Incentive Meal Dose Engagement in Adolescents With Type 1 Diabetes"
+        ],
+        "Condition": [
+          "Type 1 Diabetes"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nAged 12-17.99 years\nThe youth must have been diagnosed with T1D for at least 6 months\nThe youth must have attended at least 2 routine T1D standard of care visits in the past 12 months\nThe youth must be using an insulin delivery device capable of recording, storing, and downloading insulin bolus behaviors (insulin pump or smart Bluetooth insulin pen that can be uploaded to standard clinic upload software).\nThe youth must have a current A1C >7.2% and/or be predicted to have a rise in A1C in of 0.3% or higher the next 90 days.\nNot pregnant or planning to become pregnant by self-report.\nParticipant has personal access to an electronic device (i.e. iPhone or iPad) that is compatible with Klue.\n\nExclusion Criteria:\n\nParticipants with any type of diabetes mellitus other than T1D\nParticipant has any disease causing anemia or affecting red blood cell physiology (which would impact A1C)\nParticipant has a physical disability, which in the opinion of the investigator would interfere with individual's ability to feed themselves or use one's hands to facilitate eating\nParticipant has a physical or developmental disability, which in the opinion of the investigator, would interfere with his/her ability to interpret and/or respond to messages from the Klue software on the Apple watch.\n\nFor Focus Groups:\n\nAny parent or legal guardian whose child is eligible for the study is invited to participate in a focus group discussion."
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Kansas City"
+        ],
+        "LocationFacility": [
+          "Children's Mercy Kansas City"
+        ],
+        "LocationState": [
+          "Kansas"
+        ],
+        "LocationZip": [
+          "64108"
+        ],
+        "LocationContactEMail": [
+          "sltsai@cmh.edu",
+          "maclements@cmh.edu"
+        ],
+        "LocationContactName": [
+          "Sarah Tsai, MD",
+          "Mark Clemets, MD PhD"
+        ],
+        "LocationContactPhone": [
+          "816-960-8952",
+          "(816) 960-8952"
+        ],
+        "BriefSummary": [
+          "Type 1 Diabetes (T1D) is a serious disease that happens because the body cannot control blood glucose (sugar) levels. People with T1D need insulin shots because their body does not make insulin. Insulin lowers blood sugar levels. When blood sugar levels are too high or too low it causes medical problems.\n\nYouth with T1D can really impact their own health if they follow their T1D treatment plan. However, even with the help of doctors, nurses, and family, most adolescents find it hard to follow their diabetes plan close enough to meet their A1C goal. It is very common for adolescents to forget to give an insulin bolus for meals. When insulin doses are missed, there is a greater chance for poor blood sugar control. When adolescents follow their diabetes plan closely, they have better blood sugar control and overall health.\n\nTwo behavioral economic interventions will be evaluated. COIN2DOSE (Cash-Only INcentive to promote mealtime insulin DOSE Engagement) and LOAN2DOSE (Behavioral Economic concept that uses an economic loss aversion approach to promote insulin dose engagement in adolescents with Type 1 Diabetes). These programs were designed to improve blood sugar control by decreasing the number of missed mealtime boluses. For COIN2DOSE, we will offer the opportunity for youth to earn a bonus reimbursement during which they achieve at least 5 days of 3 mealtime insulin boluses. Finally, we will pay youth up for sharing their insulin use data at least two times per week with the study team during the three-month treatment phase. For LOAN2DOSE, the participants will start with a monetary \"balance\" and will keep it if they bolus as instructed - at least 5 days of 3 mealtime insulin boluses. If they do not do this, their balance will decrease throughout the study."
+        ],
+        "DetailedDescription": [
+          "The long-term goal is to develop effective ways to improve glycemic control in youth with T1D. To that end, we propose to specifically evaluate the effectiveness, feasibility, and usability of two new behavioral economic interventions in diabetes care: an automated meal detection and patient engagement device to promote meal-time insulin dosing behavior (AIM2DOSE) and an economic incentive (COIN2DOSE) to promote patient engagement with mealtime insulin dosing behavior. If initially efficacious, our results will serve as the basis for an R01 submission(s) to conduct a fully powered efficacy trial of LOAN2DOSE and COIN2DOSE. This study is significant as omission of mealtime boluses is one of the common reasons for suboptimal diabetes control in youth. This project is highly innovative because it will: 1) target youth who are predicted by artificial intelligence to experience a worsening in glycemic control, 2) use a just-in-time intervention to improve mealtime insulin dosing behavior, and 3) use an economic incentive intervention to improve mealtime insulin dosing behavior.\n\nStudy Design The study is an unblinded, 3-arm, randomized, controlled trial. After successful screening and consent, individuals will wear a blinded Dexcom G6 Pro CGM inserted 1 week after consent. . At the baseline visit (visit 1; day 1), participants will be randomized to the LOAN2DOSE, COIN2DOSE, or control treatment arms and will be trained on the procedures appropriate to their treatment arm. Participants will also complete baseline measures by questionnaire. Participants will complete procedures specific to their treatment arm weekly. Visit 2 will occur after 12 weeks (90 days). Participants will stop any treatment interventions after this visit. A1C and questionnaire measures will be completed, and participants will again wear the Dexcom G6 Pro CGM for 10 days (the device will be returned by mail post-visit). Participants will receive no treatment intervention from week 13 to week 24. Participants will return for visit 3 at week 24. Again, A1C and questionnaire measures will be completed and participants will wear the Dexcom G6 Pro CGM for 10 days.\n\nAll study participants will also have the option to participate in a focus group discussion (FGD) on general AI ethical issues (control group) or intervention experiences (intervention group).\n\nParents of children who meet inclusion criteria may also elect to participate in a focus group.\n\nStudy Visits Study visits may occur in-person or remotely (i.e., from home). Procedures will be adapted to accommodate both scenarios.\n\nIndividuals who have been predicted via an artificial intelligence-intelligence based model to experience a rise in A1C in the near future (90 days) will be approached for recruitment. 36 participants will be recruited from the Children's Mercy Diabetes Center (any clinic or hospital location). Based on preliminary data review of our clinic population, there were at least 81 individuals who met inclusion criteria who were seen in clinic in the month of May 2019 alone. Patients will be randomized to LOAN2DOSE, COIN2DOSE, or control group using a 1:1:1 randomization scheme.\n\nIntervention:\n\nTo identify an at-risk population for more intensive intervention opportunities, the Children's Mercy Diabetes Center now routinely uses a validated prediction model based on advanced machine learning (random forest method) and natural language processing to identify individuals who are predicted experience a rise in A1C in the next 90 days. The model analyzes all patients who presented for a diabetes visit in the prior week. To accomplish this task, the complete health record for the CMH Diabetes Center registry is analyzed. We will select patients from this cohort for recruitment into the present study.\n\nCOIN2DOSE intervention: From one-week post-randomization to the 12-week study visit, youth randomized to this treatment arm will receive personalized feedback via monetary incentives for dosing insulin at mealtimes. We will define mealtimes based on hour of the day and the presence of a carbohydrate entry associated with the insulin bolus. Breakfast will be 0600-1000, lunch will be 1100-1500, and dinner will be 1600-2000. Thus, we will reimburse youth per mealtime with at least one meal-associated (carbohydrate-associated) insulin bolus completed. We will offer the opportunity for youth to earn a bonus reimbursement for weeks during which they achieve at least 5 days of 3 mealtime insulin boluses. Finally, we will pay youth per week for sharing their insulin use data at least two times per week with the study team during the three-month treatment phase.\n\nLOAN2DOSE intervention: From one-week post-randomization to the 12-week study visit, youth randomized to this treatment arm will receive personalized feedback via monetary deductions from a virtual bank of $210 for missed doses of insulin at mealtimes. We will define mealtimes based on hour of the day and the presence of a carbohydrate entry associated with the insulin bolus. According to the methodology for calculating BOLUS(1) breakfast will be 0600-1000, lunch will be 1100-1500, and dinner will be 1600-2000. Thus, we will deduct $0.50 per mealtime with at least one meal-associated (carbohydrate-associated) insulin bolus missed (maximum -$1.50/day). Youth can also lose an additional amount of up to $5.00/week for weeks during which they don't achieve at least 5 days of 3 mealtime insulin boluses. Finally, we will deduct the virtual account up to $2.00 per week for failing to share their insulin use data at least two times per week with the study team during the three-month treatment phase (maximum deduction of $24.00). Therefore, maximum total deductions is $210."
         ]
       },
       {
@@ -14838,6 +14839,104 @@
       {
         "Rank": 297,
         "NCTId": [
+          "NCT04798482"
+        ],
+        "OfficialTitle": [
+          "Effect of Dexmedetomidine of Gastrointestinal Motility"
+        ],
+        "Condition": [
+          "Anesthesia"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nAges 3-18 years who are scheduled to have an anorectal manometry followed by an upper or lower endoscopic procedures at Boston Children's Hospital\nPatients are cooperative to do the anorectal manometry without sedation (besides pre-med midazolam)\nAnticipates to receive standard sedation with dexmedetomidine and propofol for a gastrointestinal procedure in the Gastroenterology Procedure Unit (GPU)\nProvides written consent to participate in the research study\nIn females of reproductive age, pregnancy testing\n\nExclusion Criteria:\n\nDo not meet established sedation criteria\nPatients who require sedation prior to their anal manometry testing\nHistory of allergy, intolerance, or reaction to dexmedetomidine or propofol or hypersensitivity\nCurrent, repaired or risk of Moya-Moya disease\nRecent stroke (cerebrovascular accident) within past 6 months\nUncontrolled hypertension\nConcomitant use of opioids, beta antagonist, alpha 2 agonist or calcium channel blocker\nEgg, soy or lecithin allergy\nBMI greater than 30 or weight above 110th percentile\nRefuses insertion of intravenous catheter while awake\nCurrently receiving pharmacologic agents for hypertension or cardiac disease\nCurrently receiving or has received digoxin within the past 3 months\nActive, uncontrolled gastroesophageal reflux - an aspiration risk\nCurrent (or within past 3 months) history of apnea requiring an apnea monitor\nUnstable cardiac status (life threatening arrhythmias, abnormal cardiac anatomy, significant cardiac dysfunction)\nCraniofacial anomaly, which could make it difficult to effectively establish a mask airway for positive pressure ventilation if needed\nActive, current respiratory issues that are different from the baseline status (pneumonia, exacerbation of asthma, bronchiolitis, respiratory syncytial virus)."
+        ],
+        "MinimumAge": [
+          "3 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Boston"
+        ],
+        "LocationFacility": [
+          "Boston Children's Hospital"
+        ],
+        "LocationState": [
+          "Massachusetts"
+        ],
+        "LocationZip": [
+          "02115"
+        ],
+        "LocationContactEMail": [
+          "brooke.sens@childrens.harvard.edu",
+          "karina.lukovits@childrens.harvard.edu"
+        ],
+        "LocationContactName": [
+          "Brooke Sens",
+          "Karina Lukovits",
+          "Keira Mason, MD"
+        ],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "Anorectal manometry requires that the patient be able to respond to command and not receive any medications which could alter muscle tone or motility. In the pediatric population, anorectal manometry can be psychologically challenging to parents and their child, as it is traditionally performed without adjuvant sedation or anesthesia. Sedatives and anesthesia can alter motility and smooth muscle activity, as well as render it difficult or impossible for the child to follow commands required of the study. Patient or parent non-compliance, inability to follow commands or to tolerate the procedure often renders the study invalid or impossible to complete. Dexmedetomidine is a sedative who's effect on anorectal musculature has not been studied nor determined. It would be important to determine whether it spares smooth muscle function, as it would provide a viable option to provide sedation to children while still preserving their ability to respond to command. The primary objective of this study is to examine the effects of dexmedetomidine on gastrointestinal smooth muscle by observing changes in anorectal manometry before and after dexmedetomdine administration."
+        ],
+        "DetailedDescription": [
+          "Primary objective:\n\nTo examine the effects of dexmedetomidine on intra-anal pressure and the dose response curve to balloon distention by comparing the baseline measurements with those after dexmedetomidine administration.\n\nDexmedetomidine is an alpha-2 agonist that is considered to be a smooth muscle relaxant. It's a potential use as a sedative for endoscopies has been considered. It is important to know whether or not it has effect on smooth muscle tone and would affect manometry studies in those patients who could receive it. The investigator hypothesizes that dexmedetomidine will have minimal effects in the dosing that is being administered.\n\nBackground:\n\nAnorectal manometry requires that the patient be able to respond to command and not receive any medications which could alter muscle tone or motility. These patients typically have the manometry performed without any adjuvant sedatives, anesthetics or medications. In the pediatric population, anorectal manometry can be psychologically challenging to parents and their child, particularly without adjuvant sedation or anesthesia. There are some exceptional circumstances which require sedation/anesthesia administration for these procedures, either because the children are young (< 5 years), they have behavioral issues (like autism) or because they have severe anxiety. In those patients with severe issues even general anesthesia may be needed. The risk of administering any medication to these patients is that they can alter motility and smooth muscle activity, consequently artificially altering the results of the anal manometry. It is important to know which medications can be administered without affecting anal muscle tone. Dexmedetomidine is a newer sedative and anxiolytic. It could be valuable for anxiolysis for anal manometry. It's effect on anal smooth muscle, however, has never been studied. It would be important to determine whether it spares smooth muscle function, as it would provide a viable option to provide sedation to children while still preserving their ability to respond to command.\n\nDexmedetomidine is one of the standard drugs administered for sedation in children who require sedation for diagnostic (gastroendoscopic upper and lower procedures) and radiologic diagnostic imaging studies (MRI, CT and Nuclear Medicine). Over 17,000 infants, children and developmentally compromised young adults have been sedated with dexmedetomidine at Boston Children's Hospital without a cardiac or respiratory arrest, or a need to provide positive pressure assisted ventilation.\n\nMethods:\n\nPatients will undergo the usual anal manometry study, with no adjuvant medications, per routine practice currently in the gastrointestinal unit. Following completion of manometry, 0.5 mcg/kg DEX will be administered over 1 minute followed by an infusion of 0.15 mcg/kg/hr. Manometry measurements will be followed for 15 minutes in response to DEX.\n\nDefinition of Primary Endpoint:\n\nPrimary outcome: To examine the effects of dexmedetomidine on intra-anal pressure and the dose response curve to balloon distention by comparing the baseline measurements with those after dexmedetomidine administration. The pressure measurements will be recorded by the research team member who will be present, every 30 seconds starting from 5 minutes prior to DEX to 15 minutes following DEX administration.\n\nData Analysis Plan:\n\nData will be analyzed after the completion of the study. The manometry measurements will be done blindly by one of the investigators.\n\nThe following endpoints will be analyzed at the completion of the study: time to meet modified Aldrete discharge criteria, adverse events, need for unplanned airway interventions, intravenous anesthetic duration of sedation, presence of agitation/delirium (PAED score), and time of BIS score to return to baseline (pre-sedation level).\n\nStatistical Power and Sample Considerations:\n\nThe study was powered and sample size calculated assuming a mean intra-anal pressure of 90 mmHg, with a mean reduction to 65 mmHg, and a standard deviation of 32. With a significance level of 0.05, it would require approximately 15 subjects to achieve power of 80.3%."
+        ]
+      },
+      {
+        "Rank": 298,
+        "NCTId": [
+          "NCT04797559"
+        ],
+        "OfficialTitle": [
+          "Suprazygomatic Maxillary Nerve (SZMN) Blocks for Pain Control in Pediatric Patients Undergoing T&A: Randomized Controlled Trial ]"
+        ],
+        "Condition": [
+          "Postoperative Pain",
+          "Opioid Use"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria:\n\nAges 0-18\nGive consent/parental consent to participate in study\nPatients undergoing tonsillectomy and adenoidectomy\n\nExclusion Criteria:\n\nParticipants who do not consent or have parental consent\nPatients who are clinically unstable or require urgent/emergent intervention\nPatients under age 6 months"
+        ],
+        "MinimumAge": [
+          "6 Months"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Palo Alto"
+        ],
+        "LocationFacility": [
+          "Lucille Packard Children's Hospital"
+        ],
+        "LocationState": [
+          "California"
+        ],
+        "LocationZip": [
+          "94304"
+        ],
+        "LocationContactEMail": [
+          "bantsui@stanford.edu"
+        ],
+        "LocationContactName": [
+          "Ban Tsui, MD"
+        ],
+        "LocationContactPhone": [
+          "650-200-9107"
+        ],
+        "BriefSummary": [
+          "The suprazygomatic maxillary nerve (SZaMN) block is a well-established, safe and effective regional technique for pain management following cleft palate procedures, however, have not been studied for patients undergoing tonsillectomy and adenoidectomy (T&A) procedures. The goals of this study are to determine if SZaMN block can be utilized for pain control and decrease morbidity in pediatric patients undergoing T&A."
+        ],
+        "DetailedDescription": [
+          "Patients between 6 months and 18 years undergoing T&A surgical procedures will be reviewed for potential study enrollment. If participants agree to participate, they will be randomized into either the suprazygomatic maxillary nerve (SZaMN) block treatment cohort or the control cohort i.e standard of care.\n\nAfter anesthesia induction, patients randomized into the SZaMN- treatment group will receive a bilateral single injection SZaMN block under general anesthesia in the operating room. The injection will occur near the temples above the cheek bones.\n\nParticipants enrolled into the control group will receive standard of care with no changes to their anesthetic or surgical care. Both groups will be asked for their verbal pain scores in the PACU and we will track their opioid consumption throughout the next few days after their procedure."
+        ]
+      },
+      {
+        "Rank": 299,
+        "NCTId": [
           "NCT04795674"
         ],
         "OfficialTitle": [
@@ -14888,7 +14987,7 @@
         ]
       },
       {
-        "Rank": 298,
+        "Rank": 300,
         "NCTId": [
           "NCT04788524"
         ],
@@ -14937,7 +15036,7 @@
         ]
       },
       {
-        "Rank": 299,
+        "Rank": 301,
         "NCTId": [
           "NCT04786977"
         ],
@@ -14984,7 +15083,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 300,
+        "Rank": 302,
         "NCTId": [
           "NCT04784455"
         ],
@@ -15028,7 +15127,7 @@
         ]
       },
       {
-        "Rank": 301,
+        "Rank": 303,
         "NCTId": [
           "NCT04783506"
         ],
@@ -15077,7 +15176,7 @@
         ]
       },
       {
-        "Rank": 302,
+        "Rank": 304,
         "NCTId": [
           "NCT04771338"
         ],
@@ -15130,7 +15229,7 @@
         ]
       },
       {
-        "Rank": 303,
+        "Rank": 305,
         "NCTId": [
           "NCT04768634"
         ],
@@ -15173,7 +15272,7 @@
         ]
       },
       {
-        "Rank": 304,
+        "Rank": 306,
         "NCTId": [
           "NCT04756427"
         ],
@@ -15219,107 +15318,59 @@
         ]
       },
       {
-        "Rank": 305,
+        "Rank": 307,
         "NCTId": [
-          "NCT04634643"
+          "NCT04602325"
         ],
         "OfficialTitle": [
-          "Pathophysiologic Mechanisms Leading to Intrahepatic Fat Accumulation in Obese Youth"
+          "Systemic Biomarkers of Brain Injury From Hyperammonemia"
         ],
         "Condition": [
-          "NAFLD"
+          "Urea Cycle Disorder",
+          "Organic Acidemia",
+          "Maple Syrup Urine Disease",
+          "Glutaric Acidemia I",
+          "Fatty Acid Oxidation Disorder",
+          "Hypoxic-Ischemic Encephalopathy"
         ],
         "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nGood general health, taking no medication on a chronic basis;\nage 12 to 18 years, in puberty (girls and boys: Tanner stage II-V);\nBMI >85th for obese cohort;\n\nExclusion Criteria:\n\nBaseline creatinine >1.0 mg; pregnancy;\nthe presence of endocrinopathies (e.g. Cushing syndrome);\ncardiac or pulmonary or other significant chronic illness;\nadolescents with a psychiatric disorder or with substance abuse;\nmonogenic obesity syndromes;\nuse of drugs affecting intrahepatic fat content (e.g.; liraglutide, fish oil, etc.)."
+          "Inclusion Criteria:\n\nInherited Hyperammonemias:\n\nA clinical diagnosis of 1 of 7 diagnosed urea cycle disorders:\n\nN-acetylglutamate Synthetase Deficiency (NAGS)\nCarbamyl Phosphate Synthetase Deficiency (CPSD)\nOrnithine Transcarbamylase Deficiency (OTCD)\nArgininosuccinate Synthetase Deficiency (ASD)\nArgininosuccinate Lyase Deficiency (ALD)\nArginase Deficiency (AD)\nHyperammonemia-Hyperornithinemia-Homocitrullinuria (HHH)\n\nA clinical diagnosis of 1 of 2 organic acidemias:\n\nPropionic Acidemia (PA)\nMethylmalonic Acidemia (MMA)\n\nAcute metabolic disorder without hyperammonemia, with neurological sequelae\n\nMaple Syrup Urine Disease (MSUD)\nGlutaric Acidemia (GA1)\n\nAcute metabolic disorder without hyperammonemia and without neurological sequelae\n\nFatty Acid Oxidation Disorders:\nMedium Chain-Acyl CoA Dehydrogenase Deficiency\nVery Long Chain-Acyl CoA Dehydrogenase Deficiency\nTrifunctional Protein Deficiency\nLong Chain Hydroxyacyl-CoA Dehydrogenase Deficiency\nCarnitine Palmitoyltransferase I or II Deficiency\nCarnitine/Acylcarnitine Translocase Deficiency\nPrimary Carnitine Transport Deficiency\nHypoxic-Ischemic Encephalopathy\n\nExclusion Criteria:\n\nPrior Solid-Organ Transplant\nUse of any other investigational drug, biologic, or therapy or any clinical or laboratory abnormality or medical condition that, as determined by the investigator, may interfere with or obscure the biomarker measurements"
         ],
         "MinimumAge": [
-          "12 Years"
+          "7 Years"
         ],
         "MaximumAge": [
           "18 Years"
         ],
         "LocationCity": [
-          "New Haven"
+          "Washington"
         ],
         "LocationFacility": [
-          "Yale New Haven Hospital"
+          "Children's National Research Institute"
         ],
         "LocationState": [
-          "Connecticut"
+          "District of Columbia"
         ],
         "LocationZip": [
-          "06510"
+          "20010"
         ],
         "LocationContactEMail": [
-          "jessica.lat@yale.edu",
-          "zhongyao.li@yale.edu"
+          "krice3@childrensnational.org"
         ],
         "LocationContactName": [
-          "Jessica Lat",
-          "Zhongyao Li",
-          "Nicola Santoro, MD, PhD"
+          "Katie Rice, MPH, CCRP",
+          "Nicholas Ah Mew, MD"
         ],
         "LocationContactPhone": [],
         "BriefSummary": [
-          "The main aim of the study is to discover the mechanisms underlying the pathophysiology of NAFLD in obese youth."
+          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. High blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. The following aims are proposed:\n\nAim 1 of this study will be to determine the chronology of biomarkers of brain injury in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder.\n\nAim 2 will be to determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1)."
         ],
         "DetailedDescription": [
-          "Nonalcoholic fatty liver disease (NAFLD) is the most common hepatic disease in pediatrics, affecting about 30% of obese youth. The term NAFLD defines a wide spectrum of disease severity ranging from simple intrahepatic fat accumulation without liver injury (steatosis) to nonalcoholic steatohepatitis (NASH), fibrosis and cirrhosis.\n\nA 20-year retrospective study has shown that subjects who develop NAFLD during their youth have about 13 times higher mortality rate for end-stage liver disease than healthy subjects of similar age and gender. NAFLD is highly prevalent among Hispanic youth, while non-Hispanic Black (NHB) youth are protected against intrahepatic fat accumulation even in the presence of severe obesity and insulin resistance. Understanding the pathophysiology underlying these differences could shed new light on the mechanisms leading to NAFLD in obese youth.\n\nPreliminary data suggest that Hispanic and NHB obese youth might have a different ability to metabolize carbohydrates (CHO) through glycolysis, with Hispanics showing higher glycolysis than NHB. Therefore, Hispanics might experience a higher rated tricyclic acid cycle (TCA) and hepatic de novo lipogenesis (DNL).\n\nIn the present study, the investigators aim to address the following questions:\n\nIs the different susceptibility between Hispanics and NHB in developing NAFLD due to a higher capability of Hispanics to metabolize CHO through glycolysis, TCA cycle and DNL?\nDo these metabolic changes anticipate the onset of the disease in Hispanic youth?\nAre the higher rates of glycolysis, TCA and DNL driven by high but not pathologic changes in glucose levels over time?\n\nTo address these aims, the investigators plan to recruit 30 Hispanics and 30 NHB obese youth and to measure glycolysis by using a new method to assess lactate kinetics and to determine the TCA cycle and DNL by using 13C-Propionate and D2O.\n\nThe investigators will also assess glycolysis and intrahepatic fat content in a group of 200Hispanic obese youth without fatty liver at baseline every 12 months for two years to determine whether higher glycolytic rates precede intrahepatic fat accumulation. To assess whether metabolic changes in glycolysis are driven by higher but not-pathologic glucose levels, the investigators will measure glucose changes over ten days every six months by using a continuous glucose monitoring system. If successful, these studies will provide novel insight into the pathogenesis of pediatric NAFLD and will open new avenues to test novel therapeutic approaches."
+          "Ammonia is a waste product of protein and amino acid catabolism and is also a potent neurotoxin. The onslaught of high blood ammonia levels on the brain can manifest as cytotoxic brain edema and vascular compromise leading to intellectual and developmental disabilities. In addition, clinical hyperammonemia recurs at varying intervals, which can increase the cumulative damage to the brain and the chance of irreversible coma and death during a hyperammonemia episode due to vascular compromise or brain herniation. The threshold of tolerance for elevated blood ammonia is very low and concentrations above 100 µM can cause brain dysfunction manifested as nausea, vomiting, lethargy, and abnormal behavior; higher concentrations can cause coma and even death. Failure to remove ammonia can be due to inherited defects of the urea cycle, some defects in amino acid catabolism, and degradation of fatty acids.\n\nAim 1 - To determine the chronology of biomarkers of brain injury - S100B, NSE, and UCHL1 - in response to a hyperammonemic (HA) brain insult in patients with an inherited hyperammonemic disorder. We hypothesized that elevations of S100B, NSE, and UCHL1 will parallel the rise in blood ammonia. These biomarkers will be measured concurrently to ammonia levels throughout hospitalizations for HA until normalization of patient's blood ammonia and mental status.\n\nAim 2 - To determine if S100B, NSE, and UCHL1 are altered in patients with two other inborn errors of metabolism in which the primary pathology is neurological injury, Maple Syrup Urine Disease (MSUD) and Glutaric Acidemia (GA1). We hypothesize that neuronal and astroglial injury in these disorders may also result in increased levels of S100B, NSE, and UCHL1.\n\nMetabolic patients will be enrolled either during a hospitalization or in outpatient clinic, but outpatient enrollment is preferred. Metabolic patients typically have multiple laboratory tests performed at their outpatient visits. We will obtain the discarded blood samples from such laboratory tests in order to measure S100B, NSE, and UCHL1 levels at baseline (normal blood ammonia), which will provide data on biomarker levels following recovery from a hyperammonemic episode.\n\nDuring hospitalization for metabolic decompensation or for hypoxic-ischemic encephalopathy, sequential measurements of S100B, NSE and UCHL1 levels will be obtained from discarded blood samples. We will obtain S100B, NSE, and UCHL1 levels from collected discarded blood samples at all subjects' next outpatient visit following their hospitalization, to determine if levels return to baseline."
         ]
       },
       {
-        "Rank": 306,
-        "NCTId": [
-          "NCT04621890"
-        ],
-        "OfficialTitle": [
-          "Behavioral Incentive Meal Dose Engagement in Adolescents With Type 1 Diabetes"
-        ],
-        "Condition": [
-          "Type 1 Diabetes"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nAged 12-17.99 years\nThe youth must have been diagnosed with T1D for at least 6 months\nThe youth must have attended at least 2 routine T1D standard of care visits in the past 12 months\nThe youth must be using an insulin delivery device capable of recording, storing, and downloading insulin bolus behaviors (insulin pump or smart Bluetooth insulin pen that can be uploaded to standard clinic upload software).\nThe youth must have a current A1C >7.2% and/or be predicted to have a rise in A1C in of 0.3% or higher the next 90 days.\nNot pregnant or planning to become pregnant by self-report.\nParticipant has personal access to an electronic device (i.e. iPhone or iPad) that is compatible with Klue.\n\nExclusion Criteria:\n\nParticipants with any type of diabetes mellitus other than T1D\nParticipant has any disease causing anemia or affecting red blood cell physiology (which would impact A1C)\nParticipant has a physical disability, which in the opinion of the investigator would interfere with individual's ability to feed themselves or use one's hands to facilitate eating\nParticipant has a physical or developmental disability, which in the opinion of the investigator, would interfere with his/her ability to interpret and/or respond to messages from the Klue software on the Apple watch.\n\nFor Focus Groups:\n\nAny parent or legal guardian whose child is eligible for the study is invited to participate in a focus group discussion."
-        ],
-        "MinimumAge": [
-          "12 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Kansas City"
-        ],
-        "LocationFacility": [
-          "Children's Mercy Kansas City"
-        ],
-        "LocationState": [
-          "Kansas"
-        ],
-        "LocationZip": [
-          "64108"
-        ],
-        "LocationContactEMail": [
-          "sltsai@cmh.edu",
-          "maclements@cmh.edu"
-        ],
-        "LocationContactName": [
-          "Sarah Tsai, MD",
-          "Mark Clemets, MD PhD"
-        ],
-        "LocationContactPhone": [
-          "816-960-8952",
-          "(816) 960-8952"
-        ],
-        "BriefSummary": [
-          "Type 1 Diabetes (T1D) is a serious disease that happens because the body cannot control blood glucose (sugar) levels. People with T1D need insulin shots because their body does not make insulin. Insulin lowers blood sugar levels. When blood sugar levels are too high or too low it causes medical problems.\n\nYouth with T1D can really impact their own health if they follow their T1D treatment plan. However, even with the help of doctors, nurses, and family, most adolescents find it hard to follow their diabetes plan close enough to meet their A1C goal. It is very common for adolescents to forget to give an insulin bolus for meals. When insulin doses are missed, there is a greater chance for poor blood sugar control. When adolescents follow their diabetes plan closely, they have better blood sugar control and overall health.\n\nTwo behavioral economic interventions will be evaluated. COIN2DOSE (Cash-Only INcentive to promote mealtime insulin DOSE Engagement) and LOAN2DOSE (Behavioral Economic concept that uses an economic loss aversion approach to promote insulin dose engagement in adolescents with Type 1 Diabetes). These programs were designed to improve blood sugar control by decreasing the number of missed mealtime boluses. For COIN2DOSE, we will offer the opportunity for youth to earn a bonus reimbursement during which they achieve at least 5 days of 3 mealtime insulin boluses. Finally, we will pay youth up for sharing their insulin use data at least two times per week with the study team during the three-month treatment phase. For LOAN2DOSE, the participants will start with a monetary \"balance\" and will keep it if they bolus as instructed - at least 5 days of 3 mealtime insulin boluses. If they do not do this, their balance will decrease throughout the study."
-        ],
-        "DetailedDescription": [
-          "The long-term goal is to develop effective ways to improve glycemic control in youth with T1D. To that end, we propose to specifically evaluate the effectiveness, feasibility, and usability of two new behavioral economic interventions in diabetes care: an automated meal detection and patient engagement device to promote meal-time insulin dosing behavior (AIM2DOSE) and an economic incentive (COIN2DOSE) to promote patient engagement with mealtime insulin dosing behavior. If initially efficacious, our results will serve as the basis for an R01 submission(s) to conduct a fully powered efficacy trial of LOAN2DOSE and COIN2DOSE. This study is significant as omission of mealtime boluses is one of the common reasons for suboptimal diabetes control in youth. This project is highly innovative because it will: 1) target youth who are predicted by artificial intelligence to experience a worsening in glycemic control, 2) use a just-in-time intervention to improve mealtime insulin dosing behavior, and 3) use an economic incentive intervention to improve mealtime insulin dosing behavior.\n\nStudy Design The study is an unblinded, 3-arm, randomized, controlled trial. After successful screening and consent, individuals will wear a blinded Dexcom G6 Pro CGM inserted 1 week after consent. . At the baseline visit (visit 1; day 1), participants will be randomized to the LOAN2DOSE, COIN2DOSE, or control treatment arms and will be trained on the procedures appropriate to their treatment arm. Participants will also complete baseline measures by questionnaire. Participants will complete procedures specific to their treatment arm weekly. Visit 2 will occur after 12 weeks (90 days). Participants will stop any treatment interventions after this visit. A1C and questionnaire measures will be completed, and participants will again wear the Dexcom G6 Pro CGM for 10 days (the device will be returned by mail post-visit). Participants will receive no treatment intervention from week 13 to week 24. Participants will return for visit 3 at week 24. Again, A1C and questionnaire measures will be completed and participants will wear the Dexcom G6 Pro CGM for 10 days.\n\nAll study participants will also have the option to participate in a focus group discussion (FGD) on general AI ethical issues (control group) or intervention experiences (intervention group).\n\nParents of children who meet inclusion criteria may also elect to participate in a focus group.\n\nStudy Visits Study visits may occur in-person or remotely (i.e., from home). Procedures will be adapted to accommodate both scenarios.\n\nIndividuals who have been predicted via an artificial intelligence-intelligence based model to experience a rise in A1C in the near future (90 days) will be approached for recruitment. 36 participants will be recruited from the Children's Mercy Diabetes Center (any clinic or hospital location). Based on preliminary data review of our clinic population, there were at least 81 individuals who met inclusion criteria who were seen in clinic in the month of May 2019 alone. Patients will be randomized to LOAN2DOSE, COIN2DOSE, or control group using a 1:1:1 randomization scheme.\n\nIntervention:\n\nTo identify an at-risk population for more intensive intervention opportunities, the Children's Mercy Diabetes Center now routinely uses a validated prediction model based on advanced machine learning (random forest method) and natural language processing to identify individuals who are predicted experience a rise in A1C in the next 90 days. The model analyzes all patients who presented for a diabetes visit in the prior week. To accomplish this task, the complete health record for the CMH Diabetes Center registry is analyzed. We will select patients from this cohort for recruitment into the present study.\n\nCOIN2DOSE intervention: From one-week post-randomization to the 12-week study visit, youth randomized to this treatment arm will receive personalized feedback via monetary incentives for dosing insulin at mealtimes. We will define mealtimes based on hour of the day and the presence of a carbohydrate entry associated with the insulin bolus. Breakfast will be 0600-1000, lunch will be 1100-1500, and dinner will be 1600-2000. Thus, we will reimburse youth per mealtime with at least one meal-associated (carbohydrate-associated) insulin bolus completed. We will offer the opportunity for youth to earn a bonus reimbursement for weeks during which they achieve at least 5 days of 3 mealtime insulin boluses. Finally, we will pay youth per week for sharing their insulin use data at least two times per week with the study team during the three-month treatment phase.\n\nLOAN2DOSE intervention: From one-week post-randomization to the 12-week study visit, youth randomized to this treatment arm will receive personalized feedback via monetary deductions from a virtual bank of $210 for missed doses of insulin at mealtimes. We will define mealtimes based on hour of the day and the presence of a carbohydrate entry associated with the insulin bolus. According to the methodology for calculating BOLUS(1) breakfast will be 0600-1000, lunch will be 1100-1500, and dinner will be 1600-2000. Thus, we will deduct $0.50 per mealtime with at least one meal-associated (carbohydrate-associated) insulin bolus missed (maximum -$1.50/day). Youth can also lose an additional amount of up to $5.00/week for weeks during which they don't achieve at least 5 days of 3 mealtime insulin boluses. Finally, we will deduct the virtual account up to $2.00 per week for failing to share their insulin use data at least two times per week with the study team during the three-month treatment phase (maximum deduction of $24.00). Therefore, maximum total deductions is $210."
-        ]
-      },
-      {
-        "Rank": 307,
+        "Rank": 308,
         "NCTId": [
           "NCT03266016"
         ],
@@ -15361,7 +15412,7 @@
         ]
       },
       {
-        "Rank": 308,
+        "Rank": 309,
         "NCTId": [
           "NCT02420990"
         ],
@@ -15409,7 +15460,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 309,
+        "Rank": 310,
         "NCTId": [
           "NCT05384223"
         ],
@@ -15470,7 +15521,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 310,
+        "Rank": 311,
         "NCTId": [
           "NCT05202418"
         ],
@@ -15525,56 +15576,6 @@
         ],
         "DetailedDescription": [
           "Similar to other chronic stressors, diagnosis with a chronic illness places youth at risk of adverse psychosocial outcomes. Inflammatory bowel diseases (IBD), Crohn's disease, ulcerative colitis, and indeterminate colitis are chronic, immune-mediated diseases of the gastrointestinal tract characterized by unpredictable remissions of disease activity followed by relapses of symptoms. Although some research has found higher levels of disease activity to relate to greater depressive symptoms, the overall relationship between disease activity and emotional functioning has been mixed, suggesting that additional individual differences need to be considered in addition to illness-related factors when predicting emotional outcomes. Increased risk for developing anxiety disorders and depression has been documented in youth with IBD. Individual differences in physiological reactivity may affect patients' risk for developing psychosocial difficulties within the context of chronic stress. Additional risk factors for the development of psychosocial difficulties need to be identified to identify moderators of outcomes above and beyond disease activity.\n\nIndividual differences in physiological reactivity may affect patients' risk for developing psychosocial difficulties within the context of chronic stress. Physiological reactivity, which broadly refers to bodily reactions in response to a stressor, varies with regards to intensity and threshold for activation between individuals.\n\nIn youth affected by non-medical chronic stress (e.g., family conflict, trauma history), measures of autonomic dysfunction have been used to explain why some individuals have worse psychological and physical outcomes compared to others exposed to similar levels of chronic stress. Results support autonomic dysfunction as a vulnerability factor for adjustment problems within the context of chronic environmental stress.\n\nThe aim of the current study is to test whether differences in psychophysiological reactivity serve as risk factors in the relationship between clinical disease activity in youth newly diagnosed with IBD and psychosocial adjustment problems. The relationship between psychophysiological reactivity and psychosocial adjustment problems in youth with IBD will be compared to healthy controls. Youth participants with IBD will be enrolled in a coping skills treatment to test the effectiveness of a cognitive-behavioral intervention including biofeedback to reduce anxiety and depression and disease symptoms. The research team will conduct a pilot intervention targeting autonomic dysfunction through biofeedback enhanced coping skills treatment delivered virtually over 6-sessions."
-        ]
-      },
-      {
-        "Rank": 311,
-        "NCTId": [
-          "NCT04602728"
-        ],
-        "OfficialTitle": [
-          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
-        ],
-        "Condition": [
-          "Sickle Cell Disease"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
-        ],
-        "MinimumAge": [
-          "10 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Atlanta",
-          "Atlanta",
-          "Atlanta"
-        ],
-        "LocationFacility": [
-          "Children's Healthcare of Atlanta at Hugh Spalding",
-          "Chilldren's Healthcare of Atlanta",
-          "Emory Children's Center"
-        ],
-        "LocationState": [
-          "Georgia",
-          "Georgia",
-          "Georgia"
-        ],
-        "LocationZip": [
-          "30303",
-          "30322",
-          "30322"
-        ],
-        "LocationContactEMail": [],
-        "LocationContactName": [],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
-        ],
-        "DetailedDescription": [
-          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
         ]
       },
       {
@@ -15767,6 +15768,56 @@
       {
         "Rank": 315,
         "NCTId": [
+          "NCT04602728"
+        ],
+        "OfficialTitle": [
+          "Building Adaptive Coping and Knowledge to Improve Daily Life (Back2Life): A Pilot Feasibility Clinical Trial for Youth With Chronic Sickle Cell Pain"
+        ],
+        "Condition": [
+          "Sickle Cell Disease"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion Criteria for Youth:\n\ndiagnosed with SCD (any genotype)\nreport chronic pain\nspeak and read English\nhave not initiated new disease modifying-treatments (e.g, hydroxyurea, Endari, voxeletor, crizanlizumab, chronic transfusions) or significantly increased dosages of any disease-modifying treatments in the past 3 months\n\nInclusion Criteria for Parents or Caregivers:\n\nspeak and read English\n\nExclusion Criteria for Youth:\n\nhave comorbid medical conditions typically associated with pain but unrelated to SCD (e.g., rheumatologic disorders or inflammatory bowel disease)\nare receiving chronic transfusion indicated for central nervous system risks and/or complications, previous overt strokes, or significant cognitive or developmental limitations, as per their healthcare provider or parent, that would impair completion of self-report measures or engagement in treatment sessions\nreceived ≥ 3 sessions of outpatient psychological therapy for pain management in the 6 months prior to screening\n\nExclusion Criteria for Parents or Caregivers:\n\nhave significant cognitive limitations or severe psychiatric conditions, as per the child's healthcare team or history, that would impair completion of self-report measures or engagement in treatment sessions"
+        ],
+        "MinimumAge": [
+          "10 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Atlanta",
+          "Atlanta",
+          "Atlanta"
+        ],
+        "LocationFacility": [
+          "Children's Healthcare of Atlanta at Hugh Spalding",
+          "Chilldren's Healthcare of Atlanta",
+          "Emory Children's Center"
+        ],
+        "LocationState": [
+          "Georgia",
+          "Georgia",
+          "Georgia"
+        ],
+        "LocationZip": [
+          "30303",
+          "30322",
+          "30322"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The purpose of this study is to find out how teenagers with chronic pain and sickle cell disease respond to a new training program called Back2Life and get their feedback about how to modify the program to best fit their needs. The Back2Life training program focuses on teaching pain coping skills (also known as cognitive-behavioral therapy). The program teaches skills and strategies that may help teens improve chronic pain management and get back into their everyday activities."
+        ],
+        "DetailedDescription": [
+          "Sickle cell disease (SCD) is a genetic disorder of the hemoglobin in which the course of acute pain from vaso-occlusion and its sequelae vary widely across genotypes and individual patients. SCD pain often begins during childhood and can progress to chronic pain for approximately 23% of children and adolescents. Youth with chronic SCD pain, that is pain that is present on most days per month and persists for at least 6 months, report high levels of functional disability, elevated depressive and anxiety symptoms, and reduced quality of life relative to youth with SCD without chronic pain. The complex, multifactorial nature of chronic SCD pain can also contribute to increased healthcare utilization for pain. The most effective management and treatment of chronic SCD pain likely requires individualized, multimodal, multidisciplinary treatments that go beyond pharmacological management alone. A range of evidence-based non-pharmacological treatments, such as behavioral health, complementary, and integrative health approaches, are recommended for chronic pain management and are gaining greater awareness and integration into comprehensive chronic pain care.\n\nBehavioral health treatment, such as cognitive-behavioral therapy (CBT) for pain, focuses on improved daily functioning and coping through several core treatment components such as psychoeducation about how the body processes pain, relaxation skills training, and cognitive strategies. Youth with chronic SCD pain need an evidence-based, culturally informed, adaptive treatment. Behavioral treatments that are tailored to patient and family needs are beneficial when patients may require different levels of care. Adaptive designs are more effective in improving health outcomes, satisfaction with treatment, and reducing healthcare use than standard protocols where patients receive a fixed \"one size fits all\" treatment that is not personalized to their needs; adaptive designs are also recommended for tailoring evidence-based interventions with culturally diverse populations. Adaptive treatments can integrate evidence-based strategies to address common co-morbid problems associated with chronic pain, such as elevated anxiety or depressive symptoms or sleep disturbance. Teaching parents problem-solving skills can reduce caregiver stress among families managing chronic pain and illness.\n\nThis study will utilize an adaptive behavioral treatment to target psychosocial risk factors for youth with chronic SCD pain as a first step towards developing a stepped care model for SCD pain."
+        ]
+      },
+      {
+        "Rank": 316,
+        "NCTId": [
           "NCT03657771"
         ],
         "OfficialTitle": [
@@ -15836,7 +15887,7 @@
         ]
       },
       {
-        "Rank": 316,
+        "Rank": 317,
         "NCTId": [
           "NCT03412162"
         ],
@@ -15892,7 +15943,7 @@
         ]
       },
       {
-        "Rank": 317,
+        "Rank": 318,
         "NCTId": [
           "NCT05335538"
         ],
@@ -15948,7 +15999,7 @@
         ]
       },
       {
-        "Rank": 318,
+        "Rank": 319,
         "NCTId": [
           "NCT04344899"
         ],
@@ -16009,7 +16060,7 @@
         ]
       },
       {
-        "Rank": 319,
+        "Rank": 320,
         "NCTId": [
           "NCT02260856"
         ],
@@ -16092,7 +16143,7 @@
         ]
       },
       {
-        "Rank": 320,
+        "Rank": 321,
         "NCTId": [
           "NCT04156347"
         ],
@@ -16144,7 +16195,7 @@
         ]
       },
       {
-        "Rank": 321,
+        "Rank": 322,
         "NCTId": [
           "NCT05382962"
         ],
@@ -16205,7 +16256,7 @@
         ]
       },
       {
-        "Rank": 322,
+        "Rank": 323,
         "NCTId": [
           "NCT04998656"
         ],
@@ -16275,7 +16326,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 323,
+        "Rank": 324,
         "NCTId": [
           "NCT04625686"
         ],
@@ -16345,7 +16396,7 @@
         ]
       },
       {
-        "Rank": 324,
+        "Rank": 325,
         "NCTId": [
           "NCT04621331"
         ],
@@ -16402,7 +16453,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 325,
+        "Rank": 326,
         "NCTId": [
           "NCT04074265"
         ],
@@ -16486,7 +16537,7 @@
         ]
       },
       {
-        "Rank": 326,
+        "Rank": 327,
         "NCTId": [
           "NCT04259970"
         ],
@@ -16555,7 +16606,7 @@
         ]
       },
       {
-        "Rank": 327,
+        "Rank": 328,
         "NCTId": [
           "NCT04285112"
         ],
@@ -16625,7 +16676,7 @@
         ]
       },
       {
-        "Rank": 328,
+        "Rank": 329,
         "NCTId": [
           "NCT02914405"
         ],
@@ -16696,7 +16747,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 329,
+        "Rank": 330,
         "NCTId": [
           "NCT02391324"
         ],
@@ -16758,7 +16809,7 @@
         ]
       },
       {
-        "Rank": 330,
+        "Rank": 331,
         "NCTId": [
           "NCT02134782"
         ],
@@ -16822,7 +16873,7 @@
         ]
       },
       {
-        "Rank": 331,
+        "Rank": 332,
         "NCTId": [
           "NCT04333823"
         ],
@@ -16891,7 +16942,7 @@
         ]
       },
       {
-        "Rank": 332,
+        "Rank": 333,
         "NCTId": [
           "NCT03240809"
         ],
@@ -16949,7 +17000,7 @@
         ]
       },
       {
-        "Rank": 333,
+        "Rank": 334,
         "NCTId": [
           "NCT04718441"
         ],
@@ -17030,7 +17081,7 @@
         ]
       },
       {
-        "Rank": 334,
+        "Rank": 335,
         "NCTId": [
           "NCT04251026"
         ],
@@ -17113,7 +17164,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 335,
+        "Rank": 336,
         "NCTId": [
           "NCT00005105"
         ],
@@ -17177,7 +17228,7 @@
         ]
       },
       {
-        "Rank": 336,
+        "Rank": 337,
         "NCTId": [
           "NCT04810481"
         ],
@@ -17251,7 +17302,7 @@
         ]
       },
       {
-        "Rank": 337,
+        "Rank": 338,
         "NCTId": [
           "NCT03505658"
         ],
@@ -17312,7 +17363,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 338,
+        "Rank": 339,
         "NCTId": [
           "NCT03989986"
         ],
@@ -17372,7 +17423,7 @@
         ]
       },
       {
-        "Rank": 339,
+        "Rank": 340,
         "NCTId": [
           "NCT02486666"
         ],
@@ -17443,7 +17494,7 @@
         ]
       },
       {
-        "Rank": 340,
+        "Rank": 341,
         "NCTId": [
           "NCT04903314"
         ],
@@ -17527,7 +17578,7 @@
         ]
       },
       {
-        "Rank": 341,
+        "Rank": 342,
         "NCTId": [
           "NCT05203198"
         ],
@@ -17636,7 +17687,7 @@
         ]
       },
       {
-        "Rank": 342,
+        "Rank": 343,
         "NCTId": [
           "NCT03910933"
         ],
@@ -17719,7 +17770,7 @@
         ]
       },
       {
-        "Rank": 343,
+        "Rank": 344,
         "NCTId": [
           "NCT05124210"
         ],
@@ -17819,7 +17870,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 344,
+        "Rank": 345,
         "NCTId": [
           "NCT04816643"
         ],
@@ -18265,7 +18316,7 @@
         ]
       },
       {
-        "Rank": 345,
+        "Rank": 346,
         "NCTId": [
           "NCT04442295"
         ],
@@ -18394,7 +18445,7 @@
         ]
       },
       {
-        "Rank": 346,
+        "Rank": 347,
         "NCTId": [
           "NCT04431453"
         ],
@@ -18565,7 +18616,7 @@
         ]
       },
       {
-        "Rank": 347,
+        "Rank": 348,
         "NCTId": [
           "NCT04318548"
         ],
@@ -18891,7 +18942,7 @@
         ]
       },
       {
-        "Rank": 348,
+        "Rank": 349,
         "NCTId": [
           "NCT04258943"
         ],
@@ -19279,7 +19330,7 @@
         ]
       },
       {
-        "Rank": 349,
+        "Rank": 350,
         "NCTId": [
           "NCT04203316"
         ],
@@ -19458,7 +19509,7 @@
         ]
       },
       {
-        "Rank": 350,
+        "Rank": 351,
         "NCTId": [
           "NCT04195399"
         ],
@@ -20177,7 +20228,7 @@
         ]
       },
       {
-        "Rank": 351,
+        "Rank": 352,
         "NCTId": [
           "NCT02205762"
         ],
@@ -20531,7 +20582,7 @@
         ]
       },
       {
-        "Rank": 352,
+        "Rank": 353,
         "NCTId": [
           "NCT02121132"
         ],
@@ -20709,7 +20760,7 @@
         ]
       },
       {
-        "Rank": 353,
+        "Rank": 354,
         "NCTId": [
           "NCT04614662"
         ],
@@ -20868,7 +20919,7 @@
         ]
       },
       {
-        "Rank": 354,
+        "Rank": 355,
         "NCTId": [
           "NCT03939637"
         ],
@@ -21051,7 +21102,7 @@
         ]
       },
       {
-        "Rank": 355,
+        "Rank": 356,
         "NCTId": [
           "NCT03719339"
         ],
@@ -21217,7 +21268,7 @@
         ]
       },
       {
-        "Rank": 356,
+        "Rank": 357,
         "NCTId": [
           "NCT04743141"
         ],
@@ -21759,7 +21810,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 357,
+        "Rank": 358,
         "NCTId": [
           "NCT05041712"
         ],
@@ -21847,7 +21898,7 @@
         ]
       },
       {
-        "Rank": 358,
+        "Rank": 359,
         "NCTId": [
           "NCT01987882"
         ],
@@ -21960,7 +22011,7 @@
         ]
       },
       {
-        "Rank": 359,
+        "Rank": 360,
         "NCTId": [
           "NCT00670735"
         ],
@@ -22115,7 +22166,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 360,
+        "Rank": 361,
         "NCTId": [
           "NCT05112237"
         ],
@@ -22181,7 +22232,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 361,
+        "Rank": 362,
         "NCTId": [
           "NCT04914507"
         ],
@@ -22260,7 +22311,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 362,
+        "Rank": 363,
         "NCTId": [
           "NCT04250415"
         ],
@@ -22353,7 +22404,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 363,
+        "Rank": 364,
         "NCTId": [
           "NCT03866798"
         ],
@@ -22421,7 +22472,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 364,
+        "Rank": 365,
         "NCTId": [
           "NCT03416530"
         ],
@@ -22524,7 +22575,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 365,
+        "Rank": 366,
         "NCTId": [
           "NCT03962894"
         ],
@@ -22616,7 +22667,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 366,
+        "Rank": 367,
         "NCTId": [
           "NCT05049330"
         ],
@@ -22752,7 +22803,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 367,
+        "Rank": 368,
         "NCTId": [
           "NCT03118986"
         ],
@@ -22849,7 +22900,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 368,
+        "Rank": 369,
         "NCTId": [
           "NCT03117751"
         ],
@@ -22947,7 +22998,7 @@
         ]
       },
       {
-        "Rank": 369,
+        "Rank": 370,
         "NCTId": [
           "NCT03837899"
         ],
@@ -23064,7 +23115,7 @@
         ]
       },
       {
-        "Rank": 370,
+        "Rank": 371,
         "NCTId": [
           "NCT01148550"
         ],
@@ -23278,7 +23329,7 @@
         ]
       },
       {
-        "Rank": 371,
+        "Rank": 372,
         "NCTId": [
           "NCT03633708"
         ],
@@ -23454,7 +23505,7 @@
         ]
       },
       {
-        "Rank": 372,
+        "Rank": 373,
         "NCTId": [
           "NCT03813407"
         ],
@@ -23668,7 +23719,7 @@
         ]
       },
       {
-        "Rank": 373,
+        "Rank": 374,
         "NCTId": [
           "NCT03268421"
         ],
@@ -23765,7 +23816,7 @@
         ]
       },
       {
-        "Rank": 374,
+        "Rank": 375,
         "NCTId": [
           "NCT04068012"
         ],
@@ -23843,7 +23894,7 @@
         ]
       },
       {
-        "Rank": 375,
+        "Rank": 376,
         "NCTId": [
           "NCT02840409"
         ],
@@ -23981,7 +24032,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 376,
+        "Rank": 377,
         "NCTId": [
           "NCT05074420"
         ],
@@ -24145,7 +24196,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 377,
+        "Rank": 378,
         "NCTId": [
           "NCT02650401"
         ],
@@ -24321,7 +24372,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 378,
+        "Rank": 379,
         "NCTId": [
           "NCT03813238"
         ],
@@ -24646,7 +24697,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 379,
+        "Rank": 380,
         "NCTId": [
           "NCT03785405"
         ],
@@ -24963,7 +25014,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 380,
+        "Rank": 381,
         "NCTId": [
           "NCT05156398"
         ],
@@ -25209,7 +25260,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 381,
+        "Rank": 382,
         "NCTId": [
           "NCT04075266"
         ],
@@ -25332,7 +25383,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 382,
+        "Rank": 383,
         "NCTId": [
           "NCT04862221"
         ],
@@ -25537,7 +25588,7 @@
         ]
       },
       {
-        "Rank": 383,
+        "Rank": 384,
         "NCTId": [
           "NCT04351893"
         ],
@@ -25637,7 +25688,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 384,
+        "Rank": 385,
         "NCTId": [
           "NCT04200352"
         ],
@@ -25779,7 +25830,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 385,
+        "Rank": 386,
         "NCTId": [
           "NCT05260021"
         ],
@@ -26140,7 +26191,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 386,
+        "Rank": 387,
         "NCTId": [
           "NCT04015141"
         ],
@@ -26324,7 +26375,7 @@
         ]
       },
       {
-        "Rank": 387,
+        "Rank": 388,
         "NCTId": [
           "NCT02134301"
         ],
@@ -26415,7 +26466,7 @@
         ]
       },
       {
-        "Rank": 388,
+        "Rank": 389,
         "NCTId": [
           "NCT05059327"
         ],
@@ -26507,7 +26558,7 @@
         ]
       },
       {
-        "Rank": 389,
+        "Rank": 390,
         "NCTId": [
           "NCT01500551"
         ],
@@ -27048,7 +27099,7 @@
         ]
       },
       {
-        "Rank": 390,
+        "Rank": 391,
         "NCTId": [
           "NCT04649151"
         ],
@@ -27270,7 +27321,7 @@
         ]
       },
       {
-        "Rank": 391,
+        "Rank": 392,
         "NCTId": [
           "NCT04114539"
         ],
@@ -27614,7 +27665,7 @@
         ]
       },
       {
-        "Rank": 392,
+        "Rank": 393,
         "NCTId": [
           "NCT03958877"
         ],
@@ -27854,7 +27905,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 393,
+        "Rank": 394,
         "NCTId": [
           "NCT04218851"
         ],
@@ -28036,7 +28087,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 394,
+        "Rank": 395,
         "NCTId": [
           "NCT04238819"
         ],
@@ -28154,7 +28205,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 395,
+        "Rank": 396,
         "NCTId": [
           "NCT03275402"
         ],
@@ -28238,7 +28289,7 @@
         ]
       },
       {
-        "Rank": 396,
+        "Rank": 397,
         "NCTId": [
           "NCT00903110"
         ],
@@ -28403,7 +28454,7 @@
         ]
       },
       {
-        "Rank": 397,
+        "Rank": 398,
         "NCTId": [
           "NCT05081180"
         ],
@@ -28481,7 +28532,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 398,
+        "Rank": 399,
         "NCTId": [
           "NCT04925479"
         ],
@@ -28579,7 +28630,7 @@
         ]
       },
       {
-        "Rank": 399,
+        "Rank": 400,
         "NCTId": [
           "NCT05244304"
         ],
@@ -28660,7 +28711,7 @@
         ]
       },
       {
-        "Rank": 400,
+        "Rank": 401,
         "NCTId": [
           "NCT04236414"
         ],
@@ -28800,7 +28851,7 @@
         ]
       },
       {
-        "Rank": 401,
+        "Rank": 402,
         "NCTId": [
           "NCT04143724"
         ],
