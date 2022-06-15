@@ -1,9 +1,9 @@
 {
   "StudyFieldsResponse": {
     "APIVrs": "1.01.05",
-    "DataVrs": "2022:06:12 23:09:50.686",
+    "DataVrs": "2022:06:14 10:21:05.958",
     "Expression": "SEARCH[Location](AREA[LocationCountry]United States AND AREA[LocationStatus]Recruiting) AND AREA[MaximumAge]18 Years",
-    "NStudiesAvail": 418148,
+    "NStudiesAvail": 418311,
     "NStudiesFound": 402,
     "MinRank": 1,
     "MaxRank": 1000,
@@ -249,62 +249,6 @@
       {
         "Rank": 5,
         "NCTId": [
-          "NCT04744155"
-        ],
-        "OfficialTitle": [
-          "Multi-level Intervention to Reduce Pregnancy Risk Among Adolescents: A Feasibility Trial in the Emergency Department"
-        ],
-        "Condition": [
-          "Contraception",
-          "Adolescent Behavior",
-          "Emergency Department"
-        ],
-        "EligibilityCriteria": [
-          "Inclusion Criteria:\n\nFemales who report past/anticipated intercourse with a male partner within previous year or intent to be sexually active with a male partner in next few months\nDo not desire pregnancy\nNot using intrauterine device (IUD) or Sub-dermal Implant\nEnglish-speaking\n\nExclusion Criteria:\n\nFemales who report current pregnancy or have positive urine pregnancy test\nPatient has a developmental delay limiting participation\nPatient is presenting in the ED after sexual assault\nPatient is too ill to be screened"
-        ],
-        "MinimumAge": [
-          "15 Years"
-        ],
-        "MaximumAge": [
-          "18 Years"
-        ],
-        "LocationCity": [
-          "Kansas City",
-          "Philadelphia"
-        ],
-        "LocationFacility": [
-          "Children's Mercy Hospital",
-          "Children's Hospital of Philadelphia"
-        ],
-        "LocationState": [
-          "Missouri",
-          "Pennsylvania"
-        ],
-        "LocationZip": [
-          "64108",
-          "19104"
-        ],
-        "LocationContactEMail": [
-          "wtkraly@cmh.edu",
-          "ketterert@chop.edu"
-        ],
-        "LocationContactName": [
-          "Weston Kraly",
-          "Melissa K Miller, MD, MsCr",
-          "Tara Ketterer, MPH",
-          "Cynthia Mollen, MD, MSCE"
-        ],
-        "LocationContactPhone": [],
-        "BriefSummary": [
-          "A multi-site randomized trial. Adolescents enrolled in this Clinical Trial will be enrolled into one of two arms. Adolescents in both arms will receive motivational interviewing enhanced counseling and a referral for follow up care. Those randomized in the Multi-level intervention arm will be offered immediate Emergency Department based contraception in addition to receiving a warm referral (providing help with scheduling follow-up care)."
-        ],
-        "DetailedDescription": [
-          "Unintended adolescent pregnancy is a major public health problem linked to pregnancy-induced hypertension, low birthweight, and prematurity. In addition, adolescent pregnancies cost an estimated $9.4 billion annually. Though declining, U.S. rates remain among the highest in the developed world. Highly effective methods exist, but adolescents face unique, multi-level barriers to contraceptive access and use. Thus, the vast majority of pregnancies are due to contraceptive non-use or incorrect use. Many, especially minority and uninsured youth, do not attend health maintenance visits; among those who do, seconds is spent discussing sexuality and contraceptive use is not routinely assessed. Multi-level interventions to increase access to contraceptive counseling and all contraceptive types are desperately needed.\n\nAs adolescent access to affordable, confidential contraceptive care has worsened in recent years, one approach to increase access is to utilize non-traditional settings, such as Emergency Departments (EDs). The Society for Academic Medicine recognizes the ED as an \"effective site for preventive care,\" evidenced by organizational conferences, consensus statements, and specialized training opportunities to reduce disparities stemming from social determinants of health. Adolescents make 19 million ED visits annually, commonly for non-urgent or reproductive complaints; for many, this may be their only contact with a provider. Adolescents in the ED frequently report unprotected intercourse. The pregnancy risk index (PRI), an estimate of pregnancy risk in the subsequent 12 months, for adolescent females in two EDs was more than three times greater than the national average. Lacking a primary provider was associated with higher PRI scores. While the need for reproductive care is evident, the majority of ED-based studies have focused on screening for sexually transmitted infections (STIs) including HIV and a few, primarily single-site studies have reported on acceptability of hypothetical reproductive care. Among the few addressing pregnancy prevention, most focused on emergency contraception or increasing clinic referral, with mixed results. A small open trial provided counseling and clinic referral for those wanting to initiate contraception. Only 22% completed the referral and one was found to be pregnant at her first clinic visit. Lack of transportation was the most common reason for not completing referral. Because interventions to address multi-level barriers and increase contraception access are sorely needed, the investigator aims to evaluate the feasibility of a novel ED-based intervention, utilizing a mixed methods approach.\n\nScientific Premise: Many adolescents in the ED are at high-risk of pregnancy yet accepting of reproductive intervention; however, no work describes best practices for ED-based contraceptive provision. Thus, the investigator proposes a randomized trial to evaluate MLI, which includes ED-based contraceptive initiation (i.e., oral pill, transdermal patch, vaginal ring, injection, or subdermal implant) vs. eSOC, for adolescents in two EDs utilizing APPs in a collaborative care model. Thus, the investigator will use a rigorous framework from Bowen et al. to evaluate feasibility constructs (see Table 1 for construct definitions) among adolescents and organizational personnel (i.e., study Advanced Practice Practitioners (APPs), adolescent medicine specialists, ED nursing and Reducing Adolescent Pregnancy in the Emergency Department leaders) in two unique EDs."
-        ]
-      },
-      {
-        "Rank": 6,
-        "NCTId": [
           "NCT04723654"
         ],
         "OfficialTitle": [
@@ -356,7 +300,7 @@
         ]
       },
       {
-        "Rank": 7,
+        "Rank": 6,
         "NCTId": [
           "NCT04479514"
         ],
@@ -415,7 +359,7 @@
         ]
       },
       {
-        "Rank": 8,
+        "Rank": 7,
         "NCTId": [
           "NCT04380311"
         ],
@@ -473,7 +417,7 @@
         ]
       },
       {
-        "Rank": 9,
+        "Rank": 8,
         "NCTId": [
           "NCT04344899"
         ],
@@ -528,7 +472,7 @@
         ]
       },
       {
-        "Rank": 10,
+        "Rank": 9,
         "NCTId": [
           "NCT04342390"
         ],
@@ -586,7 +530,7 @@
         ]
       },
       {
-        "Rank": 11,
+        "Rank": 10,
         "NCTId": [
           "NCT04329117"
         ],
@@ -646,7 +590,7 @@
         ]
       },
       {
-        "Rank": 12,
+        "Rank": 11,
         "NCTId": [
           "NCT04132999"
         ],
@@ -708,7 +652,7 @@
         ]
       },
       {
-        "Rank": 13,
+        "Rank": 12,
         "NCTId": [
           "NCT03897335"
         ],
@@ -767,7 +711,7 @@
         ]
       },
       {
-        "Rank": 14,
+        "Rank": 13,
         "NCTId": [
           "NCT03655574"
         ],
@@ -828,7 +772,7 @@
         ]
       },
       {
-        "Rank": 15,
+        "Rank": 14,
         "NCTId": [
           "NCT03655470"
         ],
@@ -886,7 +830,7 @@
         ]
       },
       {
-        "Rank": 16,
+        "Rank": 15,
         "NCTId": [
           "NCT03522233"
         ],
@@ -935,7 +879,7 @@
         ]
       },
       {
-        "Rank": 17,
+        "Rank": 16,
         "NCTId": [
           "NCT03325946"
         ],
@@ -1000,7 +944,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 18,
+        "Rank": 17,
         "NCTId": [
           "NCT03281889"
         ],
@@ -1056,7 +1000,7 @@
         ]
       },
       {
-        "Rank": 19,
+        "Rank": 18,
         "NCTId": [
           "NCT02681211"
         ],
@@ -1117,7 +1061,7 @@
         ]
       },
       {
-        "Rank": 20,
+        "Rank": 19,
         "NCTId": [
           "NCT02456376"
         ],
@@ -1171,7 +1115,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 21,
+        "Rank": 20,
         "NCTId": [
           "NCT01023139"
         ],
@@ -1231,7 +1175,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 22,
+        "Rank": 21,
         "NCTId": [
           "NCT04528173"
         ],
@@ -1296,7 +1240,7 @@
         ]
       },
       {
-        "Rank": 23,
+        "Rank": 22,
         "NCTId": [
           "NCT04298281"
         ],
@@ -1352,7 +1296,7 @@
         ]
       },
       {
-        "Rank": 24,
+        "Rank": 23,
         "NCTId": [
           "NCT03694418"
         ],
@@ -1414,7 +1358,7 @@
         ]
       },
       {
-        "Rank": 25,
+        "Rank": 24,
         "NCTId": [
           "NCT05293106"
         ],
@@ -1467,7 +1411,7 @@
         ]
       },
       {
-        "Rank": 26,
+        "Rank": 25,
         "NCTId": [
           "NCT05169385"
         ],
@@ -1517,7 +1461,7 @@
         ]
       },
       {
-        "Rank": 27,
+        "Rank": 26,
         "NCTId": [
           "NCT04075877"
         ],
@@ -1580,7 +1524,7 @@
         ]
       },
       {
-        "Rank": 28,
+        "Rank": 27,
         "NCTId": [
           "NCT03940508"
         ],
@@ -1641,7 +1585,7 @@
         ]
       },
       {
-        "Rank": 29,
+        "Rank": 28,
         "NCTId": [
           "NCT05131659"
         ],
@@ -1694,7 +1638,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 30,
+        "Rank": 29,
         "NCTId": [
           "NCT05415007"
         ],
@@ -1747,7 +1691,7 @@
         ]
       },
       {
-        "Rank": 31,
+        "Rank": 30,
         "NCTId": [
           "NCT05398120"
         ],
@@ -1798,7 +1742,7 @@
         ]
       },
       {
-        "Rank": 32,
+        "Rank": 31,
         "NCTId": [
           "NCT05393570"
         ],
@@ -1848,7 +1792,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 33,
+        "Rank": 32,
         "NCTId": [
           "NCT05379920"
         ],
@@ -1895,7 +1839,7 @@
         ]
       },
       {
-        "Rank": 34,
+        "Rank": 33,
         "NCTId": [
           "NCT05318222"
         ],
@@ -1941,7 +1885,7 @@
         ]
       },
       {
-        "Rank": 35,
+        "Rank": 34,
         "NCTId": [
           "NCT05293145"
         ],
@@ -1990,7 +1934,7 @@
         ]
       },
       {
-        "Rank": 36,
+        "Rank": 35,
         "NCTId": [
           "NCT05275543"
         ],
@@ -2042,7 +1986,7 @@
         ]
       },
       {
-        "Rank": 37,
+        "Rank": 36,
         "NCTId": [
           "NCT05244447"
         ],
@@ -2090,7 +2034,7 @@
         ]
       },
       {
-        "Rank": 38,
+        "Rank": 37,
         "NCTId": [
           "NCT05217706"
         ],
@@ -2135,7 +2079,7 @@
         ]
       },
       {
-        "Rank": 39,
+        "Rank": 38,
         "NCTId": [
           "NCT05212129"
         ],
@@ -2190,7 +2134,7 @@
         ]
       },
       {
-        "Rank": 40,
+        "Rank": 39,
         "NCTId": [
           "NCT05208359"
         ],
@@ -2238,7 +2182,7 @@
         ]
       },
       {
-        "Rank": 41,
+        "Rank": 40,
         "NCTId": [
           "NCT05199857"
         ],
@@ -2287,7 +2231,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 42,
+        "Rank": 41,
         "NCTId": [
           "NCT05185128"
         ],
@@ -2337,7 +2281,7 @@
         ]
       },
       {
-        "Rank": 43,
+        "Rank": 42,
         "NCTId": [
           "NCT05154214"
         ],
@@ -2385,7 +2329,7 @@
         ]
       },
       {
-        "Rank": 44,
+        "Rank": 43,
         "NCTId": [
           "NCT05146167"
         ],
@@ -2438,7 +2382,7 @@
         ]
       },
       {
-        "Rank": 45,
+        "Rank": 44,
         "NCTId": [
           "NCT05121142"
         ],
@@ -2485,7 +2429,7 @@
         "DetailedDescription": []
       },
       {
-        "Rank": 46,
+        "Rank": 45,
         "NCTId": [
           "NCT05119660"
         ],
@@ -2529,6 +2473,48 @@
           "The purpose of this study is to test whether a single session of brain stimulation (called repetitive transcranial magnetic stimulation [rTMS]) can improve the brain activity underlying 'working memory.' Working memory is the ability to hold information 'in mind' to complete daily activities. This study involves teenagers with ADHD."
         ],
         "DetailedDescription": []
+      },
+      {
+        "Rank": 46,
+        "NCTId": [
+          "NCT05114733"
+        ],
+        "OfficialTitle": [
+          "Individualized Vocational and Educational Support and Training for Clinical High Risk for Psychosis (InVEST)"
+        ],
+        "Condition": [
+          "Clinical High Risk for Psychosis"
+        ],
+        "EligibilityCriteria": [
+          "Inclusion:\n\nage 12-18,\ncan speak English,\nmeet broad CHR-P criteria based on the Structured Interview for Psychosis Risk Syndromes (SIPS),\nshows at least mild role functioning impairment on the Global Functioning-Role scale (GF:R),\nparent is willing to provide permission (and client is willing to assent) for invest coaches to communicate with treatment providers.\n\nExclusion:\n\nPreviously met diagnostic criteria for full psychosis on the Structured Interview for Psychosis Risk Syndromes.\nDoes not meet inclusion criteria listed above."
+        ],
+        "MinimumAge": [
+          "12 Years"
+        ],
+        "MaximumAge": [
+          "18 Years"
+        ],
+        "LocationCity": [
+          "Boston"
+        ],
+        "LocationFacility": [
+          "Beth Israel Deaconess Medical Center/ Massachusetts Mental Health Center"
+        ],
+        "LocationState": [
+          "Massachusetts"
+        ],
+        "LocationZip": [
+          "02115"
+        ],
+        "LocationContactEMail": [],
+        "LocationContactName": [],
+        "LocationContactPhone": [],
+        "BriefSummary": [
+          "The purpose of this study is to test the efficacy of InVEST (Individualized Vocational and Educational Support and Training) for CHR-P (clinical high risk for psychosis) to address specific role functioning difficulties associated with the CHR-P phase. Our specific goals are:\n\nPart 1: Preliminary open trial of InVEST (n = 8) to collect preliminary feasibility and acceptability data by providing the intervention, administering assessments, and collecting focus group and self-report feedback from open trial participants. The open trial phase will help to refine recruitment approaches and to modify the treatment manual as needed.\nPart 2: Preliminary randomized controlled trial of InVEST vs. Delayed InVEST (DI) to explore preliminary evidence of efficacy of InVEST vs. DI (n = 30). The investigators hope to gain understanding of the feasibility of InVEST and the study's assessment procedures, and to gain a preliminary understanding of the intervention's efficacy for functioning difficulties experienced by young people at CHR-P."
+        ],
+        "DetailedDescription": [
+          "InVEST is a novel intervention that aims to target three clusters of mechanisms believed to be key in contributing to increasing functional impairment in CHR-P: 1) executive functioning (a cognitive mechanism), 2) increased stress sensitivity (an emotional mechanism), and 3) task initiation difficulties (a behavioral mechanism). Conceptually, these mechanisms are consistent with a CBT conceptualization of role functioning impairment, and the strategies to target each mechanism will be adapted based on existing evidence-based interventions combined with clinical expertise in CHR-P treatment. Finally, our proposed project is based on robust scientific evidence supporting the need for early intervention, targeting functional impairment and related risk factors in individuals at CHR-P.\n\nThis study will be organized in two parts:\n\nPart 1: Manual development and a preliminary open-trial (n = 8) to guide the development and refinement of InVEST through coach experiences and study participant feedback. Participants will complete the intervention and then a post-intervention focus group, providing data on the feasibility of InVEST and to direct the development of the InVEST intervention manual.\n\nPart 2: A small, randomized trial comparing InVEST treatment (2 groups, n = 15 each). Participants will be randomized using a delayed treatment design, with half of participants randomized into InVEST and half randomized into a 4-month Delayed InVEST (DI; 4 month wait to start). Primary outcome measures will include CHR-P symptoms; global role functioning; executive functioning; stress sensitivity; task initiation; hopelessness; and suicidality.\n\nOverview of Intervention: InVEST for CHR-P\n\nThe investigators will develop and test the feasibility of InVEST, an educational and vocational functioning intervention designed for youth at CHR-P, ages 12-18. InVEST streamlines CBT-P principles into an intervention model geared towards vocational and educational functioning.\n\nInVEST is delivered individually by a \"coach\" (BA-level clinician) who can meet with youth at the clinic, by phone/ video, or in meetings in the community to provide support for implementing goals. Generally, sessions are once a week for one hour, but can be adjusted depending on client needs. The coach communicates with and serves as a member of a coordinated specialty care team (CSC) for CHR-P and collaborates with the client's individual therapist. The coach begins by identifying the youth's individualized goals and notes any difficulties with executive functioning, task initiation, and/or frustration tolerance. The coach then works with the client and therapist to develop a plan for taking action to accomplish goals and for practicing skills for improving organization, task initiation and managing frustration.\n\nStudy Procedures\n\nPart 1: Development Phase/Open Trial Developing InVEST Manual: The investigators will develop an InVEST manual.\n\nRecruitment: During the first year, the investigators will recruit 8 young people meeting broad CHR-P criteria from CEDAR or CHR-P research programs. Meeting broad diagnostic CHR-P criteria will be pre-determined through routine clinic assessments. Releases of Information's will be obtained from all participants upon recruitment to allow sharing of eligibility information for study recruitment. The investigators will slightly stagger these participants into 2 overlapping cohorts, to permit modifications to the protocol.\n\nRefine and elaborate InVEST: Refinement will be an iterative process guided by our ongoing experiences in each of the stages. Additionally, the investigators will hold a focus group with the open trial participants, to inform refining the manual, particularly the initial InVEST assessment, which aims to guide how to individualize the intervention to particular client needs. The group will hold a meeting after each stage with all investigators and consultants to review and further refine the manual, including at the end of the development phase. The investigators will make changes to increase InVEST's acceptability, efficacy, efficiency, clarity, and developmental appropriateness. The open trial will inform what protocol accommodations are needed for younger adolescents, changes in content to sessions, whether and how age affects acceptability and feasibility, and whether the intervention needs to be simplified.\n\nAssessments: Participants and a parent/ caregiver will complete 2 assessments (screening/baseline and post-treatment). Given our small sample size, treatment feasibility and accessibility are our primary outcomes. Our secondary outcome is role functioning. The investigators will acquire demographic variables and diagnosis from CEDAR records, and the investigators will conduct assessments on the following constructs: CHR-P symptoms; executive functioning; stress sensitivity; task initiation; hopelessness; and suicidality.\n\nFocus Group Post-intervention, all open trial participants will be invited to participate in a focus group (n=8) to provide feedback on the intervention, and to inform manual development.\n\nPart 2: Pilot Study Phase\n\nAims: The goals of the pilot study are to a) collect data on the feasibility and acceptability of InVEST, b) test and refine the provider training procedures, c) refine and pilot test provider adherence and competency measures, and d) preliminary investigation of InVEST's primary outcome (role functioning) and mechanisms (executive functioning, stress sensitivity, and task initiation).\n\nTreatments: After obtaining all relevant consent and assent forms and completing their baseline assessment, participants will be randomized to either InVEST, or to a waitlist, Delayed Invest (DI) condition. Participants in the intervention condition will receive 4 months of InVEST treatment, then complete a post-treatment assessment and then a 4-month follow-up assessment. Delayed Invest participants will participate in their usual treatment without the addition of InVEST for their 4 months. Then, they will complete the 4-month assessment and begin working with an InVEST coach for the next 4 months, followed by a post-InVEST assessment. As a result, all participants will receive 3 assessments (which will allow the study assessment clinician to remain blind to study condition). Additionally, this procedure will allow for some consideration of change during the Delayed InVEST period, and for some consideration of stability after the intervention ends, and will permit all participants to receive the intervention. InVEST will be implemented as a 4-month intervention.\n\nAssessments: Participants and a parent/ caregiver will complete 3 assessments (intervention: screening/baseline, post-treatment, 4-month follow-up; waitlist: screening/baseline, pre-treatment, post-treatment). Given our small sample size, treatment feasibility and accessibility are our primary outcomes. Our secondary outcome is role functioning."
+        ]
       },
       {
         "Rank": 47,
